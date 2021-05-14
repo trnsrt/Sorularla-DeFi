@@ -16,7 +16,7 @@ Bunlardan birincisi hayatımızın içine kendini hissettirmeden girip bize ait 
 
 İkinci olay ise ekonomik: ABD Merkez Bankaları topluluğu FED’in 2008 krizine karşı sınırsız denecek kadar çok miktarda parayı finansal sisteme sokması ve bu paranın bireylere değil krizi derinleştiren finans kurumlarının cebine gitmesi. Krizi yaymamak argümanıyla riskli yatırımların kurtarılmasının risk/getiri dengesini bozması. Bunun sonucu olarak uzun vadede, bu riskli yatırımların yarattığı hasarların bedelini yatırımı yapanların değil krizde bir suçu olmayan bireylerin ödemesi.
 
-## Nasıl ortaya çıktı? <a id="nas&#x131;l-ortaya-&#xE7;&#x131;kt&#x131;"></a>
+## Arkasında yatan temel gelişmeler neler? <a id="nas&#x131;l-ortaya-&#xE7;&#x131;kt&#x131;"></a>
 
 İşte blokzincir teknolojisini kullanan ilk ürün olan Bitcoin, yukarıdaki iki gelişmeye tepki gösteren felsefenin ürünü. “Acaba dijital dünyada varlıklarıma hiçbir kısıtlama olmadan sahip olabilir miyim ve bu varlıkları istediğim kişiye istediğim şekilde herhangi bir aracıya gerek duymadan transfer edebilir miyim?” sorularından hareketle yapılan çalışmalardan ortaya çıkan bir sonuç.
 

@@ -6,9 +6,12 @@ DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir �
 
 DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
 
+![Kilitlenmi&#x15F; de&#x11F;ere g&#xF6;re en b&#xFC;y&#xFC;k 20 DeFi protokol&#xFC;n ICO ya da operasyona ba&#x15F;lad&#x131;&#x11F;&#x131; y&#x131;l \(Not: Her bir noktan&#x131;n b&#xFC;y&#xFC;kl&#xFC;&#x11F;&#xFC; platforma kilitlenmi&#x15F; de&#x11F;eri ifade eder\) - Kaynaklar: DeFi Pulse, Messari ve platform web siteleri](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
+
 |  |
 | :--- |
-| Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl \(Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder\) - _Kaynaklar:_ [_DeFi Pulse_](https://defipulse.com/)_,_ [_Messari_](https://messari.io/) _ve platform web siteleri_ |
+|  |
+|  |
 
 Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç-bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar.
 

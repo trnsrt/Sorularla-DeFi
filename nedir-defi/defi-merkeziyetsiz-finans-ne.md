@@ -4,7 +4,7 @@ DeFi Decentralized Finance ya da Türkçe çevirisiyle Merkeziyetsiz Finans, öz
 
 Merkeziyetsiz Finans'ın neleri nasıl yapmayı hedeflediğine geçmeden önce yukarıda bahsettiğimiz sıkıntılar neler imiş, dilerseniz kısaca onlara bir göz atalım: 
 
-### Nedir finans sisteminin sıkıntıları? <a id="nedir-finans-sisteminin-s&#x131;k&#x131;nt&#x131;lar&#x131;"></a>
+### Nedir finans sisteminin sıkıntıları?
 
 Öncelikle finans şu anki hali ile yavaş bir sektör. Neden? Çünkü sektörün oyuncuları zaman içinde o kadar büyüdüler ki hantallaştılar. Özellikle karar ve işleyiş mekanizmaları olarak. Sonra, teknolojileri bundan 30-40 yıl önce kurulmuş, günümüz ihtiyaçlarına cevap vermekten uzak eski mimari yapılar. Her bir oyuncu eskinin rekabet anlayışı ile kendi sistemini kurmuş ve dışarıya sıkı sıkıya kapatmış. Hiçbirinin sistemi diğeri ile konuşmuyor. Standartlaşma yok denecek kadar az.
 
@@ -40,9 +40,7 @@ Neden bunları yapıyorlar? Amaç, bu sayede gücü olabildiğince bireye vermek
 
 Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Ne demek bu? Şifreleme ve anahtarlar aracılığıyla kendine ait bilgilerin tamamını değil sadece bilginin geçerli ve kendisine ait olduğunu kanıtlayan kısımları kurumlar le paylaşmak. İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek – bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken, ayrıldığı kurumun kişisel bilgilerine erişimini anında kesmek.
 
-
-
-
+### DeFi'nin temel prensipleri ne?
 
 Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. [Ana prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu:
 
