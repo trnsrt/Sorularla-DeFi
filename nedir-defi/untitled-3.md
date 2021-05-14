@@ -1,30 +1,30 @@
-# Blockchain finans dünyasını nasıl etkileyecek?
+# Blokzincir finans dünyasını nasıl etkileyecek?
 
 Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım sonra da bu alanda son zamanlarda en çok konuşulan konulardan biri olan Decentralized Finance \(DeFi\) oluşumuna göz atalım.
 
-## Finans sektörü Blockchain bazlı teknolojilerden neden etkilenecek? <a id="finans-sekt&#xF6;r&#xFC;-blockchain-bazl&#x131;-teknolojilerden-neden-etkilenecek"></a>
+## Finans sektörü blokzincir bazlı teknolojilerden neden etkilenecek? <a id="finans-sekt&#xF6;r&#xFC;-blockchain-bazl&#x131;-teknolojilerden-neden-etkilenecek"></a>
 
-Blockchain bazlı sistemlerin ana amacını iki taraf arasında yapılan işlemlerde merkezi bir aracının sağladığı “güven” hizmetini makinelere yaymak. Böylece bu güvene duyulan ihtiyacı ortadan kaldırmak.
+Blockchain bazlı sistemlerin ana amacını iki taraf arasında yapılan işlemlerde merkezi bir aracının sağladığı 'güven' hizmetini makinelere yaymak. Böylece bu güvene duyulan ihtiyacı ortadan kaldırmak.
 
-Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları durumda tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor.
+Bu sistemleri işleten makineler dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları sayesinde tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor.
 
-Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan bu makineler için yazılmış özel direktifler, bir başka deyişiyle Akıllı Kontratlar.
+Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan bu makineler için yazılmış özel direktifler, bir başka deyişiyle Akıllı Kontratlar.
 
-Finans piyasasındaki aktörlerin ana rolü işte bu aracıyı oynamaları ve güveni teşkil etmeleri idi. Dolayısıyla Blockchain bazlı sistemler bu aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte.
+Finans piyasasındaki aktörlerin ana rolü işte ikili ilişkilerde kişisel arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleri idi. Şimdi blokzincirin aktörülerinin bu role soyunması bu aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte.
 
 ## Peki her tür finansal işlem etkilenecek mi? İlk tehdit altında olanlar hangileri? <a id="peki-her-t&#xFC;r-finansal-i&#x15F;lem-etkilenecek-mi-i&#x307;lk-tehdit-alt&#x131;nda-olanlar-hangileri"></a>
 
-Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli, hem yavaş hem de kimi zaman kimi ülkelerde yaşayanlar için ulaşması imkansız bir sistem.
+Finans piyasasının tehdit altında olduğu ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de kimi zaman belirli ülkelerde yaşayanlar için ulaşması imkansız bir sistem.
 
-Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan burası oldu.
+Dikkat ederseniz, para transferi kişiler arası gerçekleştirilen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - tam da bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan burası oldu.
 
-Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden ciddi bir alternatif.
+Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden kriptopara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kriptopara şimdiden ciddi bir alternatif.
 
-Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki şöyle demek daha doğru: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışan girişimlerin başarı şansı daha yüksek olacak.
+Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki şöyle demek daha doğru: Blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışan girişimlerin başarı şansı daha yüksek olacak.
 
-Bir örnek daha verelim: Alışverişlerde kredi kartı yerine KriptoPara kullanılması.
+Bir örnek daha verelim: Alışverişlerde kredi kartı yerine kriptopara kullanılması.
 
-Bu alanda kendine pay almaya çalışan pekçok girişim var. [Litecoin](https://turansert.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), ya da geçmiş yazılarda bahsettiğimiz [Grin](https://turansert.com/genel/2019/01/25/Grine-teknik-bakis.html) bunlardan ikisi. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartı kullanımının yaygın olduğu gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor.
+Bu alanda kendine pay almaya çalışan pek çok girişim var. [Litecoin](https://turansert.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), ya da önceki kitabımızda bahsettiğimiz [Grin](https://turansert.com/genel/2019/01/25/Grine-teknik-bakis.html) bunlardan ikisi. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartı kullanımının yaygın olduğu gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor.
 
 Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız olacak. Kriptoparalar’ın kredi kartına ya da bankacılık sistemine erişimi olmayanlar tarafından kullanılması daha muhtemel. Aynı şekilde mevcut bankacılık sisteminde şu ya da bu şekilde olmak istemeyen gelişmiş dünyadaki küçük bir kitle de bu paraları kullanabilir.
 
@@ -34,31 +34,7 @@ Gelişmiş ülkelerde KriptoParanın ödeme amaçlı kullanımı, eğer başka i
 
 Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla? Decentralized Finance \(DeFi\) olarak da adlandırılan bu yeni dalgada hangi alanlar göreceli basit ve yüksek maliyetli?
 
-Önce bir DeFi nedir ona bakalım, bir sonraki yazımızda ise en yaygın kullanılan üyesine bakacağız bu yeni kavramın.
+Bir sonraki bölümde  DeFi nedir ona bakalım...
 
-## DeFi nedir? <a id="defi-nedir"></a>
-
-DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir protokol ve açık bir topluluk.
-
-Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. [Ana prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu:
-
-* Karşılıklı kullanılabilirlik ve açık kaynak: Bütün projelerin kurulurken karşılıklı kullanılabilir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin daha kuruluşları sırasında birbirlerini inceleyerek ileri aşamalarda birlikte nasıl çalışabilecekleri ile ilgili ortak bir bilinç oluşturmak.
-* Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde “değer”in \(ya da bir varlığın\) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi.
-* Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı.
-
-DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/), [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/)..
-
-|  |
-| :--- |
-| _DeFi kurucu üye platformlar \(Kaynak:_ [_Dharma_](https://blog.dharma.io/announcing-de-fi-an-alliance-of-decentralized-finance-platforms-9b4faf50b801)_\)_ |
-
-## Arkası yarın <a id="arkas&#x131;-yar&#x131;n"></a>
-
-Özet olarak DeFi yani Decentralized Finance’nin özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi.
-
-Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğinden bahsetmiştik. İkinci alan olarak da kredi verme ve almadan bahsedebiliriz.
-
-Bir [sonraki yazımızda](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) DeFi hareketinin en yaygını olan ve kredi konusunda çalışan MakerDAO’ya bakalım..
-
-_Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz_ [_Hakkımızda_](https://turansert.com/about/) _sayfasına göz atabilirsiniz._
+##  <a id="defi-nedir"></a>
 

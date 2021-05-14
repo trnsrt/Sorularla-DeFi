@@ -1,16 +1,8 @@
-# DeFi neden önemli?
+# DeFi - Merkeziyetsiz Finans ne?
 
-Blokzincir bağımsız, birbirinden uzak binlerce noktanın, ortak hareket edebilmesi sağlayan teknoloji. Bu da dijital dünyada başkaları ile ilişki kurabilmek için ihtiyaç duyduğumuz aracılara olan talebi ortadan kaldırıyor.
+DeFi Decentralized Finance ya da Türkçe çevirisiyle Merkeziyetsiz Finans, özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday bir harekete verilen ad. 
 
-Bu teknolojinin canlı örneğini gündelik hayatımızda henüz yalnızca kripto paralarla görüyoruz. Aslında kripto paralar bile spekülatif yatırım araçları. Yatırımcılar bu araçların ileride sağlayacakları faydalara bugünden ad koymaya çalışıyor olmanın ötesine geçebilmiş değiller. Burada hemen Bitcoin’in son on yılda değer saklama konusunda tabiri caiz ise kaya gibi ayakta duruşu ile bir istisna olduğunu da belirtelim.
-
-Ancak şu ana kadar gördüklerimiz kişisel fikrimce buzdağının görünen kısmı. Suyun altında henüz sessizce bekleyen çok büyük bir kitle var - ve bu kütlenin yavaş yavaş su yüzüne çıkıp kendini göstermeye başlayan parçalarından ilk seçebildiklerimiz finans alanında. Özellikle Merkeziyetsiz Finans \(Decentralized Finance - DeFi\) dediğimiz hareketin içinde.
-
-Gelin önce Merkeziyetsiz Finans - DeFi nedir, neden önemli ona bakalım. Sonraki yazılarımızda bu hareketin önemli aktörlerini ve neleri potansiyel olarak değiştirebileceklerine de göz atacağız.
-
-## Merkeziyetsiz Finans ne demek? <a id="merkeziyetsiz-finans-ne-demek"></a>
-
-Merkeziyetsiz Finans özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday bir hareket.
+Merkeziyetsiz Finans'ın neleri nasıl yapmayı hedeflediğine geçmeden önce yukarıda bahsettiğimiz sıkıntılar neler imiş, dilerseniz kısaca onlara bir göz atalım: 
 
 ### Nedir finans sisteminin sıkıntıları? <a id="nedir-finans-sisteminin-s&#x131;k&#x131;nt&#x131;lar&#x131;"></a>
 
@@ -48,9 +40,13 @@ Neden bunları yapıyorlar? Amaç, bu sayede gücü olabildiğince bireye vermek
 
 Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Ne demek bu? Şifreleme ve anahtarlar aracılığıyla kendine ait bilgilerin tamamını değil sadece bilginin geçerli ve kendisine ait olduğunu kanıtlayan kısımları kurumlar le paylaşmak. İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek – bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken, ayrıldığı kurumun kişisel bilgilerine erişimini anında kesmek.
 
-## Arkası yarın <a id="arkas&#x131;-yar&#x131;n"></a>
 
-Uzun bir girizgâh yaptık. Bir sonraki yazıda merkeziyetsiz finansın hangi alanlarda ne tip işler yapacağına bakacağız hep birlikte.
 
-_Tüm yazılara yukarıda da görülen_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
+
+
+Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. [Ana prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu:
+
+* _Karşılıklı kullanılabilirlik ve açık kayna_k: Bütün projelerin kurulurken karşılıklı kullanılabilir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin daha kuruluşları sırasında birbirlerini inceleyerek ileri aşamalarda birlikte nasıl çalışabilecekleri ile ilgili ortak bir bilinç oluşturmak.
+* _Ulaşılabilirlik ve finansal kapsayıcılık_: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde “değer”in \(ya da bir varlığın\) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi.
+* _Finansal şeffaflık_: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı.
 
