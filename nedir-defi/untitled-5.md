@@ -1,4 +1,4 @@
-# DeFi bir oyuncak mı?
+# DeFi'nin çıkışı nasıl oldu?
 
 Kriptoparalar daha da özelinde Merkeziyetsiz Finans \(DeFi\) konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana” oluyor. Haklılar - ama şu an için.
 
@@ -52,5 +52,35 @@ Bugün DeFi kullanarak kredi alabiliyor, mevduat yatırabiliyor, sigorta yaptır
 
 Ancak bunlarla da sınırlı değil yapabildikleriniz. Gerçek dünyada kurduğunuz kanuni yapıların \(anonim şirket, kooperatif gibi\) benzerlerini ama bu sefer arada sınırlar olmadan yüzlerce kişi ile birlikte kurabiliyorsunuz. Üstelik sudan ucuz bir fiyata. Bu yapıları nasıl yönetebileceğiniz konusunda alternatifler sınırsız. Aradaki anlaşmazlıkların nasıl çözüleceği konusunda “kod kanundur” düsturundan gelen Akıllı Kontratları kullanabileceğiniz gibi, arada uyuşmazlık olduğunda size arabulucu ya da mahkeme hizmeti veren \(tamamen merkeziyetsiz\) hizmetler bile mümkün bu yapılarda.
 
-Şu anda hayal, ya da oyuncak gibi görünen bu yapılar bir gün gerçek olacak mı? Bugünden kestirmek zor. Ama hep yazdığımız gibi yapılabilecekleri düşünmek bile çok ama çok heyecan verici..
+### Nasıl bir anda büyüdü DeFi?
+
+DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
+
+![Kilitlenmi&#x15F; de&#x11F;ere g&#xF6;re en b&#xFC;y&#xFC;k 20 DeFi protokol&#xFC;n ICO ya da operasyona ba&#x15F;lad&#x131;&#x11F;&#x131; y&#x131;l \(Not: Her bir noktan&#x131;n b&#xFC;y&#xFC;kl&#xFC;&#x11F;&#xFC; platforma kilitlenmi&#x15F; de&#x11F;eri ifade eder\) - Kaynaklar: DeFi Pulse, Messari ve platform web siteleri](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
+
+Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar.
+
+Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Likiditeyi kendilerine çekebilmek için yaptıkları pek çok numara içinde yatırımcıları likidite karşılığı ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri daha önce detaylı bahsettiğimiz [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, [yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı](https://turansert.com/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html).
+
+Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB’yi veriyor. Ancak Compound’un farklı yanı [bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi](https://turansert.com/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html). Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler.
+
+### İnsanlar nasıl bu kadar hıza yetişebiliyorlar?
+
+DeFi'de hız baş döndürücü. Bir bakıyorsunuz, birkaç gün önce ortada bile olmayan bir DeFi ürünü, bir anda bir milyar dolara yakın para toplamış. Nasıl oluyor bu?  
+
+Bunun birkaç nedeni var. Birincisi, bu tip ürünlerde verilen ödüller genelde günlük/haftalık/aylık olarak sabit miktarlarda veriliyor. Dağıtılacak toplam ödül sistem içindekilere ellerinde tuttukları miktar kadar ödeniyor. O nedenle sisteme erken girmek size büyük kazançlar getirebiliyor - zira başlangıçta ödül az katılımcı arasında paylaşılıyor. Bu nedenle yalnızca bu tip erken açıklanan sistemleri kollayan bir grup yatırımcı var. Bunlar elbette çok daha fazla risk alıyor. Ancak özellikle son birkaç ayda yaşadığımız gibi bir boğa piyasası varsa, bir kaç projede kaybetse \(ki kaybeden az\) bile o kaybı bir projedeki kazançtan çıkarabiliyor. Bu tip yüksek risk alanlar, ne proje denetlenmiş, ne olgunmuş, bunların hiçbirine bakmadan yeni projelere balıklama atlıyor.
+
+Bu arada treni kaçırdık diye üzülüyorsanız boşverin. Bu tip ani hareketler, konan yüz milyonlarca dolarlar, binlerce yatırımcıdan gelmiyor. Bunlar ağırlıklı olarak balina dediğimiz ellerinde çok yüksek miktarda kripto para tutan yatırımcılar. Yeni başlayan sistemlere girip, ödülleri baştan toplayıp sonra sistemlerin bilinirliği artmasına paralel token fiyatlarının anormal yükselmesi sonucu küçük yatırımcılar gelmeye başlayınca da ellerindekini satıp başka benzer fırsatlara yelken açan spekülatörler.
+
+### Eskiden VC’ler vardı şimdi yaşasın “adil başlangıç”
+
+Bir başka konu da şu: Klasik girişimcilikte aslında her girişimin başında o girişime para yatıranlar, eğer girişim başarılı olursa ciddi paralar kazanır. Biz faniler ise bu girişimler belli büyüklüğe gelip riskleri nispeten azaldıktan \(ya da bize o şekilde yutturulduktan\) sonra yüksek değerlerden gireriz, kazancımız da benzer şekilde az olur. Şimdi DeFi sistemindeki yeni girişimler, klasik anlamda girişim sermayelerinin verdikleri paraları kendi kullanıcılarının sistemlerini kullanmaları karşılığı topluyor. Bu sayede bireysel yatırımcılar da bu girişimlere erken girip yüksek kazanç sağlama imkanınına kavuşuyor. Tabii ki girişim sermayelerinin de hep yaşadığı \(ama hiç reklamını yapmadığı\) on girişimin dokuzunun batması gibi bir riski göze alarak..
+
+Klasik girişimlerin yanında DeFi alanındaki yeni projelerin önemli özelliklerinden biri de geliştirici ekibin başlangıçta kendisine ayırdığı pay. Ancak bunu bile çok göre kimi yatırımcılar “adil başlangıç” adı altında kurucu ekibe hiçbir pay ayırmayan projelere daha ilgi gösteriyorlar. Gerçi şunu da unutmamak lazım: adil başlangıç yapan projeler genelde üzerinde uzun süre çalışılmış başka projelerin klonu oluyor. Nedeni de çok basit. Geliştirici olarak başka bir ekibin yarattığını kopyaladığınızda çok bir emek harcamamış oluyorsunuz. Böyle olunca da projenizin cazibesini artırmak için tokeninizi kendinize herhangi bir pay ayırmadan piyasaya sürebiliyorsunuz.
+
+Şahsi kanaatim böyle bir kurucu payı ayırmanın çok da sorunlu olmadığı yönünde. Hele de bu pay kurucu ekibe belli bir süre elde tutma \(vesting\) şartı ile veriliyor ise. Zira böylece kurucu ekibin projeye uzun süreli olarak kendini adaması sağlanabilir. “Adil başlangıç” özelliği ile piyasaya sunulan projelerin uzun vadeli başarısı konusuna iki kez kafa yormak gerekiyor.
+
+DeFi piyasalarının çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Keza bunların geçici olduğu ve uzun vadede normale yaklaşacağı da benzer şekilde tahmin edilebiliyor. Ancak bu hıza bakarak bu ürünlerin tamamı için genelleme yapmak ve Ponzi olarak değerlendirmek ne kadar doğru? Onun yerine ister misiniz aynayı kendimize tutalım? Belki de biz çok yavaşız?
+
+
 
