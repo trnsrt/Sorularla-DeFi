@@ -1,4 +1,4 @@
-# MakerDAO - kişiye özel merkez bankası...
+# MakerDAO - kişiye özel merkez bankası
 
 Önceki bölümde finans dünyasında yeni başlayan DeFi hareketine değinmiş ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın kullanılanı MakerDAO..
 
