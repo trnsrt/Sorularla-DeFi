@@ -46,7 +46,3 @@ Regülasyon konusunda asıl önemli konu aslında kullanıcı tarafı. Kullanıc
 
 Merkezi yapılar hızlı karar alabilme açısından avantaja sahip olsalar da, tâbi oldukları regülasyonlar nedeniyle kullanıcılara kısıtlı ama göreceli riski daha az ürünler sunuyorlar. DeFi yapılar ise başlangıçta yavaş gelişen ve riskli ama yapı itibariyle nihai kullanıcıya verdiği güç ve zaman içinde oturacak risk azaltıcı teknolojik ilerlemeler sayesinde uzun vade için daha büyük bir potansiyel gösteriyor. Öngörümüz gerçekleşecek mi, hep birlikte yaşayarak göreceğiz.
 
-_Not 1: Bu yazı ilk olarak 13 Ağustos 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/cefiden-defiya-merkeziyetsizlestiremediklerimizden-misiniz/)
-
-_Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
-

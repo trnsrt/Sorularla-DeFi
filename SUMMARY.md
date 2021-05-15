@@ -20,9 +20,10 @@
 ## Park edilenler
 
 * [Untitled](park-edilenler/untitled/README.md)
-  * [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](park-edilenler/untitled/untitled-4.md)
+  * [Untitled](park-edilenler/untitled/untitled.md)
 
 ## DeFi'de yönetim
 
-* [Untitled](defide-yoenetim/untitled.md)
+* [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
+* [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
 
