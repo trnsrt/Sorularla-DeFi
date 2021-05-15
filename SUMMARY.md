@@ -24,7 +24,7 @@
 
 ## DeFi'de yönetim
 
-* [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
 * [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
+* [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
 * [Aragon ile DeFi'da yönetim](defide-yoenetim/untitled-1.md)
 
