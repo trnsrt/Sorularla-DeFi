@@ -26,9 +26,3 @@ Tabii bununla da sınırlı değil. DeFi platformların bu kadar uyumlu olabilme
 
 Neyse konudan saptık. Bu platformlar açık kaynaklı olunca tabii klonları da hemen çıkıyor. Ve bu klonlar orjinallerinin üzerine birkaç farklı özellik daha ekleyerek çok cazip ürünler sunabiliyorlar. Buna en güzel örneğin Ağustos ayının sonlarında yaşadık. Piyasanın en büyük merkeziyetsiz borsası olan [Uniswap](https://uniswap.org/) klonlandı. Buraya kadar bir sorun yok. Uniswap, basit bir algoritma üzerine çalışan, yıllardır bu alanda faaliyet gösteren ama likiditenin artması ile birlikte patlama yapan bir merkeziyetsiz kripto para borsası. Yapılan al-sat işlemlerinden kazandığı komisyonun \(şimdilik\) tamamını kendisine likidite koyan bireysel kullanıcılara ödül olarak veriyor. 27 Ağustos’ta çıkan [SushiSwap](https://sushiswap.org/), UniSwap’ı birebir klonladı - ayrıca kendisini kullananlara Uniswap gibi yapılan işlemlerden aldığı komisyonlar dışında kendi yönetim tokenını da verdi. Sonuç: SushiSwap’a kilitlenen para [üç günde 1.5 milyar doları buldu](https://www.coindesk.com/sushiswap-uniswap-launch).
 
-##  <a id="i&#x307;nsanlar-nas&#x131;l-bu-kadar-h&#x131;za-yeti&#x15F;ebiliyorlar"></a>
-
-_Not 1: Bu yazı ilk olarak 8 Eylül 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/defi-cok-mu-hizli-gidiyor/)
-
-_Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
-
