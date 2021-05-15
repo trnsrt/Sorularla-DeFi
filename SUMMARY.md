@@ -17,14 +17,14 @@
 * [MakerDAO - kişiye özel merkez bankası...](definin-girisimleri/makerdao-kisiye-oezel-merkez-bankasi....md)
 * [Compound - Klasik bankacılığın rakibi](definin-girisimleri/compound-klasik-bankaciligin-rakibi.md)
 
-## Park edilenler
-
-* [Untitled](park-edilenler/untitled/README.md)
-  * [Untitled](park-edilenler/untitled/untitled.md)
-
 ## DeFi'de yönetim
 
 * [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
 * [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
 * [Aragon ile DeFi'da yönetim](defide-yoenetim/untitled-1.md)
+
+## Park edilenler
+
+* [Untitled](park-edilenler/untitled/README.md)
+  * [Untitled](park-edilenler/untitled/untitled.md)
 
