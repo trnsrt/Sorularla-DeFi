@@ -1,4 +1,4 @@
-# DeFi - Merkeziyetsiz Finans ne?
+# DeFi - Merkeziyetsiz Finans ne demek?
 
 DeFi Decentralized Finance ya da Türkçe çevirisiyle Merkeziyetsiz Finans, özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday bir harekete verilen ad. 
 
