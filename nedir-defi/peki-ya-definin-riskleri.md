@@ -2,7 +2,7 @@
 
 ## Gelelim DeFi'nin risklerine… <a id="ancaaaak"></a>
 
-Evet geldik ‘çekinceler’ köşemize: Öncelikle önceki bölümde bahsettiğimiz uçuk kazançlar kalıcı değil - yalnızca kısa vadeler için geçerli. Aksi de mümkün değil. Arbitraj dediğimiz iki farklı varlığın uyumsuzluğundan çıkar. Para ucuz görülen varlığa kaydığında o varlığın değeri artar, paralel şekilde pahalı varlıktan da para çıkışı olup ucuzlar ve bu iki varlık aşağı yukarı bir dengeye oturur. DeFi sisteminde de benzer şekilde dengeler zamanla oturacak.
+Evet geldik ‘çekinceler’ köşemize: Öncelikle önceki bölümlerde bahsettiğimiz uçuk kazançlar kalıcı değil - yalnızca kısa vadeler için geçerli. Aksi de mümkün değil. Arbitraj dediğimiz iki farklı varlığın uyumsuzluğundan çıkar. Para ucuz görülen varlığa kaydığında o varlığın değeri artar, paralel şekilde pahalı varlıktan da para çıkışı olup ucuzlar ve bu iki varlık aşağı yukarı bir dengeye oturur. DeFi sisteminde de benzer şekilde dengeler zamanla oturacak.
 
 DeFi risklerini hep söylüyoruz: Yukarıda bahsettiğim yearn.finance ürününde üç ayrı platformda işlem yaparken hatırı sayılır sayıda Akıllı Kontrat kullanıyorsunuz. Bunların herhangi birinde çıkacak bir sorun sizin de canınızı yakabilir. Keza koyduğunuz para ETH. ETH’nin değerinin ani düşüşlerinde bu sistemlerin sorun yaşama ihtimali \([MakerDAO’nın “Kara Perşembe” sırasında yaşadığı gibi](https://turansert.com/genel/2020/09/08/genel/2020/05/19/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)\) var.
 

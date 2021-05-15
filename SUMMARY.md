@@ -11,8 +11,18 @@
 * [DeFi'nin temel özellikleri neler?](nedir-defi/defi-cok-mu-hizli-gidiyor.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
 
+## DeFi'nin Girişimleri
+
+* [DeFi dünyasında neler var?](definin-girisimleri/defi-duenyasinda-neler-var.md)
+* [MakerDAO - kişiye özel merkez bankası...](definin-girisimleri/makerdao-kisiye-oezel-merkez-bankasi....md)
+* [Compound - Klasik bankacılığın rakibi](definin-girisimleri/compound-klasik-bankaciligin-rakibi.md)
+
 ## Park edilenler
 
 * [Untitled](park-edilenler/untitled/README.md)
   * [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](park-edilenler/untitled/untitled-4.md)
+
+## DeFi'de yönetim
+
+* [Untitled](defide-yoenetim/untitled.md)
 
