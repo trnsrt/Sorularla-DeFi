@@ -13,12 +13,12 @@
 * [DeFi'de başarının sırrı topluluk](nedir-defi/defide-basarinin-sirri-topluluk.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
 
-## DeFi'nin Girişimleri
+## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
 
-* [DeFi dünyasında neler var?](definin-girisimleri/defi-duenyasinda-neler-var.md)
-* [MakerDAO - kişiye özel merkez bankası...](definin-girisimleri/makerdao-kisiye-oezel-merkez-bankasi....md)
-* [Compound - Klasik bankacılığın rakibi](definin-girisimleri/compound-klasik-bankaciligin-rakibi.md)
-* [Hegic - DeFi'de opsiyon piyasaları](definin-girisimleri/hegic-defide-opsiyon-piyasalari.md)
+* [DeFi dünyasında neler var?](defi-dunyasinin-aktorleri/defi-duenyasinda-neler-var.md)
+* [MakerDAO - kişiye özel merkez bankası...](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
+* [Compound - Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
+* [Hegic - DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
 
 ## DeFi'de yönetim
 
