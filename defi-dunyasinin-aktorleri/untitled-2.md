@@ -1,156 +1,108 @@
-# DeFi türev piyasası Synthetix nasıl çalışıyor?
+# DeFi'de sigortacılığa devam...
 
-Geçtiğimiz [yazıda](https://turansert.com/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html) DeFi yani merkeziyetsiz finans alanında türev piyasası olur mu ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası [Synthetix](https://www.synthetix.io/community)‘i inceleyelim:
+Geçtiğimiz yazıda merkeziyetsiz bir sigorta sistemi olan [Nexus Mutual’ın hikayesine bakmıştık](https://turansert.com/genel/2020/10/20/definin-sigortasi-nexus-mutual.html). Bu yazımızda ise işin biraz daha tekniğine girerek Nexus Mutual sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz.
 
-## Synthetix ne yapar? <a id="synthetix-ne-yapar"></a>
+## Nasıl çalışıyor Nexus sistemi? <a id="nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor-nexus-sistemi"></a>
 
-Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı \(Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye’den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz\). Ekip, ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.
+[Nexus Mutual](https://nexusmutual.io/) kendisine sigorta demiyor - bunun en önemli nedeni kanuni olarak sigorta mevzuatına takılmamak. Bunun yerine Akıllı Kontratlarda çıkabilecek açıklara karşı “koruma” sağladıklarını belirtiyorlar.
 
-|  |
-| :--- |
-| _Synthetix’de kilitlenen para miktarı_ [_Kaynak_](https://defipulse.com/synthetix) |
+### Havuz problemleri yine karşımızda… <a id="havuz-problemleri-yine-kar&#x15F;&#x131;m&#x131;zda"></a>
 
-## Nasıl çalışıyor sistem? <a id="nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor-sistem"></a>
+Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap yazımızda bahsettiğimiz havuz sistemi](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) burada da geçerli.
 
-Sistem çalışması kısaca şöyle: Normalde bir türev piyasasında alan ve satan olarak iki parti bulunması gerekirken, Synthetix’de al-sat işleminde bir taraf var bir de karşısında bir havuz. Havuz kısmına birazdan değineceğin ama gelin öncelikle işin basit kısmından, sistemi kullanmak isteyen yani al-sat işlemi yapanlardan \(trader\) başlayalım ve basitlik adına bu kişilere “kullanıcı” diyelim.
+Hatırlarsak, Uniswap’da iki bölmeli iki paradan oluşan havuzlar vardı. Alım satım yapanlar havuzdaki bir paradan almak istedikleri yerine orada bulunan diğer parayı bırakıyorlardı.
 
-## Nasıl işlem yapıyor kullanıcılar Synthetix sisteminde? <a id="nas&#x131;l-i&#x15F;lem-yap&#x131;yor-kullan&#x131;c&#x131;lar-synthetix-sisteminde"></a>
+### Nexus’un havuzu diğerlerinden farklı… <a id="nexusun-havuzu-di&#x11F;erlerinden-farkl&#x131;"></a>
 
-Kullanıcılar, özünde herhangi bir varlığa sahip olmadan o varlığın riskini \(yani getiri ya da götürüsünü\) almak isteyen kişiler oluyor.
+Nexus Mutual havuzunun çalışma prensipleri ise bir parça farklı. Gelin hızlıca bir göz atalım:
 
-Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O para da sentetik bir ürün: adı da sUSD.
+Nexus Mutual’in havuzu özünde sistem tarafından alınan risklere karşılık ödenebilecek kapital rakamının toplamından oluşuyor. Sigorta satın alanların ödedikleri tüm ücretler havuzun içine girişleri oluşturuyor. Yapılan hasar ödemeleri ise temel çıkışları.
 
-sUSD bir ABD Dolarına çıpalanmış bir sabit para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak \(ki o borsaların listesini [şurada](https://www.coingecko.com/en/coins/susd) bulabilirsiniz\), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
+Havuzun sahibi tüm üyeler. Nasıl sahip oluyorlar bu havuza? Aynı hisse senedinde olduğu gibi havuzun sahipliğini gösteren sistemin parası NXM ile. Dolayısı ile NXM sahibi olmak hem havuzun riskini hem de getirisini paylaşmak anlamına geliyor.
 
-Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC’yi değil onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde sUSD karşılığı satıp, eline geçen sUSD’yi de yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor.
+Peki başlangıçta sistem nasıl başladı? Havuz boş muydu? Hayır, bu alanda tecrübeli, riski bilen kişi ve kurumlar başlangıçta Ethereum sisteminin parası olan ETH koyup karşılığında NXM alarak havuza bir kapital sağladılar.
 
-Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki yazımızda kısaca değinmiştik. DeFi piyasaları interneti olan herkesin erişimine açık, klasik borsalarda olduğu gibi “nitelikli” bir kesime özel değil. Öte yandan özellikle çok al-sat yapanlar için, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebiliyor ve bu geçişler sırasında herhangi bir kayıp \(sızıntı\) yaşamıyorlar.
+Havuzdaki para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH’e dayanıyor - en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri DeFi platformlarının çoğunluğu da Ethereum üzerinde işlem yaptığı için risk ETH bazlı, o nedenle bu riske karşı fonları da ETH olarak değerlendirmek mantıklı.
 
-## Ne tip ürünler var Synthetix’de? <a id="ne-tip-&#xFC;r&#xFC;nler-var-synthetixde"></a>
+## Kim niye NXM alsın? <a id="kim-niye-nxm-als&#x131;n"></a>
 
-Beş ayrı kategori var: İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [32 adet ürün](https://dashboard.synthetix.io/) bulunuyor. \[^1\]
+Birkaç neden var.
 
-## Peki sistemdeki ürünlerin fiyatlarını kim belirliyor? <a id="peki-sistemdeki-&#xFC;r&#xFC;nlerin-fiyatlar&#x131;n&#x131;-kim-belirliyor"></a>
+Öncelikle sigorta yaptırmak, pardon “Akıllı Kontratlar’a karşı koruma satın almak” istiyorsanız bunu NXM ile yapıyorsunuz. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak aldığınız korumanın yani poliçenin ücretini NXM olarak veriyorsunuz \(bir başka deyişle NXM yakıyorsunuz\). NXM’i de havuzdan ETH ya da [stabil bir kripto para olan DAI](https://turansert.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) karşılığı alacaksınız.
 
-Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları göz önüne alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde oracle denen dış \(off-chain\) bilgi sağlayıcılardan geliyor. Synthetix oracle olarak [Chainlink’i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/) ve piyasa bilgilerini her üç dakikada bir alıp güncelliyor.
+İkincisi ise yatırım olarak almak. Sonuç olarak NXM aldığınızda havuzun bir parçasına sahip oluyorsunuz ve ödenen primlerin risklerden fazla olduğunu ve sistemin ileride büyüyeceğini tahmin ediyorsunuz. NXM değerini neler etkiliyor, hemen bir sonraki bölümde değerlendireceğiz.
 
-Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sentetik ürün alıp satmak ise o zaman bu kadarı yeterli belki de. Ancak “bu değirmenin suyu nereden geliyor, havuz nasıl çalışıyor?” şeklinde aklınıza takılan sorular varsa o zaman okumaya devam.
+Bunun dışında NXM sahibi olarak tazminat isteyenlerin taleplerini değerlendirmek, az sonra bahsedeceğimiz çeşitli ürünlere direkt olarak yatırım yapmak, ya da NXM yönetim sisteminde söz sahibi olmak \(örneğin yeni çıkarılacak ürünleri belirlemek için yapılan oylamalara katılmak\) gibi Nexus Mutual’a özel belli para kazandırıcı aktivitelerde yer almak da mümkün.
 
-## Sorular, sorular… <a id="sorular-sorular"></a>
+Bu arada bir konuyu tekrarlamakta fayda var: Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual’ın belli alanlarda kısıtları olduğunu belirtmiştik. Örneğin, NXM yalnızca Nexus Mutual’un kendi kurduğu platformda işlem görüyor. NXM satın almak isteyenler Nexus Mutual sistemine üye olmak zorundalar. Üye olmak için de müşterini tanı \(KYC - Know your customer\) işleminden geçmek gerekiyor. KYC işlemlerini yapan ise İngiltere merkezli ve lisanslı bir şirket.
 
-Örneğin birkaç soru var hemen akıllara gelen:
+## NXM fiyatı neye göre belirleniyor? <a id="nxm-fiyat&#x131;-neye-g&#xF6;re-belirleniyor"></a>
 
-* Kullanıcılara karşı risk alan havuz nasıl oluyor? Arkasında kim var? Güvenilir mi? Nasıl merkeziyetsiz oluyor?
-* Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim?
-* Sonra yarın öbür gün sBTC’mi satmak istediğimde yerine bana verecekleri sUSD’yi alacak biri çıkacak mı?
-* Bir sUSD bir ABD Doları’na eşit diye kim söylüyor, kim böyle bir garanti veriyor? Verilen garanti ne kadar güvenilir?
-* Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğin düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu kârı bu kullanıcılara?
-* Bunların hepsi çok makul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza - malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara:
+İşte Nexus Mutual’ın diğer merkeziyetsiz sistemlerden bir farkı daha. Nexus’un tokeni NXM’in değeri serbest piyasadaki arz ve talebe göre belirlenmiyor, zira NXM kripto para borsalarında işlem gören bir token değil. Bunun yerine NXM’in fiyatı bir algoritma ile hesaplanıyor. Nasıl bir hesaplama bu?
 
-### Hepimizin çok sevdiği havuz problemi - ne menem şeydir bu havuz? <a id="hepimizin-&#xE7;ok-sevdi&#x11F;i-havuz-problemi---ne-menem-&#x15F;eydir-bu-havuz"></a>
+Hatırlarsanız, [Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html). Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. **Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere otomatik bir fiyat veriyor. Ama bunu yaparken hem arz ve talebi, hem de Nexus Mutual havuzunun finansal sağlığını korumaya çalışıyor**.
 
-Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, burada da benzeri var: Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi \(Bu kişilere İngilizcede “staker” deniyor-Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu yazı özelinde “paydaş” terimini kullanacağız\).
+Nexus’un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. **Bu nedenle havuzun içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birincil hedef**. Bu kapital rakamı [Avrupa Birliği’nin yeterlilik standartlarına](https://www.eiopa.europa.eu/browse/solvency-ii/solvency-ii-background_en#Arisk-basedregulatoryframework) göre belirleniyor. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor \(bu oranın adı MCR - minimum capital requirement, minimum karşılık olarak düşünülebilirsiniz\)\[^3\].
 
-Biliyorsunuz Merkez Bankası’nın bastığı ve tedavüle soktuğu para esasında bankanın o parayı kullananlara yani halka bir borcudur. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sistemi kullananlara borçlanıyorlar.
+Algoritmanın ikinci amacı ise, gelişen arz ve talebe göre NXM fiyatını ayarlayarak sistemi sağlıklı tutmak. Bunu da otomatik bir formül ile yapıyor\[^4\]. Temel olarak şu şekilde çalışıyor:
 
-Şimdilerde artık o nosyonu kaybettik gerçi ama 20. Yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stoklarında altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarına karşılık Synthetix’in kendi tokeni olan SNX’i teminat olarak göstermek zorundalar.
+Eğer havuzda toplanan para minimum rakamın %30’undan fazlasına ulaşırsa, formül NXM fiyatını hızlı bir şekilde yükseltmeye başlıyor. Bunun nedeni fiyat yükseldiğinde, yatırımcıların ellerinde tuttukları NXM’i satıp havuzdan ETH çekmesini sağlamak. Neden böyle yapıyor? Çünkü havuzda değerlendirilmeden duran para, verimsizlik göstergesi.
 
-Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer kullanıcılar yani işlem yapanlar sBTC aldı ve sonrasında sBTC yükseldi ise, o zaman havuzun borcu büyüyor. Dolayısıyla havuzdan borç alanların borcu da büyüyor. Tam tersi durumda işlem yapan zarar ederse \(bu örnekte olduğu gibi sBTC fiyatı düşerse\) o zaman da havuz kâr etmiş oluyor ve paydaşların da aynı oranda borcu düşüyor.
+Bu arada, Nexus Mutual yönetiminin elde fazla kapital olması durumunda alacağı bir aksiyon daha var. O da yeni sigorta ürünleri çıkarmak. Bu sayede sistemi büyütebilirler. Yeni ürünler çıkması bu ürünler için de karşılık ayrılmasını gerektireceği için minimum karşılık oranını yani MCR’ı yükseltecek.
 
-### sUSD nasıl yaratılıyor? <a id="susd-nas&#x131;l-yarat&#x131;l&#x131;yor"></a>
+Yine aynı şekilde eğer havuzdaki para minimum rakama doğru yaklaşmaya başlarsa formüle göre NXM fiyatı hızlı bir şekilde düşmeye başlıyor. Mantık aynı: Eğer NXM’in fiyatı ucuzlar ise, o zaman yatırımcılar çok daha ucuza havuzdan pay sahibi olmak hakkını kaçırmak istemeyecekler ve havuza ETH koyup NXM satın alacaklar. Böylece havuzdaki kapital yani ETH miktarı artacak.
 
-sUSD yaratımında teminat olarak konan SNX borsalarda alıp satılan bir token. Paydaş SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez Bankası eskiden bire-bir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
+Özetle algoritma dediğimiz bu basit formül sayesinde hedeflenen, NXM fiyatı ile oynayarak, havuzdaki kapital miktarının belli bir bant içinde oynamasını sağlamak. Bu bandın altı minimum karşılık oranı olan MCR, üstü ise MCR’nin %30 fazlası.
 
-O nedenle, sUSD basarken SNX olarak çok daha fazlasını tutmak zorunda paydaşlar. Ne kadar? Şu anda teminat oranı %700. Yani 700 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/)\)
+## Nasıl sigorta yapıyor kullanıcılar? <a id="nas&#x131;l-sigorta-yap&#x131;yor-kullan&#x131;c&#x131;lar"></a>
 
-### Peki nereden geliyor bu SNX? <a id="peki-nereden-geliyor-bu-snx"></a>
+Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse de ETH ile yapabiliyor.
 
-Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO’da genel halka dağıtılmış. Aslında orijinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). \(Nasıl dağıtılacağı bir sonraki bölümde\)
+### Peki sigorta oranını kim nasıl belirliyor? <a id="peki-sigorta-oran&#x131;n&#x131;-kim-nas&#x131;l-belirliyor"></a>
+
+Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu da staking dediğimiz rehin verme işlemi ile yapıyorlar.
+
+Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normalde Nexus Mutual’a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistemin risk ve getirisine ortak oluyorsunuz. Ancak staking yaptığınızda bu riski ürün bazında ayrıştırmak da mümkün oluyor.
 
 |  |
 | :--- |
-| _SNX’in 2020 yılı içindeki değişimi \(2018-2020 arası yatay seyretmiş\)_ [_Kaynak_](https://www.coingecko.com/en/coins/synthetix-network-token) |
+| _Image by_ [_Sarah Lötscher_](https://pixabay.com/users/sarah_loetscher-4248505/) _from_ [_Pixabay_](https://pixabay.com/) |
 
-Peki bir paydaş neden SNX alsın ve kendini riske atsın? Öncelikle SNX basılmaya başladığı günden bugüne çok ciddi değer kazandı. Ağustos 2020 itibariyle SNX piyasa değeri 700 milyon ABD Doları civarında. Ama bu spekülatif bir değer. SNX tokenin paydaşlara nakit getirisi var mı? Gelin bir de ona bakalım şimdi.
+NXM satın alan dolayısıyla genel sisteme yatırım yapmış bir yatırımcı sonrasında dilerse bu NXM’i belli bir spesifik ürüne koyarak riskini daha da artırabiliyor. Böyle yaparak bu spesifik ürünü satın almış olanların ödedikleri primlerden bir kısmını havuzdan önce kazanma hakkına sahip oluyor. Risk tarafında ise üründe bir sorun çıkıp da zarar tazminat ödenmesi halinde koymuş olduğu NXM’i toptan kaybetme ihtimali var. Bu nedenle, staking yapmanın ekstra bir riskli bir yatırım olduğu unutulmamalı.
 
-### Bu “paydaşlar” nereden para kazanıyorlar? <a id="bu-payda&#x15F;lar-nereden-para-kazan&#x131;yorlar"></a>
+Aslına bakarsanız, staking Akıllı Kontratların risklerini anlayabilmek için güzel bir endikatör aynı zamanda. Risk tutarı aynı görünen iki Akıllı Kontrat’tan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir.
 
-Havuzdan borç alarak sUSD yaratanların iki temel kazancı var:
+### Bir sorun olduğunda ödeme yapılacağına kim karar veriyor? <a id="bir-sorun-oldu&#x11F;unda-&#xF6;deme-yap&#x131;laca&#x11F;&#x131;na-kim-karar-veriyor"></a>
 
-Bunlardan birincisi, kullanıcıların havuzda yaptıkları işlemler için \(örneğin sBTC satın almak gibi\) ödediği komisyonlar \(şu anda %0.3\). Bu komisyonlar havuza kâr olarak yazılıyor ve her hafta hesaplanıp sUSD yaratan paydaşlara veriliyor.
+Her ne kadar Akıllı Kontratlar var desek de, ödemeler henüz otomatik yapılacak seviyeye gelmiş değil. Bunu DeFi’nin emekleme aşamasında olmasına bağlayabilirsiniz - belki önümüzdeki dönemde orada da olabildiğince otomatize bir sistem olabilir. Bir sistem sorunu olduğu ve ödeme yapılması gerektiğine Nexus Mutual’a üye olanlar oylama ile karar veriyorlar. Eğer Nexus Mutual üyeleri \(ellerinde NXM token tutanlar\) sistemsel bir sorun olduğu ve ödeme yapılması gerektiği konusunda bir karar verirlerse işte o zaman Akıllı Kontratlar devreye girip ürün satın almış olan kullanıcılara tazminatlarını ödüyorlar.
 
-İkincisi ise sUSD yaratanlar havuza can suyu yani likidite sağladıkları için her hafta sistem tarafından belli bir ödüle sahip oluyorlar. Ödül ise bir önceki bölümde bahsettiğimiz her yıl basılacak olan ekstra SNX’ler. Paydaşlar yarattıkları sUSD bazında oransal olarak bu SNX’lerden kazanıyorlar. Aynı Bitcoin sistemini korumak için enerji sarfeden madencilerde olduğu gibi.
+### Nasıl hasar talep ediliyor? <a id="nas&#x131;l-hasar-talep-ediliyor"></a>
 
-Bunun yanında tabii ki, kullanıcılar yaptıkları al-sat işlemlerinden kâr ederlerse bu kâr havuzun zararı oluyor ve havuzdan kullanıcılara ödeniyor. Ya da zarar ederlerse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor.
+Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, Nexus Mutual sitesine başvuruyorlar. Yapılan talep bir kısım NXM sahibi tarafından değerlendiriliyor. Burada ilginç bir nokta var: Talebi değerlendirenler ellerindeki NXM’leri sisteme kilitliyorlar. Kararların %70 çoğunluk ile verilmesi gerekiyor\[^1\]. Çoğunluk ile aynı yönde oy kullananlar ekstra NXM kazanıyor. Karşı oy kullananların ise NXM’leri bir süreliğine kilitli kalmaya devam ediyor ve incelemeye tabi tutuluyor. İnceleme sonucu kötü niyetli oldukları saptanırsa NXM’leri yakılıyor. Gördüğünüz gibi hasar talep sisteminin değerlendirilmesi hâlâ manuel şekilde oluyor denebilir - zira çoğunluğa karşı oy kullananları değerlendiren bir komite var beş üyeden oluşan - çok da merkeziyetsiz sayılmaz şu aşamada.
 
-### sUSD yaratan “paydaş” bununla neler yapabilir? <a id="susd-yaratan-payda&#x15F;-bununla-neler-yapabilir"></a>
+### Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual? <a id="hi&#xE7;-hasar-kar&#x15F;&#x131;lama-&#xF6;demesi-yapm&#x131;&#x15F;-m&#x131;-nexus-mutual"></a>
 
-Paydaş yarattığı sUSD ile sBTC ve benzeri türev ürünler satın alabiliyor ve kendisi de sistemin bir kullanıcısı olabiliyor.
-
-Sadece bununla sınırlı değil yapabildikleri: sUSD’yi kripto para borsalarında satabiliyor ya da sUSD’yi alıp başka platformlarda \(örneğin [Aave](https://aave.com/)\) borç vermekte kullanabiliyor.
-
-Bütün bunların hiçbirini yapmayıp sUSD’yi öylece boşta da tutabilir paydaşlar ancak bunun oldukça riskli! Zira sUSD yarattığınız her noktada havuzda işlem yapan kullanıcıların karşı riskini \(kâr ya da zararı da\) almış oluyorsunuz.
-
-### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak riskini almak istemiyorum” derseniz? <a id="peki-ben-havuzun-nimetlerinden-yararlanmak-istiyorum-ancak-riskini-almak-istemiyorum-derseniz"></a>
-
-O da mümkün. Nasıl mı? Böyle bir durumda paydaş yarattığı sUSD ile gidip sistem üzerindeki yapılmış sentetik işlemlerin oransal olarak aynısını kendisi de gerçekleştirir \(hatta bunu endeks fonu gibi otomatik yapan araçlar da var\). Böylece riskini karşılamış \(hedge etmiş\) olur; havuz kaybederse paydaş o kaybettiği parayı kullanıcı olarak yaptığı karşı işlemden kazanmış olur.
-
-### SNX’in değeri değişince ne oluyor? <a id="snxin-de&#x11F;eri-de&#x11F;i&#x15F;ince-ne-oluyor"></a>
-
-Peki ya SNX’in değeri değişince ne oluyor? Öyle ya borsada alınıp satılan bir token bu. SNX’in değer değişikliği teminatın değerinin de aynı şekilde değişmesi anlamına geliyor.
-
-Eğer SNX fiyatı artarsa, o zaman paydaşın teminat miktarı benzer şekilde artıyor ve %700’e gelecek kadar ekstra sUSD basma \(yani ekstra borçlanma\) hakkına sahip oluyor.
-
-Peki ya düşerse? O zaman da, teminat oranının altına düşme riski beliriyor. Bu durumda iki seçecek var izlenebilecek: Ya piyasadan SNX satın alarak teminat oranını %700’e yükseltecek, ya da borçlandığı sUSD’lerin bir kısmını ödeyerek \(buna para yakma da deniyor\) minimum teminat oranına çıkacak. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız?
-
-Öncelikle teminat oranı %700’ün altına düşerse paydaş havuzun verdiği komisyon kârları ve ödül paralardan yararlanamıyor. Bu kâr ve ödüller teminatı yeterli olan diğer paydaşlara dağıtılıyor.
-
-Bunun da ötesinde eğer [teminat miktarı %200’ün altına düşerse o zaman kontrat tasfiye ediliyor](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25), ve minimum teminat miktarına getirene kadar paydaşın kilitlediği bütün SNX’ler satılıp sUSD yakılarak borç azaltılıyor.
-
-### sUSD’nin sabit kalacağını nasıl garanti ediyorlar? <a id="susdnin-sabit-kalaca&#x11F;&#x131;n&#x131;-nas&#x131;l-garanti-ediyorlar"></a>
-
-Aslında böyle bir garanti yok - ancak sistemin işleyişine baktığınızda neden 1 sUSD 1 Amerikan Dolarına eşit olur anlaşılıyor. Başta da yazdığımız gibi paydaşlar sUSD’yi basarak sisteme borçlanıyorlar ve bu borcu kapatmak için sUSD yakmak zorundalar:
-
-Eğer sUSD’nin değeri 1 ABD Doları’nın altına düşerse, paydaşların piyasadan ucuza sUSD satın alıp borçlarını kapatmasını beklersiniz. Örneğin sUSD 90 cente düştü. Sistemde 1000 sUSD yaratmış \(ve o sırada yaklaşık 1000 ABD Doları eline almış\) bir paydaş, hemen gidip 1000 adet sUSD’ye 900 ABD Doları vererek sahip olup borcu olan 1000 sUSD’yi yakar ve 100 ABD Doları kâr eder.
-
-Peki ya sUSD’nin değeri yükseldi ve 1.10 ABD Doları’na geldi. O zaman da yine paydaşların hemen sisteme SNX kilitleyip karşılığında sUSD yarattığını görürsünüz. Aynı örnekten gidersek bir paydaş böyle bir durumda 1000 sUSD yaratıp bunu 1.10 ABD Doları’ndan sattığında otomatik olarak 100 dolar kâr eder.
-
-## Riskler, çekinceler <a id="riskler-&#xE7;ekinceler"></a>
-
-“Sistem çok güzel kurulmuş, riskler yok mu?” derseniz, hâlâ akla takılan ya da risk olarak görülebilecek alanlar var:
-
-Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Başka DeFi ürünlerde likidite sağlamak için para koyduğunuzda genel olarak düşük riskli ürünlere yatırım yapıyorsunuz. Synthetix’de ise SNX aldığınız ve sUSD yarattığınız noktada havuzun borcuna ve riskine ortak oluyorsunuz - ve bu ufak bir risk değil.
-
-Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
-
-|  |
-| :--- |
-| _SNX ürünlerinin Ağustos 2020 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/) |
-
-Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX’in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor.
-
-Ayrıca şunu da unutmamak lazım - bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 centten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. \[^2\]
-
-Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine [ikinci seviye çözümler üzerinde çalışıyor](https://synthetix.community/docs/why-is-gas-so-high)
+Şimdiye kadar bir tek olayda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları’na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b). Şu ana kadar toplam 53 hasar talebi geldiğini ve sadece az önce bahsettiğimiz bZx hasarına ait üç talebin karşılandığını, 47 talebin reddedildiğini de hatırlatalım\[^2\]
 
 ## Sonuç <a id="sonu&#xE7;"></a>
 
-Öncelikle yazıyı buraya kadar okuduysanız tebrikler!..
+Birinci bölümünde genel olarak başladığımız bu yazıda ise daha teknik detaylarına girdiğimiz DeFi’da sigortacılık sistemi Nexus Mutual, şu ana kadar belli kısımları merkeziyetsizleşmiş gelecek vadeden bir proje. DeFi’nin büyümesi ve yeni ürünlerin ortaya çıkması ile birlikte büyümesi de yüksek bir ihtimal. Gelişimini yakından izleyeceğiz.
 
-Özet olarak düşüncemi şuraya bırakayım:
+* \[^1\] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
+* \[^2\] Üç adet talep henüz değerlendirme aşamasında
+* \[^3\] \(bu oranın adı MCR - minimum capital requirement oranı\). 𝑇𝑃 = 𝐴 + \(𝑀𝐶𝑅𝐸𝑇𝐻/𝐶\)∙ 𝑀𝐶𝑅%4
 
-* Synthetix türev piyasaları, internet bağlantısı olan herkese türev ürünlerini hızlıca alıp satmak ya da farklı türev ürünleri arasında masrafsız geçiş yapabilmek konularında büyük rahatlık sağlıyor.
-* Genel olarak DeFi’ya ilginin had safhada olmasının getirdiği artan iş hacimleri sayesinde yükselen komisyonlar ve dağıtılan ödüller SNX’e olan talebi ve dolayısıyla paranın değerini artırıyor.
-* Ancak bu piyasaya likidite sağlamak amacıyla konan \(stake edilen\) paranın diğer DeFi platformlardan farklı olarak aynı zamanda risk getirdiği de göz önünde bulundurulmalı.
-* Uzun vadede özellikle uzun süreli boğa piyasası olması ve Synthetix’de açılan türev işlemlerinin sürekli kazandıran belli bir ürünlere kayması \[^3\] durumunda sistemin yapısından gelen riskleri kaldıramama ihtimali olduğu da unutulmamalı.
+Kaynaklar:
 
-\[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz.._
+* https://cryptobriefing.com/defi-review-what-is-nexus-mutual-introduction-nxm/
+* https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/
+* https://tokentuesdays.substack.com/p/nexus-mutual
+* https://academy.ivanontech.com/blog/introduction-to-defi-insurance-and-nexus-mutual
+* https://sci.smithandcrown.com/projects/nexus-mutual
 
-\[^2\] _Kontratların nasıl likidite edileceği ile ilgili detaylı bilgiye_ [_şu linkten_](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) _ulaşabilirsiniz_
-
-\[^3\] _Açılan işlemlerin dağılımını_ [_Synthetix Dashboard_](https://dashboard.synthetix.io/)_‘da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz._
-
-_Not 1: Bu yazı ilk olarak 28 Ağustos 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/defi-turev-piyasasi-synthetix-nasil-calisiyor/)
+_Not 1: Bu yazı ilk olarak 27 Ekim 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/defide-sigortaciliga-devam/)
 
 _Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
+
+_Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun._
 
