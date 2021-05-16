@@ -1,4 +1,4 @@
-# Compound - Klasik bankacılığın rakibi
+# Compound: Klasik bankacılığın rakibi
 
 Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
 

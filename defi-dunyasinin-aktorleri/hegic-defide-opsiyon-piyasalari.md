@@ -1,4 +1,4 @@
-# Hegic - DeFi'de opsiyon piyasaları
+# Hegic: DeFi'de opsiyon piyasaları
 
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu yazımızda bu araçlardan opsiyon piyasalarına bir göz atalım.
 

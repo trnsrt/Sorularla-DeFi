@@ -18,15 +18,13 @@
 * [Ethereum: DeFi'nin altyapısı](defi-dunyasinin-aktorleri/ethereum-definin-altyapisi.md)
 * [Ethereum ve rakipleri](defi-dunyasinin-aktorleri/untitled.md)
 * [DeFi dünyasında neler var?](defi-dunyasinin-aktorleri/defi-duenyasinda-neler-var.md)
-* [MakerDAO - kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
-* [Compound - Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
+* [MakerDAO: Kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
+* [Compound: Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
 * [Uniswap ve DeFi'nin merkeziyetsiz borsaları](defi-dunyasinin-aktorleri/uniswap-ve-definin-merkeziyetsiz-borsalari.md)
 * [Synthetix ve DeFi türev piyasaları](defi-dunyasinin-aktorleri/synthetix-ve-defi-tuerev-piyasalari.md)
-* [Hegic - DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
+* [Hegic: DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
 * [Nexus Mutual: DeFi'nin sigortası](defi-dunyasinin-aktorleri/nexus-mutual-definin-sigortasi.md)
-* [DeFi'de sigortacılığa devam...](defi-dunyasinin-aktorleri/untitled-2.md)
 * [Stabil paralar: DeFi'nin can suyu](defi-dunyasinin-aktorleri/stabil-paralar-definin-can-suyu.md)
-* [Ampleforth'a devam](defi-dunyasinin-aktorleri/untitled-1.md)
 
 ## DeFi'de yönetim
 
