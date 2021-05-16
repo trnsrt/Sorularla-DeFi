@@ -15,18 +15,24 @@
 
 ## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
 
-* [Ethereum: DeFi'nin altyapısı](defi-dunyasinin-aktorleri/ethereum-definin-altyapisi.md)
-* [Ethereum ve rakipleri](defi-dunyasinin-aktorleri/untitled.md)
 * [DeFi dünyasında neler var?](defi-dunyasinin-aktorleri/defi-duenyasinda-neler-var.md)
 * [MakerDAO: Kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
 * [Compound: Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
 * [Uniswap ve DeFi'nin merkeziyetsiz borsaları](defi-dunyasinin-aktorleri/uniswap-ve-definin-merkeziyetsiz-borsalari.md)
 * [Yearn Finance: DeFi'da merkeziyetsiz portföy yönetimi:](defi-dunyasinin-aktorleri/yearn-finance-defida-merkeziyetsiz-portfoey-yoenetimi.md)
-* [Merkeziyetsiz portföy yönetimi Yearn Prokolü'ne devam](defi-dunyasinin-aktorleri/untitled-2.md)
 * [Synthetix ve DeFi türev piyasaları](defi-dunyasinin-aktorleri/synthetix-ve-defi-tuerev-piyasalari.md)
 * [Hegic: DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
 * [Nexus Mutual: DeFi'nin sigortası](defi-dunyasinin-aktorleri/nexus-mutual-definin-sigortasi.md)
 * [Stabil paralar: DeFi'nin can suyu](defi-dunyasinin-aktorleri/stabil-paralar-definin-can-suyu.md)
+
+## DeFi dünyasının altyapısında kimler var?
+
+* [Ethereum: DeFi'nin altyapısı](defi-duenyasinin-altyapisinda-kimler-var/ethereum-definin-altyapisi.md)
+* [Ethereum ve rakipleri](defi-duenyasinin-altyapisinda-kimler-var/untitled-1.md)
+* [Chainlink: DeFi'nin bilgi kaynağı](defi-duenyasinin-altyapisinda-kimler-var/chainlink-definin-bilgi-kaynagi.md)
+* [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'](defi-duenyasinin-altyapisinda-kimler-var/untitled.md)
+* [The Graph sistemine teknik bir bakış](defi-duenyasinin-altyapisinda-kimler-var/untitled-2.md)
+* [DeFi'nin merkeziyetsiz saklama deposu Filecoin](defi-duenyasinin-altyapisinda-kimler-var/untitled-3.md)
 
 ## DeFi'de yönetim
 
@@ -39,7 +45,7 @@
 * [Untitled](park-edilenler/untitled/README.md)
   * [Untitled](park-edilenler/untitled/untitled.md)
 
-## DeFi dünyasının altyapısında kimler var?
+## DeFi dünyasına adım atacaklar için pratik bilgiler
 
-* [Untitled](defi-duenyasinin-altyapisinda-kimler-var/untitled.md)
+* [Untitled](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/untitled.md)
 
