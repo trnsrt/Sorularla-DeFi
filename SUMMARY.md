@@ -25,14 +25,14 @@
 * [Nexus Mutual: DeFi'nin sigortası](defi-dunyasinin-aktorleri/nexus-mutual-definin-sigortasi.md)
 * [Stabil paralar: DeFi'nin can suyu](defi-dunyasinin-aktorleri/stabil-paralar-definin-can-suyu.md)
 
-## DeFi dünyasının altyapısında kimler var?
+## DeFi'nin altyapı taşları
 
-* [Ethereum: DeFi'nin altyapısı](defi-duenyasinin-altyapisinda-kimler-var/ethereum-definin-altyapisi.md)
-* [Ethereum ve rakipleri](defi-duenyasinin-altyapisinda-kimler-var/untitled-1.md)
-* [Chainlink: DeFi'nin bilgi kaynağı](defi-duenyasinin-altyapisinda-kimler-var/chainlink-definin-bilgi-kaynagi.md)
-* [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'](defi-duenyasinin-altyapisinda-kimler-var/untitled.md)
-* [The Graph sistemine teknik bir bakış](defi-duenyasinin-altyapisinda-kimler-var/untitled-2.md)
-* [DeFi'nin merkeziyetsiz saklama deposu Filecoin](defi-duenyasinin-altyapisinda-kimler-var/untitled-3.md)
+* [Ethereum: DeFi'nin altyapısı](definin-altyapi-taslari/ethereum-definin-altyapisi.md)
+* [Ethereum ve rakipleri](definin-altyapi-taslari/untitled-1.md)
+* [Chainlink: DeFi'nin bilgi kaynağı](definin-altyapi-taslari/chainlink-definin-bilgi-kaynagi.md)
+* [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'](definin-altyapi-taslari/untitled.md)
+* [The Graph sistemine teknik bir bakış](definin-altyapi-taslari/untitled-2.md)
+* [DeFi'nin merkeziyetsiz saklama deposu Filecoin](definin-altyapi-taslari/untitled-3.md)
 
 ## DeFi'de yönetim
 
@@ -40,12 +40,14 @@
 * [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
 * [Aragon ile DeFi'da yönetim](defide-yoenetim/untitled-1.md)
 
-## Park edilenler
-
-* [Untitled](park-edilenler/untitled/README.md)
-  * [Untitled](park-edilenler/untitled/untitled.md)
-
 ## DeFi dünyasına adım atacaklar için pratik bilgiler
 
-* [Untitled](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/untitled.md)
+* [DeFi dünyasına girmek için ilk atılacak adımlar neler?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/untitled-1.md)
+* [Elektronik cüzdan ile DeFi'ye adım atmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/untitled-2.md)
+* [DeFi'deki yüksek işlem ücretlerine dikkat!](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defideki-yueksek-islem-uecretlerine-dikkat.md)
+* [DeFi tokenları nasıl satın alınıyor?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-tokenlari-nasil-satin-aliniyor.md)
+* [Farklı merkeziyetsiz borsaları aynı anda kullanmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/farkli-merkeziyetsiz-borsalari-ayni-anda-kullanmak.md)
+* [DeFi'de portföy nasıl takip edilir?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defide-portfoey-nasil-takip-edilir.md)
+
+## Park edilenler
 
