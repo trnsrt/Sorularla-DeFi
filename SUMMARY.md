@@ -23,7 +23,6 @@
 * [Synthetix ve DeFi türev piyasaları](defi-dunyasinin-aktorleri/synthetix-ve-defi-tuerev-piyasalari.md)
 * [Hegic: DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
 * [Nexus Mutual: DeFi'nin sigortası](defi-dunyasinin-aktorleri/nexus-mutual-definin-sigortasi.md)
-* [Stabil paralar: DeFi'nin can suyu](defi-dunyasinin-aktorleri/stabil-paralar-definin-can-suyu.md)
 
 ## DeFi'nin altyapı taşları
 
@@ -33,6 +32,7 @@
 * [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'](definin-altyapi-taslari/untitled.md)
 * [The Graph sistemine teknik bir bakış](definin-altyapi-taslari/untitled-2.md)
 * [DeFi'nin merkeziyetsiz saklama deposu Filecoin](definin-altyapi-taslari/untitled-3.md)
+* [Stabil paralar: DeFi'nin can suyu](definin-altyapi-taslari/stabil-paralar-definin-can-suyu.md)
 
 ## DeFi'de yönetim
 
