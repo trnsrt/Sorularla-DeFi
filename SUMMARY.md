@@ -4,11 +4,11 @@
 
 ## Nedir DeFi?
 
-* [Blokzincirin çıkış felsefesi ne?](nedir-defi/untitled-1.md)
-* [Blokzincir finans dünyasını nasıl etkileyecek?](nedir-defi/untitled-3.md)
+* [Blokzincirin çıkış felsefesi ne?](nedir-defi/blokzincirin-cikis-felsefesi-ne.md)
+* [Blokzincir finans dünyasını nasıl etkileyecek?](nedir-defi/blokzincir-finans-dunyasini-nasil-etkileyecek.md)
 * [DeFi - Merkeziyetsiz Finans ne demek?](nedir-defi/defi-merkeziyetsiz-finans-ne.md)
-* [DeFi'nin çıkışı nasıl oldu?](nedir-defi/untitled-5.md)
-* [DeFi'nin temel özellikleri neler?](nedir-defi/defi-cok-mu-hizli-gidiyor.md)
+* [DeFi'nin çıkışı nasıl oldu?](nedir-defi/definin-cikisi-nasil-oldu.md)
+* [DeFi'nin temel özellikleri neler?](nedir-defi/definin-temel-ozellikleri-neler.md)
 * [DeFi'de yatırım ve girişimcilik](nedir-defi/defide-yatirim-ve-girisimcilik.md)
 * [DeFi'de başarının sırrı topluluk](nedir-defi/defide-basarinin-sirri-topluluk.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
