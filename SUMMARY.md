@@ -28,6 +28,7 @@
 
 * [Ethereum: DeFi'nin altyapısı](definin-altyapi-taslari/ethereum-definin-altyapisi.md)
 * [Ethereum ve rakipleri](definin-altyapi-taslari/untitled-1.md)
+* [İkinci seviye çözümler](definin-altyapi-taslari/ikinci-seviye-coezuemler.md)
 * [Chainlink: DeFi'nin bilgi kaynağı](definin-altyapi-taslari/chainlink-definin-bilgi-kaynagi.md)
 * [The Graph: DeFi'nin merkeziyetsiz analiz sağlayıcısı](definin-altyapi-taslari/untitled.md)
 * [Filecoin: DeFi'nin merkeziyetsiz saklama deposu](definin-altyapi-taslari/untitled-3.md)
