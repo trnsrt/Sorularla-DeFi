@@ -36,8 +36,8 @@
 
 ## DeFi'de yönetim
 
-* [CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
-* [Compound'un yönetim tokeni COMP nasıl çalışıyor?](defide-yoenetim/untitled.md)
+* [CeFi'den DeFiye: Merkeziyetsizleşme uzun ince bir yol](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
+* [Bir yönetim tokeni örneği: COMP](defide-yoenetim/untitled.md)
 * [Aragon ile DeFi'da yönetim](defide-yoenetim/untitled-1.md)
 
 ## DeFi dünyasına adım atacaklar için pratik bilgiler

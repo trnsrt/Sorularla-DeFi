@@ -1,4 +1,4 @@
-# CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?
+# CeFi'den DeFiye: Merkeziyetsizleşme uzun ince bir yol
 
 Son zamanlarda oldukça ön plana çıkan Merkeziyetsiz Finans projeleri ve bu projelere ait yönetim tokenları uzun süredir süregelen bir tartışmayı da alevlendirmiş oldu. Merkeziyetsiz olmak neden önemli, ne zaman ve ne kadar merkeziyetsizlik iyidir? Gelin hep birlikte bakalım.. 
 

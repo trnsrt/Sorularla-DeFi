@@ -1,4 +1,4 @@
-# Compound'un yönetim tokeni COMP nasıl çalışıyor?
+# Bir yönetim tokeni örneği: COMP
 
 Bu aralar piyasaları yakından takip ediyorsanız, etrafta bolca DeFi - yani merkeziyetsiz finans haberi göreceksiniz… Özellikle içinde bulunduğumuz Haziran ayınının başlarında DeFi hareketinin öncülerinden Compound’un piyasaya çıkardığı COMP token \(türkçesi için belirteç kullanılıyor ama açıkçası hâlâ alışamadım bu terime\) çok konuşuldu. Nedir COMP token, neden bu kadar popüler oldu gelin birlikte bakalım…
 
