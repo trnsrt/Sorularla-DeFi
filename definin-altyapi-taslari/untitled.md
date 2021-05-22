@@ -1,4 +1,4 @@
-# DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'
+# The Graph: DeFi'nin merkeziyetsiz analiz sağlayıcısı
 
 Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni ancak önemli bir işlevi yerine getiren The Graph Protocol’den bahsedeceğiz.
 

@@ -1,4 +1,4 @@
-# DeFi'nin merkeziyetsiz saklama deposu Filecoin
+# Filecoin: DeFi'nin merkeziyetsiz saklama deposu
 
 Bu bölümde gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin’e bakalım hep birlikte.
 
