@@ -16,7 +16,7 @@ Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir 
 
 Öncelikle söyleyelim, yukarıda bahsettiğimiz tüm dertlere çare olacak bir çözüm henüz yok. Daha doğrusu böyle çözümler mevcut ancak bunların çoğu merkezi yapılar. Paranızı alıp değerlendiren fonlar ya da aracılar var ama bu merkeziyetsizlik ruhuna çok da uygun değil. Peki ya merkeziyetsiz çözümler?
 
-Gelin bu bölüme, 2020 yazında DeFi’nin parlayan yıldızlarından biri haline gelen, ‘merkeziyetsiz portföy yönetimi’ girişimi [Yearn](https://yearn.finance/) platformuna bakalım.
+Gelin bu bölümde, 2020 yazında DeFi’nin parlayan yıldızlarından biri haline gelen, ‘merkeziyetsiz portföy yönetimi’ girişimi [Yearn](https://yearn.finance/) platformuna bakalım.
 
 ## Ne yapar Yearn protokolü? <a id="ne-yapar-yearn-protokol&#xFC;"></a>
 
@@ -34,7 +34,7 @@ Yearn sitesine girince onlarca ürün görebilirsiniz, ancak temel olarak iki an
 
 Kullanıcının parasını alıp, çeşitli borç verme protokolleri arasında gezdirerek en yüksek getiriyi otomatik olarak sağlayan [Earn](https://yearn.finance/earn) Yearn platformundan çıkan ilk ürün.
 
-[Daha önce bir yazımızda detaylı olarak baktığımız borç verme platformu Compound](https://turansert.com/genel/2020/06/18/klasik-bankaciligin-rakibi-compound.html) ve rakipleri Aave ve dYdX, Earn ürününün elindeki parayı dolaştırdığı birbirine rakip üç temel DeFi projesi. **Kullanıcıların ağırlıklı olarak ABD Doları’na bağlı stabil paralarını değerlendirdiği bu ürün, hem getirisi hem de riski düşük bir yatırım alternatifi olarak öne çıkıyor. Özet olarak DeFi dünyasındaki birbirinden inişli çıkışlı kripto paralarının riskini almak istemeyen yatırımcılar için makul getiriler sunan bir araç.**
+İki önceki bölümde detaylı olarak baktığımız borç verme platformu Compound ve rakipleri Aave ve dYdX, Earn ürününün elindeki parayı dolaştırdığı birbirine rakip üç temel DeFi projesi. **Kullanıcıların ağırlıklı olarak ABD Doları’na bağlı stabil paralarını değerlendirdiği bu ürün, hem getirisi hem de riski düşük bir yatırım alternatifi olarak öne çıkıyor. Özet olarak DeFi dünyasındaki birbirinden inişli çıkışlı kripto paralarının riskini almak istemeyen yatırımcılar için makul getiriler sunan bir araç.**
 
 Neden kullanıcılar Earn kullansın? Bir kaç temel nedeni var.
 
@@ -42,7 +42,7 @@ Neden kullanıcılar Earn kullansın? Bir kaç temel nedeni var.
 
 İkincisi, Earn para transferi sırasında çıkabilecek yüksek işlem ücretlerinden kullanıcıyı kurtarıyor - sonuçta işlem yaptığınızda ödenecek ücreti işlemin tutarı değil, yapılacak işlemin ne kadar karmaşık olduğu ve ne kadar hızlı yapmak istediğiniz belirliyor. Kullanıcının 100 ABD Doları’nı platformlar arası değiştirirken ödeyeceği ücret ile Earn’in 10 milyon ABD Doları için aynı işlemi yapmasında ödeyeceği ücret arasında öyle ahım şahım bir fark yok.
 
-Üçüncü önemli neden ise, Earn içinde yatırımcıların para yatırabildiği dört farklı stabil para var. Bunlar DAI, USDC, USDT, TUSD. Bütün bu paralar bir başka protokol olan Curve içinde özel bir havuzda tutuluyor. Curve, Uniswap benzeri ancak stabil paralar üzerine uzmanlaşmış merkeziyetsiz bir borsa \([şu yazımızda detayı bulabilirsiniz](https://turansert.com/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html)\). Curve kullanıcıları, bu dört stabil paraları alıp sattıkça bu havuza komisyon veriyorlar. Bu komisyonlar da Earn’e para koymuş yatırımcılara gidiyor. Dolayısıyla, bireysel olarak elde edemeyeceği ekstra bir gelir kapısına sahip oluyor kullanıcılar.
+Üçüncü önemli neden ise, Earn içinde yatırımcıların para yatırabildiği dört farklı stabil para var. Bunlar DAI, USDC, USDT, TUSD. Bütün bu paralar bir başka protokol olan Curve içinde özel bir havuzda tutuluyor. Curve, Uniswap benzeri ancak stabil paralar üzerine uzmanlaşmış merkeziyetsiz bir borsa. Curve kullanıcıları, bu dört stabil paraları alıp sattıkça bu havuza komisyon veriyorlar. Bu komisyonlar da Earn’e para koymuş yatırımcılara gidiyor. Dolayısıyla, bireysel olarak elde edemeyeceği ekstra bir gelir kapısına sahip oluyor kullanıcılar.
 
 ### yVaults <a id="yvaults"></a>
 
@@ -64,7 +64,7 @@ Başta da bahsettiğimiz gibi Earn ve yVault, stabil paralar üzerinden yatırı
 
 Peki ya kullanıcı elinde tuttuğu volatil kripto paradan vazgeçmek istemiyor ise ne yapacak?
 
-O zaman kullanıcıya stabil para bulalım ve onu değerlendirelim. Nasıl? Hatırlarsanız, bir yazımızda DeFi’nin ilk büyük platformlarından [MakerDAO’dan bahsetmiştik](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html). Kullanıcıların Ether teminat gösterip, DAI kredi kullanabildiği bir merkeziyetsiz sistem. İşte Yearn burada benzer bir sistemi kullanıyor.
+O zaman kullanıcıya stabil para bulalım ve onu değerlendirelim. Nasıl? Hatırlarsanız, bundan üç bölüm önce DeFi’nin ilk büyük platformlarından MakerDAO’dan bahsetmiştik. Kullanıcıların Ether teminat gösterip, DAI kredi kullanabildiği bir merkeziyetsiz sistem. İşte Yearn burada benzer bir sistemi kullanıyor.
 
 Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.com/en/coins/aave) ya da [Link](https://www.coingecko.com/en/coins/chainlink) kripto parası koyup, sonrasında borç verme ve getiri çiftçiliğinden para kazanabiliyor. Nasıl oluyor bu? Sistem, kullanıcının koyduğu parayı teminat göstererek stabil para borç alıyor. Sonra bu stabil parayı yukarıdaki bahsettiğimiz yVault ürünlerine koyarak ekstra stabil para gelir kazanıyor. Kazandığı bu stabil para ile gidip orijinal para ne ise ondan satın alıp tekrar ürünün içine koyuyor. Böylece kullanıcı, sahip olduğu Aave ya da Link’in getirisinden \(ve riskinden\) feragat etmeden, ekstra getiri kazanma imkanına sahip oluyor.
 
@@ -74,7 +74,7 @@ Yalnız bu ürün diğer yVault ürünlerine göre daha riskli. Neden? Mevcut yV
 
 Bunun yannda deneme anlamında pek çok yeni ürün çıkarma çabaları da sürüyor Yearn’da.. Malum, açık kaynaklı “lego” gibi bir sistem DeFi.. Bu dünyadaki ürünler aynı dili konuştukları için yeni ürün çıkarmak yıllar, aylar değil, haftalar alıyor.
 
-Alın örneğin [yInsure](https://yinsure.finance/) ürününü. Daha önceki [bir yazımızda bahsettiğimiz](https://turansert.com/genel/2020/10/20/definin-sigortasi-nexus-mutual.html) DeFi’nin en büyük sigortacısı olan [Nexus Mutual](https://nexusmutual.io/) üzerinden aparılan bir sigortacılık ürünü. Bir diğer adı da [Cover](https://yinsure.finance/). Nexus Mutual, üyelerinden KYC \(Know-Your-Customer yani Müşterini Tanı\) prosedürü isterken, yinsure, benzer sistemi DeFi’nin KYC’den uzak kendi dünyası içinde kullanıcılarına sunuyor.
+Alın örneğin [yInsure](https://yinsure.finance/) ürününü.  Bu kısmın en son bölümünde detaylı olarak bahsedeceğimiz DeFi’nin en büyük sigortacısı olan [Nexus Mutual](https://nexusmutual.io/) üzerinden aparılan bir sigortacılık ürünü. Bir diğer adı da [Cover](https://yinsure.finance/). Nexus Mutual, üyelerinden KYC \(Know-Your-Customer yani Müşterini Tanı\) prosedürü isterken, yinsure, benzer sistemi DeFi’nin KYC’den uzak kendi dünyası içinde kullanıcılarına sunuyor.
 
 Bunun dışında henüz ArGe aşamasında olan, şu anki mevcut DeFi sistemi içinde yaşanan aksaklıkların önüne geçip kullanıcıya daha sorunsuz bir deney sunmaya çalışan birçok ürüne sahip Yearn. Bunların ne zaman ve ne kadar yaygınlaşacağını hep birlikte göreceğiz.
 
@@ -92,7 +92,7 @@ Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yo
 
 Merkeziyetsizleştirme vizyonundaki adımlara baktığımızda, yol genelde gücün kullanıcılara verilmesi ve kodların açık hale getirilmesi şeklinde başlıyor. Bunun hemen arkasından sıra yazılım/geliştirme faaliyetlerini topluluğa bırakmaya geliyor. Son olarak platformun yönetiminin de merkeziyetsizleştirilmesi ile vizyon tamamlanıyor.
 
-Bu süreci planlamak kolay ancak gerçekleştirmek zor ve meşakkatli. Özellikle son adım. DeFi alanında bu son adımı gerçekleştirmeye yönelik keskin hamle 2020 yazında yönetimi tokenlaştırma oldu \(Compound ile başlayan süreç ile ilgili [şu yazımıza göz atabilirsiniz](https://turansert.com/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html)\)
+Bu süreci planlamak kolay ancak gerçekleştirmek zor ve meşakkatli. Özellikle son adım. DeFi alanında bu son adımı gerçekleştirmeye yönelik keskin hamle 2020 yazında yönetimi tokenlaştırma oldu. 
 
 Yearn ekibi de, kendi merkeziyetsizleştirme sürecinde benzer bir süreç yaşadı. Ekip, yeni ürünleri tabiri caiz ise ‘çılgınlar gibi’ ardı ardına piyasaya sürerken, Temmuz ayı ortasında bir gün ansızın [YFI token](https://www.coingecko.com/en/coins/yearn-finance) adında bir yönetim tokeni çıkarttı. Bu tokenin özelliği kurucu ortaklara herhangi bir pay verilmeden, tamamının kullanıcılara dağıtılmış olması. Bu arada sadece 30.000 adet var bu tokenlardan ve yenisi gelmeyecek \(en azından tüm kullanıcılar aksi bir karar vermez ise\).
 
@@ -134,7 +134,7 @@ Andre çok sıkı bir programcı. Üniversite eğitimi hukuk, ancak Yearn önces
 
 Andre hakkında çıkan söylentileri “meyveli ağacı taşlarlar” olarak mı “ateş olmayan yerden duman çıkmaz” olarak mı değerlendirmeli o kullanıcıya kalmış.
 
-Zira, asıl önemli olan projenin nasıl bir topluluğa sahip olduğu. Kişisel olarak çok sevdiğim Naval Ravikant’ın geçtiğimiz günlerde yazdığı şu tweeti hatırlatayım size: “[Bir ürünün sürdürülebilmesi için bir şirket gerektiği gibi, bir protokolün devam etmesi için de bir topluluk gerekir](https://twitter.com/naval/status/1325531942431813632?s=20) .
+Zira, asıl önemli olan projenin nasıl bir topluluğa sahip olduğu. Kişisel olarak çok sevdiğim Naval Ravikant’ın geçtiğimiz günlerde yazdığı şu tweeti hatırlatayım size: “[Bir ürünün sürdürülebilmesi için bir şirket gerektiği gibi, bir protokolün devam etmesi için de bir topluluk gerekir](https://twitter.com/naval/status/1325531942431813632?s=20) "
 
 Sonuçta Yearn tarafından ortaya çıkarılan bütün ürünler açık kod. İsteyen istediği gibi içine girip bakabilir. Klasik dünyada ise o koca koca şirketlerin içinde de kim bilir neler dönüyor? “Kol kırılır yen içinde kalır” hesabı bu olaylar dış dünyaya yansıtılmıyor. Hangisi daha şeffaf ve güvenilir?
 
@@ -146,13 +146,13 @@ Dolayısıyla kurucusu Andre’nin gelgitlerinden bağımsız olarak Yearn proto
 
 ### Neden popüler oldu Yearn ürünleri?
 
-Öncelikle [bir önceki yazımızda](https://turansert.com/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) da belirttiğimiz gibi bu tip ürünlere piyasada gerçekten ihtiyaç var. Yearn sloganını “DeFi, simplified” \(Basitleştirilmiş Merkeziyetsiz Finans\) olarak belirlemiş.
+Öncelikle yukarıda da belirttiğimiz gibi bu tip ürünlere piyasada gerçekten ihtiyaç var. Yearn sloganını “DeFi, simplified” \(Basitleştirilmiş Merkeziyetsiz Finans\) olarak belirlemiş.
 
 DeFi platformlarını kullanmak, ileri seviyede teknik ve finans bilmek gerektirebiliyor. Geniş kitlelerden böyle bir bilgi birikimi beklemek haksızlık. Yapılması gereken ürünleri anlaşılır hale getirmek. Yearn platformu, daha kırk fırın ekmek yemesi gerekse de, bu yönde atılmış olumlu bir adım.
 
 Bunun ötesinde piyasaya her gün yeni bir ürün çıkıyor. Yearn platformu, kullanıcıları farklı ürünlerin nasıl çalıştığını anlama zahmetinden kurtarıyor.
 
-Peki Yearn protokol en kârlı stratejileri mi uyguluyor? Hayır. [Önceki yazımızda](https://turansert.com/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) da belirttiğimiz gibi, **Yearn’ın amacı riski minimize etmek**. Tek tek yeni girişimleri incelemeyi ve daha fazla risk almayı göze alan kullanıcılar kendi başlarına daha kârlı stratejiler çizebilirler.
+Peki Yearn protokol en kârlı stratejileri mi uyguluyor? Hayır. Daha önce de belirttiğimiz gibi, **Yearn’ın amacı riski minimize etmek**. Tek tek yeni girişimleri incelemeyi ve daha fazla risk almayı göze alan kullanıcılar kendi başlarına daha kârlı stratejiler çizebilirler.
 
 Bunun yanında, özellikle yVault gibi ürünlerde, kripto para teminat göstererek kredi alıp, sonra bu krediyi farklı stabil paralarda değerlendirme stratejisi sürekli takip istiyor. Zira teminat değeri belli ürünün altına düşerse teminat yanabiliyor. yVault bu anlamda kullanıcıyı böyle bir dertten kurtarıyor.
 
@@ -177,10 +177,4 @@ Sonra “deniz tükendi”. Yönetim tokenlarındaki artışların getirdiği ü
 ### Gelecekte kullanıcıları neler bekliyor?
 
 Yearn, ilk ürünlerinde zarar etme riskini minimize eden stratejiler üzerine yoğunlaşmış idi. Bunun yapmanın yolu olarak da stabil paraları seçmişti. Görünen bundan sonra daha volatil kripto paraları kullanarak daha kârlı stratejiler yürütmeye çalışacak. Örneğin, vadeli piyasaları kullanarak, ETH üzerindeki düşüş riskini yok edecek opsiyonlar satın alacak. Ancak bu opsiyonları satın almanın doğa olarak bir maliyeti var. Bu nedenle, bu stratejiyi uygularken hedefi, ETH’yi yatırarak kazanacağı getirinin opsiyon maliyetinden yüksek olmasını sağlamak olacak.
-
-## YFI üzerine son birkaç söz <a id="sonu&#xE7;"></a>
-
-Bu bölümde, DeFi’nin en ilginç projelerinden biri olan merkeziyetsiz portföy yönetimi platformu Yearn’ı incelemeye çalıştık. Gördüğünüz gibi hareketli, dalgalı, inişli-çıkışlı bir süreci geri bıraktı Yearn. Ama bu süreçte tek bir kişinin tekelinden geniş bir topluluğun aidiyet hissettiği ve büyütmeye çalıştığı bir proje haline geldi. DeFi piyasasındaki gelişmeler, Yearn platformuna da yeni ürünler çıkarması için uygun ortamı yaratacak. Geliştiriciler bu fırsatları değerlendirerek yeni ürünler çıkaracaklar mı? Kullanıcılar bu ürünleri kullanacaklar mı? Hep birlikte yaşayarak göreceğiz.
-
-##  <a id="arkas&#x131;-yar&#x131;n"></a>
 

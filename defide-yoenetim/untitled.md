@@ -84,7 +84,3 @@ Neden şimdi değil de ileride? Birkaç nedeni olabilir. Birincisi, kripto paral
 
 İşte gelecekte karşımıza çok çıkacak olan kripto para sanal dünyası ile fiziki dünya arasında yaşanacak zihin açıcı sorulardan bir tanesi size: Bir gün Facebook, Google gibi büyük devlerin fiziki ülkelerden daha güçlü olacağını düşünenler var. Peki bu bir şekilde gerçek olursa, BTC, ETH gibi platformların da kendi içlerinde bağımsız adacıklar olarak bu merkezi yapıların yanında kendilerine yer bulmaları mümkün olabilir mi?
 
-_Not 1: Bu yazı ilk olarak 25 Haziran 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)
-
-_Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
-

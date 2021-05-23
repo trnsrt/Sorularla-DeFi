@@ -64,27 +64,17 @@ Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıc�
 
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası.
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok - onlar Dai de dahil başka paraları kullanıyorlar, aynı bir banka gibi. \(Sistemden Compund'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok - onlar Dai de dahil başka paraları kullanıyorlar, aynı bir banka gibi. \(Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
 
 Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 
 Öte yandan Compound’un MakerDAO’dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP.
 
-Daha önce çıkan MKR özellikle Mart 2020’deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.  
-
-|  |
-| :--- |
-| _MakerDAO tokeni MKR’in 2020 yılı piyasa değeri değişimi \(_[_Kaynak_](https://www.coingecko.com/en/coins/maker)_\)_ |
-
-Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak MKR’nin bu kadar ilgi görmesinden üzerine, muhtemelen yatırımcılarda oluşan FOMO \(Fear of missing out - bir şeyleri kaçırma korkusu\) nedeniyle ilk çıktığı fiyata göre bir haftada yaklaşık 80 kat değer kazandı \(sonra düştü\). Piyasa değeri yazının yazıldığı hafta içinde yaklaşık 520 milyon ABD Doları civarında.
-
-COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında “şeytan ayrıntıda gizli”. Compound’un COMP’u ile MakerDAO’nun MKR’ı aslında birbirinden çok farklı tokenlar. Neden?
+COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında “şeytan ayrıntıda gizli”. Compound’un COMP’u ile MakerDAO’nun MKR’ı aslında birbirinden farklı tokenlar. Neden?
 
 En basitinden MKR tokenı sahipleri bu parayı sadece MakerDAO sistemini yönetmek için kullanmıyorlar. Aynı zamanda sistemin kâr ya da zararına da ortaklar \(bunun detayına MakerDAO’dan bahsedeceğimiz bir sonraki yazıda değineceğiz\).
 
 COMP ise Compound’un CEO’sunun kendi ağzından yaptığı açıklama ile herhangi bir ekonomik değer atfedilmeden yalnızca sistemin yönetimi konusunda söz sahibi olacak bir token. Dolayısıyla her iki tokenı aynı kefeye koyup değerlendirmek elma ile armutları karşılaştırmaya benziyor.
-
-## Sonuç <a id="sonu&#xE7;"></a>
 
 Compound DeFi hareketinin MakerDAO ile birlikte ilk öncülerinden. Üzerine kurulacak farklı uygulamalar ile birlikte gelecekte adını daha sık duyma ihtimalimizin yüksek olduğu bir para piyasası aracı. Gelecek heyecan verici - hep birlikte takip edeceğiz.
 
