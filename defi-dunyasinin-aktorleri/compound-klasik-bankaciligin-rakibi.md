@@ -1,6 +1,6 @@
 # Compound: Klasik bankacılığın rakibi
 
-Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
+Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
 
 Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika’da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller.
 
@@ -38,7 +38,7 @@ Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” n
 
 ### Hangi paralarda işlem yapılabiliyor? <a id="hangi-paralarda-i&#x15F;lem-yap&#x131;labiliyor"></a>
 
-Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kripto paralar ile USDC, Tether, DAI gibi sabit paralar ile mevduat yapabilir ya da kredi alabilirsiniz sistemden.
+Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kripto paralar ile USDC, Tether, DAI gibi sabit paralar ile [mevduat yapabilir ya da kredi alabilirsiniz sistemden](https://compound.finance/markets).
 
 ### Kimler kullanıyor? <a id="kimler-kullan&#x131;yor"></a>
 
@@ -62,11 +62,9 @@ Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıc�
 
 ## MakerDAO’dan farkı ne? <a id="makerdaodan-fark&#x131;-ne"></a>
 
-[MakerDAO](https://makerdao.com/en/), DeFi dünyasının en büyüğü ancak daha karışık olduğu için DeFi hareketine Compound’u ile başladık.
-
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası.
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([DAI](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi.
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok - onlar Dai de dahil başka paraları kullanıyorlar, aynı bir banka gibi. \(Sistemden Compund'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
 
 Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 

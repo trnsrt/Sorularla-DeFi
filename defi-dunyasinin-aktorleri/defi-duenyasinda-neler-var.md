@@ -42,19 +42,23 @@ Teknolojinin her alanında olduğu gibi burada da Ethereum'un rakipleri var, anc
 
 Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Ancak DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
 
-#### Bilgi Sağlayıcılar 
+#### Bilgi Sağlayıcılar:
 
-
+DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar. Ancak blokzincirlerin doğası gereği dış dünya ile bağlantısı bulunmaz. Bilgi sağlayıcılar \(ingilizce ile oracle\)  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
 
 #### Temel DeFi ürünleri
 
+İşte aslında en çok konuşulan ve DeFi dünyasına yeni adım atanların ilk karşılaştıkları DeFi protokolleri burada. Öncelikle klasik finansı taklit eden ürünler ile başlayan, şimdilerde yavaş yavaş DeFi'nin temel avantajlarını kullanarak klasik dünyada hayal bile edilemeyecek yeni ürünler sunan protokoller. Özünde birer akıllı kontrattan ibaret olan yazılım parçaları. 
 
+En önemlilerini belki de DeFi alanının en eski protokollerinden olan MakerDAO ile başlayarak bu bölüm içinde inceliyoruz. 
 
 #### Kaynak Sağlayıcılar
 
-
+DeFi dünyasında binlerce farklı hizmet olmasının kullanıcıya alternatif sunma açısından faydası olsa da, bir noktadan sonra akılları karıştırdığını da unutmamak gerek. Ama DeFi'nin birlikte çalışabilirlik temel prensibi sayesinde, artık farklı hizmetleri karşılaştırmak ve en optimum \(ki bu risk algısı, kazanç beklentisi,  işlemleri en hızlı/ucuz yapma gibi farklı parametrelere göre kişiden kişiye değişir\) hizmet kombinasyonunu bulmak mümkün. 
 
 #### Cüzdanlar/Önyüzler
 
+DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğe cüzdanlar. Cüzdanlar aynı zamanda bireyin bu dünyaya ilk adım atan kullanıcının elinde olması gerek ilk araçlar. Perakendede bir söz vardır 'Müşteriye kim dokunuyorsa en güçlü odur' şeklinde. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. Bu alana ilk adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili son bölümümüzde detaylı bilgiler yer alıyor. 
 
+Şimdi gelin bu kısımda önce temel DeFi ürünlerinden birkaçına göz atalım. Sonraki kısımda DeFi'nin altyapısını sağlayan hizmet sağlayıcılara, en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeyi amaçlayan son bölümde ise kullanıcıya en yakın olan servis sağlayıcılara bakalım. 
 
