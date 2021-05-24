@@ -8,7 +8,7 @@ Bu bölümde, gün geçtikçe önemi artacak olan DeFi dünyasını ve kullanıc
 
 Öncelikle, DeFi’nin klasik finansa göre en önemli avantajı ile başlayalım:
 
-## DeFi’nin en büyük avantajı ne? <a id="definin-en-b&#xFC;y&#xFC;k-avantaj&#x131;-ne"></a>
+### DeFi’nin en büyük avantajı ne?
 
 DeFi’nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı, **gücü kullanıcıya vermesi**.
 
@@ -24,7 +24,7 @@ Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da iş
 
 Peki DeFi bu gücü nasıl kullanıcıya verecek? İki temel özelliği var DeFi’nin: Birincisi, kişi ayırdetmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. İkincisi ise, içindeki her tür ürün ve platformun birbiri ile uyumlu bir şekilde beraberce kullanılabilmesi.
 
-## DeFi gelecek tüm dertler bitecek mi? <a id="defi-gelecek-t&#xFC;m-dertler-bitecek-mi"></a>
+### DeFi gelecek tüm dertler bitecek mi?
 
 Ancak hersey toz pembe değil bu dünyada. Örneğin DeFi’ye ilk adımı atmak oldukça zor ve zahmetli. Komisyonlar yüksek, kullanıcı arayüzlerinin hâlâ gelişmeye ihtiyacı var. Bütün bunların temel nedeni, DeFi dünyasının henüz emeklemeye başlamasının üzerinden daha bir yıl bile geçmemiş olması.
 
@@ -32,13 +32,13 @@ Bunun yanında, asıl zihinsel bariyerler var kullanıcıların aşması gereken
 
 Ancak öncesinde, eskilerin deyimi ile ‘teybi biraz daha başa saralım’. DeFi dünyasına girmeden önce nelere ihtiyaç var?
 
-## DeFi’ya girmeden önce ilk gereken kripto paraya sahip olmak <a id="defiya-girmeden-&#xF6;nce-ilk-gereken-kripto-paraya-sahip-olmak"></a>
+### DeFi’ya girmeden önce ilk gereken kripto paraya sahip olmak
 
 En başından başlarsak, DeFi dünyasını kullanmak için kullanıcının kripto parası olmak zorunda. Bu kripto para, şu an için ağırlıklı olarak Ethereum blok zincirinin parası ETH ama yakın gelecekte başka paralar da aynı işi görebilir.
 
 Kullanıcı, kripto paraya sahip olabilmek için de bir kripto para borsasına üye olmalı. İşte bu nedenle, kripto dünyasına ilk giriş aşaması, aslında klasik dünyaya oldukça yakın. Herhangi bir kripto para alımı için bir kripto para borsası kullanırken, kişi yine belirli bürokratik süreçlerden geçmek zorunda. Rekabetin de etkisi ile borsalar bu süreci kolaylaştırmak için ellerinden geleni yapsalar da, henüz ilk kripto parasını alırken “çok basit bir süreçti” diyene rastlamadım açıkçası.
 
-Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme olacağı. Ki aslında bu, DeFi dünyasına geçebilmek için ilk yapılması gereken hamle aynı zamanda. Bu ilk adım önemli, o nedenle gelin biraz daha açalım burayı:
+Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme olacağı. Ki aslında bu, DeFi dünyasına geçebilmek için ilk yapılması gereken hamle aynı zamanda. Bu ilk adım önemli, o nedenle gelin bir sonraki bölümde elektronik cüzdanlara bakalım. 
 
 |  |
 | :--- |
