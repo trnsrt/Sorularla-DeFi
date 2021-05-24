@@ -2,35 +2,35 @@
 
 Önceki bölümde finans dünyasında yeni başlayan DeFi hareketine değinmiş ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın kullanılanı MakerDAO..
 
-## MakerDAO nedir? <a id="makerdao-nedir"></a>
+### MakerDAO nedir?
 
-### TL; DR:
+#### TL; DR:
 
 MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kripto paraları teminat olarak veriyorlar ve karşılığında sistemin stabil parası olan Dai’yi yaratıyorlar. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi yakarak borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
 
-### Nasıl çalışıyor? <a id="nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+#### Nasıl çalışıyor?
 
 Elinizdeki belli 'sağlam' sayılan kriptoparaları teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparanızı sisteme kilitlemek anlamına geliyor. Örneğin Gönderdiğiniz her 150 birim ETH için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu Dai’yi istediğiniz noktada borsada bire bire yakın bir değerden ABD Doları’na çeviriyor ve kullanıyorsunuz. Bu para için bir maliyet ödüyorsunuz, sonrasında ise dilediğiniz noktada tekrar Dai satın alarak yok ediyor ve ETH’nize geri kavuşuyorsunuz.
 
-### Neden insanlar kullanıyor? <a id="neden-insanlar-kullan&#x131;yor"></a>
+#### Neden insanlar kullanıyor?
 
 Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH’ye yatırdınız. ETH’nin yükseleceğini düşünüyorsunuz ya da başka herhangi bir nedenle ETH’lerinizden ayrılmak istemiyorsunuz. Bu sistemi kullanarak hem nakit ihtiyacınızı karşılayabilir hem de ETH’nin getireceği kârdan yararlanabilirsiniz.
 
-### Kredi maliyeti ne? <a id="kredi-maliyeti-ne"></a>
+#### Kredi maliyeti ne?
 
 Kredinin maliyetleri kullanılan teminatın cinsine ve seçilen teminat yeterlilik oranına göre değişkenlik gösteriyor. Örneğin Mayıs 2021 itibariyle en çok kullanılan ETH kilitleyip %150 teminat oranı ile Dai borçlanmanın maliyeti yıllık 5.5% oranında. Faiz oranının değiştirmeye sistemin kullanıcıları karar veriyor. 
 
-### Ya ETH çok düşer de teminatımın altına inerse? <a id="ya-eth-&#xE7;ok-d&#xFC;&#x15F;er-de-teminat&#x131;m&#x131;n-alt&#x131;na-inerse"></a>
+#### Ya ETH çok düşer de teminatımın altına inerse?
 
 Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Aksi takdirde sistem ETH’nizi “bozuyor” ve %13 gibi bir ceza sonrası kalan paranızdan borcunuzu düşüp size geri veriyor.
 
 Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150’nin üzerine bir %50’lik bir ekstra teminat koymuşlar kullandıkları krediler için.
 
-### Kim borç veriyor bu sisteme? <a id="kim-bor&#xE7;-veriyor-bu-sisteme"></a>
+#### Kim borç veriyor bu sisteme?
 
 Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH’yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai’yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai’yi? Genel olarak stabil para kullanmak isteyen insanlara \(ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere\). Neden stabil kullanmak ister insanlar konusuna bir sonraki kısımın sonunda bulabileceğiniz   stabil paralar bölümünde değineceğiz. 
 
-### Dai parası nasıl sabit kalıyor peki? <a id="dai-paras&#x131;-nas&#x131;l-sabit-kal&#x131;yor-peki"></a>
+#### Dai parası nasıl sabit kalıyor peki?
 
 Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesinin otomatik olacağını düşünüyorlar. Şöyle ki:
 
@@ -40,7 +40,7 @@ Aynı şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha y�
 
 Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper](https://makerdao.com/en/whitepaper/)‘ı okumaya davet ederek konuyu kapatıyoruz.
 
-## Peki başarılı olmuş mu MakerDAO? <a id="peki-ba&#x15F;ar&#x131;l&#x131;-olmu&#x15F;-mu-makerdao"></a>
+### Peki başarılı olmuş mu MakerDAO?
 
 MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık anlaşmalar yok - kağıt imza vs yok. Sistem tamamen kodlanmış makineler aracılığıyla işliyor. Teminatınızı koyuyorsunuz, paranızı alıyorsunuz. Teminatınız %150’nin altına düşerse de ETH’niz bozduruluyor ve kredi borcunuzun üzerindeki teminatınız hesabınıza yatıyor. Bu nedenle kredi vermenin getirdiği kağıt ve bürokrasi masrafından kurtulma sistemin en önemli avantajlarından biri.
 
@@ -60,7 +60,7 @@ Böyle bir durumda makul olanı, ya ekstradan ETH koyarak ya da yarattığınız
 
 MakerDAO yöneticileri, sistemin güvenliğini sağlayan MKR token sahiplerine dönerek zarar görenleri zor durumdan kurtaracak bir plan önerdiler. Bu sayede kontratı yananların durumları düzeltildi.
 
-## MakerDAO her derde deva mı? <a id="makerdao-her-derde-deva-m&#x131;"></a>
+### MakerDAO her derde deva mı?
 
 Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otomatik \(insan eli değmeden\) yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
 
@@ -68,7 +68,7 @@ Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda 
 
 En büyük konulardan biri de teminat miktarı. Oldukça yüksek. Ama başta da yazdığımız gibi kredi sisteminin en masraflı ve karmaşık yönlerinden biri kredi derecelendirme ve geri ödememe oranları. Basitlik en başta bu iki özelliği budamaktan geliyor. Tabii ki bunun bir karşı maliyeti olacak, o da yüksek teminat oranları.
 
-## Gelecek nasıl görünüyor? <a id="gelecek-nas&#x131;l-g&#xF6;r&#xFC;n&#xFC;yor"></a>
+### Gelecek nasıl görünüyor?
 
 DeFi yani merkeziyetsiz finansın geniş kesimlerce benimsenmesi için birkaç alanda gelişme kaydetmesi gerekiyor:
 
