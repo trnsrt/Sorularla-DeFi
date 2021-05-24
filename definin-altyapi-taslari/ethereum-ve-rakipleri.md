@@ -1,6 +1,6 @@
 # Ethereum ve rakipleri
 
-Bu yazımızda gelin DeFi alanının ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve Ethereum’un buna karşı ne gibi planları olduğuna bakalım:
+Bu bölümde gelin DeFi alanının ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve Ethereum’un buna karşı ne gibi planları olduğuna bakalım:
 
 Merkeziyetsiz Finans yani DeFİ büyümesine 2020 yılının ortalarından itibaren başladı. DeFi özünde finansal ihtiyaçlarımızı karşılamak için kullandığımız kredi alma, mevduat, portföy yönetimi benzeri her tür ürünü blokzincir dünyasına taşımayı hedefleyen girişimlere deniyor.
 
@@ -60,7 +60,7 @@ Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan bl
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 
-### Sonuç:
+### Ethereum ve rakipleri üzerine son birkaç söz
 
 Ethereum blokzinciri DeFi’nin patlaması ile birlikte gerçekten beklemediği kadar büyük bir talep artışı yaşadı. Yüksek işlem ücretleri ya da işlemlerin blokzincire alınmasında yavaşlık yaşa da, sistem çökmesi gibi bir durum ile hiç karşılaşılmaması bir başarı sayılmalı.
 
