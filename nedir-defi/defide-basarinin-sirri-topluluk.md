@@ -52,7 +52,7 @@ Asıl olarak size fikir verecek yer, topluluğun kendi iç iletişim kanalların
 
 Eğer teknik bir insan iseniz, platformun kodlarının saklandığı github sayfalarını incelemek, ne kadar aktivite var anlamak da faydalı olur. Eğer platformun kullanıcı sayılarını merak ediyorsanız, [şu site](https://www.duneanalytics.com/rchen8/defi-users-over-time) size yardımcı olacaktır
 
-#### Ürünü kullanmaya başlayın - ama ufak ufak
+#### Ürünü kullanmaya başlayın \(ama ufak ufak\)
 
 Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araştırma sonrası içiniz rahat ediyor ise, ürünü kullanmaya başlayabilirsiniz. Burada da kabaca şöyle bir yol izleyebilirsiniz:
 

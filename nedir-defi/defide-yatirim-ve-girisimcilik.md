@@ -16,6 +16,8 @@ Kripto alanındaki yatırımlar için ICO’larda yaşanan bir nevi melek yatır
 
 Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bulabildikleri kısıtlı sayıda melek yatırımcıya anlatabilirken, ICO’lar fiziki sınır olmadığı için dünyanın her yerinden binlerce yatırımcıya ulaşabildiler. Üstelik melek yatırımcı için koyduğu para hatırı sayılır bir miktar iken ICO yatırımcıları çok ufak miktarlarda da yatırım yapabildiler. Bir de bunun üzerine ‘FOMO’ etkisi dediğimiz bir şeyleri kaçırma korkusu da eklenince insanlar bu yatırımlara bir nevi piyango gibi bakıp inceleme yapmadan para koymaya başladılar.
 
+
+
 |  |
 | :--- |
 | ICO peşindeki yatırımcılar _\(Image by_ [_Md Faysal Ahmed_](https://pixabay.com/users/faysal_2020-11539818/) _on_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3991306)_\)_ |
