@@ -19,7 +19,7 @@
 * [MakerDAO: Kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
 * [Compound: Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
 * [Uniswap ve DeFi'nin merkeziyetsiz borsaları](defi-dunyasinin-aktorleri/uniswap-ve-definin-merkeziyetsiz-borsalari.md)
-* [Yearn Finance: DeFi'da merkeziyetsiz portföy yönetimi:](defi-dunyasinin-aktorleri/yearn-finance-defida-merkeziyetsiz-portfoey-yoenetimi.md)
+* [Yearn Finance: DeFi'de merkeziyetsiz portföy yönetimi:](defi-dunyasinin-aktorleri/yearn-finance-defida-merkeziyetsiz-portfoey-yoenetimi.md)
 * [Synthetix ve DeFi türev piyasaları](defi-dunyasinin-aktorleri/synthetix-ve-defi-tuerev-piyasalari.md)
 * [Hegic: DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
 * [Nexus Mutual: DeFi'nin sigortası](defi-dunyasinin-aktorleri/nexus-mutual-definin-sigortasi.md)

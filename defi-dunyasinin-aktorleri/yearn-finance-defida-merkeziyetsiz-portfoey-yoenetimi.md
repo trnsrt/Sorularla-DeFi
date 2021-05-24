@@ -1,4 +1,4 @@
-# Yearn Finance: DeFi'da merkeziyetsiz portföy yönetimi:
+# Yearn Finance: DeFi'de merkeziyetsiz portföy yönetimi:
 
 Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir kripto para borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız. Merkeziyetsiz finans alanında durum daha da içler acısı. Neden? Sıralayalım…
 
@@ -94,7 +94,7 @@ Merkeziyetsizleştirme vizyonundaki adımlara baktığımızda, yol genelde güc
 
 Bu süreci planlamak kolay ancak gerçekleştirmek zor ve meşakkatli. Özellikle son adım. DeFi alanında bu son adımı gerçekleştirmeye yönelik keskin hamle 2020 yazında yönetimi tokenlaştırma oldu. 
 
-Yearn ekibi de, kendi merkeziyetsizleştirme sürecinde benzer bir süreç yaşadı. Ekip, yeni ürünleri tabiri caiz ise ‘çılgınlar gibi’ ardı ardına piyasaya sürerken, Temmuz ayı ortasında bir gün ansızın [YFI token](https://www.coingecko.com/en/coins/yearn-finance) adında bir yönetim tokeni çıkarttı. Bu tokenin özelliği kurucu ortaklara herhangi bir pay verilmeden, tamamının kullanıcılara dağıtılmış olması. Bu arada sadece 30.000 adet var bu tokenlardan ve yenisi gelmeyecek \(en azından tüm kullanıcılar aksi bir karar vermez ise\).
+Yearn ekibi de, kendi merkeziyetsizleştirme sürecinde benzer bir süreç yaşadı. Ekip, yeni ürünleri tabiri caiz ise ‘çılgınlar gibi’ ardı ardına piyasaya sürerken, Temmuz ayı ortasında bir gün ansızın [YFI token](https://www.coingecko.com/en/coins/yearn-finance) adında bir yönetim tokeni çıkarttı. Bu tokenin özelliği kurucu ortaklara herhangi bir pay verilmeden, tamamının kullanıcılara dağıtılmış olması. Bu arada sadece 30.000 adet var bu tokenlardan \(Ocak 2021’de mevcut YFI sahiplerinin oylaması sonucu 6,666 adet token daha basmaya [karar verdiler](https://cryptobriefing.com/yearn-mints-yfi-worth-200-million/). Basılan bu tokenların üçte biri geliştiricilere ödül olarak verilecek, kalanı ise Yearn hazinesinde tutulacak\). 
 
 Her ne kadar çıktığı sırada, Andre bangır bangır [“YFI’nin değeri yok, değeri 0” diye bağırsa da](https://medium.com/iearn/yfi-df84573db81), YFI token iki ay içinde 43.000 ABD Doları seviyesine kadar yükseldi. Sonrasında DeFi’nin ayı piyasasına girmesiyle fiyatı 8,600 ABD Doları seviyelerine kadar inse de, YFI token Kasım 2020 içinde 10.000-20.000 ABD Doları gibi geniş bir bant aralığında işlem görüyor. Bu da tüm Yearn sistemine 300-600 milyon ABD Doları arası bir değer biçilmesi anlamına geliyor.
 
