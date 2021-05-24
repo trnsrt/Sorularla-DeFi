@@ -68,11 +68,7 @@ Bir diğer örnek: Kripto paranız var ve likidite sağlayarak para kazanmak ist
 
 Merkeziyetsiz opsiyon piyasasının en büyük oyuncusu [Hegic](https://www.hegic.co/). Onu [Opyn](https://opyn.co/#/) takip ediyor. Bunların yanında yeni çıkan ya da çıkma aşamasında olan [Opium](https://opium.network/), [Auctus](https://auctus.org/), [Finnexus](https://finnexus.io/#/), [Primitive](https://primitive.finance/), [Pods](https://www.pods.finance/) ve [Hedget](https://hedget.com/) var.
 
-Hegic, yaklaşık 100 milyon ABD Doları’na yaklaşan üzerine kilitli para miktarı ile son zamanlarda diğer oyuncuların ciddi şekilde önüne geçmiş durumda \(kilitli para miktarı, yatırımcıların havuzlara koyduğu para demek\). Burada Hegic’in havuzunun henüz Ekim 2020’de başladığının da altını çizelim. İkinci ile arasındaki farka bakınca bu çok daha iyi anlaşılıyor \(her ne kadar Opyn farklı bir sistem izliyor olsa da\)..
-
-|  |
-| :--- |
-| _Hegic ve Opyn’da kilitlenen toplam miktar Kaynak:_[_DeFiPulse_](https://defipulse.com/) |
+Hegic, bir ara 100 milyon ABD Dolarına yaklaşan ancak Mayıs 2021 civari 50 milyon ABD Doları üzerine kilitli para miktarı ile lider ancak bir zamanlar geriden gelen ikinci Opyn 30 milyon ABD Doları ile ona yaklaşmış durumda. 
 
 ### Hegic nedir?
 
@@ -112,27 +108,9 @@ Yukarıdaki temel sorun nedeniyle genelde DeFi piyasası ürünleri, ama özelde
 
 #### Ve işte yine geldik DeFi’yi kurtaran havuz modeline…
 
-İşte DeFi piyasaları bu kısır döngüyü “havuz modeli” ile aştılar. Bu havuzların ilk örneklerinden biri Uniswap oldu. Hikayesini tekrar hatırlayalım:
+İşte DeFi piyasaları bu kısır döngüyü “havuz modeli” ile aştılar. Bu havuzların ilk örneklerinden biri üç bölüm önce bahsettiğimizi Uniswap olmuştu. 
 
-Uniswap, kendi merkeziyetsiz kripto borsasında yeterince likidite sağlayamayınca, önce yatırımcılarının koyduğu para ile havuzlar kurdu. Havuzlar, likidite sorununa bir parça çözüm oldular ancak büyüklüğü bir türlü istenen seviyelere ulaşmadı. Tam o sıralarda [Compound](https://compound.finance/)‘un başlattığı likidite sağlama karşılığı token verme hareketi, likidite sorununu çözme konusunda DeFi platformlara önemli bir eşik atlattı. Benzer modeli Uniswap da uyguladı ve bir yılı aşkın süredir yerlerde sürünen likidite bakın nasıl bir şekil aldı:
-
-|  |
-| :--- |
-| _Uniswap için kilitlenen para miktarı. Kaynak:_[_DeFiPulse_](https://defipulse.com/) |
-
-Token yani teşvik verme, başlangıçta “ama bu hormon enjekte etmek ile aynı!” şeklinde tepkiler ile karşılaştı. Bu tepkilerde bir parça haklılık payı olduğu, Kasım ayında token teşviğinin sona ermesi ile birlikte sisteme kitlenen paranın ciddi bir şekilde azalması ile anlaşıldı. Ancak birkaç ay içinde bu likidite geri geldi. Yani, arabaya dışarıdan verilen kablo ile sağlanan itici güç, içeride duran atıl gücü çalışır hale getirdi.
-
-Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken, Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da, 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC tokenı çıkardı. Bu sayede, Hegic üzerine kilitlenen para miktarı ciddi bir artış kazandı:
-
-|  |
-| :--- |
-| _Hegic ve Opyn’da kilitlenen toplam miktarı. Kaynak:_[_DeFiPulse_](https://defipulse.com/) |
-
-Hemen dikkatinizi çekmek isterim: Opyn yukarıdaki grafikte yerlerde sürünen kırmızı çizgi, yani eşten eşe sistemi gerçekten çalışmıyor. Yalnızca kilitli miktar değil ilgi çekici olan: Bu parayı havuzlara kilitleyenlerin aldıkları komisyon gelirleri de üç ay gibi kısa bir sürede ciddi bir rakama ulaştı:
-
-|  |
-| :--- |
-| _Hegic 2020 yılı üç aylık gelirler. Kaynak:_[_Messari_](https://messari.io/) |
+Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken, Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da, 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC tokenı çıkardı. Bu sayede, Hegic üzerine kilitlenen para miktarı ciddi bir artış kazandı. 
 
 #### Sistem nasıl çalışıyor?
 
