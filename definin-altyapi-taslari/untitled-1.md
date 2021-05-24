@@ -10,7 +10,7 @@ Ethereum da bu girişimlerin ağırlıklı olarak kullandığı akıllı kontrat
 | :--- |
 | _Image by_ [_Clarence Alford_](https://pixabay.com/users/clarencealford-5516293) _from_ [_Pixabay_](https://pixabay.com/) |
 
-## ETH’nin sorunları ne? <a id="ethnin-sorunlar&#x131;-ne"></a>
+### ETH’nin sorunları ne?
 
 2020 yılının ortalarında başlayan DeFi hareketi nedeniyle Ethereum üzerindeki işlem hacmi ciddi şekilde arttı. Ne tip işlem hareketleri görüldü? Ağırlıklı olarak DeFi tokenlarının alım ve satımı.
 
@@ -28,13 +28,13 @@ Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alı
 | :--- |
 | _Ethereum platformu üzerindeki ortalama \(median\) işlem ücretleri. Kaynak:_ [_Coinmetrics_](https://network-charts.coinmetrics.io/) |
 
-## Kimler ETH’nin rakibi olarak lanse ediliyor? <a id="kimler-ethnin-rakibi-olarak-lanse-ediliyor"></a>
+### Kimler ETH’nin rakibi olarak lanse ediliyor?
 
 İşte Ethereum’un bu yüksek işlem ücretleri özünde Ethereum rakibi olanlar için bulunmaz bir fırsat yarattı.
 
 Alternatif zincirler birkaç nedenle daha ucuza işlem yaptırabiliyorlar. Öncelikle, kullanımları çok az olduğu için blokzincir üzerinde boş kapasite mevcut. Bunun yanında birçoğu Ethereum’un kulandığı Proof-of-Work yani Bitcoin’in başlattığı sistem güvenliğini madencilerin enerji harcaması ile sağlama mekanizmasını kullanmıyorlar. Daha yeni teknoloji olan Proof-of-Stake benzeri enerji harcamayan sistemler kullanmaktalar.
 
-## Kim hangi alanda rakip olmaya çalışıyor? <a id="kim-hangi-alanda-rakip-olmaya-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+### Kim hangi alanda rakip olmaya çalışıyor?
 
 Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an çok konuşulan birkaç tanesini isim olarak verip Ethereum’dan farklarına kısaca değinelim:
 
@@ -46,7 +46,7 @@ Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum’u kuran ekipte olup s
 
 Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları \(ingilizcesi ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 
-## ETH bunlara nasıl cevap verecek? Verebilecek mi? <a id="eth-bunlara-nas&#x131;l-cevap-verecek-verebilecek-mi"></a>
+### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 
 Aslına bakarsanız Ethereum’un ‘tüm dünyanın kullanabileceği bir bilgisayar olmak’ gibi bir vizyonu olsa da, bu alanda ‘tek’ olmak gibi bir hedefi yok. Zaten yukarıda saydığımız diğer blokzincirler ile yakın ilişkileri de devam ediyor. Örneğin, eğer takip ediyorsanız Avalanche kurucusu Emin Gür Sirer hocanın Twitter’da Ethereum’un defacto lideri Vitalik Buterin ile sık sık yazıştığını görebilirsiniz.
 
@@ -60,19 +60,9 @@ Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan bl
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 
-## Sonuç: <a id="sonu&#xE7;"></a>
+### Sonuç:
 
 Ethereum blokzinciri DeFi’nin patlaması ile birlikte gerçekten beklemediği kadar büyük bir talep artışı yaşadı. Yüksek işlem ücretleri ya da işlemlerin blokzincire alınmasında yavaşlık yaşa da, sistem çökmesi gibi bir durum ile hiç karşılaşılmaması bir başarı sayılmalı.
 
 Rakip akıllı kontrat platformları, düşük işlem ücreti ve Ethereum ile kurulacak bağlar sayesinde, özellikle belli dar alanlarda \(örneğin yüksek işlem yükü getiren sanat eserleri kontratları gibi\) pazar payı kapabilirler. Ethereum da orta ve nispeten uzun vadede kendi sorunlarını çözme konusunda bir plana sahip. O kendi sorunlarını çözene kadar bu alan ne kadar büyüyecek ve rakipler bu büyümeden ne kadar pay alacaklar, hep birlikte göreceğiz. Hep dediğimiz gibi gelecek heyecanlı…
-
-## Arkası yarın <a id="arkas&#x131;-yar&#x131;n"></a>
-
-Bir sonraki yazımızda ETH’nin merkeziyetsiz rakipleri dışında burada sözünü etmediğimiz ve merkezi olarak son zamanlarda ön plana çıkan Binance Chain’den bahsedeceğiz.
-
-_Not 1: Bu yazı ilk olarak 27 Şubat 2021’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/ethereum-ve-rakipleri/)
-
-_Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
-
-_Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun._
 
