@@ -2,7 +2,7 @@
 
 [Nexus Mutual](https://nexusmutual.io/), DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. Gelin önce hep birlikte Nexus Mutual’a ekonomik ve potansiyel olarak bakalım sonra da teknik olarak sistem nasıl çalışıyor, tokeni [NXM](https://www.coingecko.com/en/coins/nexus-mutual) nasıl fiyatlanıyor konularına değiniriz.
 
-## Merkeziyetsiz sigortacılık olur mu? <a id="merkeziyetsiz-sigortac&#x131;l&#x131;k-olur-mu"></a>
+### Merkeziyetsiz sigortacılık olur mu?
 
 Her ne kadar bildiğimiz klasik finans ile belli alanlarda kesişse de DeFi yani merkeziyetsiz finans kendi içinde ayrı bir dünya olmaya doğru hızla ilerliyor. DeFi aktörlerinin nihai hedefi de bu aslında. Ancak fiziksel dünya ile iletişimi kesebilmek için belli temel gereksinimlerin karşılanması gerekiyor. Bunların en önemlilerinden biri de sigorta. Üstelik DeFi alanında klasik finansa göre daha da kritik bu gereksinim. Neden?
 
@@ -20,7 +20,7 @@ Halbuki DeFi dünyasını teknik olarak bilenler ya da projeleri yakından takip
 
 Teknik olarak konuya aşina olmayan geniş kesimler, kendilerini güvende hissedebilmek için ufak bir ücret vermeye razı. İşin içine daha girmiş olanlar ise ücreti karşılığı o riski almaya hazır. İki taraf, arada masraflı bir aracı olmadan bir araya gelirse, merkezi olmayan şahane bir model ortaya çıkabilir.
 
-### DeFi’da sigorta sisteminin farkı ne?
+#### DeFi’da sigorta sisteminin farkı ne?
 
 DeFi alanındaki sigortacılık klasik sigortacılığa mantık olarak çok benziyor:
 
@@ -34,7 +34,7 @@ Sigortacılığı belli bir ücret karşılığı bir risk alma ve sonrasında b
 
 DeFi’da pek çok işlemde olduğu gibi Akıllı Kontratlar burada da devrede. Ne diyoruz hep: Bu dünyada kod kanun. Hangi durumlarda sigortanın geçerli olduğu baştan belli ve taraflarca kabul edildikten sonra, Akıllı Kontrat’ın yaptığı konu edilen olayın gerçekleşmesi durumunda zarar görene ödeme yapmak. Yatırımcılara da toplanan risk primlerinden gerçekleşen hasarlar düşüldükten sonra kalanını ödemek. Tabii bu teoride böyle. İşin detaylarına baktığınızda tam bir merkeziyetsiz yapıya ulaşmak için daha kırk fırın ekmek yenmesi gerektiğini açıkça görüyorsunuz. Gelin sisteme daha detaylı bakalım şimdi:
 
-## Nexus Mutual nedir? <a id="nexus-mutual-ne-nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+### Nexus Mutual nedir?
 
 Merkeziyetsiz sigortacılık alanında ortaya çıkmış ve yaygınlaşmış en büyük girişim Nexus Mutual. Kurucusu uzun yıllar sigortacılık sektöründe çalışmış bir Avustralyalı, [Hugh Karp](https://twitter.com/HughKarp).
 
@@ -42,11 +42,11 @@ Kuruluş fikri, Ethereum’un ilk krizi olan “[The DAO hacki](https://medium.c
 
 Bunun temel nedeni 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce’de FOMO \(Fear-of-Missing-Out\) olarak adlandırılan, “bir şeyleri kaçırıyorum” duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde [DeFi pazarı katlanarak arttı](https://defipulse.com/). Piyasaya yeni giren yatırımcıların kendilerini teknik olarak yetersiz hissetmeleri Nexus benzeri sigortalara olan ilgiyi tetikledi. Keza sonrasında getiri çiftçiliği olarak adlandırılan ‘yield farming’in Ağustos ve Eylül aylarından arşa çıkması sırasında varlıklarını DeFi platformlara emanet eden yatırımcıların duydukları tedirginlik Nexus ürünlerine talebi daha da artırdı.
 
-## Nasıl çalışıyor Nexus sistemi?
+### Nasıl çalışıyor Nexus sistemi?
 
 Temel olarak çalışma şekli kullanıcıların Nexus Mutual sistemine üye olduktan sonra sigorta yaptırmak istedikleri DeFi platformunu \(örneğin Compound\), süreyi ve miktarı [seçmeleri](https://app.nexusmutual.io/cover/buy/select-contract). Bunun karşılığı olarak sistem kendilerine bir prim rakamı veriyor. Kullanıcı da cüzdanını bağlayıp ETH ya da DAI kullanarak bu primi ödeyip kendini sigortalayabiliyor. Bu arada Nexus Mutual’un sigorta sözcüğünden kaçınarak onun yerine ürünlerine kapsam/koruma \(coverage\) adını verdiğini de belirtelim.
 
-### Neler sigortalanıyor, neler sigorta dışı? <a id="neler-sigortalan&#x131;yor-neler-sigorta-d&#x131;&#x15F;&#x131;"></a>
+#### Neler sigortalanıyor, neler sigorta dışı?
 
 Öncelikle şunu belirtmekte fayda var - şu aşamada sigorta edilebilen riskler çok kısıtlı. Neler sigorta ediliyor derseniz, temel olarak sadece ‘token satın alan bir kullanıcının, yatırım yaptığı projedeki teknik risklerden dolayı oluşacak zararlar’ diyebiliriz.
 
@@ -56,7 +56,7 @@ Nedir bunlar? Örneğin, Akıllı Kontrat’ın yazılımındaki bir hatadan dol
 
 Özellikle kodun düzgün çalıştığı \(kod hatası içermeyen\) platformlarda çıkabilecek diğer sorunlar henüz kapsam dışı. Nedir bunlar derseniz, örneğin, sisteme bilgi veren dış kaynaklarda \(oracle da diyoruz bunlara\) oluşabilecek sorunlar yani dış kaynaktan sisteme yanlış bilgi gelmesi bir sorun. Ya da DeFi sistemlerinin yönetim yapıları yeni yeni oturmaya başlıyor, burada çıkabilecek yönetimsel sorunlar bir başkası. Farklı bir örnek: platformların verdiği yönetim ile ilgili teşviklere göre hareket eden kimi kullanıcıların aldığı aksiyonlar başka diğer kullanıcılar için zarara neden olabilir. İşte bu tip koda dayanmayan hataları karşılayacak bir sigorta henüz yok. Nexus Mutual hangi riskleri kapsayacak ürünler çıkaracak bekleyip göreceğiz.
 
-### Ortaklıklar <a id="ortakl&#x131;klar"></a>
+#### Ortaklıklar
 
 Nexus Mutual’un sigortasının başarısı diğer projelerin de ilgisini çekti - ve ilginç ortaklıklar/ürünler de gelişmeye başladı.
 
@@ -64,13 +64,13 @@ Nexus Mutual’un sigortasının başarısı diğer projelerin de ilgisini çekt
 
 Ne işe yarıyor bu ürünler? NXM, sadece üyeleri tarafından alınıp satılabilen dolayısıyla KYC \(know-your-customer, müşterini tanı\) prosedürü uygulanan bir token. Merkeziyetsiz Finans dünyasının kullanıcıların gizliliği konusunda hassas olan kesimlerine hitap edemiyor. Yukarıdaki üç ürün de [KYC olmadan sigorta alınabilmeye olanak sağlıyor](https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/).
 
-### Havuz problemleri yine karşımızda… <a id="havuz-problemleri-yine-kar&#x15F;&#x131;m&#x131;zda"></a>
+#### Havuz problemleri yine karşımızda…
 
 Sistemin çalışması aslında bir havuz şeklinde. Evet, daha önceki Uniswap bölümünde bahsettiğimiz havuz sistemi burada da geçerli.
 
 Hatırlarsak, Uniswap’da iki bölmeli iki paradan oluşan havuzlar vardı. Alım satım yapanlar havuzdaki bir paradan almak istedikleri yerine orada bulunan diğer parayı bırakıyorlardı.
 
-### Nexus’un havuzu diğerlerinden farklı… <a id="nexusun-havuzu-di&#x11F;erlerinden-farkl&#x131;"></a>
+#### Nexus’un havuzu diğerlerinden farklı…
 
 Nexus Mutual havuzunun çalışma prensipleri ise bir parça farklı. Gelin hızlıca bir göz atalım:
 
@@ -82,7 +82,7 @@ Peki başlangıçta sistem nasıl başladı? Havuz boş muydu? Hayır, bu alanda
 
 Havuzdaki para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH’e dayanıyor - en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri DeFi platformlarının çoğunluğu da Ethereum üzerinde işlem yaptığı için risk ETH bazlı, o nedenle bu riske karşı fonları da ETH olarak değerlendirmek mantıklı.
 
-### Kim niye NXM alsın?
+#### Kim niye NXM alsın?
 
 Birkaç neden var.
 
@@ -94,7 +94,7 @@ Bunun dışında NXM sahibi olarak tazminat isteyenlerin taleplerini değerlendi
 
 Bu arada bir konuyu tekrarlamakta fayda var: Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual’ın belli alanlarda kısıtları olduğunu belirtmiştik. Örneğin, NXM yalnızca Nexus Mutual’un kendi kurduğu platformda işlem görüyor. NXM satın almak isteyenler Nexus Mutual sistemine üye olmak zorundalar. Üye olmak için de müşterini tanı \(KYC - Know your customer\) işleminden geçmek gerekiyor. KYC işlemlerini yapan ise İngiltere merkezli ve lisanslı bir şirket.
 
-### NXM fiyatı neye göre belirleniyor?
+#### NXM fiyatı neye göre belirleniyor?
 
 İşte Nexus Mutual’ın diğer merkeziyetsiz sistemlerden bir farkı daha. Nexus’un tokeni NXM’in değeri serbest piyasadaki arz ve talebe göre belirlenmiyor, zira NXM kripto para borsalarında işlem gören bir token değil. Bunun yerine NXM’in fiyatı bir algoritma ile hesaplanıyor. Nasıl bir hesaplama bu?
 
@@ -112,11 +112,11 @@ Yine aynı şekilde eğer havuzdaki para minimum rakama doğru yaklaşmaya başl
 
 Özetle algoritma dediğimiz bu basit formül sayesinde hedeflenen, NXM fiyatı ile oynayarak, havuzdaki kapital miktarının belli bir bant içinde oynamasını sağlamak. Bu bandın altı minimum karşılık oranı olan MCR, üstü ise MCR’nin %30 fazlası.
 
-### Nasıl sigorta yapıyor kullanıcılar?
+#### Nasıl sigorta yapıyor kullanıcılar?
 
 Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse de ETH ile yapabiliyor.
 
-#### Peki sigorta oranını kim nasıl belirliyor?
+_**Peki sigorta oranını kim nasıl belirliyor?**_
 
 Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu da staking dediğimiz rehin verme işlemi ile yapıyorlar.
 
@@ -130,19 +130,19 @@ NXM satın alan dolayısıyla genel sisteme yatırım yapmış bir yatırımcı 
 
 Aslına bakarsanız, staking Akıllı Kontratların risklerini anlayabilmek için güzel bir endikatör aynı zamanda. Risk tutarı aynı görünen iki Akıllı Kontrat’tan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir.
 
-#### Bir sorun olduğunda ödeme yapılacağına kim karar veriyor?
+_**Bir sorun olduğunda ödeme yapılacağına kim karar veriyor?**_
 
 Her ne kadar Akıllı Kontratlar var desek de, ödemeler henüz otomatik yapılacak seviyeye gelmiş değil. Bunu DeFi’nin emekleme aşamasında olmasına bağlayabilirsiniz - belki önümüzdeki dönemde orada da olabildiğince otomatize bir sistem olabilir. Bir sistem sorunu olduğu ve ödeme yapılması gerektiğine Nexus Mutual’a üye olanlar oylama ile karar veriyorlar. Eğer Nexus Mutual üyeleri \(ellerinde NXM token tutanlar\) sistemsel bir sorun olduğu ve ödeme yapılması gerektiği konusunda bir karar verirlerse işte o zaman Akıllı Kontratlar devreye girip ürün satın almış olan kullanıcılara tazminatlarını ödüyorlar.
 
-#### Nasıl hasar talep ediliyor?
+_**Nasıl hasar talep ediliyor?**_
 
 Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, Nexus Mutual sitesine başvuruyorlar. Yapılan talep bir kısım NXM sahibi tarafından değerlendiriliyor. Burada ilginç bir nokta var: Talebi değerlendirenler ellerindeki NXM’leri sisteme kilitliyorlar. Kararların %70 çoğunluk ile verilmesi gerekiyor\[^2\]. Çoğunluk ile aynı yönde oy kullananlar ekstra NXM kazanıyor. Karşı oy kullananların ise NXM’leri bir süreliğine kilitli kalmaya devam ediyor ve incelemeye tabi tutuluyor. İnceleme sonucu kötü niyetli oldukları saptanırsa NXM’leri yakılıyor. Gördüğünüz gibi hasar talep sisteminin değerlendirilmesi hâlâ manuel şekilde oluyor denebilir - zira çoğunluğa karşı oy kullananları değerlendiren bir komite var beş üyeden oluşan - çok da merkeziyetsiz sayılmaz şu aşamada.
 
-#### Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?
+_**Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?**_
 
 Şimdiye kadar bir tek olayda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları’na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b). Şu ana kadar toplam 53 hasar talebi geldiğini ve sadece az önce bahsettiğimiz bZx hasarına ait üç talebin karşılandığını, 47 talebin reddedildiğini de hatırlatalım\[^3\]
 
-## Önümüzdeki dönemde Nexus'u neler bekliyor? <a id="nexusun-&#xF6;n&#xFC;m&#xFC;zdeki-d&#xF6;nemde-ba&#x15F;ar&#x131;l&#x131;-olmas&#x131;-i&#xE7;in-neler-gerekli"></a>
+### Önümüzdeki dönemde Nexus'u neler bekliyor?
 
 Nexus özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri şart. Ama asıl büyüme, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik kullanıcıların mevcut platformlarda zaman geçirdikçe kendilerini daha rahat hissedip platform riskine para ödemeyi bırakmaları da söz konusu olabilir. yEarn benzeri yapacakları ortaklıklar onların daha geniş kitleler tarafından kullanılmasını sağlayabilir.
 
