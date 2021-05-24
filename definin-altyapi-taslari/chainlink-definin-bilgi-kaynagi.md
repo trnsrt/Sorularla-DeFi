@@ -2,7 +2,7 @@
 
 Bu bölümde, son kullanıcı olarak direkt olarak kullanmadığımız ancak Merkeziyetsiz Finans için kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım:
 
-## Nedir Oracle? <a id="nedir-oracle"></a>
+### Nedir Oracle?
 
 Oracle’in tam Türkçesi karışık. Kahin ya da uzman olarak çevrilebilir. Peki ne işe yarar?
 
@@ -20,7 +20,7 @@ Bu, en basit ve bariz örnek. İki yıl önce yayınlanan [“Tahmin piyasaları
 
 ABD seçimi gibi tek bir olaya bağlı tahminlerde işe yarayabilecek olan manuel bilgi aktarımı, merkeziyetsiz dünyada çok da çalışmayacak gibi görünüyor. Gelin bakalım ne gerekiyor DeFi dünyasına:
 
-### Merkeziyetsiz dünya için neden önemli?
+#### Merkeziyetsiz dünya için neden önemli?
 
 Merkeziyetsiz finans dünyasının oyuncusu olan değişik platformlar, aynı bir legonun parçaları gibi birbirine iç içe geçmiş bir şekilde çalışıyorlar. Yukarıdaki basit örneğin ötesinde, bu lego parçalarının birbirleriyle uyumlu şekilde hareket edebilmeleri için onlarca hatta yüzlerce bilginin akıllı kontratlara akması gerekiyor. Bunu sağlayabilmek için kaynaklardan alınan bilginin hem doğru ve tarafsız hem de çok hızlı bir şekilde toplanması gerekiyor.
 
@@ -28,13 +28,13 @@ Bir örnek verelim: Sentetik türev piyasaları, basitçe herhangi bir ürünün
 
 İşte oracle dediğimiz uzmanlar, Akıllı Kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Ve her ne kadar direkt temasa geçmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
 
-### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
+#### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
 
 Yukarıda merkeziyetsiz bir oracle örneği verdik ancak hemen belirtmek lazım; bu alanda en büyüklerden bir tanesi ABD’nin en büyük merkezi kripto borsası olan Coinbase tarafından sunulan merkezi bir oracle. [Coinbase Price Oracle](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068) sayesinde, piyasada işlem gören tokenların fiyat bilgilerini sürekli bir biçimde elde etmek mümkün.
 
 Merkezi yapılar, DeFi dünyasında genelde hoş karşılanmazlar. Bunun temel nedeni, hep bahsettiğimiz dijital dünyada merkezi yapıların güvenlik açığı yaratma algısı. Zira, tek kaynak olmaları nedeniyle bu yapılara yapılacak saldırılar fiyatların manipüle edilmesine yol açabilir. Bu da, o fiyatları kullanarak hizmet veren platformları zor durumda bırakabilir.
 
-### Merkeziyetsiz platformlar nasıl yapıyorlar bu işi?
+#### Merkeziyetsiz platformlar nasıl yapıyorlar bu işi?
 
 Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım \(son kullanıcı olarak ilginizi çekmiyor ise bir sonraki bölüme atlayabilirsiniz\):
 
@@ -46,7 +46,7 @@ Anlaşma sağlanıp sistem çalışmaya başladığında, bilgi sağlayıcı üy
 
 Sonrasında akıllı kontrat, farklı üyelerden gelen teyid edilmiş bilgilerin ağırlıklı ortalamasını alıp bir değer buluyor ve talep sahibine bildiriyor. Böylece, bir kişiye bağlı kalmadan, istendiği kadar farklı kaynak kullanılarak olabildiğince tarafsız bilgi sağlanmış oluyor. \[^2\]
 
-### Son zamanlarda önemi arttı mı?
+#### Son zamanlarda önemi arttı mı?
 
 DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı… Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağın en çok meşgul eden 5. Ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler\(pdf\)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
 
@@ -58,7 +58,7 @@ Bu alandaki belli başlı oyuncular [Chainlink](https://chain.link/), [Band Prot
 
 Chainlink’in bu ağırlığı neye dayanıyor, ne kadarı anlaşılabilir, onu bir sonraki yazımıza bırakalım artık..
 
-## Sıkıntıları neler? <a id="s&#x131;k&#x131;nt&#x131;lar&#x131;-neler"></a>
+### Sıkıntıları neler?
 
 Merkeziyetsiz Finans dünyasında oracle sistemlerinin en büyük sıkıntısı gecikmeler. Yukarıda bilgi aktarımda bahsetmiştik. Bilgi toplanıyor, blokzincir ağına aktarılıyor, orada teyit ediliyor ve talep edene gönderiliyor. Dijital dünyada aslında saniyeler içinde yapılabilecek bir işlem. Ancak burada bilginin teyidi sonrası blokzincire yazılıyor olması nedeniyle, blok oluşturma hızları darboğaz yaratıyor. Örneğin Ethereum sisteminde her bir blok 10-20 saniye arasında oluşuyor. Bu da bilginin ulaşımında gecikmeler olması demek.
 
@@ -66,7 +66,7 @@ Bunun yanında, bilgiyi tek bir kaynaktan almak da sıkıntı yaratabiliyor. Ör
 
 Şimdi de Chainlink örneğini daha yakından inceleyerek, farklı ürünler neler olabilir ve bu alan daha nerelere ulaşabilir ona bakalım:
 
-## Nedir bu Chainlink? <a id="nedir-bu-chainlink"></a>
+### Nedir bu Chainlink?
 
 En basit şekliyle açıklamak istersek, Chainlink, her tür blokzincir ve DeFi platformuna hizmet veren bir ara yapı. Yaptığı, bu platformların kullandığı akıllı kontratların ihtiyaç duyduğu blokzincir dışı bilgileri bulup kontrata aktarmak.
 
@@ -88,7 +88,7 @@ ICO sonrasında da devam eden ürün ve platform geliştirme sürecinin devamın
 
 Her ne kadar hizmet verdiği sektör ağırlıklı olarak Merkeziyetsiz Finans olsa da, Chainlink için merkeziyetsiz bir platform demek doğru değil. Chainlik ağı üyeleri dağıtık bir şekilde görev yapıyor ama diğer alanlarda sıkı bir merkezilik söz konusu. Örneğin, LINK tokenlarının herhangi bir yönetim hakkı yok. Zaten, bu tokenların ciddi bir kısmı halen Chainlink Labs kasasında. Ağın yönetimi de elbette Chainlink ekibinin elinde.
 
-## Chainlink tokeni LINK <a id="chainlink-tokeni-link"></a>
+### Chainlink tokeni LINK
 
 Chainlink tarafından yapılan ICO ile hayata geçirilen LINK esasında iki ana işe yaramakta:
 
@@ -96,11 +96,11 @@ Birincisi, bilgiye ihtiyacınız var ve bunu Chainlink’ten sağlamak istiyorsa
 
 İkincisi ise, Chainlink ağı üyesi iseniz ve hizmet vermek istiyorsanız, elinizdeki LINK tokenları rehin etmeniz gerekiyor. Üstelik ne kadar çok rehin ederseniz, Chainlink ağını yönetenlerin size hizmet verme ihtimali o kadar yükseliyor. \(Hemen belirtelim rehin verme - staking - henüz başlamadı\).
 
-### LINK ile ilgili eleştiriler
+#### LINK ile ilgili eleştiriler
 
 LINK ile ilgili birkaç eleştiri var. Dilerseniz, gelin onlara kısaca göz atalım:
 
-#### LINK tutmak gerekli mi?
+_**LINK tutmak gerekli mi?**_
 
 Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.io/)‘den [Ryan Selkis](https://twitter.com/twobitidiot)‘in şu eleştirileri önemli:
 
@@ -108,7 +108,7 @@ _“LINK bir ödeme tokeni olduğu için, Chainlink üyelerine ödeme yapmak dı
 
 _Konu Chainlink güvenliğini sağlamak için LINK rehin etmek ise, mevcut ücret modeli ne stabil ne de ölçeklenebilir. İşlem başına ücretleme şeklinde bir öneri var, ancak böyle bir uygulama Chainlink hizmetlerini kullanılamayacak kadar pahalı bir hale getirir.”\[^1\]_
 
-#### Chainlink XRP ile aynı akıbeti paylaşır mı?
+_**Chainlink XRP ile aynı akıbeti paylaşır mı?**_
 
 İçinde bulunduğumuz ay içinde, gündemi takip ettiyseniz XRP tokenin başına gelenleri okumuşsunuzdur. Kaçıranlar için hatırlatalım:
 
@@ -116,7 +116,7 @@ XRP, Ripple adlı bir teknoloji şirketi tarafından 2013 yılında yaratılmı�
 
 Şu aralar SEC’in Chainlink \(daha doğrusu kurucusu Chainlink Labs\) için de benzer şekilde suçlamalar getirebileceği konuşuluyor. Zira, Chainlink Labs da 2017 yılında aynı Ripple benzeri bir ICO yaptı ve halen LINK’in %35’ine sahip. Son günlerde bu [dedikoduların arttığını](https://twitter.com/bit_gossip/status/1343214669201371138) da söyleyelim.
 
-#### Chainlink fazla PR mı kullanıyor?
+_**Chainlink fazla PR mı kullanıyor?**_
 
 Öte yandan, kripto dünyasında hem Chainlink hem de Ripple için getirilen ortak bir eleştiri var ki, o da her iki yapının kullandığı yoğun reklam, pazarlama ve halkla ilişkiler kampanyaları.
 
@@ -126,13 +126,13 @@ Chainlink de aynı şekilde, hangi platform ile hizmet sağlayıcı olarak anla�
 
 Bu benzerliklerden dolayı Chainlink Ripple’a, tokeni LINK XRP’ye benzer mi? Gayet tabii hayır. Ancak, böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi bir platform olarak değerlendirilmesi gerektiği algısını güçlendiriyor.
 
-#### LINK fazla mı değerli?
+_**LINK fazla mı değerli?**_
 
 Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil. Ancak, yine yukarıda bahsettiğimiz Ryan Selkis’in bir başka eleştirisini de dikkate almakta fayda var:
 
 Şu an için LINK tokenin toplam değerinin, tüm DeFi’nin üzerine kurulu olduğu ETH sisteminin değerinin yaklaşık %6’sı olduğunu görüyoruz. LINK tokenın toplam değeri yaklaşık 5 milyar ABD Doları seviyesinde. Görevi ekosisteme bilgi sağlamak olan bir hizmetin tek bir oyuncusunun değeri bu kadar eder mi, değerlendirmesi siz sevgili okuyucunun.
 
-#### Chainklink kötü niyetli mi?
+_**Chainlink kötü niyetli mi?**_
 
 Chainlink için [Zeus Capital](https://zeus-capital.com/) isimli bir yatırım fonunun 2020 Temmuz’unda yayınladığı bir rapor \([pdf](https://zeus-capital.com/assets/The_Chainlink_Fraud_Exposed.pdf)\) oldukça ilgi çekti.
 
@@ -148,7 +148,7 @@ Son zamanlarda çıkan “Link, XRP gibi mi olacak?” söylentilerinin arkasın
 
 Dolayısıyla, yukarıdaki Zeus Capital iddiaları, “çamur at izi kalsın” mı yoksa “ateş olmayan yerden duman çıkmaz” mı şeklinde değerlendirilmeli, karar siz okuyucuya kalmış durumda.
 
-## Chainlink ve tokeni LINK üzerine son birkaç söz <a id="sonu&#xE7;"></a>
+### Chainlink ve tokeni LINK üzerine son birkaç söz
 
 Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının ayağa kalkıp yürümesi için gerekli yapı taşlarından biri de oracle servis sağlayıcılar. Şu an için tek bir oyuncunun ağırlığında olması ve merkezi servis sağlayıcıların potansiyel risk barındırması nedeniyle, bu alan aynı hizmet verdiği DeFi platformları gibi henüz olgunlaşmış sayılmaz. Bu alandaki ihtiyacı düşünürsek, önümüzdeki dönemde teknik olarak farklı ürünlerin çıkması ve bu alanın oyuncularının hacim olarak büyümesi kaçınılmaz görünüyor…
 
