@@ -44,7 +44,7 @@ Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yap
 
 Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. [Ana prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu:
 
-* _Karşılıklı kullanılabilirlik ve açık kayna_k: Bütün projelerin kurulurken karşılıklı kullanılabilir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin daha kuruluşları sırasında birbirlerini inceleyerek ileri aşamalarda birlikte nasıl çalışabilecekleri ile ilgili ortak bir bilinç oluşturmak.
+* _Karşılıklı kullanılabilirlik ve açık kaynak_: Bütün projelerin kurulurken karşılıklı kullanılabilir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin daha kuruluşları sırasında birbirlerini inceleyerek ileri aşamalarda birlikte nasıl çalışabilecekleri ile ilgili ortak bir bilinç oluşturmak.
 * _Ulaşılabilirlik ve finansal kapsayıcılık_: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde “değer”in \(ya da bir varlığın\) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi.
 * _Finansal şeffaflık_: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı.
 
