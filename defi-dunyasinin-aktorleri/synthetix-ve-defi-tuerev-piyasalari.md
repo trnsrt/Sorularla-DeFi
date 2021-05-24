@@ -56,7 +56,7 @@ Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki
 
 #### Ne tip ürünler var Synthetix’de?
 
-Beş ayrı kategori var: İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [32 adet ürün](https://dashboard.synthetix.io/) bulunuyor. \[^1\]
+Beş ayrı kategori var: İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Mayıs 2021 itibariyle 16 tanesi aktif toplam [71 adet ürün](https://dashboard.synthetix.io/) bulunuyor.  \[^1\]
 
 #### Peki sistemdeki ürünlerin fiyatlarını kim belirliyor?
 
