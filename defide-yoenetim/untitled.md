@@ -1,16 +1,16 @@
 # Bir yönetim tokeni örneği: COMP
 
-Bu aralar piyasaları yakından takip ediyorsanız, etrafta bolca DeFi - yani merkeziyetsiz finans haberi göreceksiniz… Özellikle içinde bulunduğumuz Haziran ayınının başlarında DeFi hareketinin öncülerinden Compound’un piyasaya çıkardığı COMP token \(türkçesi için belirteç kullanılıyor ama açıkçası hâlâ alışamadım bu terime\) çok konuşuldu. Nedir COMP token, neden bu kadar popüler oldu gelin birlikte bakalım…
+Bu aralar piyasaları yakından takip ediyorsanız, etrafta bolca DeFi - yani merkeziyetsiz finans haberi göreceksiniz… 2020 yılının Haziran ayınının başlarında DeFi hareketinin öncülerinden Compound’un piyasaya çıkardığı COMP token \(türkçesi için belirteç kullanılıyor ama açıkçası hâlâ alışamadım bu terime\) çok konuşuldu. Nedir COMP token, neden bu kadar popüler oldu gelin birlikte bakalım…
 
-## Nedir COMP token? <a id="nedir-comp-token"></a>
+### Nedir COMP token?
 
-[Geçtiğimiz yazımızda](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/) DeFi hareketinin öncülerinden [Compound](https://compound.finance/)‘un ne olduğundan bahsetmiştik. Bu arada sonlara doğru hafifçe [COMP](https://medium.com/compound-finance/compound-governance-5531f524cf68)‘a da değinmiştik.
+Geçtiğimiz kısımda DeFi hareketinin öncülerinden [Compound](https://compound.finance/)‘un ne olduğundan bahsetmiştik. Bu arada sonlara doğru hafifçe [COMP](https://medium.com/compound-finance/compound-governance-5531f524cf68)‘a da değinmiştik.
 
 Özetlemek gerekirse: Compound, kişiler arasında para borç verme işine aracılık eden bir platform. Bunu kişiden kişiye direkt borçlanma yolu ile değil bir havuz sistemi kullanarak yapıyor. Parasını yatırıp faiz kazanmak isteyenler ile borçlanmak isteyenleri havuzlarda topluyor ve uygulanacak faizi bir algoritma ile belirliyor.
 
 Compound, kendisine vizyon olarak, gelecekte tamamen merkeziyetsiz yönetilecek ve üzerine başka projelerin kurulacağı bir altyapı olmayı hedeflemiş.
 
-## Merkeziyetsiz Defi yapılar nasıl yönetiliyor? <a id="merkeziyetsiz-defi-yap&#x131;lar-nas&#x131;l-y&#xF6;netiliyor"></a>
+#### Merkeziyetsiz Defi yapılar nasıl yönetiliyor?
 
 Merkeziyetsiz yapılar son yıllarda özellikle kripto sisteminin kabul görmesi ile birlikte ortaya çıktılar. Bu nedenle bu yapıların nasıl yönetilmesi gerektiği konusunda bir görüş birliği yok. Daha çok karanlıkta “el yordamı” ile gelişen farklı ekoller var.
 
@@ -18,7 +18,7 @@ Bu ekollerden bir tanesi, merkeziyetsiz kurulan yapıların yönetim biçimi ola
 
 Bir diğer ekol ise, başlangıçta girişim sermayesi alıp, ürün olarak merkeziyetsiz ama yönetim olarak merkezi başlamak, sonrasında yavaş yavaş yönetimi de merkezi olmayan bir hâle getirmek.
 
-## Compound nasıl yapacak bu merkeziyetsiz yönetimi? <a id="compound-nas&#x131;l-yapacak-bu-merkeziyetsiz-y&#xF6;netimi"></a>
+### Compound nasıl yapacak bu merkeziyetsiz yönetimi?
 
 Daha başka pek çok yol var ama Compound bu yollardan ikincisini seçti. Pek çok prestijli girişim sermayesinden yatırım aldı. İlk olarak ürünlerini kullanıcıların beğenisine sunup, sorunlarını çözdü.
 
@@ -26,7 +26,7 @@ Sıradaki hamle benzer şekilde yönetimi de merkeziyetsiz hale getirmek. Bunu d
 
 Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlara sahip olmaları durumunda gelecekte sistemin güvenliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleri idi.
 
-## Nasıl işledi COMP hamlesi? <a id="nas&#x131;l-i&#x15F;ledi-comp-hamlesi"></a>
+### Nasıl işledi COMP hamlesi?
 
 Compound, COMP tokenları dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde, örneğin bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformların kimileri de yönetim tokeni dağıtırken bu yolu izledi. Örneğin [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlarını bu şekilde “başkasına devredemezsiniz” [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) \(ve kısa bir süre sonra da satışı durdurdu\).
 
@@ -44,11 +44,11 @@ Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra ne
 
 Neden 2017’in token projelerini andırıyor? En önemli nedeni kullanıcılarda “aman kârlı bir projeyi kaçırıyorum” şeklinde bir panik \(FOMO\) yaratmış olması. Halbuki, Compound’un CEO’su bile bu tokenların bir kâr amacı gütmeyeceğini söylüyor.
 
-## Niye bu kadar talep gördü COMP? <a id="niye-bu-kadar-talep-g&#xF6;rd&#xFC;-comp"></a>
+### Niye bu kadar talep gördü COMP?
 
 En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine bir sarmala dönüşmüş olması. Ne demek bu?
 
-Compound’un kredi vermek ya da almak işine yaradığını [geçen yazımızda](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/) belirtmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokenı aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
+Compound’un kredi vermek ya da almak işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokenı aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
 
 COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformların en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kripto para değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
@@ -58,7 +58,7 @@ COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira 
 
 Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem kredi veren hem kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkanları da hemen kullanılmaya başlandı.
 
-## COMP tokenların değeri nereden geliyor? <a id="comp-tokenlar&#x131;n-de&#x11F;eri-nereden-geliyor"></a>
+### COMP tokenların değeri nereden geliyor?
 
 Bu arada şunu da belirtelim. Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaad etmiyor. Şu an için sadece sistemin hangi yöne gideceği konusunda oy verecek ellerinde COMP tutanlar.
 
@@ -68,7 +68,7 @@ Peki ileride bu değişebilir mi? Örneğin sistem kâr dağıtmaya başlayabili
 
 Ancak unutmamak lazım: bu aslında iki ucu keskin bir kılıç. COMP sayesinde yönetimi eline geçiren istediğini yapabilir. Kâr dağıtma kararı verebileceği gibi, yeni token dağıtma yolunu da seçebilir. Hepimizin aklı Bitcoin’in 21 milyon ile sınırlı olmasına gidiyor ama orada kanunu kod yazıyor ve bozulması merkeziyetsiz yapının iyice oturmuş olması nedeniyle neredeyse imkansız. Ama COMP için bu kadar kesin konuşmamak gerekiyor.
 
-## Peki kim alıyor bu COMP tokenları? <a id="peki-kim-al&#x131;yor-bu-comp-tokenlar&#x131;"></a>
+### Peki kim alıyor bu COMP tokenları?
 
 Şu anda hızlı yükseliş ile gözleri kamaşan spekülatörler - ki bunlar kısa vadeli kazanç peşindeler. Bu spekülatörlerin Compound sisteminin yönetimine katılmak konusunda çok büyük bir arzusu olduğu pek düşünülemez.
 
@@ -80,7 +80,7 @@ Bunun dışında, ilginç bir başka görüş daha var: Biliyorsunuz, dünyanın
 
 Neden şimdi değil de ileride? Birkaç nedeni olabilir. Birincisi, kripto paralar ile ilgili kural ve yorumları değişme ihtimaline karşı şimdiden kendilerine “hisse” damgasının vurulmasını istemiyor olabilirler. İkincisi, Compound sistemi şu anda yönetim ve işletim olarak ABD’de kurulu bir şirket. İleride bir altyapı haline geçer ve tamamen merkeziyetsiz olarak kripto âleminde yaşar ise Compound’a nasıl ve hangi ülkede vergi uygulayacaksınız?
 
-## Sonuç <a id="sonu&#xE7;"></a>
+### COMP token üzerine son birkaç söz
 
 İşte gelecekte karşımıza çok çıkacak olan kripto para sanal dünyası ile fiziki dünya arasında yaşanacak zihin açıcı sorulardan bir tanesi size: Bir gün Facebook, Google gibi büyük devlerin fiziki ülkelerden daha güçlü olacağını düşünenler var. Peki bu bir şekilde gerçek olursa, BTC, ETH gibi platformların da kendi içlerinde bağımsız adacıklar olarak bu merkezi yapıların yanında kendilerine yer bulmaları mümkün olabilir mi?
 

@@ -1,12 +1,12 @@
-# Aragon ile DeFi'da yönetim
+# Aragon ile DeFi'de yönetim
 
-Bu yazımızda gelin hep birlikte merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)‘a göz atalım.
+Bu bölümde gelin hep birlikte merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)‘a göz atalım.
 
 Şu aralar geniş kitleler spekülatif yanını konuşsa da DeFi projelerin kişisel olarak devrim niteliğinde olduğunu düşündüğüm en heyecan verici tarafı merkeziyetsiz bir şekilde yönetiliyor olmaları. Ancak merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
 
 Aragon öncesinde DeFi projelerin pekçoğunun kendine model aldığı [DAO \(Decentralized Autonomous Organization\)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) yani Merkeziyetsiz Otonom Organizasyon yapısı ne demek ona bakalım:
 
-## DAO ne demek? <a id="dao-ne-demek"></a>
+### DAO ne demek?
 
 DAO, dijital dünyada kurulu, işleyiş ve kanunları kod olarak yazılı, otonom ve şeffaf olarak çalışan yapılara verilen ad. Yaptıkları işlemlerin güvenilir olması için elbette Blokzincir altyapılarını kullanıyorlar. Sistem yalnızca hissedarları tarafından kontrol edilebiliyor. Fiziki dünyada bir aktiviteleri \(ya da ofisleri\) olmadığı için herhangi bir devletin denetimi altında sayılmıyorlar. Hukuki yapıları da o anlamda çok net olarak belirlenmiş değil.
 
@@ -14,7 +14,7 @@ DAO’ların ilk duyulması aslında o kadar da pozitif olmadı. Zira, Ethereum 
 
 O zamandan sonra bir süre pek sesi çıkmayan DAO’lar yeni DeFi projelerle birlikte tekrar spot ışıkları altında boy göstermeye başladılar.
 
-## Nedir Aragon? <a id="nedir-aragon"></a>
+### Nedir Aragon?
 
 Efendim, Aragon özünde merkeziyetsiz olarak yönetilmek isteyen kişilere bu tip bir yönetim için gerekli olan DAO yapısını sağlayan Ethereum üzerine kurulu bir platform. Tabii ki dijital dünyada. Fiziksel dünyadan bir örnek olarak kooperatifleri düşünebilirsiniz. Kişilerin bir proje amaçlı olarak bir araya geldikleri ve proje bitiminde lağvettikleri birlikler gibi.
 
@@ -28,7 +28,7 @@ Efendim, Aragon özünde merkeziyetsiz olarak yönetilmek isteyen kişilere bu t
 
 Malum, dijital dünyanın fiziksel dünyaya göre avantajı işlerinizi daha hızlı, basit, zahmetsiz ve ucuza çözmeniz. Aragon da bu DAO’ları aylık 10-20 ABD Doları’na kullanabileceğiniz bir hizmet sunuyor. Bir nevi, zamanında her tür web projesi için bir yazılımcı ile çalışılmak zorunda iken sonrasında Wordpress’in ortaya çıkışıyla blog yazma ya da web sitesi kurmanın çocuk oyuncağı haline gelmesi gibi.
 
-## Nasıl çalışıyor? <a id="nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+### Nasıl çalışıyor?
 
 Aragon üzerine kurulu olan DAO’ların olması gereken üç temel özellik var. Üyelik ve oylama hakkı için bir **token**, grubun sahip olduğu varlıkları korumak için bir **cüzdan** ve her tür oylama sonucu oluşan kararı ve işlemleri takip etmek için bir **blokzincir**.
 
@@ -42,13 +42,9 @@ Peki sanal mahkeme nasıl çalışıyor? Kimler var? Güvenilir mi? Sanal mahkem
 
 Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro’nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını [Aragon blog sayfasından](https://blog.aragon.one/aragon-agreements/) inceleyebilirsiniz.
 
-## Gelecek heyecanlı… <a id="gelecek-heyecanl&#x131;"></a>
+### Aragon üzerine son birkaç söz
 
 Decentralized Autonomus Organization yani DAO’lar DeFi \(yani Merkeziyetsiz Finans\) alanına ilgi duyanların yakından anlamaları gereken yapılar. Zira fiziki dünyada hepimizin alıştığı anonim şirket, limited şirket gibi oluşumlar devletin koyduğu kanunlara tabi, otoriteler tarafından kontrol edilen ve hissedar ya da çalışan haklarının bir nevi korunduğu yerler. Dijital dünyada ise devlet kontrolünün olmadığı bir ortamda bu tip yapılar katılımcılar için pratiklik yanında sorumluluk da getiriyor. Aragon benzeri projeler bu anlamda bize bu tip yapıların nasıl işleyebileceği konusunda farklı alternatifler sunuyor, bir nevi yol gösteriyor.
 
 Hep söylediğimiz gibi son on yıldır dijital dünyada hepimizin gözleri önünde bir devrim yaşanıyor, DAO’lar da bu devrimin önemli yapı taşlarından biri - gelecek bu anlamda çok heyecanlı olacak, hep birlikte yaşayarak göreceğiz.
-
-_Not 1: Bu yazı ilk olarak 16 Temmuz 2020’de_ [_BTCHaber.com_](https://www.btchaber.com/)_‘da_ [_yayınlandı_](https://www.btchaber.com/aragon-ile-defida-yonetim/)
-
-_Not 2: Tüm yazılara_ [_Yazılar_](https://turansert.com/articles/) _sekmesinden ulaşabilirsiniz_
 
