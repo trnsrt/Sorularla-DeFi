@@ -12,6 +12,8 @@ Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdı�
 
 Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem.
 
+![Image by Gerhard B&#xF6;gner from Pixabay](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
+
 |  |
 | :--- |
 | _\(_[_Kaynak_](https://pixabay.com/illustrations/money-bank-business-finance-3405700/)_\)_ |
