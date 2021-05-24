@@ -10,7 +10,7 @@ Sonuç olarak kişiler birbirleri ile değil, yapmak istedikleri her işlemi ger
 
 Temel olarak iki ana grup var Uniswap’ta. İlki kullanıcılar; bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar var - ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım. Şimdi gelin kim neden kullanır bu sistemi ona bakalım.
 
-## Uniswap neden popüler oldu? <a id="kim-neden-uniswapta-i&#x15F;lem-yapar"></a>
+### Uniswap neden popüler oldu?
 
 Uniswap’ın popüler olmasının birkaç temel nedeni var:
 
@@ -20,7 +20,7 @@ Bunun yanında emir defteri ile çalışan piyasa yapıcılar, istedikleri işle
 
 Kripto alanındaki girişimler için de belli avantajları var Uniswap’ın. Önceleri bir kripto paranın merkezi kripto borsalarda işlem görebilmesi için bu borsaların koyduğu kurallara uyması ama daha da ötesi bu borsalara ciddi paralar ödemesi gerekiyordu. Uniswap ise Blokzincir’in “izin gerektirmeyen \(permissionless\)” ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar. Küçük girişimler çıkardıkların tokenlara pazar tarafından hızlıca değer biçilebilmesi ve likidite sağlanabilmesi için Uniswap’ı kullanmaya başladılar. Bu arada, Uniswap popüler olmaya başlayınca 2020 yaz aylarında Binance ve FTX gibi borsaların da yeni tokenları bir an önce hızlı bir şekilde listelemeye başladıklarını gördük - ne demişler “rekabet her zaman iyidir”.
 
-## Peki nasıl çalışıyor sistem? <a id="peki-nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor-sistem"></a>
+### Peki nasıl çalışıyor sistem?
 
 UniSwap aslında robot \(otomatik\) bir piyasa yapıcı. Robot denmesinin nedeni fiyatların çok basit bir algoritma ile otomatik olarak “el değmeden” belirlenmesi. Gelin kısaca göz atalım bu otomatik sistemin nasıl çalıştığına:
 
@@ -43,11 +43,11 @@ Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündek
 
 Hemen belirtelim: yukarıda verdiğimiz işlemler oldukça sığ bir havuz için yapılmış bir örnek. Havuz ne kadar büyük olursa, ya da yapılan işlemin havuzun büyüklüğüne oranı ne kadar küçük olursa bu fark o kadar az oluyor. İşte bu nedenle bu tip borsalar için likidite hayati bir öneme sahip. \(Adım adım Uniswap işlemlerini nasıl yapılıyor görsel olarak görmek isterseniz [şu Medium yazısında](https://medium.com/@obiwancoin/uniswap-kullan%C4%B1m-rehberi-obi-wan-bd73503fb9d6) oldukça güzel anlatılmış\).
 
-### Kim neden havuza para koyar?
+#### Kim neden havuza para koyar?
 
 Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor \(Uniswap için şu anda %0,3 oranında\) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor.
 
-#### Havuza para koymak çok kârlı gibi görünüyor?
+_**Havuza para koymak çok kârlı gibi görünüyor?**_
 
 Kulağa çok hoş gelse de havuza para koymak her zaman kârlı olmayabiliyor. Bakın neden:
 
@@ -71,11 +71,11 @@ Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldü�
 
 Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, o nedenle işlem yapılınca elde edilen kârlar da azdır. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarına odaklanan [Curve](https://www.curve.fi/) daha popüler oldu. 
 
-## Nasıl farklılaştı rakipler? <a id="nas&#x131;l-farkl&#x131;la&#x15F;t&#x131;-rakipler"></a>
+### Nasıl farklılaştı rakipler?
 
 Şimdi de gelin hep birlikte bakalım, rakipler Uniswap’ın hangi özelliklerinde nasıl farklılaşıyor:
 
-### Farklı algoritmalar <a id="farkl&#x131;-algoritmalar"></a>
+#### Farklı algoritmalar
 
 Uniswap’ın özünde bir otomatik piyasa yapıcısı olduğundan bahsetmiştik yukarıda. Bunun anlamı şu: Alım-satım yapmak isteyen kullanıcılara sistemin verdiği fiyatlar otomatik olarak belirleniyor. Fiyat derken kastettiğimiz değiş-tokuş değeri. Havuzdaki bir tokeni almak için havuzdaki diğer tokenin oraya konması gerekiyor.
 
@@ -85,33 +85,33 @@ Ne kadar token konacağı için ise basit bir formül var: Her bir havuzun iki t
 
 Gördüğünüz gibi Uniswap algoritması olarak bahsettiğimiz sabit sayı ve hesaplaması afaki ve kimi zaman sıkıntılara da yol açabiliyor - yani isteyen istediği şekilde bu hesaplamayı değiştirerek yeni bir algoritma oluşturabilir. Nitekim rakiplerin bir kısmı bu algoritmaları değiştirerek kendilerine farklılaştırıyorlar.
 
-### Çoklu havuzlar <a id="&#xE7;oklu-havuzlar"></a>
+#### Çoklu havuzlar
 
 Uniswap’daki her bir havuzun iki bölmesi var demiştik - ve her bir bölmede de birer token. İllâ iki token mı olması lazım? Daha çok token koyulamaz mı? Olur tabii - neden olmasın? İşte rakip olarak çıkan kimi sistemler üç, dört hatta 8’e kadar sayıda tokenlar koydular havuzlarına. Böylece likidite sağlayıcılara birden fazla tokena aynı anda yatırım yapma imkanı vermiş oldular.
 
-### Farklı havuz oranları <a id="farkl&#x131;-havuz-oranlar&#x131;"></a>
+#### Farklı havuz oranları
 
 Uniswap’taki her havuzda iki bölme olmasının yanında algoritmaya göre her bir bölmede eşit değerde token olması gerekiyor. Yani bir havuzun bir tarafında 1000 ETH var ve bir ETH de 300 USDC ise, havuzun diğer tarafında da 300,000 USDC olmalı ki sistem dengede olsun. Peki bu oran hep %50-50 mi olmalı? Uniswap algoritması gereği öyle olabilir ama her zaman %50-50 olmasına gerek yok havuzların. Farklı ağırlıklı havuzlar da gayet rahat şekilde kurulabilir.
 
 Neden farklı havuzlara ihtiyaç var? Özellikle likidite sağlayanlar havuza token koyduklarında esasında havuzun her iki tarafına da yatırım yapıyorlar. Zaman içinde değişen beklentilere göre bu iki token için farklı ağırlıklarda yatırım yapmak isteyebilirler. Örneğin ETH’nin artacağı konusunda bir beklentisi var ise neden %50-50 ETH/USDC havuzuna para koysun ki, %80-20 oranlı bir havuz çok daha cazip olabilir.
 
-### Yönetim tokenı <a id="y&#xF6;netim-token&#x131;"></a>
+#### Yönetim tokenı
 
 Uniswap’ta likidite sağlayıcıların Eylül 2020 başına kadar gelirleri yalnızca sağladıkları likiditeye karşılık yapılan işlemlerden aldıkları komisyonlar idi. Halbuki rakip projeler, bu komisyonlar dışında kullanıcılara ve likidite sağlayıcılara kendi tokenlarını veren teşvik mekanizmaları geliştirdiler. İşte geçtiğimiz haftaki yazının hemen ardından Uniswap da benzer bir tokenı kendi paydaşlarına dağıtmaya başladı. Üstelik oldukça demokratik bir biçimde, geçtiğimiz dönemde \(1 Eylül 2020’ye kadar\) Uniswap kullanıp da işlem yapmış her bir hesaba 400 UNI tokenı bedava verdiler. Bu dağıtım sonrasındaki bir hafta içinde bir UNI token fiyatının 3-8 ABD Doları arasında değiştiği düşünülürse, geniş bir kitlenin mutlu olduğunu söylemeye gerek yok.
 
-### Diğer projeler ile birlikte çalışabilmek <a id="di&#x11F;er-projeler-ile-birlikte-&#xE7;al&#x131;&#x15F;abilmek"></a>
+#### Diğer projeler ile birlikte çalışabilmek
 
 DeFi projelerinin klasik projelere göre en önemli farklarından biri, farklı projelerin birbirleriyle uyumlu çalışabilmesi. Buna “money lego” diyenler de var. İşte, Uniswap rakipleri başka başka projeler ile iletişim içinde yeni ve kazancı daha yüksek ürünler çıkarabiliyorlar.
 
-### Fiyat <a id="fiyat"></a>
+#### Fiyat
 
 Uniswap her bir işlem için al-sat yapan kullanıcılardan %0.3 komisyon alıyor. Bu oldukça yüksek bir rakam - her ne kadar 1 Eylül 2020 tarihine kadar kendisi üzerinden işlem yapmışlara 400 UNI token hediye ederek bu komisyonların bir kısmını kullanıcılara geri vermiş olsa da. Uniswap likidite sağlayıcılara gelir olarak yalnızca bu işlem komisyonlarını önerebildiği için rakamı çok da düşüremiyor ve bu da rekabette onu zorluyor. Zira rakiplerin komisyon oranları hem düşük hem de havuzdan havuza değişebiliyor. Ancak son açıklanan UNI token ile birlikte likidite sağlayıcılar artık komisyon yanında UNI token ile ciddi bir ekstra gelir de kazanma şansına sahip. Aşağıda bahsedeceğimiz yeni versiyonunda farklı havuzlar için farklı komisyon oranları getiren Uniswap, kullanıcılarına rekabetçi bir ürün sunmuş oldu. 
 
-## Rakipleri tanıyalım <a id="rakipleri-tan&#x131;yal&#x131;m"></a>
+### Rakipleri tanıyalım
 
 Peki Uniswap’ın hangi rakibi yukarıdaki hangi özellikte ondan farklılaşıyor? Gelin anlamaya çalışalım:
 
-### Curve <a id="curve"></a>
+#### Curve
 
  [Curve](https://www.curve.fi/) yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı kullanıcılara her ne olursa olsun işlem yapabilecekleri bir token sunmak iken, **Curve algoritması için önemli olan - yukarıda Uniswap için bahsettiğimiz - işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek**.
 
@@ -127,7 +127,7 @@ Likiditenin DeFi ürünlerinde ne kadar önemli olduğunu görüyorsunuz değil 
 
 [Bitti mi? Hayır](https://www.youtube.com/watch?v=Im1SqKh9qgg). Zaman içinde bu likidite oyununu giderek artırdı Curve. Compound ile ortak ürün çok güzel. Likidite sağlayan biri, hem işlem üzerinden komisyon, hem CRV tokenı, hem Compound faizi, hem de COMP yönetim tokenı kazanıyor. Ancak ya faiz olarak Compound’un önerdiği faizler az ise? Öyle ya bir tek Compound yok kredi veren platformlar içinde.. [Aave](https://aave.com/) var, [dYdX](https://dydx.exchange/) var. Ya onlar daha iyi faiz verirse? Likidite sağlayıcılar “mağdur” mu olsun? İşte o nedenle Curve, [Yearn](https://yearn.finance/) isimli portföy yönetimi yapan bir platform ile bir başka ürün daha çıkardı. Bu üründe, likidite sağlayıcı parayı koyuyor Curve sistemine, Yearn bu parayı en yüksek faiz veren kredi platformunda otomatik değerlendiriyor, gerekirse birinden alıp öbürüne geçiriyor. Nasıl? DeFi ürünleri hakikaten akıl sınırlarını zorluyor, değil mi?
 
-### Balancer <a id="balancer"></a>
+#### Balancer
 
  [Balancer](https://balancer.exchange/), Uniswap’a kullanıcı arayüzü olarak çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. Neler bunlar hızlıca bakalım:
 
@@ -137,7 +137,7 @@ Likiditenin DeFi ürünlerinde ne kadar önemli olduğunu görüyorsunuz değil 
 
 Neden böyle yapıyorlar tartışılır - ama çok uç bir örnek olarak, geleneksel şirketler mevcut hisse senetlerini geri almak \(buy-back\) suretiyle bu senetlerin dolaşımdaki miktarını kontrol etmek isterler. Kripto dünyasında da kimi girişimler dolaşımda olan tokenlarının emisyon hacimlerini kontrol altında tutmak isterken karmaşık hesaplar, yeni token basma ya da token yakma yerine, Balancer üzerine havuz kurup bunu kullanabilirler. Hatta, böyle bir durumda, havuzda manipülasyon yapılmasın diye yüksek işlem komisyonu \(örneğin %5\) belirleyip ancak çok yüksek fiyat değişikliklerinde son çare olarak havuzlarının kullanılmasını isteyebilirler. Görüyorsunuz, bu tip ürünlerde amaç ve isteğe göre o kadar farklı senaryo ve alternatif çıkabiliyor ki.
 
-### Sushiswap <a id="sushiswap"></a>
+#### Sushiswap
 
  Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün \(yani kod\) tamamen açık. Dolayısıyla, Uniswap’ın kodunu kopyalayıp \(forklamak\) benzer bir ürünü çıkarmak o kadar zor değil. Nitekim [Sushiswap](https://sushiswapclassic.org/) bu şekilde Uniswap kopyası olarak ortaya çıkmış bir platform. Unsiwap’ın özelliklerini aynen alıp üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlara verdiği [Sushi token](https://www.coingecko.com/en/coins/sushi).. Bir anda ciddi bir likidite \(ki bunlar ellerinden büyük miktarda token tutan balinalar\) Sushiswap’a kaydı.
 
@@ -145,11 +145,11 @@ Ancak sonrasında DeFi en büyük krizlerinden birini yaşadı. Sushiswap’ın 
 
 Sushiswap, son zamanlarda gözünü farklı platformlara çevirmiş durumda. Örneğin Ethereum üzerine kurulu ikinci seviye çözümler, bunun yanında Binance Smart Chain, Polkadot, Fantom benzeri alternatif blokzincirler için de aynı servisi vermeye başladılar. Özellikle Yearn Finance tarzı farklı protokoller ile yaptıkları işbirlikleri sonucu Sushiswap Uniswap'ın ardından Ethereum üzerindeki ikinci büyük merkeziyetsiz borsa olmayı sonraki aylarda da devam ettirdi. 
 
-## Uniswap'ın yaşadığı sıkıntılar <a id="gelelim-yeni-versiyona"></a>
+### Uniswap'ın yaşadığı sıkıntılar
 
 Evet, dönelim Uniswap’ın mevcut sıkıntılarına ve yeni versiyonun neler getirdiğine:
 
-### En büyük sorun: Sığ havuzlar..
+#### En büyük sorun: Sığ havuzlar..
 
 Uniswap, sistemini dizayn ederken birinci temel ilkesini **havuzdaki likiditenin tükenmemesi** üzerine kurmuştu. Ne demek bu? Havuzu oluşturan iki token çeşidinden de her zaman bulunması ve bu tokenların hiçbir şekilde bitmemesi. Likiditenin bitmemesi güzel bir özellik ama pratikte belli sıkıntıları oluyor. Neler bunlar?
 
@@ -163,11 +163,11 @@ Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan al
 
 İşlem yapanlar ise, bir fiyattan almak için teklif verdiklerinde sıkıntı yaşıyorlar. Birincisi büyük bir emir verdiklerinde algoritma istedikleri fiyata çok az likidite bıraktığı için \(likiditeyi tüm havuza paylaştırmak zorunda\) yapılan işlemin fiyata ciddi bir etkisi oluyor \(buna fiyat etkisi ya da ‘price impact’ deniyor\). İkincisi ise havuzda çok sayıda işlem olması ama likiditenin sığ kalmasından dolayı, kullanıcının işlem emri verdiği sırada araya başka işlemler girdiği için verdiği emir fiyatı ile gerçekleşen fiyat arasında aleyhlerine bir fark olduğunu görüyorlar \(ki buna ingilizcede slippage deniyor\).
 
-### Başka ne sorunları var?
+#### Başka ne sorunları var?
 
 Uniswap’ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa süreli de sekte vuran gelişme, ürün kodlarını aynen kopyalayan Sushiswap’ın ciddi bir likiditeyi kendi platformuna çekmiş olmasıydı. Komisyon oranlarını benzer şekilde tutan Sushiswap likiditeyi kazanabilmek için kendi yönetim tokenini likidite sağlayıcılara vererek daha demokratik bir yapı olduğunu ilan etmişti. Bunun üzerine Uniswap da kendi tokenini çıkarıp dağıtmaya başladı ve likidite kanamasını bir nebze durdurmayı başardı. Token dağıtma bittikten sonra tekrar bir kayıp yaşasa da sonrasında eski seviyelerine dönmeyi başardı.
 
-## Uniswap'ın üçüncü versiyonu ne yenilikler getiriyor?
+### Uniswap'ın üçüncü versiyonu ne yenilikler getiriyor?
 
 Unsiwap’ın yeni versiyonu \(ki buna v3 yani üçüncü versiyon deniyor\) 2021’in Mayıs ayı başında [piyasaya sunuldu](https://uniswap.org/blog/uniswap-v3/). Ethereum blokzinciri üzerinde olacak bu yeni versiyonun hemen arkasından Optimism denen ikinci seviye çözümün devreye girmesi bekleniyor.
 
@@ -175,7 +175,7 @@ Unsiwap’ın yeni versiyonu \(ki buna v3 yani üçüncü versiyon deniyor\) 202
 
 Gelin bakalım neler var bu versiyonda:
 
-### Sıkıntılara temel çare: Konsantre likidite
+#### Sıkıntılara temel çare: Konsantre likidite
 
 Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz ‘likiditenin tükenmemesi’ ilkesini artık terkediyor. Bunun yerine, yeni getirdiği ‘konsantre likidite’ özelliği ile likidite sağlayıcıların verimlilik problemine çare olmayı tercih ediyor. Bu yeni özelliğe göre likidite sağlayıcı yatırımcılar, havuza koyacakları paranın hangi işlem aralığı içinde işlem görebileceğini belirleyebiliyorlar. Tam olarak ne demek bu? Ne işe yarıyor? Bir iki senaryo ile açıklayalım:
 
@@ -183,7 +183,7 @@ Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz ‘likidit
 
 İşin özünde konsantre likidite aslında klasik anlamdaki emir defteri sistemi ile DeFi’de yeni çıkan otomatik para yapıcı sistemin hibrit bir karışımı. Bir başka deyişle, klasik borsalardaki al-sat emri olarak verilen fiyatların daha geniş bir aralık içinde verilmesi. Likidite ve verimliliği bir tahterevallinin iki ucu olarak düşünürsek, başlangıçtaki likidite sıkıntısı nedeniyle oluşturulmuş likidite odaklı otomatik para yapıcının yerine, verimliliğe biraz daha ağırlık veren dengede bir sistem bu.
 
-### Uniswap da NFT dünyasına girmiş :\) <a id="uniswap-da-nft-d&#xFC;nyas&#x131;na-girmi&#x15F;-"></a>
+#### Uniswap da NFT dünyasına girmiş :\)
 
 Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan her tür para eşit olduğu için, konulan para karşılığı alınan havuz katılım tokenları \(bir nevi hesap sertifikası gibi düşünebilirsiniz\) da birbirine eşit paralar olarak görülürdü ve bu tokenlar başka platformlarda teminat olarak kullanılabilirlerdi. Bu sayede likidite sahipleri ekstra gelir elde edebilirlerdi. Şimdi artık, farklı fiyat aralıklarında likidite sağlanabileceği için aynı havuz için verilen sertifikalar birbirinin aynı olmayacak. Yani havuz tokenları birbirine benzer ‘fungible token’ yerine, tekil ‘non-fungible token’ yani NFT olacaklar.
 
@@ -193,7 +193,7 @@ Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan h
 
 İleride muhtemelen farklı NFT havuz tokenlarını değerlendiren yeni mekanizmalar göreceğiz. Örneğin; şu anda yatırımcıların mevduatlarını değişik stratejiler ile değerlendiren yearn.finance benzeri yapıların bu system içinde son derece aktif olacağını tahmin etmek zor değil. Bu yapılar, farklı fiyat aralıklarındaki havuz tokenlarını alıp farklı araçlarda değerlendirecek ve risk/kazanç anlamında optimum seçenekler oluşturup yatırımcıların beğenisine sunacaklar.
 
-### Farklı komisyon oranları
+#### Farklı komisyon oranları
 
 Uniswap ilk iki versiyonunda havuzlardaki işlemler için komisyon oranlarını hep sabit tuttu: Binde 3. Ancak bu durum kimi zaman rekabette onu zor durumda bıraktı. Zira, özellikle stabil paralardan oluşan havuzlarda, paralar arasındaki fiyat farkı çok az olmakta. Örneğin; bir USDC-DAI stabil para havuzunda 0.98-1.02 ‘den daha geniş bir aralık bulmak neredeyse imkansız. Böyle bir durumda işlem yapmak isteyenlere binde 3 komisyon çok yüksek geliyor. Zaten bu nedenle stabil paralar odaklı olan Curve havuzları düşük komisyon verselerde işlem hacimlerinin yüksek olması nedeniyle likidite sağlayıcılarına hatırı sayılır bir komisyon geliri sağlayarak ciddi bir likiditeyi havuzlarında topladılar.
 
@@ -201,7 +201,7 @@ Uniswap ilk iki versiyonunda havuzlardaki işlemler için komisyon oranlarını 
 
 Uniswap işlemlerden aldığı binde 3 komisyonun şu anda tamamını likidite sahiplerine veriyor. UNI token tutanların bu komisyonun altıda birini \(yani onbinde beşini\) kendilerine alma hakkı var \(ki kullanılmıyor idi\). Şimdi yeni versiyon ile UNI token sahiplerine komisyon oranlarının onda biri ile dörtte biri kadar bir miktarını kendilerine alma hakkı getirildi. Bunun yanında her bir havuzun yukarıdaki üç orandan hangisini kullanacağına da UNI token sahipleri karar verecek.
 
-### Ethereum’un yüksek ücretleri
+#### Ethereum’un yüksek ücretleri
 
 Malum şu ara Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücretleri. Eskiden 5-10 dolar verilen basit işlemler için şimdi kapı en az 30-40 ABD Dolarından açılıyor. Uniswap için bu durum ciddi bir sıkıntı. Zira normal bir günde Ethereum blokzinciri üzerindeki en fazla işlem yapan DeFi ürünü genelde Uniswap oluyor..
 
@@ -213,7 +213,7 @@ Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyo
 
 Uniswap yeni versiyonda Optimistic Roll-up’ı kullanacağını açıkladı.. Maliyetlerin düşmesi açısından güzel bir gelişme olacak gibi görünüyor. Bir diğer DeFi devi olan sentetik türev piyasası Synthetix de Optimistic roll-up kullanacağını açıklamıştı. v3 ilanının hemen ertesi günü [Optimistic’in genel kullanıma açılma tarihinin Nisan’dan Temmuz’a ertelenmesi](https://optimismpbc.medium.com/optimistically-cautious-767a898f90c8) Uniswap’ı nasıl etkileyecek, onu hep birlikte göreceğiz.
 
-### Beni kopyalama!…
+#### Beni kopyalama!…
 
 Geçtiğimiz yazıda detayını yazdığımız Sushiswap kopyalama olayından derin bir şekilde etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler.
 
@@ -221,13 +221,13 @@ Tam olarak ne gibi bir etkisi olacak bunun? Artık rakipler Uniswap’ın kodunu
 
 Klasik dünyanın kalıpları ile düşünürsek, “ne var bunda?, o kadar çalışmış uğraşmışlar, tabii ki haklarını koruyacaklar” diyebiliriz. Ancak bu hareketin DeFi dünyasının temel felsefesi ile çeliştiğini de söylemek gerek. Zira, DeFi dünyası kökü çok daha eskilere dayanan açık kaynak felsefesine dayanır. Bu dünyada lisans, telif gibi enstrümanlar, yenilikçilik ve gelişmeyi engelleyici olarak görülürler. Ancak az önce yukarıda Sushiswap’ın yaptığı direkt kopyalamayı yadırgasak da, Uniswap’ın sırf bu rekabetten dolayı kendi tokenlarını dağıtmasının biz son kullanıcılara ciddi fayda sağladığı gerçeğini yadsıyamayız. Dolayısıyla, şimdi yapılan bu hareket Uniswap ve yatırımcılarına kısa vadede fayda sağlayacak olsa da uzun vadede ekosistem için “acaba DeFi de klasik dünyaya mı dönüyor?” şeklinde soruları da getirebilir. Uniswap’ın hatırı sayılır bir girişim sermayesi yatırımı almış olması bu kuşkuların aslında çok da yersiz olmadığını bize gösteriyor sanki…
 
-### Diğer ufak yenilikler
+#### Diğer ufak yenilikler
 
 Bunun dışında bir sonraki kısımda bahsedeceğimiz bilgi sağlayıcılardan \(oracle\) biri olan Uniswap’ın artık daha tutarlı bilgi sağlayacak yenilikler yaptığını söyleyebiliriz. Bunun kulanıcılar açısından çok büyük bir etkisi olmasa da, gerek bilgi ihtiyacı olan ekosistem oyuncuları gerekse bu bilgiyi satan Uniswap sistemi için faydalı olacağını söyleyebiliriz.
 
 Bunun dışında Uniswap ekibi artık geliştirme için neler yapacaklarını tamamen UNI token sahiplerine bırakacaklarını açıkladılar. Geçmişte UNI token sahipliğinin çok konsantre olduğu ile ilgili şikayetler olmuştu - bakalım merkeziyetsizlik hakikaten işleyecek mi, yoksa ‘miş’ gibi mi yapılacak hep birlikte göreceğiz..
 
-### Uniswap'ın yeni versiyonu ile ilgili son yorumlar:
+#### Uniswap'ın yeni versiyonu ile ilgili son yorumlar:
 
 Uniswap yeni versiyonu ile yeni stratejisinin ilk ipuçlarını veriyor. Neler bunlar? Öncelikle artık hedef büyük merkezi borsalar ve stabil paralara odaklanmış mevcut rakipler. Eldeki atıl likidite kapasitesini konsantre likidite ile işlemlerin olduğu yere çekiyor ve merkezi borsaların emir defteri çözümlerine karşı verimliliği artıran bir model ortaya koyuyor. Bir yandan da Curve gibi rakiplerin kendilerinden tırtıkladığı stabil para havuzlarına yeniden ağırlık koymaya çalışıyor.
 
