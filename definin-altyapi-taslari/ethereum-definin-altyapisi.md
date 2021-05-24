@@ -2,11 +2,11 @@
 
 İlk bölümde DeFi'nin çıkışından bahsederken, tüm blokzincir teknolojisinin Bitcoin ile başladığından bahsetmiş ancak Bitcoin'in sadece 'sansürsüz değer koruyan bir internet parası' olma felsefesi nedeniyle bir grubun ayrılarak Ethereum'u kurduğundan bahsetmiştik. Gelin bu bölümde Ethereum'un hikayesinden bahsedelim:  
 
-## Ethereum'un hikayesi <a id="vitalik-buterin-18-ya&#x15F;&#x131;nda-bir-dahi"></a>
+### Ethereum'un hikayesi
 
 Çok kabaca ifade edersek bu binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında Ethereum. Detaylarına bakacağız ama ilginç bir hikayesi var Ethereum’un, kısaca bahsetmekte fayda var.
 
-### Vitalik Buterin: 18 yaşında bir dahi
+#### Vitalik Buterin: 18 yaşında bir dahi
 
 Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya’dan Kanada’ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi’nin işlerinden ve Bitcoin’den bahseder. Babasının bahsettiklerinden büyülenen Vitalik Buterin adındaki bu genç kendini bir anda bu dünyanın içinde bulur. Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteneğine sahip bu genç, henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları’nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir.
 
@@ -16,17 +16,17 @@ Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya’d
 
 Buterin, öncelikle Bitcoin üzerinde gelişmeler yaparak, Bitcoin transferi dışında daha başka pekçok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin özelliği itibariyle tek işi \(o da para gönderme\) iyi yapmak üzere kurgulanır. Geliştiricilerinin aklındaki tek konu “Bitcoin’i nasıl dış tehlikeler karşı daha güvenilir yaparız?”dır, yenilikler öncelikleri arasında değildir \(hala da öyle, en gurur duydukları konu bu: Bitcoin 2009’dan beri bir kez bile tökezlemedi ve “hack” edilemedi diye göğüslerini gere gere ortada dolaşıyorlar\). Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgisayarı vizyonu vardır.
 
-### Ethereum’un ortaya çıkışı
+#### Ethereum’un ortaya çıkışı
 
 2013 yılında Buterin 15 yazılımcı arkadaşı ile birlikte Ethereum’u tanıtır. Ama henüz ortada sadece bir konsept tasarım vardır – para kazanılacak ya da yatırım alabilecek bir ürün için henüz erkendir. Tam o sırada Peter Thiel \(bilenler bilir; PayPal’in kurucularından, Facebook’a ilk para yatıran kişidir kendisi\) onlara 100,000 ABD Doları burs verir. Derler ki bu bursu almak Amerikanın en iyi üniversitelerine girmekten bile zordur. Tabii sadece bu da değil, aynı zamanda Buterin, 2014 yılı içinde Etherum ile Dünya Teknoloji Ödülü’nü de alır. O yıl, Enerji dalında Elon Musk, Medya alanında meşhur Walter Isaacson, Teknoloji alanında ise Buterin ile birlikte bu ödüle layık görülen diğer kişiler olurlar.
 
-### Ödüller karın doyurmuyor, yatırım lazım
+#### Ödüller karın doyurmuyor, yatırım lazım
 
 Peter Thiel’in bursu ekibin daha olgun bir ürün oluşturma anlamında yol almasına yardımcı olsa da yeterli olmaz. 2014 Eylül ayında ilginç bir yöntem ile para toplarlar. Derler ki, “ilk iki hafta 2,000 Ether01 Bitcoin olacak şekilde para topluyoruz, sonrasında bu rakam yavaş yavaş düşecek en son alanlar 1,337 Ether=1 Bitcoin şeklinde alacaklar”. Daha önce denenmemiş bir yöntem, zira bildiğimiz Dolar ya da Euro para toplamıyorlar, Bitcoin topluyorlar! O zamanlar Bitcoin çok az biliniyor. Herhangi bir regulasyona da tabii değil. Ama zaten ortada satılan bir şirket de yok - neye tabii yapacaksınız ki? Karmaşık bir süreç ama nispeten rahat. İsviçre’de bir vakıf kurarak bu vakıf üzerinden satış yaparlar ve o zamanın parası ile 18,5 Milyon ABD Doları toplarlar. Bu bir ether için ortalama 0.31 ABD doları demek. Etherin şu anki fiyatının yaklaşık 500 ABD doları olduğunu söylersek, o zaman yatırım yapanların şu anki karlarını hesaplamak da size kalsın \(ya da boşverin biz söyleyelim, koydukları paranın yaklaşık 1,600 katını kazanmış durumdalar\).
 
 Yukarıda bahsedilen toplanan paranın tamamının geliştiricilere verilecek ödüller ve maaşlar ile, Ethereum Vakfı’nın destekleyeceği Ethereum ve Kripo dünyası ile ilgili projeler için harcanacağını belirtelim. Bu şekilde satılan etherin yanında, bu miktarın onda biri kadar bir rakam da kurucular için ayrılmış. Yani, daha önceki yazılarımızda bahsettiğimiz, şirket kurucularının şirketin büyük kısmına sahip olmalarının yerini, bu yeni modelde, para toplamak için satılan etherin ufak bir kısmına baştan sahip olmak almış. Bu da bir yenilik.
 
-## Akıllı Kontratlar <a id="ak&#x131;ll&#x131;-kontratlar"></a>
+### Akıllı Kontratlar
 
 Ethereum dünyasına girmeden önce bir tanıma daha bakmakta fayda var.
 
@@ -40,7 +40,7 @@ Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontra
 
 Bakın Bitcoin ya da diğer Blockchain bazlı teknolojilerde bahsettiğimiz “güven” konusuna yine geldik. Önceki yazılarda bu yeni sistemler sayesinde, ‘güven eksikliğinin neden olduğu merkezi bir otorite ya da aracıya duyulan ihtiyaca’ artık gerek kalmadığını yazmıştık. Akıllı kontratlar ile de ikili ilişkilerde karşı tarafın sözünü yerine getireceğine dair duymamız güven ihtiyacı ortadan kalkıyor.
 
-### Ethereum ve Akıllı Kontratlar
+#### Ethereum ve Akıllı Kontratlar
 
 |  |
 | :--- |
@@ -56,7 +56,7 @@ ETH’nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenler
 
 Tanımayanlar için; Vitalik, Ethereum’un kurucu olarak da adlandırılır ki onun hakkında [şu yazıdan daha detay alabilirsiniz](https://turansert.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)..
 
-## ETH’nin para arzı <a id="ethnin-para-arz&#x131;-neden-&#xF6;nemli"></a>
+### ETH’nin para arzı
 
 Bitcoin, özünde dijital dünyada değer korumayı kendine temel hedef olarak belirlemiş bir kripto para, aslında bir inanç sistemi.
 
@@ -78,7 +78,7 @@ Aynı şekilde Ethereum para politikası da Bitcoin kadar net değil. Örneğin 
 
 Dilerseniz gelin şimdi asıl konumuz olan piyasadaki toplam ETH miktarını değiştirecek iki kritik konuya beraberce bakalım:
 
-### ETH yeni para arzı
+#### ETH yeni para arzı
 
 Genel olarak kripto paralarda yeni para yaratılmasının temel nedenlerinden biri sistemin güvenliğini sağlamak. Bir blokzincirin dijital dünyadaki dış tehlikelere karşı korunması işini madenciler gerçekleştiriyor.
 
@@ -100,7 +100,7 @@ Bir süre sonra ise ETH 1.0, ETH 2.0’a katılacak ancak bunun ne zaman olacağ
 | :--- |
 | _ETH’nin yıllar içindeki para arzı \(mavi ve sol taraf\) ve yeni arzın toplam paraya oranı % \(turuncu ve sağ taraf\). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak:_ [_ethhub.io_](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) |
 
-### ETH işlem ücretleri…
+#### ETH işlem ücretleri…
 
 Bu arada hemen şunu da belirtmekte fayda var. Madenciler sadece yeni yaratılan ETH’lerden para kazanmıyorlar. ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler, Bitcoin gibi basit para transferlerinden öte, Akıllı Kontratlar’ın karmaşık işlemlerini gerçekleştirmek olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da işlem ücretlerinin değişkenlik göstermesine sonucunu doğuruyor. Peki ücret nasıl belirleniyor?
 
@@ -118,13 +118,13 @@ EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından k
 
 Öte yandan, Ethereum üzerinde çalışılan bir başka insiyatif ise, işlemlerin blokzincir yerine üst seviye \(Layer 2\) zincir dışında bir araya getirilip, sonrasında zincire yazılması. Her bir işlem ücretini ciddi şekilde azaltabilecek bu gelişme için çalışan pek çok girişim var. Hangi girişim ön plana çıkacak birlikte göreceğiz.
 
-### Net etki nasıl olur?
+#### Net etki nasıl olur?
 
 Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, ödül olarak 500 bin ETH yaratılacak, ama bir yandan da bir milyona yakın ETH yakılacak. Bu tedavüldeki ETH sayısının net olarak 500 bin adet azalması demek. Vitalik’in göre, “[eğer sıfır para basımına ‘sağlam \(sound\) para’ denirse, negatif para basımı süpersonik anlamına gelir](https://www.realvision.com/rv/channel/realvision/videos/a0dafe0546b44328bac2ec75f7934d1d)”
 
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0’da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonlarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, **2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0’nin hem de EIP 1559’un girmesi toplam tedavüldeki ETH’yi yavaş yavaş azaltmaya başlayacak**. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak:
 
-## Para arzı üzerine son birkaç söz <a id="sonu&#xE7;"></a>
+### Para arzı üzerine son birkaç söz
 
 Ethereum için arzın azaltılması önemli bir konu olmakla beraber daha kritik olan nokta, talebin ne şekilde gelişeceği. Eğer ETH’ye talep olmaz ise, bu arzın kısıtlanmasının çok da önemi yok.
 
