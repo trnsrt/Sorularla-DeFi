@@ -96,12 +96,6 @@ Bu süreci planlamak kolay ancak gerçekleştirmek zor ve meşakkatli. Özellikl
 
 Yearn ekibi de, kendi merkeziyetsizleştirme sürecinde benzer bir süreç yaşadı. Ekip, yeni ürünleri tabiri caiz ise ‘çılgınlar gibi’ ardı ardına piyasaya sürerken, Temmuz ayı ortasında bir gün ansızın [YFI token](https://www.coingecko.com/en/coins/yearn-finance) adında bir yönetim tokeni çıkarttı. Bu tokenin özelliği kurucu ortaklara herhangi bir pay verilmeden, tamamının kullanıcılara dağıtılmış olması. Bu arada sadece 30.000 adet var bu tokenlardan \(Ocak 2021’de mevcut YFI sahiplerinin oylaması sonucu 6,666 adet token daha basmaya [karar verdiler](https://cryptobriefing.com/yearn-mints-yfi-worth-200-million/). Basılan bu tokenların üçte biri geliştiricilere ödül olarak verilecek, kalanı ise Yearn hazinesinde tutulacak\). 
 
-Her ne kadar çıktığı sırada, Andre bangır bangır [“YFI’nin değeri yok, değeri 0” diye bağırsa da](https://medium.com/iearn/yfi-df84573db81), YFI token iki ay içinde 43.000 ABD Doları seviyesine kadar yükseldi. Sonrasında DeFi’nin ayı piyasasına girmesiyle fiyatı 8,600 ABD Doları seviyelerine kadar inse de, YFI token Kasım 2020 içinde 10.000-20.000 ABD Doları gibi geniş bir bant aralığında işlem görüyor. Bu da tüm Yearn sistemine 300-600 milyon ABD Doları arası bir değer biçilmesi anlamına geliyor.
-
-|  |
-| :--- |
-| _Yearn tokeni YIF değeri. Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en/coins/yearn-finance) |
-
 Temel olarak Yearn protokolünün yönetimini merkeziyetsiz hale getirmek için tasarlanmış olan YFI tokenları sahiplerine para da kazandırıyor. [Bir önceki yazımızda](https://turansert.com/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) bahsettiğimiz yVault ürünlerinden alınan toplam komisyonların \(kârdan %5 ve kullanıcının parasını geri çekmek istemesi durumda uygulanan %0.5 cezanın toplamı bunlar\) onda biri ürünü yaratan ve yöneten ekibe giderken, kalanı Yearn hazinesine kalıyor. Hazinede kalan bu para daha sonra oy kullanma yoluyla yönetime katılan YFI token sahiplerine dağıtılıyor.
 
 Gerek kurucu ortaklara herhangi bir pay verilmemesi, gerekse yVault ürünlerinden alınan komisyonların geliştirici ekip ve kullanıcılara dağıtılması merkeziyetsizlik açısından önemli noktalar. Neden?
