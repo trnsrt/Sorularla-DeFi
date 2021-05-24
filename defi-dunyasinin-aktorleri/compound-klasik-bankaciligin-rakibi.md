@@ -4,7 +4,7 @@ Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler su
 
 Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika’da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller.
 
-## Nedir bu Compound? <a id="nedir-bu-compound"></a>
+### Nedir bu Compound?
 
 [Compound](https://compound.finance/) klasik bankacılık sisteminin bir alternatifi.
 
@@ -18,11 +18,11 @@ Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka
 | :--- |
 | _\(_[_Kaynak_](https://pixabay.com/illustrations/money-bank-business-finance-3405700/)_\)_ |
 
-## Nasıl çalışıyor sistem? <a id="nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor-sistem"></a>
+### Nasıl çalışıyor sistem?
 
 Compound sisteminde bireyler ellerindeki kripto paraları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kripto paraları kredi olarak kullanıyorlar. Bu “bir miktar fazla” Compound’un bu işten aldığı komisyon. Bankalara göre çok daha az.
 
-### Faiz nasıl belirleniyor? <a id="faiz-nas&#x131;l-belirleniyor"></a>
+#### Faiz nasıl belirleniyor?
 
 Sistemin faiz belirleme yöntemi aslında bankalara benziyor: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza, yani arz ve talebe göre bir algoritma tarafından hesaplanıyor faiz.
 
@@ -30,29 +30,29 @@ Ne sıklıkla? Çok! Ethereum üzerine kurulu bir sistem olarak Ethereum blok zi
 
 Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde özetlenebilecek temel ekonomik prensiplere dayanıyor.
 
-### Faiz çok oynak görünüyor, ya sisteme giriş-çıkış nasıl oluyor? <a id="faiz-&#xE7;ok-oynak-g&#xF6;r&#xFC;n&#xFC;yor-ya-sisteme-giri&#x15F;-&#xE7;&#x131;k&#x131;&#x15F;-nas&#x131;l-oluyor"></a>
+#### Faiz çok oynak görünüyor, ya sisteme giriş-çıkış nasıl oluyor?
 
 Şunu da hemen belirtelim. neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman paranızı çekebiliyorsunuz.
 
-### Tahsilat riski nasıl aşılıyor? <a id="tahsilat-riski-nas&#x131;l-a&#x15F;&#x131;l&#x131;yor"></a>
+#### Tahsilat riski nasıl aşılıyor?
 
 Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
-### Hangi paralarda işlem yapılabiliyor? <a id="hangi-paralarda-i&#x15F;lem-yap&#x131;labiliyor"></a>
+#### Hangi paralarda işlem yapılabiliyor?
 
 Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kripto paralar ile USDC, Tether, DAI gibi sabit paralar ile [mevduat yapabilir ya da kredi alabilirsiniz sistemden](https://compound.finance/markets).
 
-### Kimler kullanıyor? <a id="kimler-kullan&#x131;yor"></a>
+#### Kimler kullanıyor?
 
 Neden bir kişi sistemden borç almak ister? Teminat verecek kadar “param” varsa neden borç almak isteyeyim? Temel nedeni spekülatif hareketler. Örneğin bir nedenle sabit bir paraya sıkıştınız ancak elinizdeki ETH’i satmak istemiyorsunuz çünkü artacağını düşünüyorsunuz. Böyle bir durumda bu ETH’i teminat gösterip karşılığında ETH kredi alabilirsiniz.
 
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
 
-## Kim kurmuş bu Compound’u? Güvenilir mi peki? <a id="kim-kurmu&#x15F;-bu-compoundu-g&#xFC;venilir-mi-peki"></a>
+### Kim kurmuş bu Compound’u? Güvenilir mi peki?
 
 Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi.
 
-### Tamamen merkeziyetsiz mi? <a id="tamamen-merkeziyetsiz-mi"></a>
+#### Tamamen merkeziyetsiz mi?
 
 Hayır. Merkeziyetsizlik “[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)” ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı, o da belli değil açıkçası.
 
@@ -62,7 +62,7 @@ Asıl kritik olan, kredi alanlara hangi faiz oranı uygulayacağına bir “robo
 
 Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıcı ile verici pazaryeri misali birbirleri ile direkt biraraya gelebilirdi. O zaman da böyle bir karar kutuya ihtiyaç olmazdı. Birkaç yıl önce Dharma protokolü böyle bir niyetle ortaya çıktı ancak o projenin çok başarılı olduğu söylenemez.
 
-## MakerDAO’dan farkı ne? <a id="makerdaodan-fark&#x131;-ne"></a>
+### MakerDAO’dan farkı ne?
 
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası.
 
