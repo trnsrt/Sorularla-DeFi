@@ -41,9 +41,11 @@ Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC \(ABD Dol
 
 Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak:
 
+
+
 Hemen belirtelim: yukarıda verdiğimiz işlemler oldukça sığ bir havuz için yapılmış bir örnek. Havuz ne kadar büyük olursa, ya da yapılan işlemin havuzun büyüklüğüne oranı ne kadar küçük olursa bu fark o kadar az oluyor. İşte bu nedenle bu tip borsalar için likidite hayati bir öneme sahip. \(Adım adım Uniswap işlemlerini nasıl yapılıyor görsel olarak görmek isterseniz [şu Medium yazısında](https://medium.com/@obiwancoin/uniswap-kullan%C4%B1m-rehberi-obi-wan-bd73503fb9d6) oldukça güzel anlatılmış\).
 
-#### Kim neden havuza para koyar?
+_**Kim neden havuza para koyar?**_
 
 Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor \(Uniswap için şu anda %0,3 oranında\) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor.
 
@@ -61,11 +63,11 @@ Sistemdeki en kritik risk ani ve kalıcı fiyat artışlarında ortaya çıkıyo
 * Halbuki bu kişi ETH ve USDC’sini havuza yatırmayıp elinde tutsaydı USDC cinsinden 10 ETH x 400=4.000 artı 3.000 USDC toplam 7.000 USDC varlığı olacaktı.
 * Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” \(impermanent loss\) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor.
 
-Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar.
+Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın arkasında kalmış. Yani likidite koyanlar ciddi bir risk taşıyorlar.
 
 |  |
 | :--- |
-| _Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr \(ROI\) -_ [_Kaynak_](https://zumzoom.github.io/analytics/uniswap/roi/) |
+| _Uniswap içindeki en büyük havuz olan USDC havuzunun 2020-21 Şubat yıllık getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr \(ROI\) -_ [_Kaynak_](https://zumzoom.github.io/analytics/uniswap/roi/) |
 
 Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanlar aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz token çiftleri. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar “geçici kayıp” fazla yaşamazlar ve oldukça iyi kâr ederler.
 
@@ -121,7 +123,7 @@ Bunun dışında üç-dört stabil paradan oluşan havuzlar da kurabiliyor Curve
 
 Bütün bunların yanında Curve, sistemine likidite sağlayanlara CRV yönetim tokenı da veriyor. Likidite sağlayıcılar için havuzdaki işlem ücretinden aldıkları komisyonlar dışında bir kazanç kapısı daha. Bu önemli, zira Curve al-sat işlemi yapan kullanıcılara cazip gelebilmek için komisyon oranlarını %0.14 seviyesinde tutuyor \(Uniswap’ın %0.3’üne göre\). O zaman likidite sağlayıcı neden parasını buraya koysun? Hem düşük komisyon hem de daha az performans düşüklüğü ile kendisine çektiği al-sat yapan kullanıcılardan yarattığı yüksek işlem hacmi ile kazandığı komisyon yanında bir de CRV tokenı veriyor ki sistem likidite sağlayıcılar için cazip olsun.
 
-Ayrıca özellikle diğer projeler ile çalışma anlamında ilginç birliktelikleri var Curve’in. Örneğin, ilk çıkardıkları USDC/DAI \(her ikisi de sabit para\) havuzundaki likiditeyi, bir borç verme platformu olan Compound’a koydular. Böylece Curve’e likidite sağlayanlar aynı zamanda Compound’da kredi olarak verilen para üzerinden faiz kazandı. Bunun yanında [geçtiğimiz bir yazımızda](https://turansert.com/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) bahsettiğimiz kripto para türev borsası Synthetix ile ortak bir ürün çıkardılar ve ellerindeki likiditeyi Synthetix havuzlarına da kullandırdılar. Karşılığında da Curve likidite sağlayıcıları Synthetix tokenı olan SNX kazandılar…
+Ayrıca özellikle diğer projeler ile çalışma anlamında ilginç birliktelikleri var Curve’in. Örneğin, ilk çıkardıkları USDC/DAI \(her ikisi de sabit para\) havuzundaki likiditeyi, bir borç verme platformu olan Compound’a koydular. Böylece Curve’e likidite sağlayanlar aynı zamanda Compound’da kredi olarak verilen para üzerinden faiz kazandı. Bunun yanında ileride bir bölümde bahsedeceğimiz kripto para türev borsası Synthetix ile ortak bir ürün çıkardılar ve ellerindeki likiditeyi Synthetix havuzlarına da kullandırdılar. Karşılığında da Curve likidite sağlayıcıları Synthetix tokenı olan SNX kazandılar…
 
 Likiditenin DeFi ürünlerinde ne kadar önemli olduğunu görüyorsunuz değil mi? **Özünde Curve bir nevi likidite ticareti yapıyor**. Likidite sağlayıcılardan aldığı parayı gerek sabit para al-sat yapmak isteyen kullanıcılara, gerekse kendi sistemini kuvvetlendirmek isteyen başka platformlara götürerek ekstra getiriler elde ediyor.
 
@@ -159,7 +161,7 @@ Bir örnek ile açıklayalım. Geçtiğimiz iki buçuk yıl içinde 1 ETH’nin 
 
 Pratikte bu havuzda işlemler genelde 0.03-0.04 arasında hatta çok daha dar bir aralıkta gerçekleşiyor. Ama havuz parayı bu aralıkta tutmayıp her alana dağıttığından bu alana düşen likidite az kalıyor. Bir bidon suyu on metrekare havuza ya da 100 metrekare havuza döktüğünüzü düşünün. Havuz sığ kalınca, yüksek hacimli işlem olunca fiyatlar ani olarak düşüp yükselebiliyor. Bu hem likidite sağlayıcıya hem de işlem yapana sıkıntı yaratıyor:
 
-Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan alana yeterince para düşmediği için yapılan bir işlemin fiyata ani etki etmesi sonucu zarar ediyor \(ki buna geçici kayıp ingilizcede impermanent loss adı veriliyor. Ne olduğunu ve nasıl çalıştığını [Uniswap yazımızda](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) detaylıca anlatmıştık. Aşağıda dipnot olarak da verdik\). Bu kayıp likidite sağlayacılar için kaçınılmaz bir şekilde var, ancak havuz sığ olduğunda etkisi daha vurucu oluyor.
+Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan alana yeterince para düşmediği için yapılan bir işlemin fiyata ani etki etmesi sonucu zarar ediyor \(ki buna yukarıda da bahsettiğimiz gibi 'geçici kayıp' ingilizcede 'impermanent loss' adı veriliyor\). Bu kayıp likidite sağlayacılar için kaçınılmaz bir şekilde var, ancak havuz sığ olduğunda etkisi daha vurucu oluyor.
 
 İşlem yapanlar ise, bir fiyattan almak için teklif verdiklerinde sıkıntı yaşıyorlar. Birincisi büyük bir emir verdiklerinde algoritma istedikleri fiyata çok az likidite bıraktığı için \(likiditeyi tüm havuza paylaştırmak zorunda\) yapılan işlemin fiyata ciddi bir etkisi oluyor \(buna fiyat etkisi ya da ‘price impact’ deniyor\). İkincisi ise havuzda çok sayıda işlem olması ama likiditenin sığ kalmasından dolayı, kullanıcının işlem emri verdiği sırada araya başka işlemler girdiği için verdiği emir fiyatı ile gerçekleşen fiyat arasında aleyhlerine bir fark olduğunu görüyorlar \(ki buna ingilizcede slippage deniyor\).
 
@@ -215,7 +217,7 @@ Uniswap yeni versiyonda Optimistic Roll-up’ı kullanacağını açıkladı.. M
 
 #### Beni kopyalama!…
 
-Geçtiğimiz yazıda detayını yazdığımız Sushiswap kopyalama olayından derin bir şekilde etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler.
+Yukarıda detayını yazdığımız Sushiswap kopyalama olayından derin bir şekilde etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler.
 
 Tam olarak ne gibi bir etkisi olacak bunun? Artık rakipler Uniswap’ın kodunu kopyalayıp kullanamayacaklar. Kullanırlarsa ne olacak? Uniswap rakiplerini dava edebilecek mi? Nerede? Ticari mahkemelerde. Peki ya rakipler DeFi protokolü ise, sahipleri belli değil ise? O zaman Uniswap’ın o protokole karşı yapabileceği bir aksiyon yok, ancak o protokolü kullanan ve sahipleri belli uygulamalara karşı dava açabilir.
 
