@@ -2,11 +2,11 @@
 
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu bölümde bu araçlardan opsiyon piyasalarına bir göz atalım. Ama önce tam olarak bilmeyenler için opsiyonun ne olduğuna ve nasıl çalıştığına bir bakalım:
 
-## Opsiyon nedir, ne işe yarar? <a id="opsiyon-nedir-ne-i&#x15F;e-yarar"></a>
+### Opsiyon nedir, ne işe yarar?
 
 En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz bir tarihte, belli bir fiyattan alma ya da satma hakkına sahip olmak demek.
 
-### Alım opsiyonu <a id="al&#x131;m-opsiyonu"></a>
+#### Alım opsiyonu
 
 Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkanınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir.
 
@@ -14,7 +14,7 @@ Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine,
 
 Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
 
-### Satım opsiyonu <a id="sat&#x131;m-opsiyonu"></a>
+#### Satım opsiyonu
 
 Bunun tam tersi de mümkün. Varsayalım, elinizde tuttuğunuz herhangi bir varlığın değerinin gelecekte nasıl bir seyir izleyeceğini kestiremiyorsunuz.
 
@@ -26,7 +26,7 @@ Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varl
 | :--- |
 | _Image by_ [_Gerhard Bögner_](https://pixabay.com/users/bogitw-851103/) _from_ [_Pixabay_](https://pixabay.com/) |
 
-### Rakamsal bir örnek mi versek? <a id="rakamsal-bir-&#xF6;rnek-mi-versek"></a>
+#### Rakamsal bir örnek mi versek?
 
 Call ve put opsiyonlarını bir örnek ile açıklayalım:
 
@@ -40,11 +40,11 @@ Bir ay sonrasında değer 800 TL’ye düşerse opsiyonu kullanarak varlığı 1
 
 Ufak bir ayrıntı daha: Eğer opsiyonu sadece vade tarihinde kullanabiliyorsanız buna **Avrupa tipi opsiyon** deniyor. Yok eğer, vade tarihine kadar herhangi bir noktada kullanma imkanınız var ise bu **Amerikan tipi opsiyon** oluyor.
 
-### Tamam niye aldığımızı anladık da, kim satıyor bu opsiyonları? <a id="tamam-niye-ald&#x131;&#x11F;&#x131;m&#x131;z&#x131;-anlad&#x131;k-da-kim-sat&#x131;yor-bu-opsiyonlar&#x131;"></a>
+#### Tamam niye aldığımızı anladık da, kim satıyor bu opsiyonları?
 
 Peki, bir kullanıcı olarak bunu alıyoruz, ama kim satıyor? Sizin düşündüğünüzün tam tersini bekleyen ya da düşünenler var. Onlardan alma imkanınız var. Onun ötesinde, bu işin risk yönetimini yapan profesyoneller de var. Bu kişi ve kurumlar, karmaşık ihtimal hesapları ile bu ‘alım ya da satım’ opsiyonlarını belli bir ücret karşılığı size satıyor ve bundan ciddi para kazanıyorlar.
 
-## Kripto dünyasında nasıl oluyor opsiyonlar? <a id="kripto-d&#xFC;nyas&#x131;nda-nas&#x131;l-oluyor-opsiyonlar"></a>
+### Kripto dünyasında nasıl oluyor opsiyonlar?
 
 Kripto para dünyasının opsiyonlara ihtiyacı olduğunu söylemek o kadar da zor değil! Bu kadar belirsizliğin, inişin çıkışın olduğu bir dünyada kim akıl rahatlığı istemez ki?
 
@@ -56,7 +56,7 @@ Oysa merkeziyetsiz dünyanın, elektronik cüzdanını bağlayan herkese, saniye
 
 Merkeziyetsiz yapıların şu an için temel dezavantajı, likiditenin azlığından dolayı opsiyon fiyatlarının oldukça yüksek olması. Ancak bu alanda likiditeyi artırmak için çalışmalar hızla ilerliyor ve belli bir noktaya gelmiş durumda.
 
-## Kripto dünyasında opsiyon kullanımı klasik dünya ile aynı mı? <a id="kripto-d&#xFC;nyas&#x131;nda-opsiyon-kullan&#x131;m&#x131;-klasik-d&#xFC;nya-ile-ayn&#x131;-m&#x131;"></a>
+### Kripto dünyasında opsiyon kullanımı klasik dünya ile aynı mı?
 
 Yukarıdaki basit örnekte alım ve satım opsiyonlarının nasıl kullanılacağından bahsettik. Bu klasik dünyanın en temel opsiyon kullanım alanı. Kripto, yepyeni bir dünyanın kapılarını açarken, opsiyon piyasalarının kullanım alanını da yukarıdaki örnekten daha öteye taşıyor. Birkaç örnek daha verelim konuyu daha iyi anlamak için:
 
@@ -64,7 +64,7 @@ Varsayalım kripto para madenciliği işi yapıyorsunuz. Masraflarınız \(yol, 
 
 Bir diğer örnek: Kripto paranız var ve likidite sağlayarak para kazanmak istiyorsunuz. Merkeziyetsiz opsiyon platformları, aynı Uniswap’ın borsa işlemlerinde ve Synthetix’in türev piyasalarında yaptığı gibi, kurdukları havuzlar aracılığıyla, bu alana yatırım yapıp para kazanmak isteyenlere ilginç fırsatlar sunuyorlar. Herhangi bir opsiyon yazma bilgisine sahip olmadan bu havuzlara katılarak, getiri kazanmak mümkün \(riski unutmadan tabii\). Bu havuzların kullanım şekline önümüzdeki yazımızda değineceğiz.
 
-## Kimler var merkeziyetsiz opsiyon piyasasında? <a id="kimler-var-merkeziyetsiz-opsiyon-piyasas&#x131;nda"></a>
+### Kimler var merkeziyetsiz opsiyon piyasasında?
 
 Merkeziyetsiz opsiyon piyasasının en büyük oyuncusu [Hegic](https://www.hegic.co/). Onu [Opyn](https://opyn.co/#/) takip ediyor. Bunların yanında yeni çıkan ya da çıkma aşamasında olan [Opium](https://opium.network/), [Auctus](https://auctus.org/), [Finnexus](https://finnexus.io/#/), [Primitive](https://primitive.finance/), [Pods](https://www.pods.finance/) ve [Hedget](https://hedget.com/) var.
 
@@ -74,7 +74,7 @@ Hegic, yaklaşık 100 milyon ABD Doları’na yaklaşan üzerine kilitli para mi
 | :--- |
 | _Hegic ve Opyn’da kilitlenen toplam miktar Kaynak:_[_DeFiPulse_](https://defipulse.com/) |
 
-## Hegic nedir? <a id="hegic-nedir"></a>
+### Hegic nedir?
 
 Merkezi olmayan opsiyon en büyüğü olan [Hegic](https://www.hegic.co/) 2020 yılının Şubat ayında [0molly Wintermut3](https://turansert.com/genel/2021/01/26/@0mllwntrmt3) isimli anonim biri ya da birileri tarafından hayata geçirilmiş.
 
@@ -96,11 +96,11 @@ Mayıs ayında ise, bu sefer, bir kod hatası değil ama [sistem dizaynındaki b
 
 Deneysel projelerde bu tip problemler oluyor gördüğünüz gibi. Ama sonrasında hem bu hataların giderilmesi hem de zaman içinde yeni hataların çıkmaması, anlaşılan yatırımcıların gözünde “seni öldürmeyen güçlendirir” imajı yaratmış olmalı ki, Hegic son aylarda ciddi bir büyüme yaşadı.
 
-## Nasıl bir sistem kullanıyor Hegic? <a id="nas&#x131;l-bir-sistem-kullan&#x131;yor-hegic"></a>
+### Nasıl bir sistem kullanıyor Hegic?
 
 Normalde opsiyonlarda, opsiyonu kullanan \(alan/tutan\) ve satan \(yazan\) iki parti olur. Bu iki parti, hangi ürünü, ne zaman, hangi fiyattan alma/satma opsiyonu olacağını ve bu parametreler bazında opsiyonun değerinin ne olacağı konusunda anlaşırlar.
 
-### Eşten eşe işlem yapmak çok zor. Neden? <a id="e&#x15F;ten-e&#x15F;e-i&#x15F;lem-yapmak-&#xE7;ok-zor-neden"></a>
+#### Eşten eşe işlem yapmak çok zor. Neden?
 
 DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor. Zira, bir tavuk-yumurta kısır döngüsüne girme durumunuz var:
 
@@ -110,7 +110,7 @@ Bu durum, opsiyon piyasalarında çok daha fazla sıkıntı yaratıyor. Bunun ne
 
 Yukarıdaki temel sorun nedeniyle genelde DeFi piyasası ürünleri, ama özelde de opsiyon piyasası platformları, uzunca bir süre ıssız sokaklar gibiydiler. Peki nasıl çözdüler bu problemi?
 
-### Ve işte yine geldik DeFi’yi kurtaran havuz modeline… <a id="ve-i&#x15F;te-yine-geldik-defiyi-kurtaran-havuz-modeline"></a>
+#### Ve işte yine geldik DeFi’yi kurtaran havuz modeline…
 
 İşte DeFi piyasaları bu kısır döngüyü “havuz modeli” ile aştılar. Bu havuzların ilk örneklerinden biri Uniswap oldu. Hikayesini tekrar hatırlayalım:
 
@@ -134,7 +134,7 @@ Hemen dikkatinizi çekmek isterim: Opyn yukarıdaki grafikte yerlerde sürünen 
 | :--- |
 | _Hegic 2020 yılı üç aylık gelirler. Kaynak:_[_Messari_](https://messari.io/) |
 
-### Sistem nasıl çalışıyor? <a id="sistem-nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+#### Sistem nasıl çalışıyor?
 
 Sistemde iki ana aktör var.
 
@@ -148,7 +148,7 @@ Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki s
 
 Özet olarak, opsiyon fiyatları bir algoritma ile belirleniyor. Yukarıdaki birinci grup, opsiyon satın alırken prim ödüyor. Bu primler havuza gidiyor. Opsiyon satın alanlar opsiyonu kullanırlar ise, bunun ödemesini akıllı kontrat havuzdan alarak yapıyor. Havuzda kalan miktar, havuza likidite sağlayanlar arasında bölüşülüyor.
 
-## Hegic’in tokeni HEGIC <a id="hegicin-tokeni-hegic"></a>
+### Hegic’in tokeni HEGIC
 
 Hegic’in yarattığı HEGIC tokenın iki farklı kullanım aracı var, ki bu diğer DeFi projelere oldukça yakın:
 
@@ -156,7 +156,7 @@ Birincisi, HEGIC tokenlar sisteme likidite sağlamak için ‘rehin’ edilebili
 
 İkincisi ise bu tokenlar sayesinde ileride Hegic sisteminin yönetimine dahil olma şansına sahip olacaklar. Hegic kurucusu Wintermut, token sahibi aktif kullanıcı sayısının 100’ü aşması ile birlikte sistemin yönetimini yavaş yavaş token sahiplerine geçirmeyi planlıyor.
 
-## Hegic ve Opyn farkları <a id="hegic-ve-opyn-farklar&#x131;"></a>
+### Hegic ve Opyn farkları
 
 Merkeziyetsiz finans alanında faaliyet gösteren iki büyük oyuncu Hegic ile Opyn arasında birkaç temel fark var:
 
