@@ -1,22 +1,6 @@
 # Stabil paralar: DeFi'nin can suyu
 
-Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum “İyi ama Bitcoin ile bir mal sattın, parayı alıp dolara dönmek istediğinde bir bakıyorsun o sırada paranın değeri değişivermiş, ne anladım bu işten - neden Bitcoin kullanayım ki?” şeklinde bir serzenişte bulundu. Haklı mı? Mevcut durumda haklı. Baksanıza Bitcoin’in son bir aydaki değişimini gösteren grafiğe:
-
-|  |
-| :--- |
-| _Bitcoin - Aylık Değişim Kaynak:_ [_Coindesk_](https://www.coindesk.com/price/) |
-
-Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların durumu daha da kötü. Aşağıda son iki ayın grafiği var. İki ay öncesine göre % olarak dört büyük KriptoPara’nın değişimini gösteriyor. Genelde hepsi değer kaybetmiş ama oranları o kadar değişken ki… Örneğin iki ay öncesine göre bir ara %27’ye varan oranda değer kaybetmiş ama son zamanlarda toparlayıp, yazı tarihi itibariyle sadece %7 aşağıda kalmış. Benzer dönemde, 23 Mayıs’taki değerine göre bir noktada Ethereum %26, Litecoin %43, Monero ise %37 daha düşük değerden işlem görmüş. Can mı dayanır bu iniş-çıkışa?
-
-|  |
-| :--- |
-| _Son iki ay % değişim - Bitcoin\(Mavi\), Ethereum\(Kırmızı\), Litecoin\(Turuncu\), Monero\(Sarı\) Kaynak:_ [_Tradeview_](https://www.multicoincharts.com/?chart=COINBASE:BTCUSD) |
-
-Hatırlarsanız bundan önceki bir yazımızda “[Bitcoin para mıdır, değil midir?](https://turansert.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)” diye uzun uzun tartışmış, Bitcoin’i Altın ve devletler tarafından basılan ve şu an tedavülde olan kağıt para \(fiat para da deniyor\) ile karşılaştırmıştık.
-
-### Fazla dalga bulantı yapar
-
-Bitcoin bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar olması.
+Kripto dünyasının en büyük ve eski varlığı Bitcoin bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar olması.
 
 Ama bu dalgalanmalar için alınacak çok da bir önlem yok. Zira Bitcoin’in fiyatını diğer tüm paralarda ya da hisse senetlerinde olduğu gibi borsalarda alım satım yapanlar belirliyor. Normalde fiat paralarda parayı basan merkezi otorite \(merkez bankaları\) piyasada bir oyuncu olarak yer alıp fiyattaki ani zıplamaları önlüyorlar. KriptoPara dünyasında böyle arkada duran bir ağır abi yok, kaldı ki bu, KriptoParaların özündeki “merkezi otoriteye olan ihtiyacı sıfırlamak” amacına taban taban zıt bir durum.
 

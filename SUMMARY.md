@@ -37,8 +37,8 @@
 ## DeFi'de yönetim
 
 * [CeFi'den DeFiye: Merkeziyetsizleşme uzun ince bir yol](defide-yoenetim/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
-* [Bir yönetim tokeni örneği: COMP](defide-yoenetim/untitled.md)
-* [Aragon ile DeFi'de yönetim](defide-yoenetim/untitled-1.md)
+* [Bir yönetim tokeni örneği: COMP](defide-yoenetim/bir-yonetim-tokeni-ornegi-comp.md)
+* [Aragon ile DeFi'de yönetim](defide-yoenetim/aragon-ile-defide-yonetim.md)
 
 ## DeFi dünyasına adım atacaklar için pratik bilgiler
 
