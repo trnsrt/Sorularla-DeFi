@@ -6,7 +6,7 @@ Geçtiğimiz bölümlerde önce DeFi tokenların elektronik cüzdanlar aracalı�
 
 Öncelikle daha önce pek çok kez tekrarladığımız şu düsturu tekrar hatırlatalım: Kripto varlık satın alan bir kullanıcı bunu kendi elektronik cüzdanında tutmaz ise aslında o paraya sahip değildir..
 
-**Elektronik cüzdanda mı? Hayır...**
+#### Elektronik cüzdanda mı? Hayır...
 
 Aslında anlatım açısından basit teknik olarak hatalı bir söylem. Kripto varlıklar cüzdanda durmaz. Cüzdanda duran o varlıklara ulaşmada kullanılan anahtarlar..
 
@@ -62,7 +62,7 @@ Kimi insanlar bu arayüzlere güvenmek yerine direkt kaynaktan bilgi almayı ter
 
 İşte böyleleri için Ethereum zincirinde kayıtların tutulduğu sitelere direkt bağlanmak ve ne olup bittiğini orada kaynağında görmek imkanı da var. Bu alanda da pek çok site var, ama en sık kullanılanı [Etherscan](https://etherscan.io/). Yatırımcı tüm işlemlerin kayıtlarını Etherscan üzerinde rahatça görebilir. Hatta yukarıdaki iki bölümde bahsettiğimiz cüzdanlar ve Zapper ve Zerion tipi arayüzler de, yapılan işlemlerin teyidini isteyen yatırımcıları Etherscan'e yönlendirirler içlerinden.
 
-#### Son birkaç söz
+### Portföy takibi konusunda son birkaç söz
 
 DeFi dünyasına yatırımcının rahatını düşünen pek çok farklı uygulama var. Bütün bu uygulamaların temel hedefi, yatırımcının bu dünyaya adım attığı andan itibaren kendisine bağlı tutmak. Klasik dünyadaki 'müşteriye dokunan kraldır' deyişi burada da geçerli aslında. Rekabet sert, bu rekabet sonucu her gün yeni bir ürün kullanıcıların beğenisine sunuluyor. Emekleme aşamasında olan DeFi sektörü de bu sayede adım atmayı öğrenmeye başlıyor. Henüz değil ama yakın gelecekte hızlı adım yürüyüşe daha sonra da koşarak sprint atmaya doğru yol aldığını hep birlikte heyecanla izleyeceğiz.
 

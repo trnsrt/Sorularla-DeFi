@@ -2,7 +2,7 @@
 
 Bu bölümde klasik dünyada alışık olmadığımız, daha çok DeFi dünyasının kullanıcılara sunduğu bir yenlik olan toplayıcılardan bahsedeceğiz.
 
-## DeFi’nin girift yapısı <a id="definin-girift-yap&#x131;s&#x131;"></a>
+### DeFi’nin girift yapısı
 
 DeFi felsefesinin temel yapı taşlarından biri ‘açık olmak’. Bu açık olmanın bir özelliği de, ürünlerin belli bir standart ile yaratılması ve birbirleri ile geçişkenli olarak kullanılabilmesi. Ne demek bu?
 
@@ -12,7 +12,7 @@ Ama DeFi için durum farklı. Neredeyse her ürün bir başkası ile birlikte ku
 
 Ancak bu yenilikler aynı zamanda kendi içinde belli komplikasyonları da beraberinde getiriyor. Gelin önce bu sıkıntılardan birinden, sonra da DeFi’nin buna karşı geliştirdiği çözümden bahsedelim.
 
-### Merkeziyetsiz borsaların avantajı ve dezavantajı <a id="merkeziyetsiz-borsalar&#x131;n-avantaj&#x131;-ve-dezavantaj&#x131;"></a>
+#### Merkeziyetsiz borsaların avantajı ve dezavantajı
 
 Geçtiğimiz yazılarımızdan birinde, merkeziyetsiz borsalardan bahsetmiştik. Merkeziyetsiz borsalar tokenlarını elektronik cüzdanında tutan DeFi kullanıcıları için en rahat alım-satım platformları.
 
@@ -30,7 +30,7 @@ Bir başka konu ise, kullanıcının alım yapmak istediği sırada başka alıc
 
 Son olarak, kullanıcının işlem yaparken ne kadar hızlı işlemi gerçekleştirmek istediği de önemli. Eğer çok hızlı bir şekilde işleminin gerçekleştirmek istiyorsa, o zaman blokzincir sırasında öne geçebilir ancak bunun ciddi bir maliyeti var. Ya da alternatif olarak ‘benim işim acele ya da kritik değil’ diye düşünerek daha düşük bir madenci işlem ücreti seçebilir.. Ama böyle bir durumda, hem gecikmeye razı olmalı hem de o işlem blokzincire yazılana kadar araya giren başkaları olabileceği için fiyatın değişme riskini göze almalı.
 
-### Kullanıcı hangi borsayı kullanacağını nasıl seçecek? Toplayıcılar burada işin içine giriyor <a id="kullan&#x131;c&#x131;-hangi-borsay&#x131;-kullanaca&#x11F;&#x131;n&#x131;-nas&#x131;l-se&#xE7;ecek-toplay&#x131;c&#x131;lar-burada-i&#x15F;in-i&#xE7;ine-giriyor"></a>
+#### Kullanıcı hangi borsayı kullanacağını nasıl seçecek? Toplayıcılar burada işin içine giriyor
 
 İşte yukarıda saydığımız faklı senaryolardan dolayı tokenların fiyatı borsadan borsaya farklılık gösteriyor. Ne yapacak kullanıcı? Sekiz farklı borsa için ekranını açık tutup hangisi iyi ise ondan mı işlem yapacak?
 
@@ -46,7 +46,7 @@ Düşünün, bir kullanıcı borsalara teker teker bakacak, uygun fiyatlısını
 
 Bunun yerine toplayıcıya parasını kullanma konusunda izin verdiğinde sonrasında toplayıcı bunu hangi borsada kullanırsa kullansın tekrar bir izin vermesine gerek yok.. Bu da kullanıcı için ekstra işlem maliyetinden kaçınması demek.
 
-## Kimler var toplayıcı olarak? <a id="kimler-var-bu-piyasada"></a>
+### Kimler var toplayıcı olarak?
 
 2020 yılının Nisan ayı itibariyle piyasada üç büyük toplayıcı bulunuyor. Bunlar [1inch](https://1inch.exchange/#/), [Matcha](https://matcha.xyz/), ve [ParaSwap](https://paraswap.io/).
 

@@ -2,11 +2,11 @@
 
 DeFi dünyasında ilk adım olan cüzdanı kurduktan sonra sıra bu dünyada işlem yapmaya geldiğinde nelere dikkat etmek gerekir, gelin birlikte üzerinden geçelim:
 
-## Cüzdanı bağladık ya sonra? <a id="c&#xFC;zdan&#x131;-ba&#x11F;lad&#x131;k-ya-sonra"></a>
+### Cüzdanı bağladık ya sonra?
 
 Cüzdanı bağladıktan sonra DeFi platformunda rahatça gezebilir, bakiyenizi görerek yapabileceğiniz işlemleri seçebilirsiniz. İşlemi seçtikten sonrasında dikkat etmeniz gereken kritik birkaç özellik var:
 
-## Blokzincirde işlem yapmak ne demek? <a id="blokzincirde-i&#x15F;lem-yapmak-ne-demek"></a>
+### Blokzincirde işlem yapmak ne demek?
 
 Blokzincir üzerinde işlem yapmak demek, o blokzincir üzerindeki blok kapasitesini kullanmak demek. Bitcoin blokzinciri her 10 dakikada bir blok oluşturuyor. Dolayısıyla yazılmak istenen işlemler bu blok içinde girebilmek için birbirleri ile yarışıyorlar. Eğer o sırada fazla işlem yapılmıyor ise bir sorun yok. Hemen hemen her istenen işlem madenciler tarafından toplanıp zincire yazılıyor.
 
@@ -18,13 +18,13 @@ Ancak, burada Ethereum’un ciddi bir dezavantajı var. O da şu: Bitcoin, genel
 
 Ethereum ise, üzerinde karmaşık işlemlerin ve akıllı kontratların yazıldığı bir sistem. Bu nedenle her bir işlem ciddi olarak blokzincir üzerinde yer kaplıyor. Bu nedenle, 15 saniyelik bloklar çok hızlı bir şekilde doluyor. Kimi işlemler Bitcoin’den çok daha yavaş bir şekilde gerçekleşiyor.
 
-## DeFi’de işlem ücretleri <a id="defide-i&#x15F;lem-&#xFC;cretleri"></a>
+### DeFi’de işlem ücretleri
 
 Eğer daha önce Bitcoin kullandıysanız işlem ücretlerini birkaç ABD Doları tuttuğunu görmüşsünüzdür. DeFi için ağırlıklı olaraki farklı bir blokzincir olan Ethereum kullanılıyor. Dolayısıyla DeFi ürünleri kullanırken ilk karşınıza çıkacak tedirgin edici konu işlem ücretleri olacak.
 
 Bir DeFi platformuna geldiniz, cüzdanınızı bağladınız ve bir işlem yapmaya karar verdiniz. Öncelikle içiniz rahat olsun, cüzdanınız sizden onay almadan herhangi bir işlem yapmaz. Ancak, işlem için onay vermeden önce ne kadar ücret ödeyeceğinize dikkat etmekte fayda var.
 
-## İşlem ücreti nasıl ortaya çıkıyor? <a id="i&#x307;&#x15F;lem-&#xFC;creti-nas&#x131;l-ortaya-&#xE7;&#x131;k&#x131;yor"></a>
+### İşlem ücreti nasıl ortaya çıkıyor?
 
 DeFi’de ya da blokzincirde sabit ücret diye bir durum yok. Herhangi bir noktada yapacağınız işlemin ücreti ile bir sonraki işlem ücretinin aynı olması neredeyse imkansız. Neden? Nedenini anlamak için işlem ücretini oluşturan dinamiklere göz atmakta fayda var.
 
@@ -34,7 +34,7 @@ Genel olarak üç farklı dinamik çalıyor işlem ücreti belirlenirken:
 2. Birim işlem maliyeti: Ethereum blokzinciri tek. Burada işlem yapmak isteyen binlerce kullanıcı var. Kimi zaman örneğin fiyatlarda dalgalanmalar olduğunda işlem yapmak isteyenlerin sayısı bir anda artabiliyor. Sistem bir nevi mezat yöntemi ile çalıştığı için, birim maliyet çok hızlı bir şekilde arşa çıkabiliyor.
 3. Hızlı işlem: Yukarıdaki iki kritere göre, yani blokzincire o anda ne kadar rağbet var ve işlem ne kadar büyük, yanında son bakılacak bu işlemi ne kadar hızlı yapmak istediğiniz. Eğer aceleniz varsa, normalden daha yüksek bir ücret ödeyerek o işlemin kuyrukta öne geçmesini sağlayabilirsiniz. Ama ‘yok, o kadar yüksek işlem ücreti veremem’ diyorsanız o zaman yavaş hız seçip, sabırla bekleyebilirsiniz \(ama ücreti çok düşük seçerseniz, uzun süre beklemeye razı olmalısınız\)
 
-## Çok karmaşık görünüyor. Kullanıcı olarak ne yapabilirim? <a id="&#xE7;ok-karma&#x15F;&#x131;k-g&#xF6;r&#xFC;n&#xFC;yor-kullan&#x131;c&#x131;-olarak-ne-yapabilirim"></a>
+### Çok karmaşık görünüyor. Kullanıcı olarak ne yapabilirim?
 
 Öncelikle yukarıdaki teknik detaylar sizi korkutmasın. Herhangi bir hesaplama yapmanıza gerek yok. Elektronik cüzdanınız size gerekli alternatifleri ve her bir alternatifin ücretini ortaya çıkaracak.
 
