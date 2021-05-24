@@ -189,15 +189,6 @@ Ayrıca şunu da unutmamak lazım - bu teminat SNX değeri üzerinden belirleniy
 
 Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine [ikinci seviye çözümler üzerinde çalışıyor](https://synthetix.community/docs/why-is-gas-so-high)
 
-## Türev piyasaları ve Sythetix üzerine son bir kaç söz <a id="sonu&#xE7;"></a>
-
-Özet olarak düşüncemi şuraya bırakayım:
-
-* Synthetix türev piyasaları, internet bağlantısı olan herkese türev ürünlerini hızlıca alıp satmak ya da farklı türev ürünleri arasında masrafsız geçiş yapabilmek konularında büyük rahatlık sağlıyor.
-* Genel olarak DeFi’ya ilginin had safhada olmasının getirdiği artan iş hacimleri sayesinde yükselen komisyonlar ve dağıtılan ödüller SNX’e olan talebi ve dolayısıyla paranın değerini artırıyor.
-* Ancak bu piyasaya likidite sağlamak amacıyla konan \(stake edilen\) paranın diğer DeFi platformlardan farklı olarak aynı zamanda risk getirdiği de göz önünde bulundurulmalı.
-* Uzun vadede özellikle uzun süreli boğa piyasası olması ve Synthetix’de açılan türev işlemlerinin sürekli kazandıran belli bir ürünlere kayması \[^3\] durumunda sistemin yapısından gelen riskleri kaldıramama ihtimali olduğu da unutulmamalı.
-
 \[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz.._
 
 \[^2\] _Kontratların nasıl likidite edileceği ile ilgili detaylı bilgiye_ [_şu linkten_](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) _ulaşabilirsiniz_

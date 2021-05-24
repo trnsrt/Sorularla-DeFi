@@ -1,6 +1,6 @@
 # Nexus Mutual: DeFi'nin sigortası
 
-[Nexus Mutual](https://nexusmutual.io/), DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. İki yazıdan oluşacak seriminizin ilkinde gelin hep birlikte Nexus Mutual’a ekonomik ve potansiyel olarak bakalım. Bir sonraki yazımızda ise teknik olarak sistem nasıl çalışıyor, tokeni [NXM](https://www.coingecko.com/en/coins/nexus-mutual) nasıl fiyatlanıyor konularına değiniriz.
+[Nexus Mutual](https://nexusmutual.io/), DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. Gelin önce hep birlikte Nexus Mutual’a ekonomik ve potansiyel olarak bakalım sonra da teknik olarak sistem nasıl çalışıyor, tokeni [NXM](https://www.coingecko.com/en/coins/nexus-mutual) nasıl fiyatlanıyor konularına değiniriz.
 
 ## Merkeziyetsiz sigortacılık olur mu? <a id="merkeziyetsiz-sigortac&#x131;l&#x131;k-olur-mu"></a>
 
@@ -149,10 +149,6 @@ Nexus özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazar�
 Bunun yanında Nexus Mutual’ın olası riskleri karşılamak için elinde tuttuğu bir kapital var - [bu 2020 Ekim aylarında 200 bin ETH \(yaklaşık 75 milyon ABD Doları\) seviyesinde](https://nexustracker.io/capital_pool). Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için elindeki ETH’yi buraya koyarak ekstradan gelir kazanma ihtimali de doğacak.
 
 Öte yandan her ne kadar merkeziyetsiz desek de Nexus Mutual hâlâ pek çok konuda merkezi. Örneğin, az önce bahsettiğimiz gibi sisteme üye olmak için KYC prosedürlerinden geçmeniz gerekiyor. Sistemi yürüten Nexus, İngiltere’de kurulu bir şirket. Kullanıcılar sistemin tokeni olan NXM’i alıp satmayı şu aşamada sadece Nexus üzerinde yapabiliyorlar. Öte yandan hasar taleplerinin değerlendirmesi merkeziyetsiz bir şekilde Nexus yatırımcıları tarafından yapılsa da, bu yatırımcıların kurallara uyup uymadığını denetleyen bir merkezi Danışma Kurulu var. Bütün bunlar, Nexus Mutual’ın merkeziyetsiz olma yolunda önünde çözmesi gereken pek çok konu olduğunu gösteriyor.
-
-## Nexus Mutual üzerine son birkaç söz <a id="sonu&#xE7;"></a>
-
-Merkeziyetsiz Finans’ın en ilginç projelerinden biri olan Nexus Mutual sigortacılık konusunda neredeyse tekel. Ancak hâlâ önünde alacağı çok yol var. Yeni çıkan DeFi platformları hızlı bir şekilde ürün olarak sunması, kapsama alanını farklı riskleri de içerecek şekilde genişletmesi, yapacağı yeni pazarlama ortaklıkları Nexus’un büyümesine fayda sağlayacak. Öte yandan sigorta sisteminin karmaşıklığından dolayı henüz merkezi olan kısımlarını yavaş yavaş merkeziyetsiz hale getirmeleri de başarılı olmaları için gerekli. 
 
 * \[^1\] Eylül ayındaki SAFE olayından sonra bir anda 200 milyon ABD Dolarına çıkan sigorta miktarı, aylık alınan bu poliçelerini dolması ve yenilenmemesi nedeniyle Ekim ayı ortalarında tekrar Eylül ayı öncesi 50 milyon ABD Doları rakamlarına inmiş durumda.
 * \[^2\] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
