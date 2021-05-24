@@ -18,7 +18,7 @@ Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir 
 
 Gelin bu bölümde, 2020 yazında DeFi’nin parlayan yıldızlarından biri haline gelen, ‘merkeziyetsiz portföy yönetimi’ girişimi [Yearn](https://yearn.finance/) platformuna bakalım.
 
-## Ne yapar Yearn protokolü? <a id="ne-yapar-yearn-protokol&#xFC;"></a>
+### Ne yapar Yearn protokolü?
 
 Yearn protokolü çok basit olarak, bir kaç belirlenmiş strateji doğrultusunda paranızı otomatik şekilde değerlendirmeye yarıyor. Çıkış amacı, riski az stabil paraları farklı platformlarda değerlendirerek ekstra getiri yaratmak. Bir başka deyişle, **geliri maksimize etmek yerine riski minimize etmek yoluya kullanıcısına makul bir getiri sağlama** hedefindeler.
 
@@ -26,11 +26,11 @@ Yearn protokolünün sloganı “basitleştirilmiş merkeziyetsiz finans”\(“
 
 Neyse ki topluluğun katkıları ile neyin ne olduğu ve nasıl yapılacağını anlatan [sayfalar](https://docs.yearn.finance/) websitesine sonradan eklenmiş. Ancak bu sayfaları bulmak bile kullanıcı için kolay değil. Neyse, konudan fazla sapmadan gelin ne tip ürünler var Yearn içinde, ona bakalım.
 
-## Ne tip ürünler var? <a id="ne-tip-&#xFC;r&#xFC;nler-var"></a>
+### Ne tip ürünler var?
 
 Yearn sitesine girince onlarca ürün görebilirsiniz, ancak temel olarak iki ana grup olduğunu söyleyebiliriz. Bunlardan birincisi, ilk çıkan ürünleri olan Earn. Bu ürünün başarısı sonrası, daha riskli bir alana girip ikinci ürünleri yVault’u çıkarıyorlar. Bunun yanında tamamen pazarlama ağırlıklı bir sigorta ürünü ve deneme aşamasında olan pek çok farklı projeyi de sitede görmek mümkün.
 
-### Earn <a id="earn"></a>
+#### Earn
 
 Kullanıcının parasını alıp, çeşitli borç verme protokolleri arasında gezdirerek en yüksek getiriyi otomatik olarak sağlayan [Earn](https://yearn.finance/earn) Yearn platformundan çıkan ilk ürün.
 
@@ -44,7 +44,7 @@ Neden kullanıcılar Earn kullansın? Bir kaç temel nedeni var.
 
 Üçüncü önemli neden ise, Earn içinde yatırımcıların para yatırabildiği dört farklı stabil para var. Bunlar DAI, USDC, USDT, TUSD. Bütün bu paralar bir başka protokol olan Curve içinde özel bir havuzda tutuluyor. Curve, Uniswap benzeri ancak stabil paralar üzerine uzmanlaşmış merkeziyetsiz bir borsa. Curve kullanıcıları, bu dört stabil paraları alıp sattıkça bu havuza komisyon veriyorlar. Bu komisyonlar da Earn’e para koymuş yatırımcılara gidiyor. Dolayısıyla, bireysel olarak elde edemeyeceği ekstra bir gelir kapısına sahip oluyor kullanıcılar.
 
-### yVaults <a id="yvaults"></a>
+#### yVaults
 
 Yearn ekibinin çıkardığı ikinci ürün ise, DeFi piyasasının 2020 yazında yaşadığı hızlı yükselişin temel nedenlerinden olan getiri çiftçiliği \(yield farming\) furyasından yararlanmayı hedefleyen [yVaults](https://yearn.finance/vaults) oldu.
 
@@ -70,7 +70,7 @@ Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.c
 
 Yalnız bu ürün diğer yVault ürünlerine göre daha riskli. Neden? Mevcut yVault risklerinin üzerinde bir de Delegated Vault ürününün getirisi eğer alınan borç için ödenen faizden az olursa, kullanıcının koyduğu paranın sistemde kilitli kalma riski var. Bu para ancak sistemdeki getiri ödenen faizden fazla olursa tekrar kullanıma açılıyor.
 
-### Diğer ürünler <a id="di&#x11F;er-&#xFC;r&#xFC;nler"></a>
+#### Diğer ürünler
 
 Bunun yannda deneme anlamında pek çok yeni ürün çıkarma çabaları da sürüyor Yearn’da.. Malum, açık kaynaklı “lego” gibi bir sistem DeFi.. Bu dünyadaki ürünler aynı dili konuştukları için yeni ürün çıkarmak yıllar, aylar değil, haftalar alıyor.
 
@@ -82,7 +82,7 @@ Kullanımda olan tüm Yearn ürünleri ile ilgili yatırılmış ya da yatırım
 
 Şimdi de gelin Yearn protokolünün tokeni YFI ile birlikte platformun risklerini değerlendirelim.
 
-## Ve YFI <a id="ve-yfi"></a>
+### Ve YFI
 
 Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de merkezilikten merkeziyetsizliğe benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)‘den oluşan “tek kişilik bir ordu” tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi.
 
@@ -112,9 +112,9 @@ YFI token sahiplerinin oylamaları sonucu çıkan kararları 9 kişinin sahip ol
 
 Özet olarak, **YIF tokeni, hem token sahiplerine oylamalara katılma karşılığı gelir sağlıyor, hem de yazılımcılara geliştirdikleri ürünlerin yarattığı komisyonlardan pay veriyor. Bu da bireylerden bağımsız uzun vadeli sürdürülebilir bir platform yaratılmasında kritik bir önem taşıyor.**
 
-### Riskler neler?
+#### Riskler neler?
 
-#### Platform, platform üzerine olunca Akıllı Kontrat riski artıyor…
+_**Platform, platform üzerine olunca Akıllı Kontrat riski artıyor…**_
 
 Öncelikle, Yearn ürünlerinin her birinin birer akıllı kontrat olduğunu belirtelim. Ve her bir ürünün başka başka DeFi platformları üzerinden getiri sağlamaya çalıştığını da ekleyelim. Dolayısıyla, kullanıcı yalnızca bu ürünlerin değil aynı zamanda bu ürünlerin üzerinde çalıştığı DeFi platformlarının riskini almak zorunda.
 
@@ -128,7 +128,7 @@ Açıkcası bu alanda kullanıcıyı ferahlatacak mekanizmalar çok az ve yavaş
 
 Andre, hemen hemen her ortamda ürünlerinin yüksek risk içerdiğini söylüyor. Twitter profilinde “I test in prod” yazıyor, Türkçe meali “Ben ürünü çıkartırken test ederim, hatalar çıkabilir, dikkat edin”. Dolayısıyla konu hakkında tecrübesi az olanların, en azından başlangıç aşamasında Yearn ürünlerinden uzak durmasında fayda olabilir.
 
-#### Platform ne kadar Andre’ye bağlı?
+_**Platform ne kadar Andre’ye bağlı?**_
 
 Andre çok sıkı bir programcı. Üniversite eğitimi hukuk, ancak Yearn öncesinde [CryptoBriefing](https://cryptobriefing.com/) sitesi için değişik blokzincirleri analiz ediyor \(bu arada kripto alanının en önde gelen şahsiyetlerinden Akıllı Kontratların mucidi [Nick Szabo](https://twitter.com/NickSzabo4)‘nun da [hukuk eğitimi almış olması](https://en.wikipedia.org/wiki/Nick_Szabo) ilginç bir detay\). Oldukça zeki ve kuvvetli bir programcı olmasının yanında gelgitleri olan biri: Kurduğu programı bir süreliğine bıraktı, hem de [bir](https://cointelegraph.com/news/one-man-defi-developer-quits-citing-hostile-community) değil [iki](https://www.coindesk.com/yearn-finances-creator-says-hes-quit-defi-but-project-has-bench-strength) kez. Verdiği kimi sözleri tutmadığı iddia edildi. Hatta bununla ilgili [Güney Afrika’da açılmış davalar olduğu söyleniyor](https://unchainedpodcast.com/why-bitcoin-now-meltem-demirors-and-lyn-alden-on-the-perfect-conditions-for-bitcoin/).
 
@@ -144,7 +144,7 @@ Keza bir önceki bölümde bahsettiğimiz YIF tokeninin ana amacı, protokolü k
 
 Dolayısıyla kurucusu Andre’nin gelgitlerinden bağımsız olarak Yearn protokolü, takipçi sayısı ve kullanıcısı geniş bir topluluk olarak gelecekte de DeFi’nin önemli platformlarından biri olmaya aday.
 
-### Neden popüler oldu Yearn ürünleri?
+#### Neden popüler oldu Yearn ürünleri?
 
 Öncelikle yukarıda da belirttiğimiz gibi bu tip ürünlere piyasada gerçekten ihtiyaç var. Yearn sloganını “DeFi, simplified” \(Basitleştirilmiş Merkeziyetsiz Finans\) olarak belirlemiş.
 
@@ -164,7 +164,7 @@ Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu
 
 Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenlarının ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler, insanların gözlerini kamaştırdı. Büyük miktarlarda “balina” olarak adlandırılan yatırımcı paraları bu alana ve Yearn platformuna yığıldı.
 
-### Sonra?
+#### Sonra?
 
 Sonra “deniz tükendi”. Yönetim tokenlarındaki artışların getirdiği üç haneli rakamlar tek haneli rakamlara doğru inmeye başladı. Aslında üç haneli rakamlar yanıltıcı idi. Neden?
 
@@ -174,7 +174,7 @@ Sonra “deniz tükendi”. Yönetim tokenlarındaki artışların getirdiği ü
 
 Öte yandan, sistemin kurucusu Andre Cronje ile ilgili çıkan haberler de kimi kullanıcıları sistemden soğutmuş olabilir. Örneğin, Andre’nin attığı birkaç esrarengiz tweet sonrası, kullanıcılar daha tanıtımı bile yapılmamış bir ürün için, “yüksek kazanç” hevesiyle bir ETH hesabına tam 15 milyon ABD Dolar’a yakın para yatırdılar. Sonrasında bir hacker çıkıp bu hesaptaki paralara el koydu. [Ortalık ayağa kalktı](https://www.coindesk.com/eminence-exploit-defi-compensated). Hacker insaflı çıkıp paranın 8 milyonluk kısmını geri gönderdi de insanlar yatırdıklarının yarısını geri aldılar. Şahsen, burada Andre’yi haklı bulduğumu söylemeliyim. Ne işe yaradığını ve hazır olup olmadığını bilmediğiniz bir ürüne, üstelik denetimden bile geçmemişken yatırım yapıyorsanız, paranızı kaybetme riskiniz olduğunu bilmeniz gerekir. Paranız yanınca Andre’den medet umuyorsanız, o zaman DeFi ile ilgili bildiklerinizi tekrar gözden geçirmenizi tavsiye ederim.
 
-### Gelecekte kullanıcıları neler bekliyor?
+#### Gelecekte kullanıcıları neler bekliyor?
 
 Yearn, ilk ürünlerinde zarar etme riskini minimize eden stratejiler üzerine yoğunlaşmış idi. Bunun yapmanın yolu olarak da stabil paraları seçmişti. Görünen bundan sonra daha volatil kripto paraları kullanarak daha kârlı stratejiler yürütmeye çalışacak. Örneğin, vadeli piyasaları kullanarak, ETH üzerindeki düşüş riskini yok edecek opsiyonlar satın alacak. Ancak bu opsiyonları satın almanın doğa olarak bir maliyeti var. Bu nedenle, bu stratejiyi uygularken hedefi, ETH’yi yatırarak kazanacağı getirinin opsiyon maliyetinden yüksek olmasını sağlamak olacak.
 
