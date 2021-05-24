@@ -4,7 +4,7 @@ Bu bölümde gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ile
 
 [Filecoin](https://filecoin.io/), DeFi dünyasının çok ihtiyacı olabilecek veri saklama hizmetini veren bir yapı. En büyük özelliği ise merkeziyetsiz olması. İyi de blokzincirler zaten merkeziyetsiz değil miydi? Neden Filecoin’e ihtiyaç var?
 
-## Merkeziyetsiz saklamaya neden ihtiyaç var? <a id="merkeziyetsiz-saklamaya-neden-ihtiya&#xE7;-var"></a>
+### Merkeziyetsiz saklamaya neden ihtiyaç var?
 
 Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu gösteren bilgi. Peki ya işlemin kendisi nerede?
 
@@ -24,7 +24,7 @@ Blokzinciri oluşturan blokların boyutlarını büyütsek? Yapabilirsiniz ama u
 
 İşte bu tip kaybolmasını istemediğiniz ama büyük olması nedeniyle blokzincire koyamadığınız dijital varlıklar için merkeziyetsiz bir çözüm elzem gibi görünüyor.
 
-## Filecoin ne ve nasıl ortaya çıkmış? <a id="filecoin-ne-ve-nas&#x131;l-ortaya-&#xE7;&#x131;km&#x131;&#x15F;"></a>
+### Filecoin ne ve nasıl ortaya çıkmış?
 
 Filecoin de tam olarak bu alanda, yani merkeziyetsiz dünyanın ihtiyaç duyduğu hiçbir aracıya bağlı olmayan geniş kapasiteli ve ucuz bir saklama konusunda, kritik bir hizmet sağlıyor.
 
@@ -40,7 +40,7 @@ Filecoin’in yıldızının parlaması Silikon Vadisi’nin girişimler için g
 
 Gel zaman git zaman, tam üç yıl süren geliştirme sonrası taahhüt ettikleri tokenları Ekim 2020’de dağıtarak işleme sokuyorlar. İşleme açıldığında yaklaşık 1 milyar ABD Doları olan Filecoin sisteminin toplam değeri, sonrasında yaşanan boğa piyasasının da etkisi ile altı ayda 10 milyar ABD Dolarına kadar tırmanıyor.
 
-## Sistem nasıl çalışıyor? <a id="sistem-nas&#x131;l-&#xE7;al&#x131;&#x15F;&#x131;yor"></a>
+### Sistem nasıl çalışıyor?
 
 Temel olarak sistemin geliştirmesini Protocol Labs gerçekleştirse de, ekibin sistemi yavaş yavaş merkeziyetsizleştirmeye başladığını görmek mümkün.
 
@@ -52,11 +52,11 @@ Elbette sistem tek bir madencinin ‘verdiğim teminat yanacak’ korkusu ile em
 
 İkinci grup madenciler ise talep edilen veriyi ne kadar hızlı ilettikleri ve bu hizmet için ne kadar ödül istediklerine bağlı olarak hizmetlerini açık artırma ile satıyor ve karşılığında FIL token kazanıyorlar.
 
-## Rakipleri var mı? <a id="rakipleri-var-m&#x131;"></a>
+### Rakipleri var mı?
 
 Filecoin’in esas olarak [Amazon Web Services](https://aws.amazon.com/tr/) \(AWS\) gibi dünya devleri ile yarıştığını söylemek mümkün. AWS bu piyasanın en büyüğü ve Amazon’un meşhur en düşük fiyatlı hizmet verme çabası ile yarışabilmek de kolay değil. Ancak karşılaştırma için hazırlanmış sitesinde yapılan [detaylı ve karmaşık hesaplamalarda](https://file.app/) Filecoin’in AWS’e göre çok ciddi oranda ucuz olduğu iddia ediliyor \(1 GB için [AWS](https://aws.amazon.com/s3/pricing/) aylık 1.25 cent isterken, Filecoin 0.005 cent talep ediyor - bu arada AWS fiyatlarının sabit, Filecoin fiyatlarının değişken olduğunu ve anlık durumu yansıttığını ve kimi zaman arttığını da belirtelim\).
 
-Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkeziyetsiz olarak Filecoin’e göre çok daha küçük olan [Sia](https://sia.tech/) ve [Stroj](https://www.storj.io/).
+Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkeziyetsiz olarak Filecoin’e göre çok daha küçük olan [Sia](https://sia.tech/) ve [Stroj](https://www.storj.io/). Bu arada 2021 yılı Mayıs ayında tokenı işlem görmeye başlayan 2017 yılı bazlı [Dfinity](https://dfinity.org/) de başka işlerin yanı sıra merkeziyetsize yakın bir saklama hizmeti sağlıyor. 
 
 Aşağıda da Filecoin’in rakipleri ile Ekim 2020 tarihindeki karşılaştırmalı fiyatları bulunmakta:
 
@@ -64,7 +64,7 @@ Aşağıda da Filecoin’in rakipleri ile Ekim 2020 tarihindeki karşılaştırm
 | :--- |
 | _Veri depolama ücretleri - Ekim 2020. Kaynak:_ [_Messari_](https://messari.io/asset/filecoin/news) |
 
-## Filecoin üzerine son birkaç söz <a id="sonu&#xE7;"></a>
+### Filecoin üzerine son birkaç söz
 
 Merkeziyetsiz veri saklama platformları, gerek DeFi gerekse NFT alanında bundan sonra da çok ihtiyaç duyulacak bir hizmeti sunuyorlar. Zira herhangi bir merkezi kurumun yarattığı risklere maruz kalmadan verileri ve dosyaları saklama ve başkasına transfer edebilme işini maliyet düşük bir şekilde gerçekleştirmek oldukça kritik.
 

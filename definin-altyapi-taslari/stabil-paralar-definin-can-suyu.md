@@ -14,7 +14,7 @@ Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların dur
 
 Hatırlarsanız bundan önceki bir yazımızda “[Bitcoin para mıdır, değil midir?](https://turansert.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)” diye uzun uzun tartışmış, Bitcoin’i Altın ve devletler tarafından basılan ve şu an tedavülde olan kağıt para \(fiat para da deniyor\) ile karşılaştırmıştık.
 
-## Fazla dalga bulantı yapar <a id="fazla-dalga-bulant&#x131;-yapar"></a>
+### Fazla dalga bulantı yapar
 
 Bitcoin bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar olması.
 
@@ -30,7 +30,7 @@ Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kend
 
 Stabil bir para aslında kendi içinde oksimoron \(zıt şekilde çelişkili\) bir ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar… Çalıştıkları konu ise SabitPara \(Stable coin\) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler…
 
-## Nedir bu SabitPara? Var mı böyle bir “şey” gerçekten? <a id="nedir-bu-sabitpara-var-m&#x131;-b&#xF6;yle-bir-&#x15F;ey-ger&#xE7;ekten"></a>
+### Nedir bu SabitPara? Var mı böyle bir “şey” gerçekten?
 
 Efendim, KriptoPara dünyasındaki dalgalanmanın neden olduğu zararının özünde getireceği pekçok faydaya ağır bastığını ve bunun da bu paraların yaygın kitlelerce kullanımını sekteye uğrattığını gören girişimciler uzun zamandır yeni tip daha stabil paralar yaratmak için çalışıyorlar.
 
@@ -38,7 +38,7 @@ Peki nasıl bir zarar veriyor bu dalganmalar? Şöyle bir [benzerlik](https://bl
 
 İşte SabitPara’lar da bir nevi bu köprüler… KriptoParanız var ise bunu kullanmak çok basit. Daha önce anlattık, buradan dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kağıt para dünyasından KriptoPara dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı KriptoPara olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir SabitPara, varlığınız SabitPara’da dursun, istediğinizde istediğiniz başka KriptoPara’ya \(örneğin Bitcoin’e\) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında SabitPara’ya çevirin, içiniz rahat olsun.
 
-## SabitParalar neye göre sabit? <a id="sabitparalar-neye-g&#xF6;re-sabit"></a>
+### SabitParalar neye göre sabit?
 
 Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir “öyle bir para yaratalım ki dolara endekslenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun” olmuş.. Bu düşüncenin sonucu ortaya çıkan pekçok para var.
 
@@ -46,7 +46,7 @@ Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gi
 
 Sabitparalar içinde en bilineni ise Tether \(USDT\).. Nedir bu Tether? Nasıl çalışır?
 
-## Ve Tether.. <a id="ve-tether"></a>
+### Ve Tether..
 
 2015 yılında kurulan Tether’in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether’i ABD Doları’na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan \(satılan\) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, dolar teminatlı bir SabitPara yaratılmış Tether ile.
 
@@ -56,7 +56,7 @@ Bunun yanında bir de büyüklük \(ölçekleme\) sorunu var. Eğer hedeflenen v
 
 Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama biraz mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış hali gibi. Şifreli Harikalar Dünyası’nın içindeki vizyona \(bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık bir yapı\) ise henüz çok uzak. Muhtemelen o vizyona diğer SabitParalar daha yakın olacaklar.
 
-## KriptoPara teminatlı SabitParalar <a id="kriptopara-teminatl&#x131;-sabitparalar"></a>
+### KriptoPara teminatlı SabitParalar
 
 Başlığa bakınca konu bir parça daha çetrefilleşiyor değil mi? Haklısınız. KriptoParayı teminat olarak kullanan SabitParalar da ne demek? Açıklamaya çalışalım:
 
@@ -68,7 +68,7 @@ Artıları neler böyle bir SabitPara’nın? Aslında yukarıda bahsettiğimiz 
 
 Ama tabii bu tip SabitParalar’ın alması gereken daha çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak KriptoPara gösteriyorsunuz ama KriptoParaların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve SabitParayı da etkilerse? Bunu önlemek için Tether’deki 1 Tether=1 ABD Doları’nın çok üzerinde bir teminat koyuyor SabitParalar - bir nevi önlem almak adına iyi, ama çok dalgalı bir ortamda o bile işe yaramayabilir.
 
-## Teminatsız SabitParalar! <a id="teminats&#x131;z-sabitparalar"></a>
+### Teminatsız SabitParalar!
 
 Buraya kadar hala okumaya devam edip kaybolmadı iseniz bravo. O zaman sizin için konuyu daha da karıştıralım! :\)
 
@@ -84,11 +84,11 @@ Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, so
 
 Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası şu anda emekleme aşamasında. İçinde o kadar farklı ve ilginç dinamikler ve değişkenler taşıyor ki bunların her biri ile oynayarak pek çok farklı deney yapılabiliyor. Çıkan her proje yaşanmakta olan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. İşte bu yazımızın konusu olan [Ampleforth](https://www.ampleforth.org/) da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım neymiş:
 
-## Ampleforth: İlginç bir parasal deney <a id="nedir-ampleforth"></a>
+### Ampleforth: İlginç bir parasal deney
 
 Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin’in zayıf yanlarını güçlendirecek çözümler getirmek. Önce bu sıkıntılara bir göz atalım:
 
-#### Stabil paraların sıkıntısı
+_**Stabil paraların sıkıntısı**_
 
 Piyasada yeterince stabil kripto para varken neden Ampleforth’a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar \(itibari paranın devletlerin merkez bankaları tarafından basılan ABD Doları, Euro benzeri paralar olduğunu tekrar hatırlatalım\). Bu itibari paralar görünüşte değerlerini koruyor gibi görünseler de aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu [20 ABD Doları’ndan halktan toplamıştı](https://en.wikipedia.org/wiki/Executive_Order_6102) \(enflasyon etkisini yedirseniz bile günümüzde 408 ABD Doları’na geliyor\), şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz?
 
@@ -98,7 +98,7 @@ Piyasada yeterince stabil kripto para varken neden Ampleforth’a ihtiyaç olsun
 
 Ayrıca bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız [Tether’in müşteri hesaplarını dondurabilme gücü](https://turansert.com/genel/2020/10/06/%28https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/%29) \(ki Kucoin hack’inde 33 milyon ABD Dolarını dondurdular\) kripto dünyasının bireylere en büyük faydası olarak da bilinen “dijital varlığa tümüyle sahip olma” özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında.
 
-#### Bitcoin’in sıkıntısı
+_**Bitcoin’in sıkıntısı**_
 
 Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, bütünüyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı miktardaki arz, artıp azalan talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Her ne kadar uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden birinin bu kısıtlı arz olduğu düşünülse de kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede.
 
@@ -110,7 +110,7 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 Peki nasıl bir taşla iki kuş vuracak? Anlatalım:
 
-### Nasıl çalışıyor Ampleforth?
+#### Nasıl çalışıyor Ampleforth?
 
 Ampleforth, fiyat tarafında görülen oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için paranın arzının değiştirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu:
 
@@ -118,7 +118,7 @@ Ampleforth otomatik olarak çalışan bir algoritma - insan eli değmiyor, “ko
 
 Bir sistemin parasını sabit tutarken yatırımcıların ilgisini nasıl çekebilirsiniz? Öyle ya, hisse değeri sabit kalırsa benim varlığımın değeri de aynı kalır. İşte burada yatırım ile ilgili kafamızdaki klasik kalıpları şöyle bir yeniden gözden geçirmekte fayda var:
 
-#### Önce bir zihnimizi açıp, ezber bozalım
+_**Önce bir zihnimizi açıp, ezber bozalım**_
 
 Bir şirketin hisse senedini satın aldığımızda yatırımımızın toplam değeri, şirketin toplam hisse senetlerinden elimizdeki kaç tanesi varsa bunun her bir hissenin değeri ile çarpılması sonucu ortaya çıkar. Ancak elimizde tuttuğumuz hisse senedi adedi genelde değişmediği için yatırımızın toplam değerindeki değişimi genelde hisse senedindeki hareketlerden hesaplarız \(alım ya da satım yapmadığımızı varsayarsak\). Bir başka deyişle, bir adet hissenin değeri yatırımımızın değerini bulmada bize ‘kısa yol’ olur.
 
@@ -132,7 +132,7 @@ Ezberlerimizi yeterince bozduk mu? :\)
 
 Sistemin nasıl çalışacağını gelin bir de örnek üzerinden anlatalım:
 
-#### AMPL token fiyatı yükselirse ne oluyor?
+_**AMPL token fiyatı yükselirse ne oluyor?**_
 
 Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL’si var, yani 100 ABD Dolarına eş bir yatırımı. Bir anda piyasalarda AMPL’ye talep oldu ve AMPL fiyatı 1.5 AMPL’ye çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor \(mevcut fiyat ile hedef arasında artı/eksi %5’den fazla fark olursa algoritma çalışıyor\) ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL’si var!
 
@@ -144,7 +144,7 @@ Aslına bakarsanız, AMPL sisteminin yapmaya çalıştığı, paranın arzını 
 
 Bir başka bakış açısından, **sistem kendi içinde talebin değişmesinden dolayı oluşabilecek fiyat hareketlerindeki volatilite yükünü, arzı değiştirerek fiyattan yani sistemden alıp, yatırımcıya geçiriyor**. Bir önceki paragrafı tekrar edelim: Arzı değiştiriyor, dolayısıyla yatırımcılar hisse fiyatındaki değişimin daha da fazlasını varlıklarındaki değişimlerde hissedip daha hızlı bir şekilde aksiyon alıyorlar, bu da hisse fiyatını eski haline döndürüyor.
 
-#### Peki ya fiyat düşerse?
+_**Peki ya fiyat düşerse?**_
 
 Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token değeri bir anda düşerse? Diyelim, bir hareket ile hisse değeri %50 değer kaybetti ve 1 AMPL 0.5 ABD Doları’na eşit hale geldi.
 
@@ -152,13 +152,13 @@ Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token 
 
 Yukarıdaki örnekten devam edersek. Başlangıçta 100 ABD Dolarına eş 100 AMPL vardı elinizde. Token değer kaybedince varlığınız önce 100 AMPL x 0.5 cent = 50 ABD Doları seviyesine düştü. Sonra bir de sistem elinizdeki AMPL’lerin yarısını aldı, dolayısıyla varlığınız bir anda geçici olarak 50 AMPL x 0.5 cent = 25 ABD Doları’na geriledi. Sizin sistem içindeki payınız hiç değişmedi. AMPL sistemi değer kaybetti. AMPL kendi içinde %50 değer kaybetti ancak tüm sistem %75 değer kaybetmiş oldu. Bu kadar ucuzlamış bir sistemi almak için üşüşen yatırımcılardan dolayı AMPL tekrar değer kazandı, nereye kadar? Dengenin oturacağı 1 AMPL = 1 ABD Doları seviyesine kadar. O zaman son durumda varlığınız ne oldu? 50 AMPL x 1 ABD Doları = 50 ABD Doları. Varlığınız değer kaybetti mi? Gayet tabii - zira talep azaldığı için zaten başta kaybetmiştiniz onu. Geçici olarak arz kısılmasından dolayı daha da kaybettiniz ama en sonunda %50 kaybettiğiniz ilk noktaya döndünüz.
 
-#### Fiyat konusundaki bu ısrar neden?
+_**Fiyat konusundaki bu ısrar neden?**_
 
 Hisse \(ya da token\) fiyatını sabit tutmak neden önemli? Bir paranın alım satım ve ticaret için kullanımı ancak değerinin “gerçek” anlamda sabit olması durumunda gerçekleşebilir. Öte yandan yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. İşte Ampleforth, sabit değerli bir para yaratarak alışverişlerde güvenle kullanılabilecek bir para yarattıktan sonra, bu paranın rağbet görmesi durumunda yatırımcısına da değer kazandıracak bir enstrümana dönüşmesini sağlıyor. Sabit paralardan en büyük farkı bu: Kullanan için sabit para, yatırımcısı için eğer kabul görüp yaygınlaşır ise değer kazandırıcı bir enstrüman.
 
 Yani tekrar edecek olursak, **yatırımcılar AMPL’nin sabit değerli bir para olarak kullanımının yaygınlaşmasını, yaygınlaşan kullanımın AMPL token’ına yönelik talebi yukarıya çekmesini, yükselen talebi karşılamak amacıyla ekstra AMPL token yaratılmasını dolayısıyla Ampleforth sisteminin toplam ağ değerinin artmasını bekliyorlar**. Artan Ampleforth sistem değeri sonucu ortaya çıkan ekstra AMPL’ler de yatırımcılara dağıtılacağı için AMPL değeri sabit kalsa bile toplam yatırımlarından kâr sağlama beklentisi içindeler.
 
-### Ampleforth’un vizyonu
+#### Ampleforth’un vizyonu
 
 Ampleforth’un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında:
 
@@ -194,17 +194,17 @@ Geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir bu arad
 
 Gelin şimdi Ampleforth’un diğer özellikleri ile birlikte potansiyel olarak görülebilecek sıkıntılarından bahsedelim:
 
-### Ampleforth’a gerçekten ihtiyaç var mı?
+#### Ampleforth’a gerçekten ihtiyaç var mı?
 
 Kripto dünyasında en olgun ve kendini kanıtlamış proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. Neler onlar?
 
 Kişiden kişiye çok değişse de teknolojik olarak yavaş gelişmesi \(ki bunu bir sorun değil “gerekli bir özellik” olduğunu savunanlar da var\), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde Bitcoin ile ilgili şikayetlerin başında gelir.
 
-#### Alışverişlerde Bitcoin kullanmak mı? Zor çok zor…
+_**Alışverişlerde Bitcoin kullanmak mı? Zor çok zor…**_
 
 Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto’nun kaleme aldığı Bitcoin’in tanıtım dokümanı \(white paper\) başlığının “[Bitcoin - Bireyden-Bireye Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)” olmasına rağmen. Belki de bu sıkıntı nedeniyle, kendisini savunanların son yıllardaki söylemleri Bitcoin’in alışverişler için kullanılabilecek bir araç olmasından, bir nevi Dijital Altın yani değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda.
 
-#### Bitcoin’in rakipleri onu zayıf karnından vurmaya çalışıyor..
+_**Bitcoin’in rakipleri onu zayıf karnından vurmaya çalışıyor..**_
 
 Bitcoin’in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100’ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. \(Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.\)
 
@@ -214,11 +214,11 @@ Bitcoin’in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klo
 
 Bitcoin klonları da genellikle alışverişler için kullanılabilme noktasında kendilerini ayrıştırmaya çalışıyorlar. Aslında burada teşhis doğru, tedavi önerileri ise klondan klona değişiyor: [Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak](https://turansert.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi uzlaşma yapılan her bir bloğun büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasından ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, [Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile ana blok zincirini daha az kullanarak maliyetleri azaltmak](https://turansert.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve böylece ufak ödemeler \(örneğin Bitcoin ile kahve almak\) için kullanışlı hale getirmek bir başkası bu örneklerin.
 
-#### Ama mevcut çözümler hep teknik, halbuki asıl sorun ekonomik…
+_**Ama mevcut çözümler hep teknik, halbuki asıl sorun ekonomik…**_
 
 Gördüğünüz gibi yukarıdaki çözüm önerilerinin hepsi teknik. Halbuki kabul etmemiz gereken bir gerçek var, o da Bitcoin’in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyatının çok dalgalı olması. Bu dalgalanmalar içinde Bitcoin’i alışveriş aracı olarak kullanmak neredeyse imkansız, zira alışverişte tarafların en fazla ihtiyaç duyduğu adil ve değeri çok fazla oynamayacak bir araç - ki kafaları rahat olsun ve asıl işlerine odaklanabilsinler.
 
-#### Ya stabil paralar?
+_**Ya stabil paralar?**_
 
 İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara \(fiat para da denen merkez bankaları yönetimindeki ülke paralarına\) çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak [önceki yazımızda](https://turansert.com/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) da değindiğimiz gibi bu paraların merkezi yapılar olmaları merkeziyetsiz finans düsturuna ters - üstelik sicilleri de o anlamda hiç iyi değil \(yeri geldiğinde [bireylere ait paraları dondurmaları](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/) gibi\).
 
@@ -226,9 +226,9 @@ Bunun yanında bu stabil paralar kısa vadeli alışveriş amacına hizmet edebi
 
 Bu nedenlerle Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu ihtiyaca cevap vermeye odaklanmış bir kripto para.
 
-### Nedir Ampleforth’un diğer özellikleri?
+#### Nedir Ampleforth’un diğer özellikleri?
 
-#### Geyser
+_**Geyser**_
 
 [Geyser](https://www.ampleforth.org/dapps/), Ampleforth’un getiri çiftçiliği \(yield farming\) amacıyla [Uniswap](https://www.ampleforth.org/geyser/beehiveV2-uniswap-weth-ampl) ve [Mooniswap](https://www.ampleforth.org/geyser/enceladus-mooniswap-link-ampl#)‘da çıkardığı bir program. \(Uniswap likidite havuzları ile ilgili detaylı yazımıza [buradan ulaşabilirsiniz](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html).\)
 
@@ -238,13 +238,13 @@ Ampleforth’un hazırladığı programda yatırımcılar Uniswap’a koyduklar�
 
 Verilen ekstra ödüllerden dolayı ilgi çekici bir program olabilir. Ancak Uniswap havuzların likidite sağlarken amacınız komisyon geliri kazanmak ise, o zaman bu havuza ihtiyatlı bakmakta fayda var. Zira, bu havuzlarda en iyi kazanç değeri birbirine yakın, ya da iniş çıkış gösteren ikili tokenlarda oluyor. AMPL’nin hemen hemen sabit bir token olduğunu -en azından teoride- düşündüğünüzde, paranızı AMPL/ETH token’ında tutarken komisyon geliriniz olabilir ancak karşılığında ETH’nin hızlı yükseldiği durumlarda likidite sağlayıcı olarak kayıp yaşayabilirsiniz \(teknik nasıl olduğunun [detayı aynı yazımızda var](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html). Öte yandan, Geyser’in ilgi artırmak için hazırlanmış geçici bir program olduğu da unutulmamalı: Mooniswap için Kasım 2020’de Uniswap için ise Aralık 2020’de bitiyor ve program uzayacak mı belli değil. O nedenle bir önceki paragrafta belirttiğimiz uzun vadeli tutanın daha çok kazandığı programın sonlarına yaklaşırken yeni girenler için kazançlar azalıyor.
 
-#### Balancer “Akıllı Havuzları”
+_**Balancer “Akıllı Havuzları”**_
 
 Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer’da \(Uniswap rakibi\) [kurdu](https://medium.com/ampleforth/ampl-usdc-smart-pool-on-balancer-be8eed9a264a). Üstelik bu ürün Balancer içinde de yepyeni bir kategori oldu. Neden Balancer kullandıklarına gelince: Hatırlarsanız [Uniswap rakiplerini tanıtan yazımızda](https://turansert.com/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) Uniswap havuzlarının büyüklüğünün %50-%50 olması gerektiğini söylemiştik. Balancer’da ise istediğiniz oranlarda havuzlar kurabiliyorsunuz. Uniswap’ta kurulan havuzdaki AMPL fiyatı her bir arz değişimi sonrası değişiyor, bu da oynaklık yaratıyor. Halbuki Balancer’da yeni başlatılan “[Akıllı Havuz](https://pools.balancer.exchange/#/smart)” ile AMPL fiyatındaki artışa ya da azalışa paralel olarak Ampleforth Akıllı Kontrat’ına havuzdaki AMPL miktarını otomatik olarak değiştirme imkanı verildi. Bu sayede bu havuzdaki AMPL fiyatı hep hedeflenen değere daha yakın seyredecek. Bu da Ampleforth’un AMPL’nin stabil para olarak kullanılması vizyonuna yardımcı olacak.
 
-### Sıkıntılar/riskler neler Ampleforth’da?
+#### Sıkıntılar/riskler neler Ampleforth’da?
 
-#### Ya bir girdabın içinde fiyat düşmeye devam ederse?
+_**Ya bir girdabın içinde fiyat düşmeye devam ederse?**_
 
 Ampleforth’da arz kısılması ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalır ve geri yükselmez ise, bir süre sonra fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
 
@@ -264,11 +264,11 @@ Fiyatın ve arzın birlikte düşmesi durumunda aslında tüm sistemin değeri d
 
 AMPL yatırımcısının token ile ilgili değerlendirme yaparken bakması gereken temel endikatör, diğer bütün tokenların aksine, token fiyatı değil, tüm AMPL ağının toplam değeri olmalı.
 
-#### Türev enstrümanları AMPL için sorun yaratır mı?
+_**Türev enstrümanları AMPL için sorun yaratır mı?**_
 
 AMPL ile ilgili soru işaretlerinden bir tanesi de, FTX benzeri merkezi borsalarda kote olan kripto paranın, türev işlemleri sonucunda “açığa satış” durumu. Çok aşina olmayanlar için tekrarlayalım: Açığa satış, elinizde olmayan bir hisseyi \(ya da tokeni\) sonradan yerine koymak şartıyla şimdiden satmak. Bunu özellikle fiyatın düşmesini beklediğiniz durumlarda yaparsınız. Yukarıda bahsettiğimiz gibi, AMPL denge fiyatına ulaşabilmek adına ilk aşamada tüm ağın değerini azaltan ilginç bir sisteme sahip. Açığa satışlar bu tüm ağ değerindeki değişimlerin çok daha hızlı gerçekleşmesini sağlayabilirler. Dolayısıyla şüphe duyanlar için yukarıdaki girdap çok daha hızlı çalışıp sistemi çökertebilir, AMPL savunucuları için ise, fiyatın hızlı düşmesi ile tekrar toparlanma hızlıca gerçekleşebilir. Hangi tarafa inanmak istersiniz? Seçim sizin.
 
-#### Yeterli talep/adaptasyon olacak mı?
+_**Yeterli talep/adaptasyon olacak mı?**_
 
 Ampleforth’un gelecek planları ile ilgili üç aşamadan bahsetmiştik. Başlangıç aşamasında, öyle “stabil bir para kurayım” gibi bir derdi yok. Öncelikle, kendine has dalgalanmasından dolayı ellerinde kripto para portföyü tutanlara riski dağıtacakları bir alternatif sunmak istiyor.
 
@@ -278,7 +278,7 @@ Eğer bu ilk aşamayı başarılı bir şekilde geçebilirse hayal ettikleri dü
 
 Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı? Zira yormazlar ise AMPL fiyat olarak istenen hedef aralığına gelmez. İlgi az olursa yaygınlaşma da gecikir ya da hiç olmaz. AMPL savunucuları, geçmişte Bitcoin için de benzer tereddütlerin olduğunu ama zamanın bu tip kuşkuları gidermede en iyi ilaç olduğunu düşünüyorlar.
 
-### Ampleforth üzerine son birkaç söz 
+#### Ampleforth üzerine son birkaç söz 
 
 Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. 
 
