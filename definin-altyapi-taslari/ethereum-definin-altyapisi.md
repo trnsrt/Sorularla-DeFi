@@ -4,17 +4,17 @@
 
 ### Ethereum'un hikayesi
 
-Çok kabaca ifade edersek bu binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında Ethereum. Detaylarına bakacağız ama ilginç bir hikayesi var Ethereum’un, kısaca bahsetmekte fayda var.
+Ethereum, en basitinden, binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında. Detaylarına bakacağız ama ilginç bir hikayesi var Ethereum’un, kısaca bahsedelim.
 
 #### Vitalik Buterin: 18 yaşında bir dahi
 
-Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya’dan Kanada’ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi’nin işlerinden ve Bitcoin’den bahseder. Babasının bahsettiklerinden büyülenen Vitalik Buterin adındaki bu genç kendini bir anda bu dünyanın içinde bulur. Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteneğine sahip bu genç, henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları’nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir.
+Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya’dan Kanada’ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi’nin işlerinden ve Bitcoin’den bahseder. Babasının anlattıklarından büyülenen Vitalik Buterin adındaki bu genç kendini bir anda kripto dünyasının içinde bulur. Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur bu genç delikanlı. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteneğine sahiptir ve henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları’nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir.
 
 |  |
 | :--- |
 | _Vitalik Buterin_ |
 
-Buterin, öncelikle Bitcoin üzerinde gelişmeler yaparak, Bitcoin transferi dışında daha başka pekçok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin özelliği itibariyle tek işi \(o da para gönderme\) iyi yapmak üzere kurgulanır. Geliştiricilerinin aklındaki tek konu “Bitcoin’i nasıl dış tehlikeler karşı daha güvenilir yaparız?”dır, yenilikler öncelikleri arasında değildir \(hala da öyle, en gurur duydukları konu bu: Bitcoin 2009’dan beri bir kez bile tökezlemedi ve “hack” edilemedi diye göğüslerini gere gere ortada dolaşıyorlar\). Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgisayarı vizyonu vardır.
+Başlangıçta Bitcoin blokzinciri üzerinde geliştirmeler yapmaya başlayan Buterin, Bitcoin transferi dışında daha başka pek çok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin özelliği itibariyle tek işi \(o da para gönderme\) iyi yapmak üzere kurgulanır. Geliştiricilerinin aklındaki tek konu “Bitcoin’i nasıl dış tehlikeler karşı daha güvenilir yaparız?”dır, yenilikler öncelikleri arasında değildir \(hala da öyle, en gurur duydukları konu bu: Bitcoin 2009’dan beri bir kez bile tökezlemedi ve “hack” edilemedi diye göğüslerini gere gere ortada dolaşıyorlar\). Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgisayarı vizyonu vardır.
 
 #### Ethereum’un ortaya çıkışı
 
