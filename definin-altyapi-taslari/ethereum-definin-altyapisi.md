@@ -66,7 +66,7 @@ Aynı şekilde Ethereum para politikası da Bitcoin kadar net değil. Örneğin 
 
 Dilerseniz gelin şimdi asıl konumuz olan piyasadaki toplam ETH miktarını değiştirecek iki kritik konuya beraberce bakalım:
 
-#### ETH yeni para arzı
+#### ETH 2.0 - ödül olarak basılan yeni ETH miktarı azalıyor
 
 Genel olarak kripto paralarda yeni para yaratılmasının temel nedenlerinden biri sistemin güvenliğini sağlamak. Bir blokzincirin dijital dünyadaki dış tehlikelere karşı korunması işini madenciler gerçekleştiriyor.
 
@@ -78,7 +78,7 @@ Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korun
 
 Ancak bu ödül rakamı eskisinden farklı. Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 milyon adet ETH dağıtılıyor. Yeni sistem olan PoS’de ise bu ödül rakamı 1 milyon ETH’nin altına inebilir. Kesin rakam ne kadar insanın paralarını rehin ettiğine bağlı olarak değişecek. Vitalik’in tahmini yıllık 500 bin ETH civarı bir rakam olacağı idi ancak şu an için görünen rakamın daha az olacağı.
 
-1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde, [şu ana kadar 1.2 milyon ETH civarında](https://turansert.com/genel/2020/12/08/TH&a=ETH&a=ETH&c=&c=&c=&c=&category=ETH%202.0&e=&e=&e=&e=&m=eth2.StakingPhase0GoalPercent&m=eth2.StakingVolumeSum&m=eth2.StakingTotalVolumeSum&m=eth2.StakingTotalValidatorsCount&mAvg=0&mAvg=0&mAvg=0&mAvg=0&mMedian=0&mMedian=0&mMedian=0&mMedian=0&mScl=lin&mScl=lin&mScl=lin&mScl=lin&miner=&miner=&miner=&miner=&resolution=24h&resolution=24h&resolution=24h&resolution=24h) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte [2 ila 3 milyon ETH civarında olacağı](https://beaconscan.com/) söylenebilir. Bu da ETH 2.0 ile birlikte yıllık olarak yaklaşık [200-300 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik’in tahmini olan 500 bin ETH ödül için yaklaşık 10 milyon ETH rehin edilmeli, ki olur mu göreceğiz.
+1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde 2021 Mayıs ayı sonuna kadar[ 5milyon ETH civarında](https://launchpad.ethereum.org/en/) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte artacağı söylenebilir. Eğer rehin edilecek ETH sayısı iki katına çıkarsa bu yıllık olarak yaklaşık [500 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik’in tahmini de tam olarak bu. 
 
 Ancak bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem ETH 1.0, hem de yeni sistem bir arada işleyecek. Bu sürede, hem madencilere hem de rehin verenlere ödül verilecek. Dolayısıyla, eğer ETH 1.0’dan 2.0’a geçiş bir yıl sürerse, 2021 yılı içinde basılacak olan ETH miktarı Vitalik’in tahmini ile yuvarlak olarak 5.2 milyon \(4.7 milyon artı 500 bin\) olacak.
 
@@ -88,7 +88,7 @@ Bir süre sonra ise ETH 1.0, ETH 2.0’a katılacak ancak bunun ne zaman olacağ
 | :--- |
 | _ETH’nin yıllar içindeki para arzı \(mavi ve sol taraf\) ve yeni arzın toplam paraya oranı % \(turuncu ve sağ taraf\). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak:_ [_ethhub.io_](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) |
 
-#### ETH işlem ücretleri…
+#### EIP 1559 ile dolaşımdaki ETH miktarı azalacak
 
 Bu arada hemen şunu da belirtmekte fayda var. Madenciler sadece yeni yaratılan ETH’lerden para kazanmıyorlar. ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler, Bitcoin gibi basit para transferlerinden öte, Akıllı Kontratlar’ın karmaşık işlemlerini gerçekleştirmek olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da işlem ücretlerinin değişkenlik göstermesine sonucunu doğuruyor. Peki ücret nasıl belirleniyor?
 
@@ -96,13 +96,17 @@ Ethereum sisteminde genelde ücrete madenciler karar veriyor. Bir nevi müzayede
 
 Son zamanlarda özellikle Ethereum üzerine kurulan DeFi \(Merkeziyetsiz Finans\) uygulamalarının yoğun kullanımı nedeniyle fiyatlar çok artmıştı. Vitalik bu konuda madencilerin haksız rekabet uyguladıklarını düşünüyor. Hatta düşünmenin de ötesinde, daha 2019 yılının Nisan ayında Ethereum üzerinde EIP \(Ethereum Improvement Proposal – Ethereum İyileştirme Önerisi\) diye nitelen yeni bir değişiklik önerisinde bile bulundu.
 
-[EIP 1559 olarak da adlandırılan bu öneri](https://eips.ethereum.org/EIPS/eip-1559) ile, yapılan işlemlerden alınacak olan komisyon madencilere verilmek yerine “yakılacak”. Vitalik, yakılacak rakamın şu anki DeFi sonrası oluşan yoğun işlem rakamlarının devam etmesi durumunda, yıllık yaklaşık bir milyon ETH’yi bulmasını bekliyor. Aralık başı itibariyle Ethereum üzerinde [11 aylık toplam 490 milyon USD işlem ücreti](https://formula-builder.coinmetrics.io/#369) ödendiğini düşünürsek, bu tahmin tutacak gibi görünüyor. \(Bu arada [2019 yılında işlemlere ödenen toplam ücretin 35 milyon ABD Doları](https://formula-builder.coinmetrics.io/#371) olduğunu da belirtelim\).
+[EIP 1559 olarak da adlandırılan bu öneri](https://eips.ethereum.org/EIPS/eip-1559) ile, yapılan işlemlerden alınacak olan komisyon madencilere verilmek yerine “yakılacak”. Vitalik, yakılacak rakamın şu anki DeFi sonrası oluşan yoğun işlem rakamlarının devam etmesi durumunda, yıllık yaklaşık bir milyon ETH’yi bulmasını bekliyor. 2020 yılında Ethereum üzerinde [toplam 600 milyon USD işlem ücreti](https://formula-builder.coinmetrics.io/#369) ödendiğini düşünürsek, bu tahmin tutacak gibi görünüyor. \(Bu arada [2019 yılında işlemlere ödenen toplam ücretin 35 milyon ABD Doları](https://formula-builder.coinmetrics.io/#371) olduğunu da belirtelim\).
+
+![](../.gitbook/assets/ethereum_2021_islem_ucretleri_v2.png)
+
+Ethereum 2021 aylık madenci gelirleri \(Kaynak: [TheBlock](https://www.theblockcrypto.com/data/on-chain-metrics/ethereum/ethereum-miner-revenue-monthly)\)
 
 Bu öneri sayesinde, işlem komisyonlarını tahmin edememekten dolayı ödenen fahiş ücretlerin önüne geçilmesi isteniyor. Ücret, ağın sıkışlığına göre artacak ya da azalacak, ancak bu artış azalış nispeten daha tahmin edilebilir olacak. Bu sayede, elektronik cüzdanlarda işlem yapıldığında yaşanan “ne kadar ödeme yapacağım” belirsizliği de büyük ölçüde ortadan kalkacak.
 
 Peki madenciler nasıl para kazanacaklar bu durumda? Yukarıdaki baz ücretin üzerine, kullanıcıların madencilere ufak bir bahşiş vermesi planlanıyor. Eski sistemde olduğu gibi kullanıcı eğer işlemini hızlı gerçekleştirmek istiyorsa bahşişi yüksek tutacak. Bahşiş verilmemesi durumunda işlemin olmama ihtimali de var, o nedenle madencilere minimum da olsa bir ödeme gerekli gibi görünüyor - aynı Bitcoin ve Ethereum’un şu anki durumunda olduğu gibi.
 
-EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak 12-18 ay arasında bir sürede işler hale gelmesi planlanıyor. Ancak, bu daha hızlı da gerçekleşebilir - zira Ethereum içinde bu iş ile uğraşan geliştiricilere çabuk bitirmeleri için bir bağış fonu çıkarıldı, [şu ana kadar 118 bin ABD Doları para toplandı](https://gitcoin.co/grants/946/project-title-eip-1559-community-fund). Bu arada hemen belirtelim, EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor, dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilenmeyecek gibi görünüyor.
+EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak Temmuz 2021'de yürürlüğe girmesi bekleniyor. Bu arada hemen belirtelim, EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor, dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilenmeyecek gibi görünüyor.
 
 Öte yandan, Ethereum üzerinde çalışılan bir başka insiyatif ise, işlemlerin blokzincir yerine üst seviye \(Layer 2\) zincir dışında bir araya getirilip, sonrasında zincire yazılması. Her bir işlem ücretini ciddi şekilde azaltabilecek bu gelişme için çalışan pek çok girişim var. Hangi girişim ön plana çıkacak birlikte göreceğiz.
 
@@ -111,6 +115,8 @@ EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından k
 Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, ödül olarak 500 bin ETH yaratılacak, ama bir yandan da bir milyona yakın ETH yakılacak. Bu tedavüldeki ETH sayısının net olarak 500 bin adet azalması demek. Vitalik’in göre, “[eğer sıfır para basımına ‘sağlam \(sound\) para’ denirse, negatif para basımı süpersonik anlamına gelir](https://www.realvision.com/rv/channel/realvision/videos/a0dafe0546b44328bac2ec75f7934d1d)”
 
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0’da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonlarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, **2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0’nin hem de EIP 1559’un girmesi toplam tedavüldeki ETH’yi yavaş yavaş azaltmaya başlayacak**. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak:
+
+
 
 ### Para arzı üzerine son birkaç söz
 
