@@ -1,6 +1,10 @@
 # Ethereum: DeFi'nin altyapısı
 
-İlk bölümde DeFi'nin çıkışından bahsederken, tüm blokzincir teknolojisinin Bitcoin ile başladığından bahsetmiş ancak Bitcoin'in sadece 'sansürsüz değer koruyan bir internet parası' olma felsefesi nedeniyle bir grubun ayrılarak Ethereum'u kurduğundan bahsetmiştik. Gelin bu bölümde Ethereum'un hikayesinden bahsedelim:  
+İlk bölümde DeFi'nin çıkışından bahsederken, tüm blokzincir teknolojisinin Bitcoin ile başladığından bahsetmiş ancak Bitcoin'in sadece 'sansürsüz değer koruyan bir internet parası' olma felsefesi nedeniyle bir grubun ayrılarak Ethereum'u kurduğundan bahsetmiştik. 
+
+DeFi olarak adlandırdığımız merkeziyetsiz finans ürünleri altyapı olarak çoğunlukla Ethereum bilokzincirini kullanıyorlar. Bu nedenle, bu bölümümüzde Ethereum nedir, sistemin temel taşı olan akıllı kontratlar nasıl işler, Ethereum'un parası olan ETH ileride nasıl bir yol haritası izleyecek konularına değineceğiz. 
+
+Ama önce gelin Ethereum'un ortaya çıkış hikayesinden bahsedelim: 
 
 ### Ethereum'un hikayesi
 
@@ -116,15 +120,7 @@ Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, öd�
 
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0’da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonlarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, **2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0’nin hem de EIP 1559’un girmesi toplam tedavüldeki ETH’yi yavaş yavaş azaltmaya başlayacak**. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak:
 
+![](../.gitbook/assets/030109-ethereum_definin_altyapisi-eth_tahmini_arz_v4.png)
 
-
-### Para arzı üzerine son birkaç söz
-
-Ethereum için arzın azaltılması önemli bir konu olmakla beraber daha kritik olan nokta, talebin ne şekilde gelişeceği. Eğer ETH’ye talep olmaz ise, bu arzın kısıtlanmasının çok da önemi yok.
-
-Bitcoin için baktığınızda, kısıtlı arz ile birlikte artan talebin fiyatı artırdığını görüyorüz. Bu talep artışının en önemi nedeni, Bitcoin’in ana fonksiyonu olan değer saklama aracı olmak konusunda yıllar geçtikçe kendini kanıtlaması, insanların mevcut itibari para sistemine inançlarının zayıflaması ve Bitcoin’i sansürlenemez bir sistem olarak güvenli bulması geliyor.
-
-Ethereum için talep argümanları farkı olmalı, zira Ethereum’un kendi parası ETH’nin BTC gibi değer saklama amacı yok. Dolayısı ile ETH’ye olan talebi, Ethereum sisteminin kullanım oranı belirleyecek. 2020 yılı ortalarında merkeziyetsiz finans alanındaki hemen hemen her uygulamanın Ethereum üzerinde yapılması bu sisteme olan talebi, dolayısıyla ETH fiyatını olumlu şekilde etkiledi. Bundan sonra talebi etkileyecek olan Ethereum geliştiricilerinin yapacakları teknik gelişmeler ile yeni çıkacak uygulamaların ihtiyaçları karşılayıp karşılamayacağı olacak.
-
-_Kaynaklar: Yazı içinde kullanılan her bir kaynağa, ilgili yerde bulunan linkten ulaşabilirsiniz. Konu ile ilgili teknik olarak yazılmış ayrıntılı bir rapor için Messari sitesindeki_ [_ETH 2.0 Primer_](https://messari.io/road-to-eth2)_‘e de göz atabilirsiniz. Bunun yanında EIP 1559 ile ilgili olarak Columbia Universitesi’nden Tim Rough Garden’in yazdığı şu_ [_araştırma makalesine \(pdf\)_](http://timroughgarden.org/papers/eip1559.pdf) _göz atabilirsiniz_
+Bir sonraki bölümde Ethereum'un rakipleri üzerine kısaca bakacağız. 
 
