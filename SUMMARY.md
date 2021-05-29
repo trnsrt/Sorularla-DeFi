@@ -14,8 +14,6 @@
 * [DeFi'de başarının sırrı topluluk](nedir-defi/defide-basarinin-sirri-topluluk.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
 
-## DeFi'nin Altyapısı Ethereum
-
 ## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
 
 * [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](defi-dunyasinin-aktorleri/untitled.md)
