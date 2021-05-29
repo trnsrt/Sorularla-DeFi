@@ -88,10 +88,6 @@ Ancak bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem 
 
 Bir süre sonra ise ETH 1.0, ETH 2.0’a katılacak ancak bunun ne zaman olacağı belli değil. Geliştirmenin nasıl ilerleyeceği, ne gibi sorunlar çıkacağı ve nasıl çözüleceği bu zamanlamayı belirleyecek. Ekip şu anda, ne yapacağı konusunu az çok kesinleştirmiş durumda ancak zaman planı henüz verilmiyor ve 2021 yılı içinde olması zor görünüyor.
 
-|  |
-| :--- |
-| _ETH’nin yıllar içindeki para arzı \(mavi ve sol taraf\) ve yeni arzın toplam paraya oranı % \(turuncu ve sağ taraf\). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak:_ [_ethhub.io_](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) |
-
 #### EIP 1559 ile dolaşımdaki ETH miktarı azalacak
 
 Bu arada hemen şunu da belirtmekte fayda var. Madenciler sadece yeni yaratılan ETH’lerden para kazanmıyorlar. ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler, Bitcoin gibi basit para transferlerinden öte, Akıllı Kontratlar’ın karmaşık işlemlerini gerçekleştirmek olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da işlem ücretlerinin değişkenlik göstermesine sonucunu doğuruyor. Peki ücret nasıl belirleniyor?
