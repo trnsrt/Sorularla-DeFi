@@ -14,10 +14,6 @@ Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka
 
 ![Image by Gerhard B&#xF6;gner from Pixabay](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
 
-|  |
-| :--- |
-| _\(_[_Kaynak_](https://pixabay.com/illustrations/money-bank-business-finance-3405700/)_\)_ |
-
 ### Nasıl çalışıyor sistem?
 
 Compound sisteminde bireyler ellerindeki kripto paraları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kripto paraları kredi olarak kullanıyorlar. Bu “bir miktar fazla” Compound’un bu işten aldığı komisyon. Bankalara göre çok daha az.
