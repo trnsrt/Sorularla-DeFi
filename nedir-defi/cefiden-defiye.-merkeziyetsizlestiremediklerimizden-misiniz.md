@@ -10,7 +10,13 @@ Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Siste
 
 |  |
 | :--- |
+
+
+![](../.gitbook/assets/010805-defiden-cefiye-flower-field-250016_1280.jpg)
+
 | _Image by_ [_Kohji Asakawa_](https://pixabay.com/users/DeltaWorks-37465/) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=250016) |
+| :--- |
+
 
 ### Nasıl bir yelpaze bu?
 
