@@ -16,15 +16,10 @@
 
 ## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
 
-* [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](defi-dunyasinin-aktorleri/untitled.md)
 * [DeFi dünyasında neler var?](defi-dunyasinin-aktorleri/defi-duenyasinda-neler-var.md)
-* [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](defi-dunyasinin-aktorleri/untitled-1.md)
 * [MakerDAO: Kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
-* [Ethereum'un para politikası](defi-dunyasinin-aktorleri/untitled-2.md)
 * [Compound: Klasik bankacılığın rakibi](defi-dunyasinin-aktorleri/compound-klasik-bankaciligin-rakibi.md)
-* [2021'de Ethereum'u neler bekliyor?](defi-dunyasinin-aktorleri/untitled-3.md)
 * [Uniswap ve DeFi'nin merkeziyetsiz borsaları](defi-dunyasinin-aktorleri/uniswap-ve-definin-merkeziyetsiz-borsalari.md)
-* [ETH'nin yüksek işlem ücretleri](defi-dunyasinin-aktorleri/untitled-4.md)
 * [Yearn Finance: DeFi'de merkeziyetsiz portföy yönetimi:](defi-dunyasinin-aktorleri/yearn-finance-defida-merkeziyetsiz-portfoey-yoenetimi.md)
 * [Synthetix ve DeFi türev piyasaları](defi-dunyasinin-aktorleri/synthetix-ve-defi-tuerev-piyasalari.md)
 * [Hegic: DeFi'de opsiyon piyasaları](defi-dunyasinin-aktorleri/hegic-defide-opsiyon-piyasalari.md)
