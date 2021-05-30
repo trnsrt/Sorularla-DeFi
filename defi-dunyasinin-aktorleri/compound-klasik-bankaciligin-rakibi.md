@@ -72,8 +72,6 @@ Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek
 
 Öte yandan Compound’un MakerDAO’dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenına yakından bakalım. 
 
-
-
 ### Nedir COMP token?
 
 Compound  ilk kurulduğunda girişim sermayesi alıp, ürün olarak merkeziyetsiz ama yönetim olarak merkezi, sonrasında yavaş yavaş yönetimi de merkeziyetsiz hale getirmek olarak özetlenebilecek bir yol haritası çizdi kendine. Pek çok prestijli girişim sermayesinden yatırım aldı. İlk olarak ürünlerini kullanıcıların beğenisine sunup, sorunlarını çözdü.
@@ -108,15 +106,11 @@ Compound’un kredi vermek ya da almak işine yaradığına geçen kısımda de�
 
 COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformların en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kripto para değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
-|  |
-| :--- |
-| _Compound sisteminde kilitli ETH miktarı \(Kaynak:_[_DeFi Pulse_](https://defipulse.com/compound)_\)_ |
-
 Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem kredi veren hem kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkanları da hemen kullanılmaya başlandı.
 
 ### COMP tokenların değeri nereden geliyor?
 
-Bu arada şunu da belirtelim. Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaad etmiyor. Şu an için sadece sistemin hangi yöne gideceği konusunda oy verecek ellerinde COMP tutanlar.
+Bu arada şunu da belirtelim. Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaat etmiyor. Şu an için sadece sistemin hangi yöne gideceği konusunda oy verecek ellerinde COMP tutanlar.
 
 Peki ileride bu değişebilir mi? Örneğin sistem kâr dağıtmaya başlayabilir mi? Kim bilir? COMP tokenlar bu hızla giderse 4 yıl sonra tamamen dağıtılmış olacak. Yönetim de tamamen merkeziyetsiz bir hale gelecek. O zaman COMP sahipleri oturup demokratik olarak kâr dağıtmaya karar verebilirler mi? Verebilirler tabii, neden olmasın?
 
