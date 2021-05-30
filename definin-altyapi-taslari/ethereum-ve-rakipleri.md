@@ -82,6 +82,8 @@ Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan bl
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 
+Öte yandan bir önceki bölümde bahsettiğimiz,  Ethereum üzerine kurulacak ikinci seviye çözümlerin de ağ üzerindeki yükü azaltması bekleniyor. Bu tip çözümleri, genelde ağ üzerine yük bindirecek yüksek hacimli çok sayıda işlemin hesaplama gerektiren kısımlarının ağ dışında ikinci seviyede yapılıp ve tüm işlem sonuçlarının tek bir işlem imiş gibi ağa yazılması olarak basitçe özetleyebiliriz. Bu sayede ağ üzerinde sıkışıklık yaratarak maliyetlerin artmasına neden olan onlarca işlemin çok daha ucuza yapılması mümkün olacak. Tabii bunu yaparken, güvenlik ya da hız konusunda bazı tavizler verilmesi söz konusu olabilir ancak bu çözümler yine de Ethereum ağının üzerindeki yükü alacak olumlu bir gelişme olarak görülüyor. 
+
 ### Ethereum ve rakipleri üzerine son birkaç söz
 
 Ethereum blokzinciri DeFi’nin patlaması ile birlikte gerçekten beklemediği kadar büyük bir talep artışı yaşadı. Yüksek işlem ücretleri ya da işlemlerin blokzincire alınmasında yavaşlık yaşa da, sistem çökmesi gibi bir durum ile hiç karşılaşılmaması bir başarı sayılmalı.
