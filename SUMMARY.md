@@ -33,11 +33,8 @@
 * [Chainlink: DeFi'nin bilgi kaynağı](definin-altyapi-taslari/chainlink-definin-bilgi-kaynagi.md)
 * [The Graph: DeFi'nin merkeziyetsiz analiz sağlayıcısı](definin-altyapi-taslari/the-graph.md)
 * [Filecoin: DeFi'nin merkeziyetsiz saklama deposu](definin-altyapi-taslari/filecoin.md)
+* [Aragon ile DeFi'de yönetim](definin-altyapi-taslari/aragon-ile-defide-yonetim.md)
 * [Stabil paralar: DeFi'nin can suyu](definin-altyapi-taslari/stabil-paralar-definin-can-suyu.md)
-
-## DeFi'de yönetim
-
-* [Aragon ile DeFi'de yönetim](defide-yoenetim/aragon-ile-defide-yonetim.md)
 
 ## DeFi dünyasına adım atacaklar için pratik bilgiler
 

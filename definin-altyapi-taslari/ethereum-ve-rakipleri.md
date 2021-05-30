@@ -44,7 +44,15 @@ Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum’u kuran ekipte olup s
 | :--- |
 | _Akıllı Kontrat Platformlarının ucu bucağı yok. Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en/categories/smart-contract-platform) |
 
-Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları \(ingilizcesi ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
+Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları \(ingilizcesi ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. 
+
+Yukarıda saydığımız kriterlerden uygulama sayıları ve işlem hacimleri yeni kurulma aşamasındaki bu platformlar için zaman geçtikçe daha önem kazanacak. Ancak şu aşamada henüz inşası devam eden platformlarda belki de en çok dikkat edilmesi gereken alan geliştirici sayıları. Bu konuda şu ilginç tabloya bakmakta fayda olabilir: 
+
+![](../.gitbook/assets/smart_platform_l_devs.png)
+
+
+
+Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 
 ### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 
