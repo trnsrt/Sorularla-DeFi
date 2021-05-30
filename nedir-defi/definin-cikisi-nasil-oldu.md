@@ -60,7 +60,17 @@ DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu 
 
 Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar.
 
-Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Likiditeyi kendilerine çekebilmek için yaptıkları pek çok numara içinde yatırımcıları likidite karşılığı ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri daha önce detaylı bahsettiğimiz [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, [yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı](https://turansert.com/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html).
+Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Likiditeyi kendilerine çekebilmek için yaptıkları pek çok numara içinde yatırımcıları likidite karşılığı ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri ileride detaylı olarak bahsedeceğimiz  [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı.
 
-Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB’yi veriyor. Ancak Compound’un farklı yanı [bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi](https://turansert.com/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html). Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler.
+Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB’yi veriyor. Ancak Compound’un farklı yanı bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi. Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler. \(Bu konuda daha fazla ayrıntı için bir sonraki kısımda yer alan Compound bölümüne göz atabilirsiniz\). 
+
+Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidite sağlama, ayrıca yönetim tokenları aracılığıyla platformlara bir değer kazandırma taktikleri, ciddi miktarda paranın bu alana akmasını sağladılar: 
+
+![](../.gitbook/assets/defi_pulse_210530.png)
+
+DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak: [DeFi Pulse](https://defipulse.com/)
+
+Bunlar kısa vadeli olarak büyüme sağlayan iki gelişme olsa da, konuyu DeFi'yi klasik finanstan ayıran temel özellikleri ile birlikte değerlendirirsek, bu çıkışın nasıl olduğu ve daha nerelere gidebileceği konusunda daha iyi fikir sahibi olabiliriz. DeFi'yi DeFi yapan temel özelliklere ise bir sonraki bölümde bakacağız. 
+
+
 
