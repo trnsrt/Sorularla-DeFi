@@ -44,15 +44,29 @@ Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum’u kuran ekipte olup s
 | :--- |
 | _Akıllı Kontrat Platformlarının ucu bucağı yok. Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en/categories/smart-contract-platform) |
 
-Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları \(ingilizcesi ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. 
+Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları \(ingilizcesi ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. Yani kısacası ilk kısımda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 
 Yukarıda saydığımız kriterlerden uygulama sayıları ve işlem hacimleri yeni kurulma aşamasındaki bu platformlar için zaman geçtikçe daha önem kazanacak. Ancak şu aşamada henüz inşası devam eden platformlarda belki de en çok dikkat edilmesi gereken alan geliştirici sayıları. Bu konuda şu ilginç tabloya bakmakta fayda olabilir: 
 
 ![](../.gitbook/assets/smart_platform_l_devs.png)
 
+Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 89\)
 
+Yazıların küçük olması nedeniyle tabloya açıklama getirmekte fayda var. Bu tablo, toplam geliştirici sayısı 100'den fazla olan akıllı kontrat platformlarının bir yıllık gelişimini göstermekte. Yatay olarak gördüğünüz 2019 yılının üçüncü çeyreğindeki geliştirici sayısı, dikeyde ise 2020 yılının üçüncü çeyreği bulunmakta. Dolayısıyla grafiğin üst tarafında bulunan platformlar geliştirici sayılarını artırmışlar, altta bulunanlar ise geliştirici kaybına uğramışlar. Baktığınızda, 100'ün üzerinde geliştiricisi olan yani göreceli büyük sayılabilecek platformları Ethereum, Bitcoin, Cosmos, Polkadot, Cardano, Tezos ve EOS olarak görüyoruz. 
 
-Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
+Tablodan şu sonuçları çıkarmak mümkün: 
+
+* Ethereum geliştirci sayısı olarak diğer altı platformun toplamından daha fazla geliştiriciye sahip. 
+* Cosmos ve Bitcoin arkasından gelen platformlar olarak bir yıl içinde geliştirici sayılarını sabit tutmuşlar. 
+* Polkadot ise bir yıl içinde geliştirici sayısını iki katına çıkararak bu ikiliye yetişmiş.
+* Arkasından gelen Tezos ve Cardano geliştirici sayılarına artırsalar da 200 civarında seyrediyorlar. 
+* Grubun son sırasındaki EOS ise bir önceki yıla göre geliştici sayısında kayıp yaşamış. 
+
+Yukarıdaki büyükler dışında geliştirici sayısı 100'ün altında olan göreceli daha küçük diyebileceğimiz diğer platformların grafiğini de buraya ekleyelim: 
+
+![](../.gitbook/assets/smart_platform_m_devs.png)
+
+Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 90\)
 
 ### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 
