@@ -37,7 +37,6 @@
 
 ## DeFi'de yönetim
 
-* [Bir yönetim tokeni örneği: COMP](defide-yoenetim/bir-yonetim-tokeni-ornegi-comp.md)
 * [Aragon ile DeFi'de yönetim](defide-yoenetim/aragon-ile-defide-yonetim.md)
 
 ## DeFi dünyasına adım atacaklar için pratik bilgiler
