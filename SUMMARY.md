@@ -6,7 +6,6 @@
 
 * [Blokzincirin çıkış felsefesi ne?](nedir-defi/blokzincirin-cikis-felsefesi-ne.md)
 * [Blokzincir finans dünyasını nasıl etkileyecek?](nedir-defi/blokzincir-finans-dunyasini-nasil-etkileyecek.md)
-* [Finans dünyasını değiştirmeye aday üç gelişme](nedir-defi/untitled-6.md)
 * [DeFi - Merkeziyetsiz Finans ne demek?](nedir-defi/defi-merkeziyetsiz-finans-ne.md)
 * [DeFi'nin çıkışı nasıl oldu?](nedir-defi/definin-cikisi-nasil-oldu.md)
 * [DeFi'nin temel özellikleri neler?](nedir-defi/definin-temel-ozellikleri-neler.md)
