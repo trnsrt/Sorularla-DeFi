@@ -44,6 +44,12 @@ Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai ya
 
 Aynı şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha yüksek bir fiyata geldiğinde\) insanlar ellerindeki ETH’leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai’yi piyasada 1 ABD Doları’nın üzerinde bozdurma şansı yakalayacaklar. Bu da piyasada 1 Dai’nin 1 ABD Doları’na yaklaşmasını sağlayacak.
 
+#### Dai dışında sistemin bir de yönetim tokeni olan MKR var
+
+Teknik olarak çok detaya girmedik ancak Dai dışında MakerDAO’nun bir parası daha var, o da MKR. Dai’yi sistemin parası, MKR’yi ise sistemin sermayesi \(equity\) ya da yönetim tokeni olarak düşünebiliriz. Para alışverişleri Dai ile yapılırken ve Dai ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar - örneğin teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. 
+
+Bu arada olası bir kriz durumunda MKR bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat olarak tutulan paraların değerinde ani ve büyük bir düşüş yaşanır da, teminat miktarı kredinin altına düşerse, o zaman aradaki farkı MKR yaratılarak karşılanıyor. MKR'in emisyonunu artıran bu hareket onun değerini düşüreceği için MKR sahipleri açısından olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki tuttukları tokenların değeri böyle bir olay nedeniyle azalmasın diye teminat oranı vb rakamlarda olabildiğince tutucu davranmak zorundalar. Sistem bu alanda da bir nevi otokontrol yaratmış durumda.
+
 Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper](https://makerdao.com/en/whitepaper/)‘ı okumaya davet ederek konuyu kapatıyoruz.
 
 ### Peki başarılı olmuş mu MakerDAO?
@@ -85,11 +91,7 @@ DeFi yani merkeziyetsiz finansın geniş kesimlerce benimsenmesi için birkaç a
 * Türev olarak kullanılan alt varlıkların olgunlaşması \(örneğin ETH’de yaşanan yukarıda anlattığımız kriz\)
 * Ürünlerin üzerine kuruldukları altyapı teknolojilerinin çok daha kusursuz hâle gelmesi
 
-Tüm DeFi protokollerinde yukarıda saydığımız konularda yavaş yavaş ilerleme olduğunu görüyoruz. Bir borç yaratma protokolü olan MakerDAO ise, yavaş yavaş olgunluğa ulaşmaya başladı. Şu aşamada en büyük hedefleri tamamen merkeziyetsiz bir yapıya kavuşmak. Bunun için de yaptıkları en önemli iş, başlangıcından beri sistemin lokomotifi olan geliştirici ekibin içinde yer aldığı MakerDAO protokolünü yavaş yavaş lağvetmek olacak. Burada hemen bir parantez açıp MKR'dan bahsedelim: 
-
-Teknik olarak çok detaya girmedik ancak Dai dışında MakerDAO’nun bir parası daha var, o da MKR. Dai’yi sistemin parası, MKR’yi ise sistemin sermayesi \(equity\) ya da yönetim tokeni olarak düşünebiliriz. Para alışverişleri Dai ile yapılırken ve Dai ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar - örneğin teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. 
-
-Bu arada olası bir kriz durumunda MKR bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat olarak tutulan paraların değerinde ani ve büyük bir düşüş yaşanır da, teminat miktarı kredinin altına düşerse, o zaman aradaki farkı MKR yaratılarak karşılanıyor. MKR'in emisyonunu artıran bu hareket onun değerini düşüreceği için MKR sahipleri açısından olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki tuttukları tokenların değeri böyle bir olay nedeniyle azalmasın diye teminat oranı vb rakamlarda olabildiğince tutucu davranmak zorundalar. Sistem bu alanda da bir nevi otokontrol yaratmış durumda.
+Tüm DeFi protokollerinde yukarıda saydığımız konularda yavaş yavaş ilerleme olduğunu görüyoruz. Bir borç yaratma protokolü olan MakerDAO ise, yavaş yavaş olgunluğa ulaşmaya başladı. Şu aşamada en büyük hedefleri tamamen merkeziyetsiz bir yapıya kavuşmak. Bunun için de yaptıkları en önemli iş, başlangıcından beri sistemin lokomotifi olan geliştirici ekibin içinde yer aldığı MakerDAO protokolünü yavaş yavaş lağvetmek olacak. 
 
 MakerDAO sistemi içinde uzunca bir süredir stratejik kararlar MKR sahipleri tarafından veriliyor idi.  MakerDAO foundation dediğimiz geliştirici ekip, MKR sahiplerinin aldığı kararları uyguluyorlardı. Bunu yaparken de kendilerini fonlamak için kendilerine tahsis edilmiş olan MKR paraları kullanıyorlardı. 2021 yılının Mart ayında aldıkları bir kararlar ellerinde kalan MKR'ların kullanım hakkını MKR sahiplerine bırakıyorlar. Bundan sonra bağımsız ekipler, MakerDAO'nun geliştirme, pazarlama ya da dış ilişkilerini sürdürecekler. Her ekip ne alanda çalışmak ve ne kadar bütçe istediğini MKR sahiplerine sunacak. MKR sahiplerinin oylaması sonucu kendilerine bütçe verilen ekipler çalışmaya devam edecekler. Bu DeFi protokolleri içinde belki de  en uç nokta. 
 
