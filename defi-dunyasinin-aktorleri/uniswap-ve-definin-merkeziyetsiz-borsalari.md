@@ -10,9 +10,9 @@ Sonuç olarak kişiler birbirleri ile değil, yapmak istedikleri her işlemi ger
 
 Temel olarak iki ana grup var Uniswap’ta. İlki kullanıcılar; bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar var - ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım. Şimdi gelin kim neden kullanır bu sistemi ona bakalım.
 
+![](../.gitbook/assets/placeholder.png)
 
-
-
+Uniswap sistemi şeması
 
 ### Uniswap neden popüler oldu?
 
