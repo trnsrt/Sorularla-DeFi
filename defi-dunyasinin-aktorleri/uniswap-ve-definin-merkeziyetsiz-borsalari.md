@@ -16,7 +16,7 @@ Uniswap’ın popüler olmasının birkaç temel nedeni var:
 
 Öncelikle alım-satım yapanlar için Uniswap ve \(genel olarak DeFi\) kullanmanın en önemli nedeni [kolaylığı](https://turansert.com/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html). Kullanıcının öyle çok büyük parası olması gerekmiyor, belli spesifik bir ülkede oturmak gibi coğrafi bir kısıtı yok. Herhangi bir şekilde hiç bir yere kayıt, evrak vs gönderip başvuru sonucunu beklemesine de gerek yok. DeFi platformlarını kullanmak isteyen birinin tek ihtiyacı olan bir kripto cüzdan. Kullanıcı Uniswap [sitesine](https://app.uniswap.org/#/swap) girdikten sonra sağ üst tarafta bulunan butona basıp cüzdanını bağladığı anda sistemi kullanmaya saniyeler içinde başlayabiliyor. Teknik olarak bir öğrenme süreci gerektirse de klasik finans sisteminin - çoğunlukla aşılamayan - engelleri yok burada.
 
-Bunun yanında emir defteri ile çalışan piyasa yapıcılar, istedikleri işlem gerçekleşmeden önce pek çok geçici emir yazıp sonra iptal ederler. DeFi dünyasında özellikle yoğunluğa bağlı olarak sistem kullanım ücretlerinin \([daha önce bahsettiğimiz gas ücretleri](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)\) yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetini çok artırıyor. Bu nedenle Uniswap’ın özellikle likit havuzlarında işlem yapmak alım-satım yapanlar için daha az maliyet çıkarabiliyor.
+Bunun yanında emir defteri ile çalışan piyasa yapıcılar, istedikleri işlem gerçekleşmeden önce kullandıkları aracının platformunda pek çok geçici emir yazıp sonra iptal ederler. DeFi'de ise bu tip emirlerin yazımı ve iptalini blokzincir üzerinden yapmak zorundalar. Özellikle yoğunluğa bağlı olarak blokzincir kullanım ücretlerinin yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetini çok artırıyor. Bu nedenle Uniswap’ın özellikle likit havuzlarında işlem yapmak alım-satım yapanlar için daha az maliyet çıkarabiliyor.
 
 Kripto alanındaki girişimler için de belli avantajları var Uniswap’ın. Önceleri bir kripto paranın merkezi kripto borsalarda işlem görebilmesi için bu borsaların koyduğu kurallara uyması ama daha da ötesi bu borsalara ciddi paralar ödemesi gerekiyordu. Uniswap ise Blokzincir’in “izin gerektirmeyen \(permissionless\)” ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar. Küçük girişimler çıkardıkların tokenlara pazar tarafından hızlıca değer biçilebilmesi ve likidite sağlanabilmesi için Uniswap’ı kullanmaya başladılar. Bu arada, Uniswap popüler olmaya başlayınca 2020 yaz aylarında Binance ve FTX gibi borsaların da yeni tokenları bir an önce hızlı bir şekilde listelemeye başladıklarını gördük - ne demişler “rekabet her zaman iyidir”.
 
@@ -41,13 +41,13 @@ Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC \(ABD Dol
 
 Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak:
 
-
+![](../.gitbook/assets/020405-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap_islemler.png)
 
 Hemen belirtelim: yukarıda verdiğimiz işlemler oldukça sığ bir havuz için yapılmış bir örnek. Havuz ne kadar büyük olursa, ya da yapılan işlemin havuzun büyüklüğüne oranı ne kadar küçük olursa bu fark o kadar az oluyor. İşte bu nedenle bu tip borsalar için likidite hayati bir öneme sahip. \(Adım adım Uniswap işlemlerini nasıl yapılıyor görsel olarak görmek isterseniz [şu Medium yazısında](https://medium.com/@obiwancoin/uniswap-kullan%C4%B1m-rehberi-obi-wan-bd73503fb9d6) oldukça güzel anlatılmış\).
 
 _**Kim neden havuza para koyar?**_
 
-Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor \(Uniswap için şu anda %0,3 oranında\) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor.
+Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor \(Uniswap için %0,3 oranında olan bu komisyon, az sonra değineceğimiz yeni versiyon ile birlikte değişti\) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor.
 
 _**Havuza para koymak çok kârlı gibi görünüyor?**_
 
@@ -64,6 +64,8 @@ Sistemdeki en kritik risk ani ve kalıcı fiyat artışlarında ortaya çıkıyo
 * Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” \(impermanent loss\) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor.
 
 Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın arkasında kalmış. Yani likidite koyanlar ciddi bir risk taşıyorlar.
+
+![](../.gitbook/assets/020407-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap_returns_v3.jpg)
 
 |  |
 | :--- |
@@ -195,6 +197,8 @@ Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz ‘likidit
 
 Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan her tür para eşit olduğu için, konulan para karşılığı alınan havuz katılım tokenları \(bir nevi hesap sertifikası gibi düşünebilirsiniz\) da birbirine eşit paralar olarak görülürdü ve bu tokenlar başka platformlarda teminat olarak kullanılabilirlerdi. Bu sayede likidite sahipleri ekstra gelir elde edebilirlerdi. Şimdi artık, farklı fiyat aralıklarında likidite sağlanabileceği için aynı havuz için verilen sertifikalar birbirinin aynı olmayacak. Yani havuz tokenları birbirine benzer ‘fungible token’ yerine, tekil ‘non-fungible token’ yani NFT olacaklar.
 
+![](../.gitbook/assets/020409-uniswap_ve_definin_merkeziyetsiz_borsalari-hayden_adams_table.jpg)
+
 |  |
 | :--- |
 | _Kurucusu Haydan Adams’ın gözünden Uniswap._ [_Kaynak_](https://twitter.com/haydenzadams/status/1370232241528377348) |
@@ -211,7 +215,9 @@ Uniswap işlemlerden aldığı binde 3 komisyonun şu anda tamamını likidite s
 
 #### Ethereum’un yüksek ücretleri
 
-Malum şu ara Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücretleri. Eskiden 5-10 dolar verilen basit işlemler için şimdi kapı en az 30-40 ABD Dolarından açılıyor. Uniswap için bu durum ciddi bir sıkıntı. Zira normal bir günde Ethereum blokzinciri üzerindeki en fazla işlem yapan DeFi ürünü genelde Uniswap oluyor..
+Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücretleri. Eskiden 5-10 dolar verilen basit işlemler için şimdi kapı en az 30-40 ABD Dolarından açılıyor. Uniswap için bu durum ciddi bir sıkıntı. Zira normal bir günde Ethereum blokzinciri üzerindeki en fazla işlem yapan DeFi ürünü genelde Uniswap oluyor..
+
+
 
 |  |
 | :--- |
