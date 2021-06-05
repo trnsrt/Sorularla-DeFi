@@ -169,6 +169,12 @@ Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan al
 
 Uniswap’ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa süreli de sekte vuran gelişme, ürün kodlarını aynen kopyalayan Sushiswap’ın ciddi bir likiditeyi kendi platformuna çekmiş olmasıydı. Komisyon oranlarını benzer şekilde tutan Sushiswap likiditeyi kazanabilmek için kendi yönetim tokenini likidite sağlayıcılara vererek daha demokratik bir yapı olduğunu ilan etmişti. Bunun üzerine Uniswap da kendi tokenini çıkarıp dağıtmaya başladı ve likidite kanamasını bir nebze durdurmayı başardı. Token dağıtma bittikten sonra tekrar bir kayıp yaşasa da sonrasında eski seviyelerine dönmeyi başardı.
 
+![](../.gitbook/assets/020408-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap-sushi-liquidity_tr.png)
+
+|  |
+| :--- |
+| _Uniswap ve Sushiswap üzerindeki likiditenin değişimi - Kaynak:_ [_The Block_](www.theblockcrypto.com) |
+
 ### Uniswap'ın üçüncü versiyonu ne yenilikler getiriyor?
 
 Unsiwap’ın yeni versiyonu \(ki buna v3 yani üçüncü versiyon deniyor\) 2021’in Mayıs ayı başında [piyasaya sunuldu](https://uniswap.org/blog/uniswap-v3/). Ethereum blokzinciri üzerinde olacak bu yeni versiyonun hemen arkasından Optimism denen ikinci seviye çözümün devreye girmesi bekleniyor.
