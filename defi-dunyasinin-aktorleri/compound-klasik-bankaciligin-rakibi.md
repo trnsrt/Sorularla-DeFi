@@ -12,7 +12,9 @@ Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdı�
 
 Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem.
 
-![Image by Gerhard B&#xF6;gner from Pixabay](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
+![](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
+
+Image by [Mudassar Iqbal](https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700)
 
 ### Nasıl çalışıyor sistem?
 
@@ -34,9 +36,15 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
+
+
 #### Hangi paralarda işlem yapılabiliyor?
 
 Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kripto paralar ile USDC, Tether, DAI gibi sabit paralar ile [mevduat yapabilir ya da kredi alabilirsiniz sistemden](https://compound.finance/markets).
+
+![](../.gitbook/assets/020309-compound-money-compound_currencies.png)
+
+Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak: [Compound](https://compound.finance/markets)
 
 #### Kimler kullanıyor?
 
