@@ -4,13 +4,15 @@
 
 ### MakerDAO nedir?
 
-#### TL; DR:
-
-MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kripto paraları teminat olarak veriyorlar ve karşılığında sistemin stabil parası olan Dai’yi yaratıyorlar. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi yakarak borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
+MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kripto paraları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı DAI yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu DAI'yi yok ediyor \(ki buna ingilizcede 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
 
 #### Nasıl çalışıyor?
 
-Elinizdeki belli 'sağlam' sayılan kriptoparaları teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparanızı sisteme kilitlemek anlamına geliyor. Örneğin Gönderdiğiniz her 150 birim ETH için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu Dai’yi istediğiniz noktada borsada bire bire yakın bir değerden ABD Doları’na çeviriyor ve kullanıyorsunuz. Bu para için bir maliyet ödüyorsunuz, sonrasında ise dilediğiniz noktada tekrar Dai satın alarak yok ediyor ve ETH’nize geri kavuşuyorsunuz.
+Kullanıcı, elindeki belli ['sağlam' sayılan kriptoparaları](https://oasis.app/borrow) teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparayı sisteme kilitlemek anlamına geliyor. Örneğin gönderilen her 150 birim ETH için akıllı kontrat 100 birime kadar Dai verebiliyor. Kullanıcı, borsalarda bir ABD Doları'na yakın değerden işlem gören DAI'yi ister başka stabil paralara çevirebilir ya da başka kripto paraları satın almak için kullanabilir. Borç alınan paranın bir maliyeti var, ve kullanıcı dilediği noktada faizi ile anaparası borcunu piyasadan DAI satın alıp sisteme ödeyebilir ve ETH'sine geri kavuşur. 
+
+![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)
+
+Maker DAO sistemi kullanımı. Kaynak: [Token Analyst](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)
 
 #### Neden insanlar kullanıyor?
 
