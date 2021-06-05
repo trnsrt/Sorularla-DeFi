@@ -36,7 +36,9 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
+![](../.gitbook/assets/020307-compound-collateral-_ratio.png)
 
+Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Haziran 2021 Kaynak: [Compound](https://compound.finance/markets/ETH)
 
 #### Hangi paralarda işlem yapılabiliyor?
 
@@ -48,7 +50,7 @@ Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak: [Compound
 
 #### Kimler kullanıyor?
 
-Neden bir kişi sistemden borç almak ister? Teminat verecek kadar “param” varsa neden borç almak isteyeyim? Temel nedeni spekülatif hareketler. Örneğin bir nedenle sabit bir paraya sıkıştınız ancak elinizdeki ETH’i satmak istemiyorsunuz çünkü artacağını düşünüyorsunuz. Böyle bir durumda bu ETH’i teminat gösterip karşılığında ETH kredi alabilirsiniz.
+Neden bir kişi sistemden borç almak ister? Temel nedeni spekülatif hareketler. Örneğin kişi bir nedenle sabit bir paraya sıkıştı ancak elindeki ETH’i satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip karşılığında Dai kredi alabilir. Ya da ETH'nin daha yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
 
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
 
@@ -92,7 +94,7 @@ Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP to
 
 Kısıtlı sayıda \(10 milyon adet\) olarak basılan olan COMP tokenlar başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [çıktı](https://www.coingecko.com/en/coins/compound).
 
-Tabii, bu hemen akıllara 2017 yılının meşhur ICO’larını getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı “kaldırmıştı”. COMP da acaba öyle mi?
+Tabii, bu hemen akıllara 2017 yılının meşhur halka arzlarını \(ingilizcesi Initial Coin Offering - ICO\) getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı 'kaldırmıştı'. COMP da acaba öyle mi?
 
 Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra neden benzediğini tartışırız.
 
@@ -106,11 +108,11 @@ Neden 2017’in token projelerini andırıyor? En önemli nedeni kullanıcılard
 
 En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine bir sarmala dönüşmüş olması. Ne demek bu?
 
-Compound’un kredi vermek ya da almak işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokenı aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
+Compound’un mevduat yatırmak ya da kredi almak işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokenı aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
 
 COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformların en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kripto para değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
-Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem kredi veren hem kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkanları da hemen kullanılmaya başlandı.
+Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem mevduat yapan hem de kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkanları da hemen kullanılmaya başlandı.
 
 ### COMP tokenların değeri nereden geliyor?
 
