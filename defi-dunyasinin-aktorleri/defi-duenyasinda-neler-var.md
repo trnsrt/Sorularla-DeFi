@@ -1,6 +1,6 @@
 # DeFi dünyasında neler var?
 
-DeFi yani merkeziyetsiz finans henüz yeni bir oluşum. 2017 yılında gerçekleşen IPO'lar sırasında ortaya atılan fikirlerin sonraki iki yıl boyunca deneme-yanılma yöntemiyle denenmesi sonucu 2020 yılının yaz aylarından itibaren çıkışa geçmiş bir hareket. 
+DeFi yani merkeziyetsiz finans henüz yeni bir oluşum. Kökleri daha eskiye dayansa da genel olarak 2017 yılında gerçekleşen kripto halka arzları \(ki ingilizce Initial Coin Offering - ICO deniyor\) başlangıç noktası alabiliriz.  Bu halka arz furyası sırasında fikirlerine yatırım alan girişimlerin, geliştirdikleri projelerin üzerinde yaptıkları deneme-yanılma çalışmalarının meyvelerini ancak iki yıl sonra 2020 yılının yaz aylarında almaya başlamaları ile çıkışa geçmiş bir hareket. 
 
 DeFi alanında kullacılara sunulan ilk ürünlere baktığımızda bunların pek çoğunun aslında şu anda klasik finans dediğimiz mevcut finans piyasası aktörlerinin sunduğu ürünlere benzerlik gösterdiğini görüyoruz. Bunun temel nedeninin, öncelikle kullanıcının aşina olduğu ürünlere yakınlık göstermesi olarak düşünebiliriz. 
 
@@ -10,7 +10,7 @@ Ancak bir önceki kısımda bahsettiğimiz birlikte çalışılabilirlik, açık
 
 Yukarıda bahsettiğimiz özellikler nedeniyle DeFi'nin çalışma prensiplerinin klasik finanstan temelde farklılık gösterdiğini söyleyebiliriz. Neler bunlar, kısaca değinelim: 
 
-Klasik finans dünyasının aktörleri geçmişten gelen 'korumacı' zihniyetin devamı olarak 'silo' halinde çalışırlar.  Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlar ait ürünleri kullanmak isterse, o başka kurumda hesap açması ve oraya da ayrıca varlığını yatırması gerekir. 
+Klasik finans dünyasının aktörleri geçmişten gelen 'korumacı' zihniyetin devamı olarak 'silo' halinde çalışırlar.  Ne demek silo? Kendi içinde var olan ve dışarı ile iletişimi son derece kısıtlı küçük dünyalar. Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlar ait ürünleri kullanmak isterse, o başka kurumda hesap açması ve oraya da ayrıca varlığını yatırması gerekir. 
 
 Finans kurumu, aylarca yıllarca çalışarak, müşterileri için ürünler hazırlar ve onlara sunar. Bu ürünlerin gelişmesine ait telif haklarını sıkı sıkıya kayıt ettirir ve başkalarının kullanımı halinde mahkemelerde hakkını arar.  
 
@@ -20,7 +20,7 @@ Bunun yanında açık kaynak sayesinde ürün geliştirme süreçleri DeFi için
 
 ### Dikey yapılanma yerine yatay yapılanma
 
-Dolayısıyla, klasik finansın dikey yapılanma da diyebileceğimiz sistemine karşılık DeFi yatay bir yapılanma sağlar. Yani, sunulan hizmetler katman katman ayrılabilir. Her katmanda da birbiri ile yarışan servis sağlayıcılar bulunur. Servis sağlayıcılar diğer katmanlardaki ürünler ile birlikte çalışabildikleri için, kullanıcı her katmandan istediğini seçerek kendi risk/getiri profiline uygun kişiselleştirilmiş ürünler çıkarabilir. Bu alandaki yatırımcılardan Multicoin Capital, DeFi destesi olarak adlandırdığı aşağıdaki şemada DeFi ekosistemini gayet güzel bir şekilde anlatıyor:  
+Dolayısıyla, klasik finansın dikey yapılanma da diyebileceğimiz sistemine karşılık DeFi yatay bir yapılanma sağlar. Yani, sunulan hizmetler katman katman ayrılabilir. Her katmanda da birbiri ile yarışan servis sağlayıcılar bulunur. Servis sağlayıcılar diğer katmanlardaki ürünler ile birlikte çalışabildikleri için, kullanıcı her katmandan istediğini seçerek kendi risk/getiri profiline uygun kişiselleştirilmiş ürünler çıkarabilir. Bu alandaki yatırımcılardan Multicoin Capital, DeFi yığını \(ya da istiflenmiş destesi\) olarak adlandırdığı aşağıdaki şemada DeFi ekosistemini gayet güzel bir şekilde anlatıyor:  
 
 ![DeFi Destesi \(DeFi Stack\) Kaynak: Multicoin Capital](../.gitbook/assets/defi_stack.jpg)
 
@@ -40,7 +40,9 @@ Bu kitapta genelde blokzincir olarak Ethereum'dan bahsedildiğini göreceksiniz.
 
 Teknolojinin her alanında olduğu gibi burada da Ethereum'un rakipleri var, ancak şu anda hemen hemen hepsi emekleme aşamasında. Gelecekte, bu rakiplerden bir ya da birkaçının Ethereum'a ciddi rakip olabileceğini de görebiliriz. 
 
-Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Ancak DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
+Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Yeni versiyonun bu alanda en büyük özelliği, sharding de denen sonuç olarak bir veri tabanı olan Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması. Bu yaparken şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/) 
+
+Öte yandan 2021 yılının ilk aylarında, DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
 
 #### Bilgi Sağlayıcılar:
 
