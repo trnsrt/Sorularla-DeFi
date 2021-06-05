@@ -1,2 +1,0 @@
-# İkinci seviye çözümler
-
