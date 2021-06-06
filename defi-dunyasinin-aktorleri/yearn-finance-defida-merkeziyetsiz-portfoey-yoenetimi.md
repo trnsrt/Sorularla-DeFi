@@ -10,6 +10,8 @@ Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir 
 
 Şöyle bir hizmet olsa yatırımcının parasını alıp değerlendiren? O yere parasını koyup sonrasında gönül rahatlığı içinde işine dönse? Var mı böyle bir yer?
 
+![](../.gitbook/assets/020505-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-yearn_relax_1280.jpg)
+
 |  |
 | :--- |
 | _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/) |
@@ -20,11 +22,7 @@ Gelin bu bölümde, 2020 yazında DeFi’nin parlayan yıldızlarından biri hal
 
 ### Ne yapar Yearn protokolü?
 
-Yearn protokolü çok basit olarak, bir kaç belirlenmiş strateji doğrultusunda paranızı otomatik şekilde değerlendirmeye yarıyor. Çıkış amacı, riski az stabil paraları farklı platformlarda değerlendirerek ekstra getiri yaratmak. Bir başka deyişle, **geliri maksimize etmek yerine riski minimize etmek yoluya kullanıcısına makul bir getiri sağlama** hedefindeler.
-
-Yearn protokolünün sloganı “basitleştirilmiş merkeziyetsiz finans”\(“DeFi simplified”\). Ancak Yearn burada ölçüyü bir parça kaçırmış sanki. Sistemin kullanıcı arayüzleri gayet basit. Örneğin diğer tüm DeFi protokollerinde olduğu gibi kullanıcı web sitesine girdiğinde saniyeler içinde kripto cüzdanınızı bağlayıp kullanmaya başlayabiliyor. Ancak giriş ekranı o kadar basit ki, kullanıcının ne yapması gerektiğini anlaması gerçekten zaman alabiliyor, çünkü herhangi bir açıklama yok. Bunun temel nedeni, sistemin kurucusu [Andre Cronje](https://twitter.com/AndreCronjeTech)‘nin bir programcı olarak ürüne odaklı olması ve birinci önceliği hızlı ürün çıkarmaya vermesi. Adeta “bu işi bilmiyorsan hiç buralarda vakit geçirme” dercesine hafif bir üstten bakış havası seziyor insan. İşte tipik bir DeFi sıkıntısı: Kullanıcı dostu, net, açıklayıcı arayüz eksikliği.
-
-Neyse ki topluluğun katkıları ile neyin ne olduğu ve nasıl yapılacağını anlatan [sayfalar](https://docs.yearn.finance/) websitesine sonradan eklenmiş. Ancak bu sayfaları bulmak bile kullanıcı için kolay değil. Neyse, konudan fazla sapmadan gelin ne tip ürünler var Yearn içinde, ona bakalım.
+Yearn protokolü çok basit olarak, bir kaç belirlenmiş yatırım stratejisi doğrultusunda paranızı otomatik şekilde değerlendirmeye çalışıyor. Bu stratejilerin temelde çıkış amacı, riski az stabil paraları farklı platformlarda değerlendirerek ekstra getiri yaratmak. Bir başka deyişle, **geliri maksimize etmek yerine riski minimize etmek yoluya kullanıcısına makul bir getiri sağlama** hedefindeler.
 
 ### Ne tip ürünler var?
 
@@ -32,9 +30,9 @@ Yearn sitesine girince onlarca ürün görebilirsiniz, ancak temel olarak iki an
 
 #### Earn
 
-Kullanıcının parasını alıp, çeşitli borç verme protokolleri arasında gezdirerek en yüksek getiriyi otomatik olarak sağlayan [Earn](https://yearn.finance/earn) Yearn platformundan çıkan ilk ürün.
+Kullanıcının parasını alıp, çeşitli borç verme protokolleri arasında gezdirerek en yüksek getiriyi otomatik olarak sağlayan [Earn](https://v1.yearn.finance/earn) Yearn platformundan çıkan ilk ürün.
 
-İki önceki bölümde detaylı olarak baktığımız borç verme platformu Compound ve rakipleri Aave ve dYdX, Earn ürününün elindeki parayı dolaştırdığı birbirine rakip üç temel DeFi projesi. **Kullanıcıların ağırlıklı olarak ABD Doları’na bağlı stabil paralarını değerlendirdiği bu ürün, hem getirisi hem de riski düşük bir yatırım alternatifi olarak öne çıkıyor. Özet olarak DeFi dünyasındaki birbirinden inişli çıkışlı kripto paralarının riskini almak istemeyen yatırımcılar için makul getiriler sunan bir araç.**
+İki önceki bölümde detaylı olarak baktığımız borç verme platformu [Compound](https://compound.finance/) ve rakipleri [Aave](https://aave.com/) ve [dYdX](https://dydx.exchange/), Earn ürününün elindeki parayı dolaştırdığı birbirine rakip üç temel DeFi projesi. **Kullanıcıların ağırlıklı olarak ABD Doları’na bağlı stabil paralarını değerlendirdiği bu ürün, hem getirisi hem de riski düşük bir yatırım alternatifi olarak öne çıkıyor. Özet olarak DeFi dünyasındaki birbirinden inişli çıkışlı kripto paralarının riskini almak istemeyen yatırımcılar için makul getiriler sunan bir araç.**
 
 Neden kullanıcılar Earn kullansın? Bir kaç temel nedeni var.
 
@@ -42,7 +40,7 @@ Neden kullanıcılar Earn kullansın? Bir kaç temel nedeni var.
 
 İkincisi, Earn para transferi sırasında çıkabilecek yüksek işlem ücretlerinden kullanıcıyı kurtarıyor - sonuçta işlem yaptığınızda ödenecek ücreti işlemin tutarı değil, yapılacak işlemin ne kadar karmaşık olduğu ve ne kadar hızlı yapmak istediğiniz belirliyor. Kullanıcının 100 ABD Doları’nı platformlar arası değiştirirken ödeyeceği ücret ile Earn’in 10 milyon ABD Doları için aynı işlemi yapmasında ödeyeceği ücret arasında öyle ahım şahım bir fark yok.
 
-Üçüncü önemli neden ise, Earn içinde yatırımcıların para yatırabildiği dört farklı stabil para var. Bunlar DAI, USDC, USDT, TUSD. Bütün bu paralar bir başka protokol olan Curve içinde özel bir havuzda tutuluyor. Curve, Uniswap benzeri ancak stabil paralar üzerine uzmanlaşmış merkeziyetsiz bir borsa. Curve kullanıcıları, bu dört stabil paraları alıp sattıkça bu havuza komisyon veriyorlar. Bu komisyonlar da Earn’e para koymuş yatırımcılara gidiyor. Dolayısıyla, bireysel olarak elde edemeyeceği ekstra bir gelir kapısına sahip oluyor kullanıcılar.
+Üçüncü önemli neden ise, Earn içinde yatırımcıların para yatırabildiği altı farklı stabil para var. Bunlar DAI, USDC, USDT, TUSD, sUSD, BUSD. Bütün bu paralar bir başka protokol olan Curve içinde özel bir havuzda tutuluyor. Curve, Uniswap benzeri ancak stabil paralar üzerine uzmanlaşmış merkeziyetsiz bir borsa. Curve kullanıcıları, bu beş stabil parayı alıp sattıkça bu havuza komisyon veriyorlar. Bu komisyonlar da Earn’e para koymuş yatırımcılara gidiyor. Dolayısıyla, bireysel olarak elde edemeyeceği ekstra bir gelir kapısına sahip oluyor kullanıcılar.
 
 #### yVaults
 
@@ -68,6 +66,8 @@ O zaman kullanıcıya stabil para bulalım ve onu değerlendirelim. Nasıl? Hat�
 
 Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.com/en/coins/aave) ya da [Link](https://www.coingecko.com/en/coins/chainlink) kripto parası koyup, sonrasında borç verme ve getiri çiftçiliğinden para kazanabiliyor. Nasıl oluyor bu? Sistem, kullanıcının koyduğu parayı teminat göstererek stabil para borç alıyor. Sonra bu stabil parayı yukarıdaki bahsettiğimiz yVault ürünlerine koyarak ekstra stabil para gelir kazanıyor. Kazandığı bu stabil para ile gidip orijinal para ne ise ondan satın alıp tekrar ürünün içine koyuyor. Böylece kullanıcı, sahip olduğu Aave ya da Link’in getirisinden \(ve riskinden\) feragat etmeden, ekstra getiri kazanma imkanına sahip oluyor.
 
+![&#x15E;EK&#x130;L &#xC7;&#x130;Z&#x130;M&#x130;](../.gitbook/assets/placeholder.png)
+
 Yalnız bu ürün diğer yVault ürünlerine göre daha riskli. Neden? Mevcut yVault risklerinin üzerinde bir de Delegated Vault ürününün getirisi eğer alınan borç için ödenen faizden az olursa, kullanıcının koyduğu paranın sistemde kilitli kalma riski var. Bu para ancak sistemdeki getiri ödenen faizden fazla olursa tekrar kullanıma açılıyor.
 
 #### Diğer ürünler
@@ -85,6 +85,8 @@ Kullanımda olan tüm Yearn ürünleri ile ilgili yatırılmış ya da yatırım
 ### Ve YFI
 
 Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de merkezilikten merkeziyetsizliğe benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)‘den oluşan “tek kişilik bir ordu” tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi.
+
+![](../.gitbook/assets/020507-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-alps-209710_1280.jpg)
 
 |  |
 | :--- |
@@ -104,7 +106,7 @@ Gerek kurucu ortaklara herhangi bir pay verilmemesi, gerekse yVault ürünlerind
 
 YFI token sahiplerinin oylamaları sonucu çıkan kararları 9 kişinin sahip olduğu bir çoklu-imza cüzdanı hayata geçiriyor. Kripto dünyasında bilinen 9 oyuncunun her birinin bir imza yetkisine sahip olduğu bu cüzdanda işlem yapmak için 6 üyenin oyu gerekiyor. Merkeziyetsiz mi? Tam olarak değil, ama hiç yoktan iyidir.
 
-Özet olarak, **YIF tokeni, hem token sahiplerine oylamalara katılma karşılığı gelir sağlıyor, hem de yazılımcılara geliştirdikleri ürünlerin yarattığı komisyonlardan pay veriyor. Bu da bireylerden bağımsız uzun vadeli sürdürülebilir bir platform yaratılmasında kritik bir önem taşıyor.**
+Özet olarak, **YFI tokeni, hem token sahiplerine oylamalara katılma karşılığı gelir sağlıyor, hem de yazılımcılara geliştirdikleri ürünlerin yarattığı komisyonlardan pay veriyor. Bu da bireylerden bağımsız uzun vadeli sürdürülebilir bir platform yaratılmasında kritik bir önem taşıyor.**
 
 #### Riskler neler?
 
@@ -113,6 +115,8 @@ _**Platform, platform üzerine olunca Akıllı Kontrat riski artıyor…**_
 Öncelikle, Yearn ürünlerinin her birinin birer akıllı kontrat olduğunu belirtelim. Ve her bir ürünün başka başka DeFi platformları üzerinden getiri sağlamaya çalıştığını da ekleyelim. Dolayısıyla, kullanıcı yalnızca bu ürünlerin değil aynı zamanda bu ürünlerin üzerinde çalıştığı DeFi platformlarının riskini almak zorunda.
 
 Üstelik bir değil birden fazla platform riski var. Örneğin, [Delegated yVault](https://yearn.finance/vaults) ürününde, i\) kullanıcı elinde tuttuğu kripto para \(örneğin [Link](https://www.coingecko.com/en/coins/chainlink)\), ii\) o paranın emanet verildiği platform \(örneğin [Aave](https://app.aave.com/home)\), iii\) karşılığında borç alınan para \(mesela [USDC](https://www.coingecko.com/en/coins/usd-coin)\), iv\) bu paranın değerlendirildiği platform \(örneğin [Curve](https://www.curve.fi/)\) ve son olarak da tüm bu sistemi yöneten Yearn akıllı kontratının riskini almak zorunda. Üzerine bir de tüm sistemi yöneten Controller denen strateji yürütücünün manuel işlem yapma riskini.
+
+![](../.gitbook/assets/020509-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-mark-516277_1280.jpg)
 
 |  |
 | :--- |
@@ -150,7 +154,9 @@ Peki Yearn protokol en kârlı stratejileri mi uyguluyor? Hayır. Daha önce de 
 
 Bunun yanında, özellikle yVault gibi ürünlerde, kripto para teminat göstererek kredi alıp, sonra bu krediyi farklı stabil paralarda değerlendirme stratejisi sürekli takip istiyor. Zira teminat değeri belli ürünün altına düşerse teminat yanabiliyor. yVault bu anlamda kullanıcıyı böyle bir dertten kurtarıyor.
 
-Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu, tek başına Yearn üzerinde bir milyar ABD Doları para toplanmasına yeterli değil. Baksanıza bu yaz yaşadıklarına:
+Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu, tek başına Yearn üzerinde bir milyar ABD Doları para toplanmasına yeterli değil. Baksanıza bir yılda yaşadıklarına:
+
+![](../.gitbook/assets/020513-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-defi_pulse_yearn_v3.png)
 
 |  |
 | :--- |
@@ -162,7 +168,7 @@ Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenları
 
 Sonra “deniz tükendi”. Yönetim tokenlarındaki artışların getirdiği üç haneli rakamlar tek haneli rakamlara doğru inmeye başladı. Aslında üç haneli rakamlar yanıltıcı idi. Neden?
 
-Çünkü gösterilen getiri, aylık getirinin bileşik hesaba göre yıllığa çevrilmesi idi. Açıkcası bu da tek gösterim yolu, zira geçmişe ait veri yok elde. Ama bu yine de yanıltıcı olduğu gerçeğini değiştirmiyor. Örneğin, aylık %5.94 getirili bir ürün her ay aynı şekilde kazandırmaya devam ederse yılda %100 getirir. Soru tabii ki her ay aynı getiriyi getirebilir mi?
+Çünkü gösterilen getiri, aylık getirinin bileşik hesaba göre yıllığa çevrilmesi idi. Açıkcası bu da tek gösterim yolu, zira geçmişe ait veri yok elde. Ama bu yine de yanıltıcı olduğu gerçeğini değiştirmiyor. Örneğin, aylık %5.94 getirili bir ürün kazanılan para yeniden yatırıma döner ve her ay aynı oranda kazandırmaya devam ederse yılda %100 getirir \(matematiksel olarak \(1+0.0594\)^12-1\). Soru tabii ki her ay aynı getiriyi getirebilir mi?
 
 Şunu söyleyelim: Yearn ürünleri hâlâ ortada ve getirileri eskisi kadar yüksek olmasa da hâlâ makul rakamlarda. Risk yönetimi açısından yukarıdaki gibi onlarca risk saysak da bu riskler genelde teknik alanda \(kod hatası benzeri\). Finansal olarak ise gerek Earn gerekse yVault prensip olarak kullanıcıya ellerinde tuttukları kripto paranın üzerine “risksiz getiri” sağlama mantığına göre çalışıyor. Nasıl yapıyorlar bunu? Kullanıcının kripto parasını teminat verdiklerinde, borç olarak stabil para alıp bu stabil parayı yatırım araçlarında değerlendirdikleri için. Yani, **teminat volatil \(iniş-çıkışlı\), ama hem yatırım yapılan hem de bu yatırım için kullanılan kredi tam tersi olarak sıfıra yakın volatileye sahip.**
 
