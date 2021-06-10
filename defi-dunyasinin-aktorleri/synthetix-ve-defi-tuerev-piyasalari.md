@@ -14,6 +14,8 @@ Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi o
 
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük \(ve bir parça bayat\) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici.
 
+![](../.gitbook/assets/020605-synthetix_ve_turev_piyasalari-assets_global_1200.jpg)
+
 |  |
 | :--- |
 | _Tüm dünyadaki ekonomik büyüklükler \(Ocak 2019\). En sağda en büyük pazar olarak türev piyasaları var. Onu sırasıyla gayrimenkul, kredi, fiziki/dijital para, hisse senedi ve altın izliyor. En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: “Bitcoin” kendisi :\)_ [_Kaynak_](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles) |
@@ -34,9 +36,11 @@ Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen se
 
 Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı \(Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye’den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz\). Ekip, kriptoparaların halka açılması olarak da adlandırdığımız ICO \(Initial Coin Offering\) piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.
 
+![](../.gitbook/assets/020607-synthetix_ve_turev_piyasalari-synthetix_locked_value_v2.png)
+
 |  |
 | :--- |
-| _Synthetix’de kilitlenen para miktarı_ [_Kaynak_](https://defipulse.com/synthetix) |
+| _Synthetix’de kilitlenen para miktarı. Kaynak:_ [_DefiPulse_](https://defipulse.com/synthetix) |
 
 ### Nasıl çalışıyor sistem?
 
@@ -175,17 +179,17 @@ Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Baş
 
 Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
 
-
+![](../.gitbook/assets/020607-synthetix_ve_turev_piyasalari-synthetix_distribution_v3.png)
 
 |  |
 | :--- |
-| _SNX ürünlerinin Ağustos 2020 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/) |
+| _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/) |
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX’in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor.
 
 Ayrıca şunu da unutmamak lazım - bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 centten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. \[^2\]
 
-Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine [ikinci seviye çözümler üzerinde çalışıyor](https://synthetix.community/docs/why-is-gas-so-high)
+Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/). 
 
 \[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz.._
 
