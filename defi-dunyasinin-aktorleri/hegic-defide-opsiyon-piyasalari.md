@@ -12,7 +12,7 @@ Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imka
 
 Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **‘alım opsiyonu’ \(ingilizcesi ‘call option’\)** kullanabilirsiniz.
 
-Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
+Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediğiniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
 
 #### Satım opsiyonu
 
@@ -22,9 +22,15 @@ Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak ister
 
 Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz \(ya da satıp kârı realize edersiniz\).
 
+![](../.gitbook/assets/020705-hegic-defide-opsiyon-piyasalari-glass-facade-817732_1280.jpg)
+
+
+
 |  |
 | :--- |
 | _Image by_ [_Gerhard Bögner_](https://pixabay.com/users/bogitw-851103/) _from_ [_Pixabay_](https://pixabay.com/) |
+
+#### 
 
 #### Rakamsal bir örnek mi versek?
 
@@ -36,7 +42,15 @@ Varsayalım bir ay sonra varlığın değeri 1.200 TL’ye yükseldi. Bu durumda
 
 ‘Put’ opsiyonu da benzer şekilde çalışıyor. 1.000 TL değerinde bir varlığı bir ay sonra 1.000 TL’ye satma hakkını yani ‘put’ opsiyonu 50 TL’ye aldığınızı varsayalım.
 
-Bir ay sonrasında değer 800 TL’ye düşerse opsiyonu kullanarak varlığı 1.000 TL’ye satabilir ve 50 TL opsiyon bedelini ödedikten sonra net 150 TL kâra sahip olabilirsiniz. Varlığın değeri tam tersi 1.300 TL’ye çıkarsa, o zaman opsiyonu kullanmaz, bunun yerine varlığı piyasada 1.300 TL’ye satar ve opsiyonun maliyeti olan 50 TL düştükten sonra 250 TL’yi cebe atarsınız.
+Bir ay sonrasında değer 800 TL’ye düşerse opsiyonu kullanarak varlığı 1.000 TL’ye satabilir ve 50 TL opsiyon bedelini ödedikten sonra net 150 TL kâra sahip olabilirsiniz. 
+
+Yukarıdaki call ve put opsiyonlarını kullanmanın dört farklı fiyat seviyesinde getiri \(ya da götürüsünü\) bir tabloda özetlersek: 
+
+![](../.gitbook/assets/020706-hegic-defide-opsiyon-piyasalari-opsiyon_tablo.png)
+
+| _Call ve put opsiyonların değişik senaryolarda kar ve zararları_  |
+| :--- |
+
 
 Ufak bir ayrıntı daha: Eğer opsiyonu sadece vade tarihinde kullanabiliyorsanız buna **Avrupa tipi opsiyon** deniyor. Yok eğer, vade tarihine kadar herhangi bir noktada kullanma imkanınız var ise bu **Amerikan tipi opsiyon** oluyor.
 
@@ -118,7 +132,7 @@ Sistemde iki ana aktör var.
 
 Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/sahip olan \(holder\) deniyor. Ne satın alıyorlar? ETH ya da BTC’yi herhangi bir vade için alma \(call\) ya da satma \(put\) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz \(daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](https://turansert.com/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler\).
 
-Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu yaratıp satın alıyorlar. \([MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor\)
+Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu alma ya da satma opsiyonunu satın alıyorlar. \([MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor\)
 
 İkincisi ise, yukarıdaki **bu havuza likidite sağlayanlar**. Yani, yukarıdaki opsiyonları satanlar, ki onlara da opsiyon yazan/çıkaran \(writer\) deniyor. Ancak bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar. Yaptıkları sadece bu havuzun suyu olan likiditeyi koymak.
 
