@@ -32,7 +32,7 @@ Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen se
 
 ### Synthetix ne yapar?
 
-Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı \(Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye’den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz\). Ekip, ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.
+Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı \(Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye’den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz\). Ekip, kriptoparaların halka açılması olarak da adlandırdığımız ICO \(Initial Coin Offering\) piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.
 
 |  |
 | :--- |
@@ -46,9 +46,9 @@ Sistem çalışması kısaca şöyle: Normalde bir türev piyasasında alan ve s
 
 Kullanıcılar, özünde herhangi bir varlığa sahip olmadan o varlığın riskini \(yani getiri ya da götürüsünü\) almak isteyen kişiler oluyor.
 
-Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O para da sentetik bir ürün: adı da sUSD.
+Synthetix sistemi herhangi bir şekilde gerçek bir varlığa dayanmıyor. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O para da sentetik bir ürün: adı da **sUSD**.
 
-sUSD bir ABD Dolarına çıpalanmış bir sabit para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak \(ki o borsaların listesini [şurada](https://www.coingecko.com/en/coins/susd) bulabilirsiniz\), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
+sUSD bir ABD Dolarına çıpalanmış bir sabit para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak \(ki o borsaların listesini [bu bağlantıda](https://www.coingecko.com/en/coins/susd) bulabilirsiniz\), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
 
 Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC’yi değil onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde sUSD karşılığı satıp, eline geçen sUSD’yi de yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor.
 
@@ -83,7 +83,7 @@ Biliyorsunuz Merkez Bankası’nın bastığı ve tedavüle soktuğu para esası
 
 Şimdilerde artık o nosyonu kaybettik gerçi ama 20. Yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stoklarında altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarına karşılık Synthetix’in kendi tokeni olan SNX’i teminat olarak göstermek zorundalar.
 
-Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer kullanıcılar yani işlem yapanlar sBTC aldı ve sonrasında sBTC yükseldi ise, o zaman havuzun borcu büyüyor. Dolayısıyla havuzdan borç alanların borcu da büyüyor. Tam tersi durumda işlem yapan zarar ederse \(bu örnekte olduğu gibi sBTC fiyatı düşerse\) o zaman da havuz kâr etmiş oluyor ve paydaşların da aynı oranda borcu düşüyor.
+Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer kullanıcılar yani işlem yapanlar sBTC aldı ve sonrasında sBTC yükseldi ise, o zaman havuzun borcu büyüyor. Tam tersi durumda işlem yapan zarar ederse \(bu örnekte olduğu gibi sBTC fiyatı düşerse\) o zaman da havuz kâr etmiş oluyor ve paydaşların da aynı oranda borcu düşüyor.
 
 #### sUSD nasıl yaratılıyor?
 
@@ -94,10 +94,6 @@ O nedenle, sUSD basarken SNX olarak çok daha fazlasını tutmak zorunda paydaş
 #### Peki nereden geliyor bu SNX?
 
 Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO’da genel halka dağıtılmış. Aslında orijinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). \(Nasıl dağıtılacağı bir sonraki bölümde\)
-
-|  |
-| :--- |
-| _SNX’in 2020 yılı içindeki değişimi \(2018-2020 arası yatay seyretmiş\)_ [_Kaynak_](https://www.coingecko.com/en/coins/synthetix-network-token) |
 
 Peki bir paydaş neden SNX alsın ve kendini riske atsın? Öncelikle SNX basılmaya başladığı günden bugüne çok ciddi değer kazandı. Ağustos 2020 itibariyle SNX piyasa değeri 700 milyon ABD Doları civarında. Ama bu spekülatif bir değer. SNX tokenin paydaşlara nakit getirisi var mı? Gelin bir de ona bakalım şimdi.
 
@@ -178,6 +174,8 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Başka DeFi ürünlerde likidite sağlamak için para koyduğunuzda genel olarak düşük riskli ürünlere yatırım yapıyorsunuz. Synthetix’de ise SNX aldığınız ve sUSD yarattığınız noktada havuzun borcuna ve riskine ortak oluyorsunuz - ve bu ufak bir risk değil.
 
 Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
+
+
 
 |  |
 | :--- |
