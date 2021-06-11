@@ -24,7 +24,7 @@ Dolayısıyla, klasik finansın dikey yapılanma da diyebileceğimiz sistemine k
 
 ![](../.gitbook/assets/defi_stack.jpg)
 
-DeFi Destesi \(DeFi Stack\) Kaynak: [**Multicoin Capital**](https://multicoin.capital/2020/11/24/the-defi-stack/)
+\*DeFi Destesi \(DeFi Stack\) Kaynak: [**Multicoin Capital**](https://multicoin.capital/2020/11/24/the-defi-stack/)**\***
 
 DeFi destesindeki altı parçayı en alt yani temel altyapıdan, en üst yani kullanıcıya dokunan şekilde sıralayıp, her bir katmandan birer cümle ile bahsetmekte fayda var: 
 
