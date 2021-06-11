@@ -6,6 +6,8 @@
 
 Her ne kadar bildiğimiz klasik finans ile belli alanlarda kesişse de DeFi yani merkeziyetsiz finans kendi içinde ayrı bir dünya olmaya doğru hızla ilerliyor. DeFi aktörlerinin nihai hedefi de bu aslında. Ancak fiziksel dünya ile iletişimi kesebilmek için belli temel gereksinimlerin karşılanması gerekiyor. Bunların en önemlilerinden biri de sigorta. Üstelik DeFi alanında klasik finansa göre daha da kritik bu gereksinim. Neden?
 
+![](../.gitbook/assets/020805-nexus_mutual_definin_sigortasi-umbrella-4510667_1280.jpg)
+
 |  |
 | :--- |
 | _Image by_ [_neo tam_](https://pixabay.com/users/neotam-11291643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) |
@@ -121,6 +123,8 @@ _**Peki sigorta oranını kim nasıl belirliyor?**_
 Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu da staking dediğimiz rehin verme işlemi ile yapıyorlar.
 
 Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normalde Nexus Mutual’a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistemin risk ve getirisine ortak oluyorsunuz. Ancak staking yaptığınızda bu riski ürün bazında ayrıştırmak da mümkün oluyor.
+
+![](../.gitbook/assets/020807-nexus_mutual_definin_sigortasi-umbrella-3289996_1280.jpg)
 
 |  |
 | :--- |
