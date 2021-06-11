@@ -22,7 +22,9 @@ Bunun yanında açık kaynak sayesinde ürün geliştirme süreçleri DeFi için
 
 Dolayısıyla, klasik finansın dikey yapılanma da diyebileceğimiz sistemine karşılık DeFi yatay bir yapılanma sağlar. Yani, sunulan hizmetler katman katman ayrılabilir. Her katmanda da birbiri ile yarışan servis sağlayıcılar bulunur. Servis sağlayıcılar diğer katmanlardaki ürünler ile birlikte çalışabildikleri için, kullanıcı her katmandan istediğini seçerek kendi risk/getiri profiline uygun kişiselleştirilmiş ürünler çıkarabilir. Bu alandaki yatırımcılardan Multicoin Capital, DeFi yığını \(ya da istiflenmiş destesi\) olarak adlandırdığı aşağıdaki şemada DeFi ekosistemini gayet güzel bir şekilde anlatıyor:  
 
-![DeFi Destesi \(DeFi Stack\) Kaynak: Multicoin Capital](../.gitbook/assets/defi_stack.jpg)
+![](../.gitbook/assets/defi_stack.jpg)
+
+DeFi Destesi \(DeFi Stack\) Kaynak: [**Multicoin Capital**](https://multicoin.capital/2020/11/24/the-defi-stack/)
 
 DeFi destesindeki altı parçayı en alt yani temel altyapıdan, en üst yani kullanıcıya dokunan şekilde sıralayıp, her bir katmandan birer cümle ile bahsetmekte fayda var: 
 
