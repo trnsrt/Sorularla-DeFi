@@ -64,7 +64,9 @@ Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii.. Ancak 
 
 MakerDAO da benzer bir krizi 2020’nin Mart ayı içinde yaşadı. 
 
-![ETH&apos;nin y&#x131;ll&#x131;k de&#x11F;i&#x15F;imi ve 12 Mart g&#xFC;n&#xFC; %53 d&#xFC;&#x15F;mesi Kaynak](../.gitbook/assets/02021-makerdao-ether_price_march_2010.png)
+![](../.gitbook/assets/02021-makerdao-ether_price_march_2010.png)
+
+ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi [Kaynak](https://www.coindesk.com/price/ethereum)
 
 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. Diyelim 100 ETH’ye denk gelecek bir kredi almak istiyorsunuz. Aldığınız kredi Dai cinsinden, Dai ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız, bırakın aldığınız kredinin 150%’sini karşılamayı, bir anda %94’ünü karşılar hale geliyor \(200x\(1-0.53\)=94\). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor.
 
