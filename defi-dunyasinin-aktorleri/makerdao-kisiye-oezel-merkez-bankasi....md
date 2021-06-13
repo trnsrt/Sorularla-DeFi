@@ -12,7 +12,9 @@ Kullanıcı, elindeki belli ['sağlam' sayılan kriptoparaları](https://oasis.a
 
 ![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)
 
-Maker DAO sistemi kullanımı. Kaynak: [Token Analyst](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)
+| ![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)  |
+| :--- |
+| _Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)\_\_ |
 
 #### Neden insanlar kullanıyor?
 
