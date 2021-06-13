@@ -70,7 +70,7 @@ Chainlink işte bu hizmeti veren aracılar içinde en büyüğü. Bir DeFi platf
 
 ![](../.gitbook/assets/030309-chainlink-definin-bilgi-kaynagi-chain-1995543_1280.jpg)
 
-Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)
+_Image by_ [_kalhh_](https://pixabay.com/users/kalhh-86169/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 #### Chainlink’in hikayesi
 
