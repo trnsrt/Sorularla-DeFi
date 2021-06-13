@@ -217,11 +217,7 @@ Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücr
 
 ![](../.gitbook/assets/020411-uniswap_ve_definin_merkeziyetsiz_borsalari-eth_fees.png)
 
-ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021. [Kaynak](https://etherscan.io/gastracker)
-
-|  |
-| :--- |
-|   |
+_ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021._ [_Kaynak_](https://etherscan.io/gastracker)\_\_
 
 Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyorlar. Genel olarak tercih edilen tüm işlemlerin tek tek Ethereum blokzincirine işlenmesi yerine, bu işlemlerin bir araya getirilip, emek yoğun kısmın zincir dışında tamamlandıktan sonra sadece sonuçların blokzincire yazılması. Roll-up çözümleri de denen bu işlem sonucu işlem maliyetleri düşüyor ancak işlem sonuçlarının blokzincirde yazılması zaman alabiliyor.
 
