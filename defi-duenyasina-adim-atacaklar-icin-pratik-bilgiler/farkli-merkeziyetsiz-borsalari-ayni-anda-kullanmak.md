@@ -34,9 +34,9 @@ Son olarak, kullanıcının işlem yaparken ne kadar hızlı işlemi gerçekleş
 
 İşte yukarıda saydığımız faklı senaryolardan dolayı tokenların fiyatı borsadan borsaya farklılık gösteriyor. Ne yapacak kullanıcı? Sekiz farklı borsa için ekranını açık tutup hangisi iyi ise ondan mı işlem yapacak?
 
-|  |
-| :--- |
-| _Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/040505-farkli-merkeziyetsiz-borsalar-time-4559218_1920.jpg)
+
+_Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/)
 
 İşte DeFi burada kullanıcının imdadına yetişiyor. Toplayıcı \(ingilizcesi aggregator\) dediğimiz merkeziyetsiz hizmet sağlayıcılar, kullanıcının işlem yapmak istediğinde, hemen bütün merkeziyetsiz borsalar ile iletişim kuruyor, token için en iyi fiyat vereni buluyor ve kullanıcının önüne getiriyor.
 
@@ -50,9 +50,9 @@ Bunun yerine toplayıcıya parasını kullanma konusunda izin verdiğinde sonras
 
 2020 yılının Nisan ayı itibariyle piyasada üç büyük toplayıcı bulunuyor. Bunlar [1inch](https://1inch.exchange/#/), [Matcha](https://matcha.xyz/), ve [ParaSwap](https://paraswap.io/).
 
-|  |
-| :--- |
-| _Merkeziyetsiz işlem toplayıcı hacimleri Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/dex-aggregator-trade-volume) |
+![](../.gitbook/assets/040507-farkli-merkeziyetsiz-borsalar-dex_islem_hacimleri.jpg)
+
+_Merkeziyetsiz işlem toplayıcı hacimleri Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/dex-aggregator-trade-volume)
 
 2020 yılının Mayıs ayında başlayan DeFi piyasasındaki canlamanın biraz gecikmeli olarak toplayıcılara geldiğini söylemek yanlış olmaz. Bunun birkaç nedeni var. Öncelikle piyasalarda böyle bir ihtiyaç olduğu geç anlaşıldı. Öte yandan bu piyasanın lideri olan 1inch, 2020 Aralık ve 2021 Şubat aylarında yaptığı iki airdrop ile geniş kitlelerin kendisini kullanmasını sağladı \(airdrop kullanıcılara platformu kullanmaları için verilen teşvikler\)..
 
