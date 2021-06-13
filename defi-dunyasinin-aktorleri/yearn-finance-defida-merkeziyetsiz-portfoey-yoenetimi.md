@@ -12,9 +12,7 @@ Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir 
 
 ![](../.gitbook/assets/020505-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-yearn_relax_1280.jpg)
 
-|  |
-| :--- |
-| _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/) |
+_Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 Öncelikle söyleyelim, yukarıda bahsettiğimiz tüm dertlere çare olacak bir çözüm henüz yok. Daha doğrusu böyle çözümler mevcut ancak bunların çoğu merkezi yapılar. Paranızı alıp değerlendiren fonlar ya da aracılar var ama bu merkeziyetsizlik ruhuna çok da uygun değil. Peki ya merkeziyetsiz çözümler?
 
