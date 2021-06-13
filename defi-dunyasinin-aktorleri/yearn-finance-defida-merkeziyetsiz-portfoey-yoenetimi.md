@@ -114,9 +114,7 @@ _**Platform, platform üzerine olunca Akıllı Kontrat riski artıyor…**_
 
 ![](../.gitbook/assets/020509-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-mark-516277_1280.jpg)
 
-|  |
-| :---: |
-| _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/) |
+_Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 Açıkcası bu alanda kullanıcıyı ferahlatacak mekanizmalar çok az ve yavaş gelişiyorlar. Bunlardan bir tanesi, kod anlamında yapılan denetimler. Pek çok proje çok hızlı ilerlediği için bu denetimleri yaptırmaz iken, kendisi eski bir denetim görevlisi olduğu için Andre’nin bu konuda hassasiyet gösterdiğini görüyoruz. [Yeterli mi](https://github.com/iearn-finance/yearn-audits)? Hayır.
 
@@ -154,9 +152,7 @@ Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu
 
 ![](../.gitbook/assets/020513-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-defi_pulse_yearn_v3.png)
 
-|  |
-| :--- |
-| _2020 yılı içinde Yearn platformuna kilitlenen para miktarı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/yearn.finance) |
+_2020 yılı içinde Yearn platformuna kilitlenen para miktarı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/yearn.finance)\_\_
 
 Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenlarının ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler, insanların gözlerini kamaştırdı. Büyük miktarlarda “balina” olarak adlandırılan yatırımcı paraları bu alana ve Yearn platformuna yığıldı.
 
