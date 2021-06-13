@@ -8,9 +8,9 @@ Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşıl
 
 The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri \(data ya da veri denebilir bunlara\) toplamak, arama yapılacak hale sokmak \(endekslemek\) ve ihtiyaç duyanların hizmetine sunmak.
 
-|  |
-| :--- |
-| _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030405-the_graph_definin-analiz-saglayicisi-arrows-2899888_1920.jpg)
+
+_Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 İhtiyaç duyanlar kimler? Başka başka DeFi servisleri, yatırımcılar ya da yatırımcılara danışmanlık verenler…
 
@@ -26,9 +26,9 @@ Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir
 
 Uniswap, üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)‘da gerçekleşmiş. Her bir havuzdaki işlemleri, hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz The Graph sistemini kullanabilirsiniz.
 
-|  |
-| :--- |
-| _En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak:_ [_The Graph_](https://thegraph.com/blog/uniswap-built-on-the-graph) |
+![](../.gitbook/assets/030407-the_graph_definin-analiz-saglayicisi-uniswap-overview.jpg)
+
+En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak: [The Graph](https://thegraph.com/blog/uniswap-built-on-the-graph)
 
 Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili teknik yeterliliğe sahip olmak gerekiyor.
 
