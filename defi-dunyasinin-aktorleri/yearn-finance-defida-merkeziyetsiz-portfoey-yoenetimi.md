@@ -152,7 +152,7 @@ Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu
 
 ![](../.gitbook/assets/020513-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-defi_pulse_yearn_v3.png)
 
-_2020 yılı içinde Yearn platformuna kilitlenen para miktarı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/yearn.finance)\_\_
+_2020 yılından 2021 ortasına Yearn platformuna kilitlenen para miktarı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/yearn.finance)\_\_
 
 Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenlarının ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler, insanların gözlerini kamaştırdı. Büyük miktarlarda “balina” olarak adlandırılan yatırımcı paraları bu alana ve Yearn platformuna yığıldı.
 
