@@ -86,9 +86,7 @@ Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yo
 
 ![](../.gitbook/assets/020507-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-alps-209710_1280.jpg)
 
-|  |
-| :--- |
-| _Image by_ [_Sarah Labbat_](https://pixabay.com/users/xoco-89138/) _from_ [_Pixabay_](https://pixabay.com/) |
+_Image by_ [_Sarah Labbat_](https://pixabay.com/users/xoco-89138/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 Merkeziyetsizleştirme vizyonundaki adımlara baktığımızda, yol genelde gücün kullanıcılara verilmesi ve kodların açık hale getirilmesi şeklinde başlıyor. Bunun hemen arkasından sıra yazılım/geliştirme faaliyetlerini topluluğa bırakmaya geliyor. Son olarak platformun yönetiminin de merkeziyetsizleştirilmesi ile vizyon tamamlanıyor.
 
@@ -117,7 +115,7 @@ _**Platform, platform üzerine olunca Akıllı Kontrat riski artıyor…**_
 ![](../.gitbook/assets/020509-yearn_finance_defide_merkeziyetsiz_portfoy_yonetimi-mark-516277_1280.jpg)
 
 |  |
-| :--- |
+| :---: |
 | _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/) |
 
 Açıkcası bu alanda kullanıcıyı ferahlatacak mekanizmalar çok az ve yavaş gelişiyorlar. Bunlardan bir tanesi, kod anlamında yapılan denetimler. Pek çok proje çok hızlı ilerlediği için bu denetimleri yaptırmaz iken, kendisi eski bir denetim görevlisi olduğu için Andre’nin bu konuda hassasiyet gösterdiğini görüyoruz. [Yeterli mi](https://github.com/iearn-finance/yearn-audits)? Hayır.
