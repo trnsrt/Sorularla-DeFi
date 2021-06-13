@@ -8,9 +8,7 @@ Her ne kadar bildiğimiz klasik finans ile belli alanlarda kesişse de DeFi yani
 
 ![](../.gitbook/assets/020805-nexus_mutual_definin_sigortasi-umbrella-4510667_1280.jpg)
 
-|  |
-| :--- |
-| _Image by_ [_neo tam_](https://pixabay.com/users/neotam-11291643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) |
+_Image by_ [_neo tam_](https://pixabay.com/users/neotam-11291643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667)\_\_
 
 Öncelikle daha önce de sıklıkla yazdığımız şu düsturu tekrar hatırlatalım: Klasik finans emanet/velayet \(custodial\) sistemi çalışır. Yani siz müşteri olarak finansal varlığınızı çalıştığınız kuruma kuzu kuzu verirsiniz. Zaten bu nedenle finans sektöründe çok sıkı kanun ve denetimler var - kanuni otoriteler halkın hakkını korumak için sektörü sıkı kontrol altında tutarlar - başkasının varlığına sahip olmak sorumluluk gerektirir, ağır bir yük. Ama bununla da yetinmez kurumlar - kullanıcı hesapları ile ilgili çeşit çeşit sigortalar da isterler tüketiciyi korumak için. \(Ülkemizde mevduatlara verilen 150,000 TL’ye kadar garanti uygulanması gibi\).
 
@@ -126,9 +124,7 @@ Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler iç
 
 ![](../.gitbook/assets/020807-nexus_mutual_definin_sigortasi-umbrella-3289996_1280.jpg)
 
-|  |
-| :--- |
-| _Image by_ [_Sarah Lötscher_](https://pixabay.com/users/sarah_loetscher-4248505/) _from_ [_Pixabay_](https://pixabay.com/) |
+_Image by_ [_Sarah Lötscher_](https://pixabay.com/users/sarah_loetscher-4248505/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 NXM satın alan dolayısıyla genel sisteme yatırım yapmış bir yatırımcı sonrasında dilerse bu NXM’i belli bir spesifik ürüne koyarak riskini daha da artırabiliyor. Böyle yaparak bu spesifik ürünü satın almış olanların ödedikleri primlerden bir kısmını havuzdan önce kazanma hakkına sahip oluyor. Risk tarafında ise üründe bir sorun çıkıp da zarar tazminat ödenmesi halinde koymuş olduğu NXM’i toptan kaybetme ihtimali var. Bu nedenle, staking yapmanın ekstra bir riskli bir yatırım olduğu unutulmamalı.
 
