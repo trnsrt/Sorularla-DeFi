@@ -18,9 +18,9 @@ O zamandan sonra bir süre pek sesi çıkmayan DAO’lar yeni DeFi projelerle bi
 
 Efendim, Aragon özünde merkeziyetsiz olarak yönetilmek isteyen kişilere bu tip bir yönetim için gerekli olan DAO yapısını sağlayan Ethereum üzerine kurulu bir platform. Tabii ki dijital dünyada. Fiziksel dünyadan bir örnek olarak kooperatifleri düşünebilirsiniz. Kişilerin bir proje amaçlı olarak bir araya geldikleri ve proje bitiminde lağvettikleri birlikler gibi.
 
-|  |
-| :--- |
-| Ethereum üzerindeki BTC miktarı _\(Photo by_ [_Sam Beasley_](https://unsplash.com/@sam_beasley) _on Unsplash\)_ |
+![](../.gitbook/assets/030605-aragon_ile_defide_yonetim-aragon-defi.jpg)
+
+_Photo by_ [_Sam Beasley_](https://unsplash.com/@sam_beasley) _on Unsplash_
 
 “Ne gerek var?”” diye sorabilirsiniz. Gereği şu: Dijital dünyada da olsanız, kişilerin oluşturduğu toplulukları yönetmek için kurallara ihtiyacınız var. Benzer şekilde sorunlar çıktığında bunları çözmek için de belli mekanizmalara ihtiyaç duyuyorsunuz. Ancak katılımcıların hepsinin bu kuralları, artılarını eksilerini bilme imkanı yok, hatta buna gerek de yok.
 
