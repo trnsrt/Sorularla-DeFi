@@ -10,9 +10,9 @@ Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kayd�
 
 Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil \(benzersiz\) tokenlar \(belirteçler\), birbirine benzemeyen ürünlerin ‘sahipliğini göstermek’ için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?\[^1\]
 
-|  |
-| :--- |
-| _Image by_ [_Markus Winkler_](https://pixabay.com/users/viarami-13458823/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030505-filecoin-definin-merkeziyetsiz-saklama-deposu-sd-card-5206408_1920.jpg)
+
+_Image by_ [_Markus Winkler_](https://pixabay.com/users/viarami-13458823/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 Öncelikle dijital bir sanat eserinin ekranda gördüğünüz dosyası eserin orijinali ile aynı boyutta olmayabilir. Genelde yaratıcılar eserlerini yüksek çözünürlükle üretip sonrasında daha düşük çözünürlüklü olarak pazar yerlerlerine koyuyorlar. Dolayısıyla ürünün aslı satıldığı web sitesinde olmayabilir. Peki eserin asıl orjinalini nerede saklıyorlar? Sanatçının kendi bilgisayarında.
 
@@ -28,9 +28,9 @@ Blokzinciri oluşturan blokların boyutlarını büyütsek? Yapabilirsiniz ama u
 
 Filecoin de tam olarak bu alanda, yani merkeziyetsiz dünyanın ihtiyaç duyduğu hiçbir aracıya bağlı olmayan geniş kapasiteli ve ucuz bir saklama konusunda, kritik bir hizmet sağlıyor.
 
-|  |
-| :--- |
-| _Image by_ [_Dennis P_](https://pixabay.com/users/dep377-9418974/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030507-filecoin-definin-merkeziyetsiz-saklama-deposu-plastic-5836598_1920.jpg)
+
+_Image by_ [_Dennis P_](https://pixabay.com/users/dep377-9418974/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 Filecoin, 2014 yılında [Protocol Labs](https://protocol.ai/) tarafından kurulan bir girişim. Web 3.0 olarak da adlandırılan, yeni tip web teknolojilerine altyapı sağlama amacıyla o günden beri çalışmalarını sürdürüyor.
 
@@ -60,9 +60,9 @@ Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkezi
 
 Aşağıda da Filecoin’in rakipleri ile Ekim 2020 tarihindeki karşılaştırmalı fiyatları bulunmakta:
 
-|  |
-| :--- |
-| _Veri depolama ücretleri - Ekim 2020. Kaynak:_ [_Messari_](https://messari.io/asset/filecoin/news) |
+![](../.gitbook/assets/030509-filecoin-definin-merkeziyetsiz-saklama-deposu-filstats_siastats_storj.png)
+
+_Veri depolama ücretleri - Ekim 2020. Kaynak:_ [_Messari_](https://messari.io/asset/filecoin/news)\_\_
 
 ### Filecoin üzerine son birkaç söz
 
