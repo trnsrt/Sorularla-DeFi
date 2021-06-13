@@ -14,7 +14,7 @@ Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka
 
 ![](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
 
-Image by [Mudassar Iqbal](https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700)
+_Image by_ [_Mudassar Iqbal_](https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700)\_\_
 
 ### Nasıl çalışıyor sistem?
 
@@ -38,7 +38,7 @@ Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” n
 
 ![](../.gitbook/assets/020307-compound-collateral-_ratio.png)
 
-Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Haziran 2021 Kaynak: [Compound](https://compound.finance/markets/ETH)
+_Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Haziran 2021 Kaynak:_ [_Compound_](https://compound.finance/markets/ETH)\_\_
 
 #### Hangi paralarda işlem yapılabiliyor?
 
@@ -46,7 +46,7 @@ Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Haziran
 
 ![](../.gitbook/assets/020309-compound-money-compound_currencies.png)
 
-Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak: [Compound](https://compound.finance/markets)
+_Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak:_ [_Compound_](https://compound.finance/markets)\_\_
 
 #### Kimler kullanıyor?
 
