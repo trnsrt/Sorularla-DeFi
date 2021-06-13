@@ -10,8 +10,6 @@ MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platfor
 
 Kullanıcı, elindeki belli ['sağlam' sayılan kriptoparaları](https://oasis.app/borrow) teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparayı sisteme kilitlemek anlamına geliyor. Örneğin gönderilen her 150 birim ETH için akıllı kontrat 100 birime kadar Dai verebiliyor. Kullanıcı, borsalarda bir ABD Doları'na yakın değerden işlem gören Dai'yi ister başka stabil paralara çevirebilir ya da başka kripto paraları satın almak için kullanabilir. Borç alınan paranın bir maliyeti var, ve kullanıcı dilediği noktada faizi ile anaparası borcunu piyasadan Dai satın alıp sisteme ödeyebilir ve ETH'sine geri kavuşur. 
 
-![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)
-
 | ![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)  |
 | :--- |
 | _Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)\_\_ |
