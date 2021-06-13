@@ -12,7 +12,7 @@ Temel olarak iki ana grup var Uniswap’ta. İlki kullanıcılar; bunlar bildiğ
 
 ![](../.gitbook/assets/placeholder.png)
 
-Uniswap sistemi şeması
+_Uniswap sistemi şeması_
 
 ### Uniswap neden popüler oldu?
 
@@ -71,9 +71,7 @@ Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedil
 
 ![](../.gitbook/assets/020407-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap_returns_v3.jpg)
 
-|  |
-| :--- |
-| _Uniswap içindeki en büyük havuz olan USDC havuzunun 2020-21 Şubat yıllık getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr \(ROI\) -_ [_Kaynak_](https://zumzoom.github.io/analytics/uniswap/roi/) |
+_Uniswap içindeki en büyük havuz olan USDC havuzunun 2020-21 Şubat yıllık getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr \(ROI\) -_ [_Kaynak_](https://zumzoom.github.io/analytics/uniswap/roi/)\_\_
 
 Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanlar aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz token çiftleri. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar “geçici kayıp” fazla yaşamazlar ve oldukça iyi kâr ederler.
 
@@ -177,9 +175,9 @@ Uniswap’ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa
 
 ![](../.gitbook/assets/020408-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap-sushi-liquidity_tr.png)
 
-|  |
-| :--- |
-| _Uniswap ve Sushiswap üzerindeki likiditenin değişimi - Kaynak:_ [_The Block_](www.theblockcrypto.com) |
+
+
+\*\*\*\*
 
 ### Uniswap'ın üçüncü versiyonu ne yenilikler getiriyor?
 
