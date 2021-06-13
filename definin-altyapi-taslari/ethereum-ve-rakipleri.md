@@ -6,9 +6,9 @@ Merkeziyetsiz Finans yani DeFİ büyümesine 2020 yılının ortalarından itiba
 
 Ethereum da bu girişimlerin ağırlıklı olarak kullandığı akıllı kontrat platformu. Bu arada son zamanlarda Ethereum’un rakibi olan diğer akıllı kontrat platformlarının isimlerini gün geçtikçe daha çok duyar olduk. Gelin önce bir Ethereum’un sorunlarına sonra da rakiplerine göz atalım:
 
-|  |
-| :--- |
-| _Image by_ [_Clarence Alford_](https://pixabay.com/users/clarencealford-5516293) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030205-ethereum_ve_rakipleri-horse-2629042_1920.jpg)
+
+_Image by_ [_Clarence Alford_](https://pixabay.com/users/clarencealford-5516293) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 ### ETH’nin sorunları ne?
 
@@ -50,7 +50,7 @@ Yukarıda saydığımız kriterlerden uygulama sayıları ve işlem hacimleri ye
 
 ![](../.gitbook/assets/smart_platform_l_devs.png)
 
-Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 89\)
+_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 89\)_
 
 Yazıların küçük olması nedeniyle tabloya açıklama getirmekte fayda var. Bu tablo, toplam geliştirici sayısı 100'den fazla olan akıllı kontrat platformlarının bir yıllık gelişimini göstermekte. Yatay olarak gördüğünüz 2019 yılının üçüncü çeyreğindeki geliştirici sayısı, dikeyde ise 2020 yılının üçüncü çeyreği bulunmakta. Dolayısıyla grafiğin üst tarafında bulunan platformlar geliştirici sayılarını artırmışlar, altta bulunanlar ise geliştirici kaybına uğramışlar. Baktığınızda, 100'ün üzerinde geliştiricisi olan yani göreceli büyük sayılabilecek platformları Ethereum, Bitcoin, Cosmos, Polkadot, Cardano, Tezos ve EOS olarak görüyoruz. 
 
@@ -66,7 +66,7 @@ Yukarıdaki büyükler dışında geliştirici sayısı 100'ün altında olan g�
 
 ![](../.gitbook/assets/smart_platform_m_devs.png)
 
-Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 90\)
+_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 90\)_
 
 ### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 
