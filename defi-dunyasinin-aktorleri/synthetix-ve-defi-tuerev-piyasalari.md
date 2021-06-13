@@ -36,9 +36,7 @@ Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı \(Kri
 
 ![](../.gitbook/assets/020607-synthetix_ve_turev_piyasalari-synthetix_locked_value_v2.png)
 
-|  |
-| :--- |
-| _Synthetix’de kilitlenen para miktarı. Kaynak:_ [_DefiPulse_](https://defipulse.com/synthetix) |
+_Synthetix’de kilitlenen para miktarı. Kaynak:_ [_DefiPulse_](https://defipulse.com/synthetix)\_\_
 
 ### Nasıl çalışıyor sistem?
 
@@ -179,9 +177,7 @@ Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık
 
 ![](../.gitbook/assets/020607-synthetix_ve_turev_piyasalari-synthetix_distribution_v3.png)
 
-|  |
-| :--- |
-| _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/) |
+_SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/)\_\_
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX’in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor.
 
