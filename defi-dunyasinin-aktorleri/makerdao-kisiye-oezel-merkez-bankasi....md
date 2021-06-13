@@ -10,9 +10,9 @@ MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platfor
 
 Kullanıcı, elindeki belli ['sağlam' sayılan kriptoparaları](https://oasis.app/borrow) teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparayı sisteme kilitlemek anlamına geliyor. Örneğin gönderilen her 150 birim ETH için akıllı kontrat 100 birime kadar Dai verebiliyor. Kullanıcı, borsalarda bir ABD Doları'na yakın değerden işlem gören Dai'yi ister başka stabil paralara çevirebilir ya da başka kripto paraları satın almak için kullanabilir. Borç alınan paranın bir maliyeti var, ve kullanıcı dilediği noktada faizi ile anaparası borcunu piyasadan Dai satın alıp sisteme ödeyebilir ve ETH'sine geri kavuşur. 
 
-| ![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)  |
-| :--- |
-| _Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)\_\_ |
+![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)
+
+_Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)\_\_
 
 #### Neden insanlar kullanıyor?
 
@@ -22,9 +22,9 @@ Diyelim kişinin ani olarak paraya ihtiyacı var, mevcut parası da ETH olarak d
 
 Kredinin maliyetleri kullanılan teminatın cinsine ve seçilen teminat yeterlilik oranına göre değişkenlik gösteriyor. Örneğin Mayıs 2021 itibariyle en çok kullanılan ETH kilitleyip %150 teminat oranı ile Dai borçlanmanın maliyeti yıllık 5.5% oranında. Faiz oranını değiştirmeye sistemin yönetim tokenina sahip olanlar karar veriyor. 
 
-| ![](../.gitbook/assets/020203-makerdao-stability_fees.png)  |
-| :--- |
-| _MakerDAO kredi maliyetleri - Haziran 2021 itibariyle. Kaynak:_ [_MakerDAO_](https://oasis.app/borrow)\_\_ |
+![](../.gitbook/assets/020203-makerdao-stability_fees.png)
+
+_MakerDAO kredi maliyetleri - Haziran 2021 itibariyle. Kaynak:_ [_MakerDAO_](https://oasis.app/borrow)\_\_
 
 #### Ya ETH çok düşer de teminatımın altına inerse?
 
@@ -66,7 +66,7 @@ MakerDAO da benzer bir krizi 2020’nin Mart ayı içinde yaşadı.
 
 ![](../.gitbook/assets/02021-makerdao-ether_price_march_2010.png)
 
-ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi [Kaynak](https://www.coindesk.com/price/ethereum)
+_ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi_ [_Kaynak_](https://www.coindesk.com/price/ethereum) 
 
 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. Diyelim 100 ETH’ye denk gelecek bir kredi almak istiyorsunuz. Aldığınız kredi Dai cinsinden, Dai ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız, bırakın aldığınız kredinin 150%’sini karşılamayı, bir anda %94’ünü karşılar hale geliyor \(200x\(1-0.53\)=94\). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor.
 
