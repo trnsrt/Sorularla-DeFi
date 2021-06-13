@@ -28,17 +28,17 @@ Merkeziyetsiz borsalar, DeFi felsefesine uygun olarak ‘açık’ bir şekilde 
 
 Merkeziyetsiz borsalar içinde en büyüğü Uniswap \(ki onunla ilgili, nasıl çalıştığı, rakipleri, son durumu ve yeni versiyonu olmak üzere dört faklı yazıya bakabilirsiniz\). Diğer büyükleri ise aşağıdaki tabloda görebilirsiniz:
 
-|  |
-| :--- |
-| _Merkeziyetsiz borsalar pazar payı değişimleri değişimi. Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/share-of-dex-volume-monthly) |
+![](../.gitbook/assets/040405-defi_tokenlari_nasil_satin_aliniyor-dexes.png)
+
+_Merkeziyetsiz borsalar pazar payı değişimleri değişimi. Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/share-of-dex-volume-monthly)
 
 #### Cüzdan gerekli mi? Merkezi borsalar kullanılamaz mı?
 
 Elektronik cüzdan, finansal okuryazarlığı daha ileri seviyede olan, konuyu araştırmış olan kullanıcıların kullanabileceği araçlardan. Öğrenmesi hiç zor değil ancak emek istiyorlar.
 
-|  |
-| :--- |
-| _Image by_ [_MayoFi_ ](https://pixabay.com/users/mayofi-19152356/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/040407-defi_tokenlari_nasil_satin_aliniyorman-5782412_1920.jpg)
+
+_Image by_ [_MayoFi_ ](https://pixabay.com/users/mayofi-19152356/) _from_ [_Pixabay_](https://pixabay.com/)
 
 Bu konuda çaba sarfetmeyen ancak DeFi ürünlerini yine de kullanmak isteyenler merkezi borsaları da kullanabilirler. Ancak, kendi dijital varlığını koruma konusunda cüzdanları öğrenmek istemeyecek kadar ‘tembel’ birinin DeFi ürünlerini kullanmasındaki risk açıkcası çok daha fazla. Tabii ki son tercih son kullanıcının.
 
