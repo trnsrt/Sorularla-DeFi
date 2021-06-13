@@ -2,9 +2,9 @@
 
 Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu bölümde elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:
 
-|  |
-| :--- |
-| _Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/040205-elektronik-cuzdan-ile-defiye-adim-atmak-electronic-4433604_1280.jpg)
+
+_Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782) _from_ [_Pixabay_](https://pixabay.com/)
 
 ### DeFi dünyasına girişte ilk adım: Cüzdanlar
 
@@ -86,9 +86,9 @@ Yukarıdaki ilk üç alternatifte de bir “kaybolma” senaryosu var. Web sites
 
 DeFi için genel olarak online, mobil ya da hardware cüzdanlar kullanılıyor. Mobil cüzdan dediğimiz aslında bir uygulama. Telefonunuzun işletim sistemine göre Apple Store ya da Google Play üzerinden indirip çalıştırıyorsunuz.
 
-|  |
-| :--- |
-| _Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/040207-elektronik-cuzdan-ile-defiye-adim-atmak-money-5059442_1920.jpg)
+
+_Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782) _from_ [_Pixabay_](https://pixabay.com/)
 
 Uygulamayı açtığınızda yeni bir hesap oluşturabilir ya da daha önce bahsettiğimiz 12 kelime elinizin altında ise bunları girerek sahip olduğunuz varlıklarınızın bulunduğu hesaba ulaşabilirsiniz. Eğer yeni bir hesap yarattı iseniz, daha önce [yazdığımızı bir kez daha hatırlatalım](https://turansert.com/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html): Bu 12 kelimeyi not alıp güvenli bir yerde saklamak çok kritik, aksi halde cüzdanınızda bir sorun olduğunda hesabınızdaki varlıklara bu 12 kelime olmadan ulaşamazsınız!
 
