@@ -24,13 +24,7 @@ Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varl
 
 ![](../.gitbook/assets/020705-hegic-defide-opsiyon-piyasalari-glass-facade-817732_1280.jpg)
 
-
-
-|  |
-| :--- |
-| _Image by_ [_Gerhard Bögner_](https://pixabay.com/users/bogitw-851103/) _from_ [_Pixabay_](https://pixabay.com/) |
-
-#### 
+_Image by_ [_Gerhard Bögner_](https://pixabay.com/users/bogitw-851103/) _from_ [_Pixabay_](https://pixabay.com/)
 
 #### Rakamsal bir örnek mi versek?
 
@@ -48,9 +42,7 @@ Yukarıdaki call ve put opsiyonlarını kullanmanın dört farklı fiyat seviyes
 
 ![](../.gitbook/assets/020706-hegic-defide-opsiyon-piyasalari-opsiyon_tablo.png)
 
-| _Call ve put opsiyonların değişik senaryolarda kar ve zararları_  |
-| :--- |
-
+_Call ve put opsiyonların değişik senaryolarda kar ve zararları_ 
 
 Ufak bir ayrıntı daha: Eğer opsiyonu sadece vade tarihinde kullanabiliyorsanız buna **Avrupa tipi opsiyon** deniyor. Yok eğer, vade tarihine kadar herhangi bir noktada kullanma imkanınız var ise bu **Amerikan tipi opsiyon** oluyor.
 
