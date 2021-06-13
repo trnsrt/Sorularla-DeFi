@@ -10,9 +10,9 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 Çok güzel ancak ufak bir sorun var: Kontratın, kendisini harekete geçirecek bu önceden belirlenmiş koşulların oluştuğunu bilmesi gerek. Bu koşulların oluşup oluşmadığını belirleyen bilgilerin büyük çoğunluğu ise, blokzincirin içinde değil, dış dünyadan geliyor. Ya biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak.
 
-|  |
-| :--- |
-| _Biri bilgiyi kapıp gelsin - bunun gibi :\) Kaynak: Image by_ [_Jana Schmidt_](https://pixabay.com/users/jawika-19109282/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030305-chainlink-definin-bilgi-kaynagi-labrador-5741850_1280.jpg)
+
+_Biri bilgiyi kapıp gelsin - bunun gibi :\) Kaynak: Image by_ [_Jana Schmidt_](https://pixabay.com/users/jawika-19109282/) _from_ [_Pixabay_](https://pixabay.com/)
 
 Örneğin, 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte akıllı kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki akıllı kontrat bunu nasıl alacak?
 
@@ -50,13 +50,7 @@ Sonrasında akıllı kontrat, farklı üyelerden gelen teyid edilmiş bilgilerin
 
 DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı… Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağın en çok meşgul eden 5. Ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler\(pdf\)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
 
-Bu alandaki belli başlı oyuncular [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Ancak hemen belirtelim Chainlink bu piyasanın neredeyse tek hakimi.. Bu saydığımız oyuncuların piyasa değerleri şu şekilde:
-
-|  |
-| :--- |
-| _Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en) _22 Aralık 2020_ |
-
-Chainlink’in bu ağırlığı neye dayanıyor, ne kadarı anlaşılabilir, onu bir sonraki yazımıza bırakalım artık..
+Bu alandaki belli başlı oyuncular [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Ancak hemen belirtelim Chainlink bu piyasanın neredeyse tek hakimi.
 
 ### Sıkıntıları neler?
 
@@ -74,9 +68,9 @@ Normalde akıllı kontratlar blokzincir içinde bulunan bilgiyi çok rahat bir �
 
 Chainlink işte bu hizmeti veren aracılar içinde en büyüğü. Bir DeFi platformu olarak bilgi ihtiyacınız var ise, bulunduğunuz blokzincir üzerinden bir akıllı kontrat ile Chainlink’e talepte bulunuyorsunuz. Sistem üyeleri \(node/düğüm\) bu hizmete talip oluyorlar. Chainlink, bu üyelerden birkaçını hizmeti vermek için seçiyor. Sonrasında, seçilen üyelerden dış dünyadan topladığı bilgiler Chainlink tarafından bulunduğunuz blokzincir üzerinden size aktarılıyor. Birçok kaynaktan birkaçının seçilmesi ve bilgilerin toplanarak sunulması, tek bir kaynaktan bilgi alımının doğurabileceği yanlış ya da çarpıtılmış bilgi ihtimalini en aza indirmeye yarıyor.
 
-|  |
-| :--- |
-| _Kaynak: Image by_ [_kalhh_](https://pixabay.com/users/kalhh-86169/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/030309-chainlink-definin-bilgi-kaynagi-chain-1995543_1280.jpg)
+
+Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)
 
 #### Chainlink’in hikayesi
 
