@@ -175,9 +175,7 @@ Uniswap’ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa
 
 ![](../.gitbook/assets/020408-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap-sushi-liquidity_tr.png)
 
-
-
-\*\*\*\*
+_Uniswap ve Sushiswap üzerindeki likiditenin değişimi - Kaynak:_ [_The Block_](https://www.theblockcrypto.com/)\_\_
 
 ### Uniswap'ın üçüncü versiyonu ne yenilikler getiriyor?
 
@@ -201,9 +199,7 @@ Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan h
 
 ![](../.gitbook/assets/020409-uniswap_ve_definin_merkeziyetsiz_borsalari-hayden_adams_table.jpg)
 
-|  |
-| :--- |
-| _Kurucusu Haydan Adams’ın gözünden Uniswap._ [_Kaynak_](https://twitter.com/haydenzadams/status/1370232241528377348) |
+_Kurucusu Haydan Adams’ın gözünden Uniswap._ [_Kaynak_](https://twitter.com/haydenzadams/status/1370232241528377348)\_\_
 
 İleride muhtemelen farklı NFT havuz tokenlarını değerlendiren yeni mekanizmalar göreceğiz. Örneğin; şu anda yatırımcıların mevduatlarını değişik stratejiler ile değerlendiren yearn.finance benzeri yapıların bu system içinde son derece aktif olacağını tahmin etmek zor değil. Bu yapılar, farklı fiyat aralıklarındaki havuz tokenlarını alıp farklı araçlarda değerlendirecek ve risk/kazanç anlamında optimum seçenekler oluşturup yatırımcıların beğenisine sunacaklar.
 
@@ -221,9 +217,11 @@ Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücr
 
 ![](../.gitbook/assets/020411-uniswap_ve_definin_merkeziyetsiz_borsalari-eth_fees.png)
 
+ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021. [Kaynak](https://etherscan.io/gastracker)
+
 |  |
 | :--- |
-|  _ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021._ [_Kaynak_](https://etherscan.io/gastracker)\_\_ |
+|   |
 
 Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyorlar. Genel olarak tercih edilen tüm işlemlerin tek tek Ethereum blokzincirine işlenmesi yerine, bu işlemlerin bir araya getirilip, emek yoğun kısmın zincir dışında tamamlandıktan sonra sadece sonuçların blokzincire yazılması. Roll-up çözümleri de denen bu işlem sonucu işlem maliyetleri düşüyor ancak işlem sonuçlarının blokzincirde yazılması zaman alabiliyor.
 
