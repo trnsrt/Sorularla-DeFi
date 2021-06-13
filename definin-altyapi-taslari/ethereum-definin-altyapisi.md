@@ -14,9 +14,9 @@ Ethereum, en basitinden, binlerce makinenin bağlı olduğu dünyanın en büyü
 
 Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya’dan Kanada’ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi’nin işlerinden ve Bitcoin’den bahseder. Babasının anlattıklarından büyülenen Vitalik Buterin adındaki bu genç kendini bir anda kripto dünyasının içinde bulur. Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur bu genç delikanlı. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteneğine sahiptir ve henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları’nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir.
 
-|  |
-| :--- |
-| _Vitalik Buterin_ |
+![](../.gitbook/assets/030105-ethereum_definin_altyapisivitalik_buterin_400.jpg)
+
+_Vitalik Buterin_
 
 Başlangıçta Bitcoin blokzinciri üzerinde geliştirmeler yapmaya başlayan Buterin, Bitcoin transferi dışında daha başka pek çok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin özelliği itibariyle tek bir işi iyi yapmak üzere kurgulanmıştır, o da dijital dünyada değer saklama ve transfer edebilmedir. Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgisayarı vizyonu vardır.
 
@@ -100,7 +100,7 @@ Son zamanlarda özellikle Ethereum üzerine kurulan DeFi \(Merkeziyetsiz Finans\
 
 ![](../.gitbook/assets/ethereum_2021_islem_ucretleri_v2.png)
 
-Ethereum 2021 aylık madenci gelirleri \(Kaynak: [TheBlock](https://www.theblockcrypto.com/data/on-chain-metrics/ethereum/ethereum-miner-revenue-monthly)\)
+_Ethereum 2021 aylık madenci gelirleri \(Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/on-chain-metrics/ethereum/ethereum-miner-revenue-monthly)_\)_
 
 Bu öneri sayesinde, işlem komisyonlarını tahmin edememekten dolayı ödenen fahiş ücretlerin önüne geçilmesi isteniyor. Ücret, ağın sıkışlığına göre artacak ya da azalacak, ancak bu artış azalış nispeten daha tahmin edilebilir olacak. Bu sayede, elektronik cüzdanlarda işlem yapıldığında yaşanan “ne kadar ödeme yapacağım” belirsizliği de büyük ölçüde ortadan kalkacak.
 
@@ -117,6 +117,8 @@ Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, öd�
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0’da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonlarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, **2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0’nin hem de EIP 1559’un girmesi toplam tedavüldeki ETH’yi yavaş yavaş azaltmaya başlayacak**. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak:
 
 ![](../.gitbook/assets/030109-ethereum_definin_altyapisi-eth_tahmini_arz_v4.png)
+
+_Ethereum'un 2020 ile 2024 arası tahmini arz miktarı_
 
 Bir sonraki bölümde Ethereum'un rakipleri üzerine kısaca bakacağız. 
 
