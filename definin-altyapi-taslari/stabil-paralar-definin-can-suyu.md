@@ -30,13 +30,17 @@ Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gi
 
 Kripto dünyasında özellikle alım satım işlemlerinde kripto para kullanma olayı son zamanlarda ciddi bir artış gösterdi. Aşağıdaki grafik bu durumu çok net bir şekilde özetliyor.
 
-\[PAIR DOMINATION\]
+![](../.gitbook/assets/030709-stabil_paralar-exchange_kullanim_payi.png)
+
+_Dokuz büyük merkezi borsada işlem yaparken kullanılan para cinsi oranları. Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/crypto-markets/spot/share-of-trade-volume-by-pair-denomination)\_\_
 
 Mayıs 2017 yılında dokuz büyük merkezi borsada yapılan alım-satım işlemlerinde \(örneğin Ethereum alırken\) yaklaşık %54 oranında BTC \(yani ETH/BTC ikili işlemi\) ve %40 oranında USD ve EURO kullanılırken bu oranlar 2021 yılının Haziran ayında bu oran BTC için %7.5, ABD doları ve Euro için toplam %15'e düşmüş. Stabil para oranı ise 2017 yılında sadece %6 iken şimdi %87.5'a ulaşmış. Çarpıcı değil mi?
 
 Peki stabil paralar arasında en yaygın kullanılanları hangisi? Burada da pazar liderinin tartışmasız liderinin Tether olduğunu görüyoruz: 
 
-\[STABİL PARALAR tablosu\]
+![](../.gitbook/assets/030711-stabil_paralar-stabil_para_gelisim_v2.png)
+
+_Tedavüle çıkan stabil kriptopara miktarı Kaynak:_ [_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins/total-stablecoin-supply-daily)\_\_
 
 Ancak hemen arkasından gelmekte olan USDC'nin pazar payını artırdığı da gözden kaçmıyor.. Gelin şimdi Tether'in hikayesini dinleyelim: 
 
@@ -48,7 +52,9 @@ Ancak yine de başka sorunları yok değil. Örneğin, kriptopara dediğimiz dü
 
 Teorik bu tehlikeleri geçtik diyelim - gerçekten bankaya yatırılan ABD Doları karşılığı kadar mı para yaratıldı? Kim denetleyecek? Banka ya da bir denetleme kuruluşu. Çalışma prensibini şeffaflık üzerine kurulmuş kriptopara dünyasına \(örneğin açık kaynak bazlı ekosistem\) oldukça yabancı kavramlar. Zaten Tether de uzunca bir süredir gizlediği rakamları ABD resmi makamları ile yaptığı anlaşma sonrası Mayıs 2021'de açıkladı. Sonuçlar çok fazla ses getirmese de, aslında oldukça kaygı verici: 
 
-\[TETHER HOLDINGS\]
+![](../.gitbook/assets/030713-stabil_paralar-tether_holding_v1.png)
+
+_Mayıs 2021'de açıklanan Tether'in elinde tuttuğu varlıklar. Kaynak:_ [_Tether_](https://tether.to/tether-releases-breakdown-of-its-reserves/)\_\_
 
 Gördüğünüz gibi Tether, yaratılan USDT'lerin karşılığı olarak %75 nakit tuttuğunu söylüyor. Ancak bu 'nakit' denen paranın %65'i Commercial Paper denen, özel şirketlerin çıkardığı kağıtlar. İstendiği anda paraya çevrilme özelliğinden dolayı 'nakit' olarak adlandırılan bu kağıtların, gerçekten ihtiyaç halinde geri alınacağı ne malum? Gerçekten nakit olarak tutulan para sadece %3.9 oranında. 
 
@@ -90,7 +96,7 @@ _**Stabil paraların sıkıntısı**_
 
 Piyasada yeterince stabil kripto para varken neden Ampleforth’a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar \(itibari paranın devletlerin merkez bankaları tarafından basılan ABD Doları, Euro benzeri paralar olduğunu tekrar hatırlatalım\). Bu itibari paralar görünüşte değerlerini koruyor gibi görünseler de aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu [20 ABD Doları’ndan halktan toplamıştı](https://en.wikipedia.org/wiki/Executive_Order_6102) \(enflasyon etkisini yedirseniz bile günümüzde 408 ABD Doları’na geliyor\), şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz?
 
-![](../.gitbook/assets/030706-stabil_paralar-executive_order_6102.jpg)
+![](../.gitbook/assets/030714-stabil_paralar-executive_order_6102.jpg)
 
 _ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir. Kaynak:_ [_Wikipedia_](https://https//en.wikipedia.org/wiki/Executive_Order_6102)\_\_
 
@@ -99,10 +105,6 @@ Ayrıca bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bir ö
 _**Bitcoin’in sıkıntısı**_
 
 Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, bütünüyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı miktardaki arz, artıp azalan talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Her ne kadar uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden birinin bu kısıtlı arz olduğu düşünülse de kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede.
-
-![](../.gitbook/assets/030709-stabil_paralar-girdap.png)
-
-_BTC’nin baş döndürücü dalgaları. Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en/coins/bitcoin)\_\_
 
 **İşte Ampleforth, bir yandan Bitcoin gibi uzun vadede yatırımcısına değeri artacak bir varlık sunarken, diğer yandan stabil paralar gibi kısa vadede değeri değişmeyen ve bu sayede alışverişlerde kullanılabilecek bir para yaratma hedefinde.**
 
@@ -186,7 +188,7 @@ _**Ya bir girdabın içinde fiyat düşmeye devam ederse?**_
 
 Ampleforth’da arz kısılması ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalır ve geri yükselmez ise, bir süre sonra fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
 
-![](../.gitbook/assets/030709-stabil_paralar-girdap.png)
+![](../.gitbook/assets/030715-stabil_paralar-girdap.png)
 
 _Image by_ [_Gordon Johnson_](https://pixabay.com/users/gdj-1086657/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
@@ -217,8 +219,4 @@ Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. B
 Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. 
 
 Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar iki yıldır bir arada olsa da asıl çıkışlarını DeFi’a olan ilginin arttığı Temmuz 2020’den itibaren yaşadılar. Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gördüğümüz kadarıyla yeni ve küçük bir ekip ile oldukça büyük bir yükün altına girmiş durumdalar. Balancer ile yapılan havuz benzeri yenilikler, adaptasyonu artıracak ancak ekibin kaynaklarını da zorlayacak deneyler. Güçleri, nefesleri yetecek mi bekleyip görelim.
-
-##  <a id="sonu&#xE7;"></a>
-
-\_\_
 
