@@ -84,7 +84,7 @@ Teminatsız stabil para kavramının henüz çok daha yeni olduğunu belirtelim.
 
 ### Ampleforth: İlginç bir parasal deney
 
-Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin’in zayıf yanlarını güçlendirecek çözümler getirmek. Önce bu sıkıntılara bir göz atalım:
+Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak ve bunu yaparken de hem stabil paraların hem de Bitcoin’in zayıf yanlarını güçlendirecek çözümler getirmek. Önce bu sıkıntılara bir göz atalım:
 
 _**Stabil paraların sıkıntısı**_
 
@@ -92,9 +92,9 @@ Piyasada yeterince stabil kripto para varken neden Ampleforth’a ihtiyaç olsun
 
 ![](../.gitbook/assets/030706-stabil_paralar-executive_order_6102.jpg)
 
-ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir. Kaynak: [Wikipedia](https://https//en.wikipedia.org/wiki/Executive_Order_6102)
+_ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir. Kaynak:_ [_Wikipedia_](https://https//en.wikipedia.org/wiki/Executive_Order_6102)\_\_
 
-Ayrıca bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız [Tether’in müşteri hesaplarını dondurabilme gücü](https://turansert.com/genel/2020/10/06/%28https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/%29) \(ki Kucoin hack’inde 33 milyon ABD Dolarını dondurdular\) kripto dünyasının bireylere en büyük faydası olarak da bilinen “dijital varlığa tümüyle sahip olma” özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında.
+Ayrıca bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bir önceki bölümde bahsettiğimiz gibi bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Örneğin,  Tether’in müşteri hesaplarını dondurabilme gücü \(ki 2020 yılının Eylül ayında yaşanan Kucoin hack olayında 33 milyon ABD Dolarını [dondurdular](https://news.bitcoin.com/kucoin-hacked-for-150-million-in-bitcoin-bitfinex-and-tether-freeze-33-million-of-the-stolen-funds/#:~:text=5-,Kucoin%20Hacked%20for%20%24150%20Million%20in%20Bitcoin%3B%20Bitfinex%20and%20Tether,bitcoin%20and%20multiple%20ERC20%20tokens.)\) kripto dünyasının bireylere en büyük faydası olarak da bilinen “dijital varlığa tümüyle sahip olma” özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında.
 
 _**Bitcoin’in sıkıntısı**_
 
@@ -120,11 +120,11 @@ _**Önce bir zihnimizi açıp, ezber bozalım**_
 
 Bir şirketin hisse senedini satın aldığımızda yatırımımızın toplam değeri, şirketin toplam hisse senetlerinden elimizdeki kaç tanesi varsa bunun her bir hissenin değeri ile çarpılması sonucu ortaya çıkar. Ancak elimizde tuttuğumuz hisse senedi adedi genelde değişmediği için yatırımızın toplam değerindeki değişimi genelde hisse senedindeki hareketlerden hesaplarız \(alım ya da satım yapmadığımızı varsayarsak\). Bir başka deyişle, bir adet hissenin değeri yatırımımızın değerini bulmada bize ‘kısa yol’ olur.
 
-Ama Ampleforth, yukarıda yazdık, her bir token’in \(yani hissenin\) değerini sabit tutmak istiyor. Nasıl olacak bu? Diyelim bir anda token’a bir talep oldu, insanlar deli gibi AMPL almaya başladılar. Fiyat nasıl aynı kalacak? Kalmalı mı? Token değerini sabit tutmak ile yatırımın değerini artırmak birbiri ile çelişiyor mu? İşte burada, yukarıdaki paragraftaki önyargımızı bir kenara bırakalım.
+Ama Ampleforth, yukarıda yazdık, her bir tokenin \(yani hissenin\) değerini sabit tutmak istiyor. Nasıl olacak bu? Diyelim bir anda tokene bir talep oldu, insanlar deli gibi AMPL almaya başladılar. Fiyat nasıl aynı kalacak? Kalmalı mı? Token değerini sabit tutmak ile yatırımın değerini artırmak birbiri ile çelişiyor mu? İşte burada, yukarıdaki paragraftaki önyargımızı bir kenara bırakalım.
 
 **Bakmamız gereken tüm sistemin değeri ve bizim onun içindeki toplam payımızın büyüklüğü olmalı. Token’in değeri değil.**
 
-Peki nasıl olacak bu? Toplam değerin iki çarpanı var demiştik. Toplam token adedi ve her bir token’in değeri. Eğer talep artışından dolayı sistemin toplam değerinin artması bekleniyor ama bir yandan da bir tokenin değerinin sabit kalması isteniyorsa o zaman token adedini artırırız!
+Peki nasıl olacak bu? Toplam değerin iki çarpanı var demiştik. Toplam token adedi ve her bir tokenin değeri. Eğer talep artışından dolayı sistemin toplam değerinin artması bekleniyor ama bir yandan da bir tokenin değerinin sabit kalması isteniyorsa o zaman token adedini artırırız!
 
 Ezberlerimizi yeterince bozduk mu? :\)
 
@@ -132,13 +132,13 @@ Sistemin nasıl çalışacağını gelin bir de örnek üzerinden anlatalım:
 
 _**AMPL token fiyatı yükselirse ne oluyor?**_
 
-Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL’si var, yani 100 ABD Dolarına eş bir yatırımı. Bir anda piyasalarda AMPL’ye talep oldu ve AMPL fiyatı 1.5 AMPL’ye çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor \(mevcut fiyat ile hedef arasında artı/eksi %5’den fazla fark olursa algoritma çalışıyor\) ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL’si var!
+Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL’si var, yani 100 ABD Dolarına eş bir yatırımı. Bir anda piyasalarda AMPL’ye talep oldu ve AMPL fiyatı 1.5 ABD Dolarına çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor \(mevcut fiyat ile hedef arasında artı/eksi %5’den fazla fark olursa algoritma çalışıyor\) ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL’si var!
 
 Buraya kadar her şey otomatik el değmeden çalıştı. Piyasa fiyatını gören sistem para arzını otomatik artırdı. Bundan sonrasında beklenen, piyasanın tepkisel davranması ve paranın bollaşması ile birlikte fiyatın hedeflenen seviyeye düşmesi. Başta ne demiştik; sistemin hedefi AMPL’nin 1 ABD Doları’na geri dönmesi. Sistemin para yaratmasının arkasında yatan düşünce şu: Eğer bir anda insanların elindeki yatırım 1 ABD Doları iken, fiyat artışından dolayı 1.5 ABD Doları’na, sonrasında AMPL artışından dolayı 1.5 AMP x 1.5 ABD Doları = 2.25 ABD Doları’na çıkarsa, insanlar, özellikle al-sat yapanlar, kârı realize etmek için ellerindeki AMPL’yi satarlar. Bu da AMPL fiyatını düşürür. Nereye kadar? Fiyat tekrar 1 AMPL = 1 ABD Doları olana kadar.
 
-Böyle olunca ne oldu? Hızlı hareket eden al-satçılar ciddi bir para kazandılar. Sistemin buna bir itirazı yok - zira sistemin tek isteği AMPL fiyatının tekrar 1 ABD Doları’na dönmesi. Peki alım satım yapmayıp ellerinde tutanlar? Onlar da aslında ekstra bir kâr/zarar etmediler. Yukarıdaki yatırımcımızın başlangıçtaki yatırımı 100 dolar idi, sonra sistem onlara AMPL verdiği için ellerinde 150 AMPL oldu ve ilk anda 225 ABD Dolarına eşitti ancak fiyat tekrar 1 ABD Dolar seviyesine geldiğinde son durumda yatırımın değeri 150 ABD Doları’na çıktı. Yani ilk fiyat artışı sonrası gibi yatırımcı %50 kazancı cebine koymuş oldu.
+Böyle olunca ne oldu? Hızlı hareket eden al-satçılar ciddi bir para kazandılar. Sistemin buna bir itirazı yok - zira sistemin tek isteği AMPL fiyatının tekrar 1 ABD Dolarına dönmesi. Peki alım satım yapmayıp ellerinde tutanlar? Onlar da aslında ekstra bir kâr/zarar etmediler. Yukarıdaki yatırımcımızın başlangıçtaki yatırımı 100 dolar idi, sonra sistem onlara AMPL verdiği için ellerinde 150 AMPL oldu ve ilk anda 225 ABD Dolarına eşitti ancak fiyat tekrar 1 ABD Dolar seviyesine geldiğinde son durumda yatırımın değeri 150 ABD Dolarına çıktı. Yani ilk fiyat artışı sonrası gibi yatırımcı %50 kazancı cebine koymuş oldu.
 
-Aslına bakarsanız, AMPL sisteminin yapmaya çalıştığı, paranın arzını artırarak yatırımcılar üzerindeki etkiyi büyütmek ve onların daha hızlı reaksiyon vermesini sağlamak. Biraz açalım bu dediğimizi: Diyelim aldığınız bir token’da %60 kazanç beklentiniz var, eğer token size %60 kazandırırsa yeterli olduğunu düşünüp satacaksınız. Yukarıdaki senaryoda eğer para arzı sabit kalsa idi, fiyat %50 arttığından dolayı satmayacaktınız. Ama elinizdeki tokenların sayısı da artınca toplam kazancınız bir anda %125’e çıktı, hemen harekete geçip satmaz mısınız? Sizin gibi satmaya başlayanlar olacaktır, bunun sonucu token fiyatı düşmeye başlar ama hâlâ kazanç yüksek olduğu için bekletinizin gerçekleşeceği rakama kadar satamaya devam edersiniz. İşte böyle böyle düşen token fiyatı sistemi hedeflediği noktaya kadar getirir.
+Aslına bakarsanız, AMPL sisteminin yapmaya çalıştığı, paranın arzını artırarak yatırımcılar üzerindeki etkiyi büyütmek ve onların daha hızlı reaksiyon vermesini sağlamak. Biraz açalım bu dediğimizi: Diyelim aldığınız bir tokende %60 kazanç beklentiniz var, eğer token size %60 kazandırırsa yeterli olduğunu düşünüp satacaksınız. Yukarıdaki senaryoda eğer para arzı sabit kalsa idi, fiyat %50 arttığından dolayı satmayacaktınız. Ama elinizdeki tokenların sayısı da artınca toplam kazancınız bir anda %125’e çıktı, hemen harekete geçip satmaz mısınız? Sizin gibi satmaya başlayanlar olacaktır, bunun sonucu token fiyatı düşmeye başlar ama hâlâ kazanç yüksek olduğu için bekletinizin gerçekleşeceği rakama kadar satamaya devam edersiniz. İşte böyle böyle düşen token fiyatı sistemi hedeflediği noktaya kadar getirir.
 
 Bir başka bakış açısından, **sistem kendi içinde talebin değişmesinden dolayı oluşabilecek fiyat hareketlerindeki volatilite yükünü, arzı değiştirerek fiyattan yani sistemden alıp, yatırımcıya geçiriyor**. Bir önceki paragrafı tekrar edelim: Arzı değiştiriyor, dolayısıyla yatırımcılar hisse fiyatındaki değişimin daha da fazlasını varlıklarındaki değişimlerde hissedip daha hızlı bir şekilde aksiyon alıyorlar, bu da hisse fiyatını eski haline döndürüyor.
 
@@ -146,23 +146,27 @@ _**Peki ya fiyat düşerse?**_
 
 Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token değeri bir anda düşerse? Diyelim, bir hareket ile hisse değeri %50 değer kaybetti ve 1 AMPL 0.5 ABD Doları’na eşit hale geldi.
 
-İşte orada da sistem tam tersi çalışıyor. Yatırımcıların cüzdanlarındaki AMPL’lerin yarısını ellerinden alıyor! Yok artık! Evet, aynen öyle. Niye? Aslında mantık yukarıda anlattığımızın aynısı. Sistem şöyle düşünüyor: “Ampleforth’un toplam sistem değeri düşüyor - olabilir ama bu beni ilgilendirmiyor. Beni ilgilendiren 1 AMPL’nin tekrar 1 ABD Doları’na denk hale gelmesi. İnsanlar satıyor AMPL’leri, demek ki piyasada AMPL bolluğu var. Ben bu AMPL’leri piyasadan çekersem hem arz azalmış olacak, hem de AMPL sistem değeri düştüğü için ucuzlamış olacak. Bunu gören yatırımcılar nasıl hisse değeri düştüğünde o hisseyi almaya çalışıyorlarsa burada da AMPL sistem değeri kat be kat düştüğü için almaya koşacaklar.
+İşte orada da sistem tam tersi çalışıyor. Yatırımcıların cüzdanlarındaki AMPL’lerin yarısını ellerinden alıyor! Yok artık! Evet, aynen öyle. Niye? Aslında mantık yukarıda anlattığımızın aynısı. Sistem şöyle düşünüyor: “Ampleforth’un toplam sistem değeri düşüyor - olabilir ama bu beni ilgilendirmiyor. Beni ilgilendiren 1 AMPL’nin tekrar 1 ABD Doları’na denk hale gelmesi. İnsanlar satıyor AMPL’leri, demek ki piyasada AMPL bolluğu var. Ben bu AMPL’leri piyasadan çekersem hem arz azalmış olacak, hem de AMPL sistem değeri düştüğü için ucuzlamış olacak. Bunu gören yatırımcılar nasıl hisse değeri düştüğünde o hisseyi almaya çalışıyorlarsa burada da AMPL sistem değeri kat be kat düştüğü için almaya koşacaklar."
 
 Yukarıdaki örnekten devam edersek. Başlangıçta 100 ABD Dolarına eş 100 AMPL vardı elinizde. Token değer kaybedince varlığınız önce 100 AMPL x 0.5 cent = 50 ABD Doları seviyesine düştü. Sonra bir de sistem elinizdeki AMPL’lerin yarısını aldı, dolayısıyla varlığınız bir anda geçici olarak 50 AMPL x 0.5 cent = 25 ABD Doları’na geriledi. Sizin sistem içindeki payınız hiç değişmedi. AMPL sistemi değer kaybetti. AMPL kendi içinde %50 değer kaybetti ancak tüm sistem %75 değer kaybetmiş oldu. Bu kadar ucuzlamış bir sistemi almak için üşüşen yatırımcılardan dolayı AMPL tekrar değer kazandı, nereye kadar? Dengenin oturacağı 1 AMPL = 1 ABD Doları seviyesine kadar. O zaman son durumda varlığınız ne oldu? 50 AMPL x 1 ABD Doları = 50 ABD Doları. Varlığınız değer kaybetti mi? Gayet tabii - zira talep azaldığı için zaten başta kaybetmiştiniz onu. Geçici olarak arz kısılmasından dolayı daha da kaybettiniz ama en sonunda %50 kaybettiğiniz ilk noktaya döndünüz.
 
 _**Fiyat konusundaki bu ısrar neden?**_
 
-Hisse \(ya da token\) fiyatını sabit tutmak neden önemli? Bir paranın alım satım ve ticaret için kullanımı ancak değerinin “gerçek” anlamda sabit olması durumunda gerçekleşebilir. Öte yandan yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. İşte Ampleforth, sabit değerli bir para yaratarak alışverişlerde güvenle kullanılabilecek bir para yarattıktan sonra, bu paranın rağbet görmesi durumunda yatırımcısına da değer kazandıracak bir enstrümana dönüşmesini sağlıyor. Sabit paralardan en büyük farkı bu: Kullanan için sabit para, yatırımcısı için eğer kabul görüp yaygınlaşır ise değer kazandırıcı bir enstrüman.
+Hisse \(ya da token\) fiyatını sabit tutmak neden önemli? Bir paranın alım satım ve ticaret için kullanımı ancak değerinin “gerçek” anlamda sabit olması durumunda gerçekleşebilir. Öte yandan yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. İşte Ampleforth, sabit değerli ve alışverişlerde güvenle kullanılabilecek bir para yarattıktan sonra, bu paranın rağbet görmesi durumunda yatırımcısına da değer kazandıracak bir enstrümana dönüşmesini sağlıyor. Sabit paralardan en büyük farkı bu: Kullanan için sabit para, yatırımcısı için eğer kabul görüp yaygınlaşır ise değer kazandırıcı bir enstrüman.
 
-Yani tekrar edecek olursak, **yatırımcılar AMPL’nin sabit değerli bir para olarak kullanımının yaygınlaşmasını, yaygınlaşan kullanımın AMPL token’ına yönelik talebi yukarıya çekmesini, yükselen talebi karşılamak amacıyla ekstra AMPL token yaratılmasını dolayısıyla Ampleforth sisteminin toplam ağ değerinin artmasını bekliyorlar**. Artan Ampleforth sistem değeri sonucu ortaya çıkan ekstra AMPL’ler de yatırımcılara dağıtılacağı için AMPL değeri sabit kalsa bile toplam yatırımlarından kâr sağlama beklentisi içindeler.
+Yani tekrar edecek olursak, **yatırımcılar AMPL’nin sabit değerli bir para olarak kullanımının yaygınlaşmasını, bu sayede AMPL tokenına yönelik talebin artmasını, artan talebi karşılamak amacıyla ekstra AMPL token çıkarılmasını, dolayısıyla Ampleforth sisteminin toplam ağ değerinin artmasını bekliyorlar**. Artan Ampleforth sistem değeri sonucu ortaya çıkan ekstra AMPL’ler de yatırımcılara dağıtılacağı için AMPL değeri sabit kalsa bile toplam yatırımlarından kâr sağlama beklentisi içindeler.
 
 #### Ampleforth’un vizyonu
 
 Ampleforth’un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında:
 
+_**İlk aşama**_
+
 İlk aşama kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak yüksek bir ağırlığa sahip.
 
 Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar \(genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar\). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da portföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar.
+
+_**İkinci aşama:**_
 
 İkinci aşamada ise AMPL fiyatındaki başta yaşanan dalgalanmanın zaman geçtikçe azalması sonrası AMPL’nin artık bir rezerv para olarak kullanılabilmesini yaygınlaşması var. AMPL özünde Tether ya da DAI gibi itibari bir paraya bağlı bir para değil - Bitcoin, Ethereum benzeri kıymeti kendinden menkul ve bağımsız, sansürlenemez bir para. Bir yandan da itibari paraların merkez bankalarının hadsiz hudutsuz para basmalarından dolayı ciddi değer kaybetmeleri ve rezerv para fonksiyonlarının ortadan kalkmasını bekleyenler var. Dolayısıyla, rezerv para olarak sansüre uğramayacak tam anlamıyla kullanıcıların sahip olabileceği değeri büyük dalgalanmalar göstermeyen bir rezerv para olma hedefleri var.
 
@@ -170,55 +174,11 @@ Rezerv para ile kastedilen şu. Daha önceki bir yazımızda MakerDAO sistemi il
 
 Bu arada şunu da hemen belirtelim. Bir DeFi projesi olarak Ampleforth şu aşamada bu alanın en yaygın kullanılan ağı olan Ethereum’u kullanıyor - yani AMPL özünde ERC 20 standardı ile çalışan bir token. Yarın öbür gün, aynı Tether örneğinde olduğu gibi AMPL’nin başka Blockchain altyapılarında da yer almasının önünde herhangi bir engel yok. AMPL kendini Blockchain bağımsız bir ürün olarak konumlandırıyor. Mevcut para politikası ve havuzunun içinde yer aldığı sürece her tür Blockchain içinde token çıkarabilir.
 
+_**Üçüncü aşama:**_
+
 Üçüncü aşamada ise kullanımın yaygınlaşması ve arzın artması ile birlikte artık geniş kitleler tarafından ödemeler için kullanılabilecek güvenli, bağımsız bir para olma hedefi var. Yani aslında bir nevi Satoshi’nin Bitcoin’e başlangıçta koyduğu vizyona ulaşmak. Uzun vadede yeterli büyüklüğe ulaşıldığında volatilitenin azalması ile birlikte paraya olan talebin ancak büyük makro ekonomik değişiklikler olması durumunda değişiklik göstereceğini, bunun da şimdiki gibi sık olmasa da yapılacak arz değişiklikleri ile yatırımcılara yansıtılacağını düşünüyorlar.
 
 Geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir bu arada. Özellikle merkezi borsalarda işlem görmek yaygınlaşma için önemli. Ancak böyle bir durumda, müşteri cüzdanlarının merkezi borsalarda nasıl işleneceği teknik bir sorun olabilir gibi görünüyor - özellikle de kullanıcıların verdikleri emirler gerçekleşmeden önce yapılan para arzı artışı ya da kısıtlamaların müşteri cüzdanlarına nasıl yansıtılacağı konusunda.
-
-Gelin şimdi Ampleforth’un diğer özellikleri ile birlikte potansiyel olarak görülebilecek sıkıntılarından bahsedelim:
-
-#### Ampleforth’a gerçekten ihtiyaç var mı?
-
-Kripto dünyasında en olgun ve kendini kanıtlamış proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. Neler onlar?
-
-Kişiden kişiye çok değişse de teknolojik olarak yavaş gelişmesi \(ki bunu bir sorun değil “gerekli bir özellik” olduğunu savunanlar da var\), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde Bitcoin ile ilgili şikayetlerin başında gelir.
-
-_**Alışverişlerde Bitcoin kullanmak mı? Zor çok zor…**_
-
-Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto’nun kaleme aldığı Bitcoin’in tanıtım dokümanı \(white paper\) başlığının “[Bitcoin - Bireyden-Bireye Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)” olmasına rağmen. Belki de bu sıkıntı nedeniyle, kendisini savunanların son yıllardaki söylemleri Bitcoin’in alışverişler için kullanılabilecek bir araç olmasından, bir nevi Dijital Altın yani değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda.
-
-_**Bitcoin’in rakipleri onu zayıf karnından vurmaya çalışıyor..**_
-
-Bitcoin’in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100’ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. \(Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.\)
-
-Bitcoin klonları da genellikle alışverişler için kullanılabilme noktasında kendilerini ayrıştırmaya çalışıyorlar. Aslında burada teşhis doğru, tedavi önerileri ise klondan klona değişiyor: [Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak](https://turansert.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi uzlaşma yapılan her bir bloğun büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasından ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, [Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile ana blok zincirini daha az kullanarak maliyetleri azaltmak](https://turansert.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve böylece ufak ödemeler \(örneğin Bitcoin ile kahve almak\) için kullanışlı hale getirmek bir başkası bu örneklerin.
-
-_**Ama mevcut çözümler hep teknik, halbuki asıl sorun ekonomik…**_
-
-Gördüğünüz gibi yukarıdaki çözüm önerilerinin hepsi teknik. Halbuki kabul etmemiz gereken bir gerçek var, o da Bitcoin’in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyatının çok dalgalı olması. Bu dalgalanmalar içinde Bitcoin’i alışveriş aracı olarak kullanmak neredeyse imkansız, zira alışverişte tarafların en fazla ihtiyaç duyduğu adil ve değeri çok fazla oynamayacak bir araç - ki kafaları rahat olsun ve asıl işlerine odaklanabilsinler.
-
-_**Ya stabil paralar?**_
-
-İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara \(fiat para da denen merkez bankaları yönetimindeki ülke paralarına\) çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak [önceki yazımızda](https://turansert.com/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) da değindiğimiz gibi bu paraların merkezi yapılar olmaları merkeziyetsiz finans düsturuna ters - üstelik sicilleri de o anlamda hiç iyi değil \(yeri geldiğinde [bireylere ait paraları dondurmaları](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/) gibi\).
-
-Bunun yanında bu stabil paralar kısa vadeli alışveriş amacına hizmet edebilirler ancak uzun vadede, ABD ve Avrupa merkez bankalarının sürekli genişleme hareketleri sebebiyle itibari paraların değerinin düşeceği sık dile getirilen bir iddia. Bu iddiaya inanan pek çok yatırımcı için stabil paralar kısa vadeli işlemler dışında çok da cazip değil.
-
-Bu nedenlerle Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu ihtiyaca cevap vermeye odaklanmış bir kripto para.
-
-#### Nedir Ampleforth’un diğer özellikleri?
-
-_**Geyser**_
-
-[Geyser](https://www.ampleforth.org/dapps/), Ampleforth’un getiri çiftçiliği \(yield farming\) amacıyla [Uniswap](https://www.ampleforth.org/geyser/beehiveV2-uniswap-weth-ampl), [Balancer](https://www.ampleforth.org/geyser/trinityV1-balancer-wbtc-weth-ampl) ve [Mooniswap](https://www.ampleforth.org/geyser/enceladus-mooniswap-link-ampl#)‘da çıkardığı bir program. 
-
-Havuzları bir cümle ile özetlersek, merkeziyetsiz bir borsa olan Uniswap’ta, iki bölmeli havuzlar kuruluyor idi. Genelde bu bölmelerin bir tarafında Ethereum’un parası ETH, diğerinde ise arzu edilen bir token oluyor. Amaç bu token ile işlem yapmak isteyenlere likidite sağlayarak Uniswap’ın gerçek bir merkeziyetsiz borsa gibi çalışmasını sağlamak. Bunun karşılığında likidite sağlayanlar hem yapılan işlemlerden %0.3 oranında pay alıyorlar, hem de UNI token’i kazanıyorlar.
-
-Ampleforth’un hazırladığı programda yatırımcılar Uniswap’a koydukları likiditeyi Ampleforth’un yarattığı Geyser’e kilitlemek zorundalar. Ampleforth, bu havuzu özendirmek amacıyla likidite sağlayıcılara aylık toplam 25,000 AMPL dağıtma sözü vermiş. Bunu yaparken uzun vadeyi özendirmek amacıyla, ne kadar uzun süre tutarsanız, havuzdan alacağınız pay kat be kat artıyor. Yani bir ay tutarsanız x alıyorsanız, sonraki bir ayda 2x, üçüncüsünde ise aylık 3x.
-
-Verilen ekstra ödüllerden dolayı ilgi çekici bir program olabilir. Ancak Uniswap havuzların likidite sağlarken amacınız komisyon geliri kazanmak ise, o zaman bu havuza ihtiyatlı bakmakta fayda var. Zira, bu havuzlarda en iyi kazanç değeri birbirine yakın, ya da iniş çıkış gösteren ikili tokenlarda oluyor. AMPL’nin hemen hemen sabit bir token olduğunu -en azından teoride- düşündüğünüzde, paranızı AMPL/ETH token’ında tutarken komisyon geliriniz olabilir ancak karşılığında ETH’nin hızlı yükseldiği durumlarda likidite sağlayıcı olarak kayıp yaşayabilirsiniz \(teknik nasıl olduğunun [detayı aynı yazımızda var](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html). Öte yandan, Geyser’in ilgi artırmak için hazırlanmış geçici bir program olduğu da unutulmamalı: Mooniswap için Kasım 2020’de Uniswap için ise Aralık 2020’de bitiyor ve program uzayacak mı belli değil. O nedenle bir önceki paragrafta belirttiğimiz uzun vadeli tutanın daha çok kazandığı programın sonlarına yaklaşırken yeni girenler için kazançlar azalıyor.
-
-_**Balancer “Akıllı Havuzları”**_
-
-Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer’da \(Uniswap rakibi\) [kurdu](https://medium.com/ampleforth/ampl-usdc-smart-pool-on-balancer-be8eed9a264a). Üstelik bu ürün Balancer içinde de yepyeni bir kategori oldu. Neden Balancer kullandıklarına gelince: Hatırlarsanız [Uniswap rakiplerini tanıtan yazımızda](https://turansert.com/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) Uniswap havuzlarının büyüklüğünün %50-%50 olması gerektiğini söylemiştik. Balancer’da ise istediğiniz oranlarda havuzlar kurabiliyorsunuz. Uniswap’ta kurulan havuzdaki AMPL fiyatı her bir arz değişimi sonrası değişiyor, bu da oynaklık yaratıyor. Halbuki Balancer’da yeni başlatılan “[Akıllı Havuz](https://pools.balancer.exchange/#/smart)” ile AMPL fiyatındaki artışa ya da azalışa paralel olarak Ampleforth Akıllı Kontrat’ına havuzdaki AMPL miktarını otomatik olarak değiştirme imkanı verildi. Bu sayede bu havuzdaki AMPL fiyatı hep hedeflenen değere daha yakın seyredecek. Bu da Ampleforth’un AMPL’nin stabil para olarak kullanılması vizyonuna yardımcı olacak.
 
 #### Sıkıntılar/riskler neler Ampleforth’da?
 
