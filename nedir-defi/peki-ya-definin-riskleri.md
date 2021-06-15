@@ -1,22 +1,46 @@
 # Peki ya DeFi'nin riskleri?
 
-Evet geldik ‘çekinceler’ köşemize: Öncelikle önceki bölümlerde bahsettiğimiz uçuk kazançlar kalıcı değil - yalnızca kısa vadeler için geçerli. Aksi de mümkün değil. Arbitraj dediğimiz iki farklı varlığın uyumsuzluğundan çıkar. Para ucuz görülen varlığa kaydığında o varlığın değeri artar, paralel şekilde pahalı varlıktan da para çıkışı olup ucuzlar ve bu iki varlık aşağı yukarı bir dengeye oturur. DeFi sisteminde de benzer şekilde dengeler zamanla oturacak.
+Peki ya DeFi'nin riskleri yok mu? Olmaz mı? Hem de istemediğiniz kadar.  
 
-### Nedir DeFi'nin riskleri?
+Risk hayatın bir parçası. Maalesef genel olarak riski, 'var ya da yok' denkleminde değerlendirmeyi seviyoruz. Halbuki, riskin de onlarca tonu var. Örneğin, sabah evden çıkıp sokakta yürümeye başladığınızda bile aslında risk alıyorsunuz. Allah korusun, araba çarpabilir, balkondan saksı düşebilir gibi. Peki bu nedenle sokağa çıkmamalı mı? Tabii ki hayır. İki gökdelen arasına ip bağlayıp üzerinde yürümekle sokakta yoldan karşı karşıya geçmek tabii ki farklı riskler. 
 
-Bundan sonraki bölümlerde değişik DeFi ürünlerinden bahsedeceğiz. DeFi'nin temel özelliklerinde bahsederken klasik finansa göre en önemli farkının DeFi ürünlerinin birbirleri ile çalışabilmesi demiştik. Örneğin, farklı DeFi ürünlerine yatırım yapmayı kolaylaştıran merkeziyetsiz DeFi portföy yönetimi yearn.finance kullanırken hatırı sayılır sayıda akıllı kontrat kullanıyorsunuz. Bunu jenga oyununda üst üste koyduğunuz taşlara benzetebiliriz. Alttaki taşlardan birinin oynaması tüm kuleyi yıkabilir. DeFi'de de benzer şekilde bir protokolün kullandığı akıllı kontratların herhangi birinde çıkacak bir sorun sizin de canınızı yakabilir. 
+DeFi'nin de riskleri ile ilgili aslında en büyük sorun, bu riskleri değerlendirme sıkıntısından kaynaklanıyor. Risklerin neler olduğunu görebiliyorsunuz, ancak olma ihtimalini ve olduğundaki zararı kestirmek zor olabiliyor. Bunun da temel nedeni DeFi sistemlerinin henüz yeni olması. 
 
-Klonlama ile çıkan platformların pek çoğunu dikkatle izlemekte fayda var. Yazdığımız gibi klonlamak çok basit bir iş, ancak klonladığınız sistemi yönetebilmek, sorunlar ile uğraşmak ve çözmek, daha da ötesi sisteminizi daha ileriye götürmek hiç o kadar kolay değil. Bunun için ehil ekipleriniz ve know-how’ınız yoksa başarınızın kısa vade olması çok muhtemel. DeFi’da kısa vadeler yılları bırakın aylar hatta haftalar ile ölçülüyor, onu da unutmayın. Bu sistemlere para yatırırken de yatırımcı olarak benzer şekilde dikkatli olun.
+Sözü daha fazla uzatmadan DeFi'deki risklere teker teker bakalım: 
 
-DeFi protokollerinin getirdiği merkeziyetsizliğin aslında bir vizyon olduğunu da unutmayın. Hemen hemen her proje merkezi başlar ve yavaş yavaş merkeziyetsiz hale gelir. İlerideki bölümlerde bu konuya detaylı olarak gireceğiz. Başlangıçta merkezi başlayan protokollerde, ürün geliştirmenin ufak bir ekip tarafından yapıldığını belirtelim. Hızlı davranabilmek ve ürünlerin geliştirme aşamasında sıkça rastlanacak hataları gidermek için başlangıçta ekiplerin projenin yönetici anahtarlarına sahip olduğunu da ekleyelim. Ekip üyelerinin elinde olan bu anahtarların kişilerin kötü kullanımına yol açabileceğini unutmayın. Özellikle, kimi blokzincirlerde yeni başlayan projelerde 'rug-pull' \(halıyı altından çekmek\) olarak bahsedilen hareket ile, ekip üyelerinin projeye yatırılan paraları alıp kaçtığını da hep birlikte gördük. 
+### Nedir DeFi'nin riskleri ve varsa önlemleri?
 
-İki bölüm önce bahsettiğimiz, adil başlangıç \(fair launch\) olarak adlandırılan değerin paylaşımının adil şekilde yapılması teoride güzel ancak pratikte sorunları var. Öncelikle girişim sermayelerinin girdikleri sisteme farklı şekillerde değer kattıkları unutulmamalı. Öte yandan VC’ler uygun değeri bulana kadar sabır göstermeyi beceriyor ve kurucuları da sebat ile beklemeye zorlayabiliyorlar. Bir sonraki bölümde bahsedeceğimiz, en büyük DeFi takas borsası Uniswap'ın rakibi olan SushiSwap örneğinde, sistemi kuran yazılımcı, bir haftalık bir çalışma ile klonladığı sistem ile yaratılan ödüllerden bir kısmını on gün sonra satınca ortalık toz duman oldu. Her ne kadar yeni sistemler deseniz de, bir topluluk oluşturmak, bunun için emek, çaba ve zaman sarfetmek her zaman için uzun vadede daha çok kazandırıyor.
+#### En önemli risk akıllı kontrat kodlamasında... 
+
+DeFi projelerinin özünde müşterilere sunulan birer akıllı kontrat olduğunu belirtelim. Bu akıllı kontratlar ise özünde birer yazılım olduklarını ekleyelim. Bu kontratları yazanlar birkaç geliştirici \(örneğin bir sonraki bölümde bahsedeceğimiz DeFi alanındaki en büyük protokol olan Uniswap'ın kurucusunun 6 Ocak 2021'de attığı bir [tweetten](https://twitter.com/haydenzadams/status/1346575665940860929?lang=en) o zamanlar 3 milyar ABD Doları piyasa değeri olan protokolün sahip olduğu ekip elemanı sayısının 11 olduğunu öğreniyoruz\) Kodun içinde yazım hataları olması, kimi senaryo ve parametrelerin unutulmuş olması gayet olası. Bu tip hataların şakaya gelir yanı yok, bu kontratlara ciddi miktarda para yatırıyor insanlar. 
+
+#### Birlikte çalışabilme güzel fakat... 
+
+DeFi'nin temel özelliklerinde bahsederken klasik finansa göre en önemli farkının DeFi ürünlerinin birbirleri ile çalışabilmesi demiştik. Örneğin, farklı DeFi ürünlerine yatırım yapmayı kolaylaştıran merkeziyetsiz DeFi portföy yönetimi yearn.finance kullanırken hatırı sayılır sayıda akıllı kontrat kullanıyorsunuz. Bunu jenga oyununda üst üste koyduğunuz taşlara benzetebiliriz. Alttaki taşlardan birinin oynaması tüm kuleyi yıkabilir. Bir önceki maddede bahsettiğimiz bir protokolün kullandığı akıllı kontratların herhangi birinde çıkacak bir sorun bu protokol ile entegre çalışan diğer ürünlerin de canını ciddi şekilde yakabilir.  
+
+#### Ufak ekiplerin yönettiği projelerde operasyonel riskler olabilir...
+
+DeFi protokollerinin getirdiği merkeziyetsizliğin aslında bir vizyon olduğunu da unutmayın. Hemen hemen her proje merkezi başlar ve yavaş yavaş merkeziyetsiz hale gelir. Başlangıçta merkezi başlayan protokollerde, ürün geliştirmenin ufak bir ekip tarafından yapıldığını belirtelim. Hızlı davranabilmek ve ürünlerin geliştirme aşamasında sıkça rastlanacak hataları gidermek için başlangıçta ekiplerin projenin yönetici anahtarlarına sahip olduğunu da ekleyelim. Ekip üyelerinin elinde olan bu anahtarların kişilerin kötü kullanımına yol açabileceğini unutmayın. Özellikle, kimi blokzincirlerde yeni başlayan projelerde 'rug-pull' \(halıyı altından çekmek\) olarak bahsedilen hareket ile, ekip üyelerinin projeye yatırılan paraları alıp kaçtığını da hep birlikte gördük. 
+
+#### Merkeziyetsiz yönetimler henüz oturmuş değil
+
+Projeler gelişmeye başladıkça yavaş yavaş yönetimi bırakmaya başlıyorlar. Merkeziyetsiz yönetim , stratejik kararları verme hakkının projenin yönetim tokeni sahiplerine devredilmesi anlamına geliyor. Burada genelde birebir 
 
 DeFi ürünler ile ilgili her yazımızda belirttiğimiz gibi bu ürünler yap-boz şeklinde gelişiyor, bunların kimileri tutacak belki pek çoğu da batacak. Ancak böyle böyle bu sistemler gelişecek. Bu durumu azımsamak, küçümsemek yerine böyle olduğunu kabullenip ona göre değerlendirmek önemli - zira bu alanda ayakta kalacak projelerin uzun vadede kullanıcılara dijital dünyada finansal özgürlük anlamında ciddi kazanımlar sağlayacağını unutmamak gerekiyor.
 
 ### Peki nasıl korunabiliriz bu risklerden? 
 
 Öncelikle bir önceki bölümde bahsettiğimiz yatırım yaparken yaptığınız incelemelerin tamamını kullanacağınız platformlar için de yapmanız gerekiyor. Kripto dünyasının en temel desturudur bu: 'DYOR - Do your own research'. Çok meşakkatli bir iş olduğununun, çoğumuzun özellikle teknik olarak bu protokollerin ne iş yaptığını bile bilmez iken onların doğru çalışıp çalışmadığını anlamanın zorluğunun farkıdayım. İşte tam da bu nedenle, bu alana yatırım yapmayı düşünenlerin yüksek risk altına girdiklerini iyi anlaması gerekiyor. 
+
+#### DeFi diye denetim yaptırmayacak değil elbet..
+
+Peki bu akıllı kontrat yazılım hatalarını önlemenin bir yolu yok mu? Tabii ki bolca test yapmak, farklı senaryoları düşünmek ve buna göre akıllı kontratı kurgulamak önemli ancak yeterli değil. Bu alanda, dış denetim yapan firmalar mevcut. Bu firmalar ile ilgili en büyük sıkıntı ise, hem oldukça pahalı hem de DeFi alanındaki rekabet nedeniyle oldukça yoğun olmaları. Yine de son kullanıcıların projelerin websitelerinden yapılmış olan dış denetimlere dikkat etmeleri gerekiyor. 
+
+#### Yeni proje yüksek risk demek... 
+
+DeFi projeleri zamana karşı yarıştıkları için çoğu zaman bu tip denetimleri yaptırmadan piyasaya çıkıyorlar.  Açıkçası son kullanıcının, yeni çıkmış projelere baştan tüm paralarını kaybetmeyi göze alarak yatırım yapmalarını söylemek en sağlıklısı. Projenin eskiliği ile riski arasında ters bir orantı olduğu da söylenebilir: Bir ürün ne kadar uzun süredir hizmet veriyorsa, kodlama anlamında ki risk de göreceli olarak o kadar azalıyor denebilir. 
+
+
 
 Göreceli olarak riski azaltacak konuların başında ise, olabildiğince çok okuyarak bilgi sahibi olmak geliyor. Projelerin dış denetimden geçmiş olmaları, risk olmadığı anlamına gelmese de en azından bilinen belli risklere karşı yatırımcılara bir güven veriyor. Bu alanda belli başlı büyük protokolleri inceleyerek onlara puan veren [DefiSafety](https://defisafety.com/) benzeri siteler de projeler konusunda fikir verebilir. 
 
