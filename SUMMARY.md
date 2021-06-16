@@ -13,6 +13,7 @@
 * [DeFi'de başarının sırrı topluluk](nedir-defi/defide-basarinin-sirri-topluluk.md)
 * [DeFi'de nasıl merkeziyetsiz olunuyor?](nedir-defi/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
+* [DeFi'de regülasyon olur mu?](nedir-defi/defide-reguelasyon-olur-mu.md)
 
 ## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
 
