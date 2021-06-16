@@ -1,6 +1,6 @@
 # DeFi'de regülasyon olur mu?
 
-Merkeziyetsiz Finans alanında en çetrefilli alanlardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğundan bahsedelim, kanun koyucuların önceliklerine bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak regülasyon konusunda temel çerçeve çıkarmaya çalışalım. 
+Merkeziyetsiz Finans alanında en çetrefilli alanlardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğuna bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak regülasyon konusunda temel çerçeve çıkarmaya çalışalım. 
 
 ### Regülasyon ve denetim açısından DeFi'nin klasik finansa göre farklılıkları
 
@@ -39,4 +39,26 @@ Bir başka konuda, kısıtlamanın ya da kullanılacak servislere lisans benzeri
 Öte yandan kanun koyucular konuya daha geniş ve uzun vadeli perspektiften bakmak zorundalar. Bu da tüm bir ekosistemi düşünmeyi gerektiriyor. Eğer, bu alanda ciddi bir para akışı dönecek ise, yapılacak girişimler, bu girişimler sonucu oluşan tokenler ve bu tokenler sayesinde gelir kazanan girişimci ve yatırımcıların nihayetinde elde ettikleri geliri ülke sınırları içinde harcayacakları varsayıldığında, oluşabilecek büyük bir ekonomik katma değerin önüne geçilmemesi tam tersine desteklenmesi en mantıklı yol. Burada da DeFi aktörlerine 'nasıl bir teşvik istersiniz?' diye sorsanız, muhtemelen verecekleri cevap 'gölge etme başka ihsan istemem' olacaktır. 
 
 Burada en doğru çözüm, kanun koyucuların belli çerçeveler belirlemesi olabilir. Ancak burada da, kanun koyucular 'ufak bir oyun alanı belirle, gerisini yasakla' gibi bir refleks içinde olabiliyorlar.  Bu yaklaşım maalesef bu dünya için efektif sonuçlar vermeyebilir. Daha akıllıca bir yöntem 'kırmızı çizgileri dar tutarak, olabildiğince geniş bir oyun alanı bırak' olabilir. 
+
+### Nasıl bir çerçevede regülasyon yapılabilir?
+
+DeFi'nin regülasyonu konusu aslında bu kitabın kapsama alanının dışında kalıyor. Ancak bu alanda Dünya Ekonomik Forumu tarafından Mayıs 2021'de yayınlanan DeFi politika yapıcılar için el kitabı \(WEF DeFi Policy Maker Toolkit\) dokümanında bulunan temel çerçeveden alıntı yaparak konuyu açıklamaya çalışalım: 
+
+DeFi alanında politika belirlenirken, kanun koyucuların hedefleri ile inovasyon ve pazar gelişimini dengede tutacak, teknolojik olarak tarafsız bir yaklaşım en uygunu olur. 
+
+DeFi aktiviteleri hisse senedi, türev, borsalar, yatırım yönetimi, banka denetimi, finansal suç, tüketici finansmanı, sigorta, risk yönetimi gibi alanları içerdiği için, bu konunun tutarlı ve geniş bir strateji belirlenerek, kurumlar arası bir çalışma grubu tarafından ele alınmasında fayda var. 
+
+DeFi'ye yaklaşımda alınabilecek aksiyonlar aşağıda sıralandığı gibi çok farklı şekillerde olabilir: 
+
+* **Hoşgörü \(forbearance\)**: Yeni kanunlara ihtiyaç olmadığına karar verilmesi
+* **Uyarı \(warnings\)**: Kullanıcıların/tüketicilerin uyarılması
+* **Uygulama/yaptırım \(enforcement\)**: Mevcut kanunların yeterli olduğu ve bu kanunlara uyulmadığı konusunda ısrar
+* **Tercih ile dahil olma \(opt-in\)**: Kanuni bir zorunluluk olmadan, belli korumalar karşılığında regülasyonlara tabi olmayı kabul etme
+* **Regülasyonları budama \(prunning regulations\)**: DeFi için gerekli olmayan kanuni gereksinimleri geçersiz hale getirme
+* **Kısıtlı lisans çatı/çerçeveler \(limited licence frameworks\)**: Dar kapsamlı ya da belli bir sınırın olarak lisans alma ve belli miktarların altı için daha hafif kanuni gereksinimler getirilmesi
+* **Yasaklayıcı tedbirler \(prohibitive measures\)**: DeFi alanındaki belli aktiviteleri yasaklama
+* **Yeni lisans şekilleri \(new licence types\)**: DeFi için tasarlanacak yeni kategorilere özgü risklere önlem alma
+* **Yönlendirme ve beklentileri yayınlamak \(issuing guidance and expectations\)**: Öncesinde kamuoyu görüşü aldıktan sonra, yeni çatı çerçeveler oluşturma
+
+
 
