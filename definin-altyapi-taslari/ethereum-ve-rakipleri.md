@@ -54,7 +54,7 @@ Yukarıda saydığımız kriterlerden uygulama sayıları ve işlem hacimleri ye
 
 ![](../.gitbook/assets/smart_platform_l_devs.png)
 
-_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 89\)_
+_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak:_ [_Electric Capital Developer Report_ ](https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444)_Sayfa 89\)_
 
 Yazıların küçük olması nedeniyle tabloya açıklama getirmekte fayda var. Bu tablo, toplam geliştirici sayısı 100'den fazla olan akıllı kontrat platformlarının bir yıllık gelişimini göstermekte. Yatay olarak gördüğünüz 2019 yılının üçüncü çeyreğindeki geliştirici sayısı, dikeyde ise 2020 yılının üçüncü çeyreği bulunmakta. Dolayısıyla grafiğin üst tarafında bulunan platformlar geliştirici sayılarını artırmışlar, altta bulunanlar ise geliştirici kaybına uğramışlar. Baktığınızda, 100'ün üzerinde geliştiricisi olan yani göreceli büyük sayılabilecek platformları Ethereum, Bitcoin, Cosmos, Polkadot, Cardano, Tezos ve EOS olarak görüyoruz. 
 
@@ -70,7 +70,7 @@ Yukarıdaki büyükler dışında geliştirici sayısı 100'ün altında olan g�
 
 ![](../.gitbook/assets/smart_platform_m_devs.png)
 
-_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak: Electric Capital Developer Report Sayfa 90\)_
+_Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak:_ [_Electric Capital Developer Report_](https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444) _Sayfa 90\)_
 
 ### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 
