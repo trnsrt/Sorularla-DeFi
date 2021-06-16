@@ -24,6 +24,8 @@ Ancak özünde DeFi tokenların değerleri hâlâ oldukça spekülatif. Bu neden
 
 Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alım-satım uzmanları ödeyecekleri ücrete bakmadan olabildiğince hızlı şekilde hareket etmeye çalıştılar. Zaten yüklü olan hacmin üzerine bir de bu hızlı hareket etmek isteyenler binince işlem ücretleri inanılmaz bir biçimde arttı.
 
+![](../.gitbook/assets/030206-ethereum_ve_rakipleri-eth_median_fees_coinmetrics_1yr_v2.png)
+
 |  |
 | :--- |
 | _Ethereum platformu üzerindeki ortalama \(median\) işlem ücretleri. Kaynak:_ [_Coinmetrics_](https://network-charts.coinmetrics.io/) |
@@ -39,6 +41,8 @@ Alternatif zincirler birkaç nedenle daha ucuza işlem yaptırabiliyorlar. Önce
 Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an çok konuşulan birkaç tanesini isim olarak verip Ethereum’dan farklarına kısaca değinelim:
 
 Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum’u kuran ekipte olup sonrasında felsefi fikir ayrılıkları nedeniyle hareketten ayrılmış saygın isimlerin kurdukları projeler. Polkadot ve Avalanche gerek işlev gerekse yapmak istedikleri açısından Ethereum’a oldukça yakınlar. Hatta Avalanche, Ethereum ile bir köprü kurup orada bulunan tokenlerin kendi platformunda da işlem görmesini sağladı. Bu sayede Ethereum ile olan ilişkisini iyice artırdı. Cardano ise daha çok kurumsal alanda kapalı/açık blokzincir taleplerine karşılık olmayı hedefliyor. Keza diğer bir platform sağlayıcısı Cosmos, Polkadot benzeri farklı blokzincirler arası ortak çalışacak bir altyapı olmayı planlarken, Stellar da ödeme sistemleri konusunda kendisine bir yer kapmaya çalışıyor.
+
+![](../.gitbook/assets/030207-ethereum_ve_rakipleri-ethereum_ve_diger_platformlar_v2.png)
 
 |  |
 | :--- |
