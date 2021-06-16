@@ -24,7 +24,7 @@ Ancak özünde DeFi tokenların değerleri hâlâ oldukça spekülatif. Bu neden
 
 Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alım-satım uzmanları ödeyecekleri ücrete bakmadan olabildiğince hızlı şekilde hareket etmeye çalıştılar. Zaten yüklü olan hacmin üzerine bir de bu hızlı hareket etmek isteyenler binince işlem ücretleri inanılmaz bir biçimde arttı.
 
-![](../.gitbook/assets/030206-ethereum_ve_rakipleri-eth_median_fees_coinmetrics_1yr_v2.png)
+![](../.gitbook/assets/030206-ethereum_ve_rakipleri-eth_median_fees_coinmetrics_1yr_v3.png)
 
 |  |
 | :--- |
