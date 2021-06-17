@@ -1,10 +1,10 @@
 # MakerDAO: Kişiye özel merkez bankası
 
-Önceki bölümde finans dünyasında yeni başlayan DeFi hareketine değinmiş ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın kullanılanı MakerDAO..
+Kitabımızın birinci kısmında, finans dünyasında yeni başlayan DeFi hareketine ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın kullanılanı MakerDAO..
 
 ### MakerDAO nedir?
 
-MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kripto paraları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna ingilizcede 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
+MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kripto paraları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp, o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna İngilizce'de 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
 
 #### Nasıl çalışıyor?
 
@@ -14,13 +14,13 @@ Kullanıcı, elindeki belli ['sağlam' sayılan kriptoparaları](https://oasis.a
 
 _Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/tokenanalyst/measuring-maker-dai-stability-f74c23108128)\_\_
 
-#### Neden insanlar kullanıyor?
+#### İnsanlar neden kullanıyor?
 
 Diyelim kişinin ani olarak paraya ihtiyacı var, mevcut parası da ETH olarak duruyor. Ancak ETH’nin yükseleceğini düşünüyor ya da başka herhangi bir nedenle ETH’lerinden ayrılmak istemiyor. Bu sistemi kullanarak hem nakit ihtiyacını karşılayabilir hem de ETH’nin getireceği kârdan yararlanmaya devam edebilir. Öte taraftan, hatırı sayılır bir kitle de, bu sistemi spekülasyon amaçlı kullanıyor. Mevcut varlıklarını teminat gösterip stabil bir para olan Dai borçlanıyor ve bu borç ile gidip yükseleceğini düşündükleri kriptoparalara yatırım yapıyorlar. 
 
 #### Kredi maliyeti ne?
 
-Kredinin maliyetleri kullanılan teminatın cinsine ve seçilen teminat yeterlilik oranına göre değişkenlik gösteriyor. Örneğin Mayıs 2021 itibariyle en çok kullanılan ETH kilitleyip %150 teminat oranı ile Dai borçlanmanın maliyeti yıllık 5.5% oranında. Faiz oranını değiştirmeye sistemin yönetim tokenina sahip olanlar karar veriyor. 
+Kredinin maliyetleri, kullanılan teminatın cinsine ve seçilen teminat yeterlilik oranına göre değişkenlik gösteriyor. Örneğin; Mayıs 2021 itibariyle en çok kullanılan 'ETH'yi kilitleyip %150 teminat oranı ile Dai borçlanma' işleminin maliyeti yıllık 5.5% oranında. Faiz oranını değiştirmeye, sistemin yönetim tokenine sahip olanlar karar veriyor. 
 
 ![](../.gitbook/assets/020203-makerdao-stability_fees.png)
 
@@ -28,7 +28,7 @@ _MakerDAO kredi maliyetleri - Haziran 2021 itibariyle. Kaynak:_ [_MakerDAO_](htt
 
 #### Ya ETH çok düşer de teminatımın altına inerse?
 
-Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse kullanıcının ekstra ETH yüklemesi lazım. Ya da kullanıcılar baştan ihtiyaçları olan nakitten daha fazla ETH'yi sisteme koyuyor. Aksi takdirde, yani teminat oranı %150'nin altına düşer ise sistem kullanıcının ETH’sini “bozuyor” ve [%13 gibi bir ceza](https://oasis.app/borrow/vaults/open/ETH-C) sonrası \(ingilizce [liquidation fee](https://community-development.makerdao.com/en/learn/vaults/liquidation/) olarak tanımlanıyor\) borcu düşüp kalan teminatı kullanıcıya geri veriyor.
+Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse kullanıcının ekstra ETH yüklemesi lazım. Ya da kullanıcılar baştan ihtiyaçları olan nakitten daha fazla ETH'yi sisteme koyuyor. Aksi takdirde, yani teminat oranı %150'nin altına düşer ise sistem kullanıcının ETH’sini “bozuyor” ve [%13 gibi bir ceza](https://oasis.app/borrow/vaults/open/ETH-C) sonrası \(İngilizce [liquidation fee](https://community-development.makerdao.com/en/learn/vaults/liquidation/) olarak tanımlanıyor\) borcu düşüp kalan teminatı kullanıcıya geri veriyor.
 
 Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının Haziran 2021 itibariyle [yaklaşık %350 olduğunu görüyoruz](https://daistats.com/#/collateral). Yani insanlar gerekli minimum limit olan %150’nin üzerine ekstra teminat koymuşlar kullandıkları krediler için.
 
