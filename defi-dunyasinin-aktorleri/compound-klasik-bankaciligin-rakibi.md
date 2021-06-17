@@ -30,11 +30,11 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 #### Faiz çok oynak görünüyor, ya sisteme giriş-çıkış nasıl oluyor?
 
-Şunu da hemen belirtelim. neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman paranızı çekebiliyorsunuz.
+Şunu da hemen belirtelim. Neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman paranızı çekebiliyorsunuz.
 
 #### Tahsilat riski nasıl aşılıyor?
 
-Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
+Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan, örneğin ETH, en düşük teminat oranına sahip.
 
 ![](../.gitbook/assets/020307-compound-collateral-_ratio.png)
 
@@ -60,19 +60,19 @@ Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının
 
 #### Tamamen merkeziyetsiz mi?
 
-Hayır. Merkeziyetsizlik “[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)” ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı, o da belli değil açıkçası.
+Hayır. Merkeziyetsizlik “[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)” ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? O da belli değil açıkçası.
 
 Merkezilik nerede var? Öncelikle, geliştiren ekip merkezi ama bu o kadar da kritik değil.
 
 Asıl kritik olan, kredi alanlara hangi faiz oranı uygulayacağına bir “robot” karar veriyor. Peki bu robot nasıl karar veriyor? Compound’un içindeki \(içeriği çok da bilinmeyen\) bir algoritma sistemdeki arz ve talebe göre faizi belirliyor. Yani arz ve talep toplanıp bir havuz şeklinde düşünülüyor.
 
-Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıcı ile verici pazaryeri misali birbirleri ile direkt biraraya gelebilirdi. O zaman da böyle bir karar kutuya ihtiyaç olmazdı. Birkaç yıl önce Dharma protokolü böyle bir niyetle ortaya çıktı ancak o projenin çok başarılı olduğu söylenemez.
+Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıcı ile verici pazar yeri misali birbirleri ile direkt bir araya gelebilirdi. O zaman da böyle bir kara kutuya ihtiyaç olmazdı. Birkaç yıl önce Dharma protokolü böyle bir niyetle ortaya çıktı ancak o projenin çok başarılı olduğu söylenemez.
 
 ### MakerDAO’dan farkı ne?
 
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası.
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok - onlar Dai de dahil başka paraları kullanıyorlar, aynı bir banka gibi. \(Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok. Onlar Dai de dahil başka paraları kullanıyorlar; aynı bir banka gibi. \(Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
 
 Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 
@@ -92,13 +92,13 @@ Compound, COMP tokenları dağıtırken kullanıcıları tamamen serbest bırakt
 
 Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP tokenlar anında çeşitli borsalarda işlem görmeye başladı. 
 
-Kısıtlı sayıda \(10 milyon adet\) olarak basılan olan COMP tokenlar başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [çıktı](https://www.coingecko.com/en/coins/compound).
+Kısıtlı sayıda \(10 milyon adet\) basılan COMP tokenler başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [çıktı](https://www.coingecko.com/en/coins/compound).
 
 Tabii, bu hemen akıllara 2017 yılının meşhur halka arzlarını \(ingilizcesi Initial Coin Offering - ICO\) getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı 'kaldırmıştı'. COMP da acaba öyle mi?
 
 Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra neden benzediğini tartışırız.
 
-Öncelikle, 2017 yılının ICO projeleri tamamen kağıda yazılı bir hayal satıyorlardı. Compound’un durumu öyle değil - zira sahip oldukları ve gayet iyi işleyen bir sistemleri var halihazırda.
+Öncelikle, 2017 yılının ICO projeleri tamamen kağıda yazılı bir hayal satıyorlardı. Compound’un durumu öyle değil. Zira hali hazırda sahip oldukları ve gayet iyi işleyen bir sistemleri var.
 
 İkincisi, ICO’larda girişimlerin çıkardığı tokenlar tamamen kâr amacı güden yatırımcılara para karşılığı satılmıştı \(her ne kadar bu tokenların bir gün sistemi kullanmakta da işe yarayacağı söylense de\). Şimdi ise sistem üzerinden alım satım yapan kullanıcılara yaptıkları işlem karşılığı token verilmesi var. Dolayısıyla sistemi büyütmeye yarayan bir token dağıtımı söz konusu.
 
@@ -126,15 +126,11 @@ Ancak unutmamak lazım: bu aslında iki ucu keskin bir kılıç. COMP sayesinde 
 
 ### Peki kim alıyor bu COMP tokenları?
 
-Şu anda hızlı yükseliş ile gözleri kamaşan spekülatörler - ki bunlar kısa vadeli kazanç peşindeler. Bu spekülatörlerin Compound sisteminin yönetimine katılmak konusunda çok büyük bir arzusu olduğu pek düşünülemez.
+En başta, Compound’un gelecekte hangi yöne gitmesi konusunda hassas olan bazı kesimler var. Kim bunlar? Öncelikle, şimdiye kadar Compound’a yatırım yapmış olan fonlar; zira yaptıkları yatırımın ne yöne gideceği konusunda kontrolü ellerinden kaçırmak istemiyorlar.
 
-Ama sadece onlar değil. Compound’un gelecekte hangi yöne gitmesi konusunda hassas olan kesimler de var. Kim bunlar? Öncelikle, şimdiye kadar Compound’a yatırım yapmış olan fonlar - zira yaptıkları yatırımın ne yöne gideceği konusunda kontrolü ellerinden kaçırmak istemiyorlar.
+COMP’a ilgi duyanlar, Compound’un mevcut yatırımcıları ile sınırlı değil. İlginç ama Compound sistemini kullanan girişimlere yatırım yapan girişim sermayeleri de bu COMP’lara sahip olmak istiyor. Zira, yatırım yaptıkları girişimlerin üzerine kurulu olduğu Compound altyapısının istemedikleri şekilde değiştirilip kendi yatırımlarına sorun çıkarması ihtimalinden kaçınmak arzusundalar.
 
-Compound’un mevcut yatırımcıları ile sınırlı değil COMP’a ilgi duyanlar. İlginç ama Compound sistemi üzerine kurulu girişimlere yatırım yapan girişim sermayeleri de bu COMP’lara sahip olmak istiyor. Zira, yatırım yaptıkları girişimlerin üzerine kurulu olduğu Compound altyapısının istemedikleri şekilde değiştirilip kendi yatırımlarına sorun çıkarması ihtimalinden kaçınmak arzusundalar.
-
-Bunun dışında, ilginç bir başka görüş daha var: Biliyorsunuz, dünyanın hemen hemen yerinde, kripto paraların para mı yoksa hisse mi olduğu tartışılıyor. Neden? Vergi yüzünden. Para olarak değerlendirilmeleri durumunda pek çok ülke \(örneğin BTC için ABD\) vergi uygulamıyor - ancak hisse senedi olursa işler değişiyor - o zaman vergi var. Hisse senedinin teoride en önemli özelliği ne? Sahiplerine temettü yani kâr payı dağıtması. Compound en azından şimdilik böyle olmayacağını söylüyor - ama ileride bu değişebilir.
-
-Neden şimdi değil de ileride? Birkaç nedeni olabilir. Birincisi, kripto paralar ile ilgili kural ve yorumları değişme ihtimaline karşı şimdiden kendilerine “hisse” damgasının vurulmasını istemiyor olabilirler. İkincisi, Compound sistemi şu anda yönetim ve işletim olarak ABD’de kurulu bir şirket. İleride bir altyapı haline geçer ve tamamen merkeziyetsiz olarak kripto âleminde yaşar ise Compound’a nasıl ve hangi ülkede vergi uygulayacaksınız?
+Son olarak, COMP token satın alanlar arasında kısa vadeli kazanç peşinde koşan spekülatörleri de sayabiliriz. Bu kesimin, Compound sisteminin yönetimine katılmak konusunda çok büyük bir arzusu olduğu pek düşünülemez.
 
 ### COMP token üzerine son birkaç söz
 
