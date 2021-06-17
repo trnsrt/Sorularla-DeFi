@@ -68,5 +68,5 @@ DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğe cüzdanl
 
 ### Sırada neler var?
 
-Bundan önceki kısımda DeFi'nin genel felsefesine ve temel özelliklerine değinmiştik. Şu an okuduğunuz ikinci kısımda, gelin önce temel DeFi ürünlerinden birkaçına göz atalım. Üçüncü kısımda DeFi'nin altyapısını sağlayan hizmet sağlayıcılara bakıp, en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeye çalışalım. 
+Bundan önceki kısımda DeFi'nin genel felsefesine ve temel özelliklerine değinmiştik. Şu an okuduğunuz ikinci kısımda, gelin önce temel DeFi ürünlerinden birkaçına göz atalım. Sonrasında, üçüncü kısımda DeFi'nin altyapısını sağlayan hizmet sağlayıcılara bakıp; en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeye çalışalım. 
 
