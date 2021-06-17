@@ -34,7 +34,7 @@ Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse kullanıcın
 
 #### Kim borç veriyor bu sisteme?
 
-Aslında kimse kimseye borç vermiyor. Kullanıcı elindeki ETH’yi teminat olarak koyuyor, akıllı kontrat bunun karşılığı Dai basıp kullanıcının hesabına yatırıyor. Buradaki soru şu olabilir? Kullanıcı aldığı Dai'yi ne yapıyor? Teoride, bu DAI'yi merkezi borsalarda nakde çevirerek kısa vadeli ihtiyaçlarını karşılayabilir; zira stabil bir para boçlandığı için, borcunun ani bir şekilde artması riskinden korunmuş durumda. Ancak, pratikte ne şekilde kullanıldığını soracak olursanız; kullanıcılar genelde spekülatif hareketler içine giriyorlar; örneğin, borçlandıkları DAI ile gidip yükselmesini umdukları kriptoparaları satın alıyorlar.  
+Aslında kimse kimseye borç vermiyor. Kullanıcı elindeki ETH’yi teminat olarak koyuyor, akıllı kontrat bunun karşılığı Dai basıp kullanıcının hesabına yatırıyor. 
 
 #### Dai parası nasıl sabit kalıyor peki?
 
@@ -42,11 +42,11 @@ Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada bakt
 
 Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai yaratıp borç almış olanlar, aldıkları borcu yine Dai ile ödeyecekleri için kredilerini ucuza kapatma fırsatı bulabilecekler ve Dai satın alacaklar.
 
-Aynı şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha yüksek bir fiyata geldiğinde\) insanlar ellerindeki ETH’leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai’yi piyasada 1 ABD Doları’nın üzerinde bozdurma şansı yakalayacaklar. Bu da piyasada 1 Dai’nin 1 ABD Doları’na yaklaşmasını sağlayacak.
+Aynı şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha yüksek bir fiyata geldiğinde\), insanlar ellerindeki ETH’leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai’yi piyasada 1 ABD Doları’nın üzerinde bozdurma şansı yakalayacaklar. Bu da piyasada 1 Dai’nin 1 ABD Doları’na yaklaşmasını sağlayacak.
 
 #### Dai dışında sistemin bir de yönetim tokeni olan MKR var
 
-Teknik olarak çok detaya girmedik ancak Dai dışında MakerDAO’nun bir parası daha var, o da MKR. Dai’yi sistemin parası, MKR’yi ise sistemin sermayesi \(equity\) ya da yönetim tokeni olarak düşünebiliriz. Para alışverişleri Dai ile yapılırken ve Dai ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar - örneğin teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. 
+Teknik olarak çok detaya girmedik ancak Dai dışında MakerDAO’nun bir parası daha var, o da MKR. Dai’yi sistemin parası, MKR’yi ise sistemin sermayesi ya da yönetim tokeni olarak düşünebiliriz. Para alışverişleri Dai ile yapılırken ve Dai ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar. Örneğin; teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. 
 
 Bu arada olası bir kriz durumunda MKR bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat olarak tutulan paraların değerinde ani ve büyük bir düşüş yaşanır da, teminat miktarı kredinin altına düşerse, o zaman aradaki farkı MKR yaratılarak karşılanıyor. MKR'in emisyonunu artıran bu hareket onun değerini düşüreceği için MKR sahipleri açısından olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki tuttukları tokenların değeri böyle bir olay nedeniyle azalmasın diye teminat oranı vb rakamlarda olabildiğince tutucu davranmak zorundalar. Sistem bu alanda da bir nevi otokontrol yaratmış durumda.
 
