@@ -34,7 +34,7 @@ Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse kullanıcın
 
 #### Kim borç veriyor bu sisteme?
 
-Aslında kimse kimseye borç vermiyor. Kullanıcı elindeki ETH’yi teminat olarak koyuyor, akıllı kontrat kullanıcı adına Dai yaratıp hesabına yatırıyor. Buradaki soru şu olabilir? Kullanıcı aldığı Dai'yi ne yapıyor?Genel olarak stabil para kullanmak isteyen insanlara \(ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere\). İnsanlar neden stabil para kullanmak ister konusuna üçüncü kısımın sonunda stabil paralar bölümünde değineceğiz. 
+Aslında kimse kimseye borç vermiyor. Kullanıcı elindeki ETH’yi teminat olarak koyuyor, akıllı kontrat bunun karşılığı kullanıcının hesabına yatırıyor. Buradaki soru şu olabilir? Kullanıcı aldığı Dai'yi ne yapıyor?Genel olarak stabil para kullanmak isteyen insanlara \(ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere\). İnsanlar neden stabil para kullanmak ister konusuna üçüncü kısımın sonunda stabil paralar bölümünde değineceğiz. 
 
 #### Dai parası nasıl sabit kalıyor peki?
 
