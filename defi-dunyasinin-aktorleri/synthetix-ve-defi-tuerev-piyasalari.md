@@ -161,7 +161,7 @@ Keza bu tip ürünleri kullanırken, hep teminat vermek zorundasınız. Teminat;
 
 Bir kere bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Ve bu teminatlar, DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar.
 
-İkincisi bu kontratların çoğunluğu dış denetim \(audit\) geçiriyorlar. Denetim geçirmek “her şey süper, kontrat çok güvenli” anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere en azında kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor.
+İkincisi bu kontratların çoğunluğu dış denetim \(audit\) geçiriyorlar. Denetim geçirmek; 'her şey süper, kontrat çok güvenli' anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere, en azından kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor.
 
 Tabii yine de bunlara güvenmezseniz \(ki kimse “neden güvenmiyorsun?” diyemez\) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün..
 
@@ -171,17 +171,17 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 
 “Sistem çok güzel kurulmuş, riskler yok mu?” derseniz, hâlâ akla takılan ya da risk olarak görülebilecek alanlar var:
 
-Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Başka DeFi ürünlerde likidite sağlamak için para koyduğunuzda genel olarak düşük riskli ürünlere yatırım yapıyorsunuz. Synthetix’de ise SNX aldığınız ve sUSD yarattığınız noktada havuzun borcuna ve riskine ortak oluyorsunuz - ve bu ufak bir risk değil.
+Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Başka DeFi ürünlerde likidite sağlamak için para koyduğunuzda, genel olarak düşük riskli ürünlere yatırım yapıyorsunuz. Synthetix’de ise SNX aldığınız ve sUSD yarattığınız noktada havuzun borcuna ve riskine ortak oluyorsunuz ve bu ufak bir risk değil.
 
-Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
+Bununla bağlantılı ikinci temel risk ise şu; yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
 
 ![](../.gitbook/assets/020607-synthetix_ve_turev_piyasalari-synthetix_distribution_v3.png)
 
 _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/)\_\_
 
-Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX’in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor.
+Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. \(Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor\).
 
-Ayrıca şunu da unutmamak lazım - bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 centten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. \[^2\]
+Ayrıca şunu da unutmamak lazım; bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı, 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca, paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. \[^2\]
 
 Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/). 
 
