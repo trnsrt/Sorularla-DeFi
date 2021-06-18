@@ -181,15 +181,13 @@ _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashb
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. \(Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor\).
 
-Ayrıca şunu da unutmamak lazım; bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı, 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca, paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. \[^2\]
+Ayrıca şunu da unutmamak lazım; bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı, 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca, paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa, teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı? Önceden tahmin etmek zor. \[^2\]
 
-Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti\). Bunun da temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle Ethereum sistemine ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/). 
+Yukarıdaki iki konu gibi risk olmasa da, sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemleri gerçekleştirmek için kullanılan Ethereum blokzinciri kullanmanın bedeli\). Bunun da temel nedeni; türev işlemlerinin, karmaşıklığından dolayı Ethereum sistemine ağır gelmesi. Synthetix ekibi, bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden olan [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/). 
 
-\[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz.._
+\[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor; ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz._
 
 \[^2\] _Kontratların nasıl likidite edileceği ile ilgili detaylı bilgiye_ [_şu linkten_](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) _ulaşabilirsiniz_
-
-\[^3\] _Açılan işlemlerin dağılımını_ [_Synthetix Dashboard_](https://dashboard.synthetix.io/)_‘da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz._
 
 
 
