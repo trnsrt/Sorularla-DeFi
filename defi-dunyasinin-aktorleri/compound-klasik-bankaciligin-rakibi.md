@@ -8,7 +8,7 @@ Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Öz
 
 [Compound](https://compound.finance/) klasik bankacılık sisteminin bir alternatifi.
 
-Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdığı paraların ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı \(spread\).
+Klasik bankacılık en basit tarifi ile yükümlülüklerinde mevduat sahiplerinin yatırdığı paraların,  ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı \(spread\).
 
 Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem.
 
@@ -50,17 +50,17 @@ _Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak:_ [_Compo
 
 #### Kimler kullanıyor?
 
-Neden bir kişi sistemden borç almak ister? Temel nedeni spekülatif hareketler. Örneğin kişi bir nedenle stabil bir paraya sıkıştı ancak elindeki ETH’i satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip stabil Dai kredi alabilir. Ya da ETH'nin daha yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
+Neden bir kişi sistemden borç almak ister? Temel nedeni spekülatif hareketler. Örneğin kişi bir ödemesi nedeniyle paraya sıkıştı ancak elindeki ETH’yi satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip stabil Dai kredi alabilir. Ya da ETH'nin daha da yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
 
-Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
+Peki neden borç verirsiniz? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
 
 ### Kim kurmuş bu Compound’u? Güvenilir mi peki?
 
-Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi.
+Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Şimdi görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim. 
 
 #### Tamamen merkeziyetsiz mi?
 
-Hayır. Merkeziyetsizlik “[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)” ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? O da belli değil açıkçası.
+Hayır. Merkeziyetsizlik '[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)' ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? O da belli değil açıkçası.
 
 Merkezilik nerede var? Öncelikle, geliştiren ekip merkezi ama bu o kadar da kritik değil.
 
@@ -76,19 +76,19 @@ Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir stabil para \
 
 Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 
-Öte yandan Compound’un MakerDAO’dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenine yakından bakalım. 
+Bu arada hem Compound hem MakerDAO’da yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenine yakından bakalım. 
 
 ### Nedir COMP token?
 
-Compound  ilk kurulduğunda girişim sermayesi alıp, ürün olarak merkeziyetsiz ama yönetim olarak merkezi, sonrasında yavaş yavaş yönetimi de merkeziyetsiz hale getirmek olarak özetlenebilecek bir yol haritası çizdi kendine. Pek çok prestijli girişim sermayesinden yatırım aldı. İlk olarak ürünlerini kullanıcıların beğenisine sunup, sorunlarını çözdü.
+Compound ilk kurulduğunda girişim sermayesi alıp, ürün olarak merkeziyetsiz ama yönetim olarak merkezi, sonrasında yavaş yavaş yönetimi de merkeziyetsiz hale getirmek olarak özetlenebilecek bir yol haritası çizdi kendine. Pek çok prestijli girişim sermayesinden yatırım aldı. İlk olarak ürünlerini kullanıcıların beğenisine sunup, sorunlarını çözdü.
 
 Sıradaki hamle benzer şekilde yönetimi de merkeziyetsiz hale getirmek idi. Bunu da demokratik bir şekilde geniş bir kitle tarafından yönetilebilmek için COMP adı verilen bir token çıkarıp kullanıcılarına dağıtmaya başlayarak yaptılar.
 
 Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlere sahip olmaları durumunda gelecekte sistemin güvenirliliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleri idi.
 
-### Nasıl işledi COMP hamlesi?
+### COMP hamlesi nasıl işledi?
 
-Compound, COMP tokenleri dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde, örneğin bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformların kimileri de yönetim tokeni dağıtırken bu yolu izledi. Örneğin [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlerini bu şekilde “başkasına devredemezsiniz” [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) \(ve kısa bir süre sonra da satışı durdurdu\).
+Compound, COMP tokenleri dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde, örneğin bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformların kimileri de yönetim tokeni dağıtırken bu yolu izledi. Örneğin, [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlerini bu şekilde 'başkasına devredemezsiniz' [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) \(ve kısa bir süre sonra da dağıtımı durduruldu\).
 
 Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP tokenler anında çeşitli borsalarda işlem görmeye başladı. 
 
