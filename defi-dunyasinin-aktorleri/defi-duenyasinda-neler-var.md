@@ -16,7 +16,7 @@ Finans kurumu, aylarca hatta yıllarca çalışarak, müşterileri için ürünl
 
 DeFi'de ise bu durum kökten değişiyor. Öncelikle kullanıcı varlığını hizmet sağlayıcıya emanet etmez. Varlık kullanıcının elektronik cüzdanında durur \(Son bölümümüzde bu konuya detaylıca bakacağız\). Kullanıcı hizmet sağlayıcı ile çalışmak istediği anda cüzdanını bağlar, hizmeti kullanır sonra ilişkiyi keser. Üstelik, DeFi ürünleri birlikte çalışabildiği için, aldığı bir DeFi ürününü götürüp başka bir protokolde de kullanabilir. 
 
-Bunun yanında, açık kaynak sayesinde ürün geliştirme süreçleri DeFi için oldukça kısa. Bu dünyada, telif hakları gibi konular yok denecek kadar az. Zira, bırakın ürünlerin nasıl dizayn edildiğini; ürünün kaynak kodları yani onu oluşturan her parça isteyen herkesin görebileceği şekilde açık. 
+Bunun yanında, açık kaynak sayesinde ürün geliştirme süreçleri DeFi için oldukça kısa. Bu dünyada, telif hakları gibi konular yok denecek kadar az \(nadir görülen bir örneği Uniswap bölümünde görebilirsiniz\). Zira, bırakın ürünlerin nasıl dizayn edildiğini; ürünün kaynak kodları yani onu oluşturan her parça isteyen herkesin görebileceği şekilde açık. 
 
 ### Dikey yapılanma yerine yatay yapılanma
 
