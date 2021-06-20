@@ -54,7 +54,7 @@ Bunun yanında Dai fiyatında aşırı bir düşüş olduğu durumlar için de a
 
 MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık anlaşmalar, kağıt, imza vs. yok. Sistem tamamen kodlanmış makineler aracılığıyla işliyor. Teminatınızı koyuyorsunuz, paranızı alıyorsunuz. Teminatınız %150’nin altına düşerse de ETH’niz bozduruluyor ve kredi borcunuzun üzerindeki teminatınız hesabınıza yatıyor. Bu nedenle kredi vermenin getirdiği kağıt ve bürokrasi masrafından kurtulma sistemin en önemli avantajlarından biri.
 
-Sistemin en büyük riski ETH'nin yaşayabileceği ani değer kayıpları. Zira ETH’nin aniden %33 değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH’leri satana kadar kredi miktarının altına da inebilir \(her ne kadar kişilerin tuttuğu teminat oranının genelde %200 civarında olması sistemi oldukça rahatlatsa da\). Şu an için MakerDAO sistemi küçük ama daha da büyümesi durumunda, olası ani düşüşler, tüm ETH değerini bile etkileyecek hale gelebilir.
+Sistemin en büyük riski ETH'nin yaşayabileceği ani değer kayıpları. Zira ETH’nin aniden %33 değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH’leri satana kadar kredi miktarının altına da inebilir \(her ne kadar kişilerin tuttuğu teminat oranının genelde %200 civarında olması sistemi oldukça rahatlatsa da\). Şu an için MakerDAO sistemi küçük ama çok daha büyümesi durumunda, olası ani düşüşler, tüm ETH değerini bile etkileyecek hale gelebilir.
 
 #### Mart 2020 Kara Perşembe krizi
 
