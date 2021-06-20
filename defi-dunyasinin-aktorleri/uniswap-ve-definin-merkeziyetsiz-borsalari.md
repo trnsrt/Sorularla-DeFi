@@ -116,7 +116,7 @@ DeFi projelerinin klasik projelere göre en önemli farklarından biri, farklı 
 
 #### Fiyat
 
-Uniswap her bir işlem için al-sat yapan kullanıcılardan %0.3 komisyon alıyor. Her ne kadar 1 Eylül 2020 tarihine kadar kendisi üzerinden işlem yapmışlara 400 UNI token hediye ederek bu komisyonların bir kısmını kullanıcılara geri vermiş olsa da, aslında bu oldukça yüksek bir rakam. Uniswap likidite sağlayıcılara gelir olarak yalnızca bu işlem komisyonlarını önerebildiği için rakamı çok da düşüremiyor ve bu da rekabette onu zorluyor. Zira rakiplerin komisyon oranları hem düşük hem de havuzdan havuza değişebiliyor. Ancak son açıklanan UNI token ile birlikte, likidite sağlayıcılar artık komisyon yanında UNI token ile ciddi bir ekstra gelir de kazanma şansına sahip. Aşağıda bahsedeceğimiz yeni versiyonunda farklı havuzlar için farklı komisyon oranları getiren Uniswap, kullanıcılarına rekabetçi bir ürün sunmuş oldu. 
+Uniswap her bir işlem için al-sat yapan kullanıcılardan %0.3 komisyon alıyor. Her ne kadar 1 Eylül 2020 tarihine kadar kendisi üzerinden işlem yapmışlara 400 UNI token hediye ederek bu komisyonların bir kısmını kullanıcılara geri vermiş olsa da, aslında bu oldukça yüksek bir rakam. Uniswap likidite sağlayıcılara gelir olarak yalnızca bu işlem komisyonlarını önerebildiği için rakamı çok da düşüremiyor ve bu da rekabette onu zorluyor. Zira rakiplerin komisyon oranları hem düşük hem de havuzdan havuza değişebiliyor ancak son açıklanan UNI token ile birlikte, likidite sağlayıcılar artık komisyon yanında UNI token ile ciddi bir ekstra gelir de kazanma şansına sahip. Aşağıda bahsedeceğimiz yeni versiyonunda farklı havuzlar için farklı komisyon oranları getiren Uniswap, kullanıcılarına rekabetçi bir ürün sunmuş oldu. 
 
 ### Rakipleri tanıyalım
 
@@ -124,7 +124,7 @@ Peki Uniswap’ın hangi rakibi yukarıdaki hangi özellikte ondan farklılaşı
 
 #### Curve
 
- [Curve](https://www.curve.fi/), yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Uniswap algoritmasının amacı kullanıcılara her ne olursa olsun işlem yapabilecekleri bir token sunmak iken; **Curve algoritması için önemli olan, yukarıda Uniswap için bahsettiğimiz, işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek**.
+[Curve](https://www.curve.fi/), yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Uniswap algoritmasının amacı kullanıcılara her ne olursa olsun işlem yapabilecekleri bir token sunmak iken; **Curve algoritması için önemli olan, yukarıda Uniswap için bahsettiğimiz, işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek**.
 
 Curve’un kullandığı bu algoritma, daha çok al-sat yapan kullanıcılar için yüksek hacimli ve fiyatı fazla oynamayan token çiftlerinde avantaj sağlıyor. Örneğin; ABD Doları’na bağlı olan iki stabil kripto paranın \(Tether yani USDT ve USDC çifti gibi\) olduğu havuzlarda Curve’in algoritması çok daha iyi çalışıyor\[^3\].
 
@@ -160,9 +160,9 @@ Sushiswap, son zamanlarda gözünü farklı platformlara çevirmiş durumda. Ör
 
 Evet, dönelim Uniswap’ın mevcut sıkıntılarına ve yeni versiyonun neler getirdiğine:
 
-#### En büyük sorun: Sığ havuzlar..
+#### En büyük sorun: Sığ havuzlar
 
-Uniswap, sistemini dizayn ederken birinci temel ilkesini **havuzdaki likiditenin tükenmemesi** üzerine kurmuştu. Ne demek bu? Havuzu oluşturan iki token çeşidinden de her zaman bulunması ve bu tokenların hiçbir şekilde bitmemesi. Likiditenin bitmemesi güzel bir özellik ama pratikte belli sıkıntıları oluyor. Neler bunlar?
+Uniswap, sistemini dizayn ederken birinci temel ilkesini **havuzdaki likiditenin tükenmemesi** üzerine kurmuştu. Ne demek bu? Havuzu oluşturan iki token çeşidinden de her zaman bulunması ve bu tokenlerin hiçbir şekilde bitmemesi. Likiditenin bitmemesi güzel bir özellik ama pratikte belli sıkıntıları oluyor. Neler bunlar?
 
 Birincisi, havuzun verimliliğini azaltıyor bu durum. Özellikle likidite sağlayıcılar için. Neden? Çünkü, bu ilke nedeniyle havuzda fiyat her ne olursa olsun, alıcılara servis edilecek token bulundurması gerekiyor. Bu da 0’dan sonsuza kadar giden geniş bir aralık için emre amade token bulundurmak demek.
 
@@ -174,7 +174,7 @@ Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan al
 
 İşlem yapanlar ise, bir fiyattan almak için teklif verdiklerinde sıkıntı yaşıyorlar. Birincisi, büyük bir emir verdiklerinde algoritma istedikleri fiyata çok az likidite bıraktığı için \(likiditeyi tüm havuza paylaştırmak zorunda\) yapılan işlemin fiyata ciddi bir etkisi oluyor \(buna fiyat etkisi ya da ‘price impact’ deniyor\). İkincisi ise, \(yukarıda da bahsettiğimiz\) havuzda çok sayıda işlem olması ama likiditenin sığ kalmasından dolayı, kullanıcının işlem emri verdiği sırada verdiği emir fiyatı ile gerçekleşen fiyat arasında aleyhlerine bir fark olduğunu görüyorlar \(ki buna ingilizcede slippage deniyor\).
 
-#### Başka ne sorunları var?
+#### Diğer sorunlar
 
 Uniswap’ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa süre de sekte vuran gelişme, ürün kodlarını aynen kopyalayan Sushiswap’ın ciddi bir likiditeyi kendi platformuna çekmiş olmasıydı. Komisyon oranlarını benzer şekilde tutan Sushiswap, likiditeyi kendine çekebilmek için kendi yönetim tokenini likidite sağlayıcılara vererek daha demokratik bir yapı olduğunu ilan etmişti. Bunun üzerine Uniswap da kendi tokenini çıkarıp dağıtmaya başladı ve likidite kanamasını bir nebze durdurmayı başardı. Token dağıtma bittikten sonra tekrar bir kayıp yaşasa da sonrasında eski seviyelerine dönmeyi başardı.
 
