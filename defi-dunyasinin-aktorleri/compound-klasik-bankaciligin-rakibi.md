@@ -1,8 +1,8 @@
 # Compound: Klasik bankacılığın rakibi
 
-Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
+Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneysel olsalar da, belli bir potansiyel sahibi oldukları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
 
-Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika’da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller.
+Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika’da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Çünkü, üzerlerinde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbiri yok.
 
 ### Nedir bu Compound?
 
@@ -18,13 +18,13 @@ _Image by_ [_Mudassar Iqbal_](https://pixabay.com/users/kreatikar-8562930/?utm_s
 
 ### Nasıl çalışıyor sistem?
 
-Compound sisteminde bireyler ellerindeki kripto paraları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kripto paraları kredi olarak kullanıyorlar. Bu “bir miktar fazla” Compound’un bu işten aldığı komisyon. Bankalara göre çok daha az.
+Compound sisteminde bireyler ellerindeki kriptoparaları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kriptoparaları kredi olarak kullanıyorlar. Bu 'bir miktar fazla' dediğimiz rakam aslında Compound’un bu işten aldığı komisyon. Tabii ki bankalara göre çok daha az.
 
 #### Faiz nasıl belirleniyor?
 
 Sistemin faiz belirleme yöntemi aslında bankalara benziyor: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza, yani arz ve talebe göre bir algoritma tarafından hesaplanıyor faiz.
 
-Ne sıklıkla? Çok! Ethereum üzerine kurulu bir sistem olarak Ethereum blok zincirine paralel şekilde borç verenlere ya da alanlara uygulanacak faiz her 15 saniyede bir belirleniyor.
+Ne sıklıkla? Çok! Üzerine kurulu olduğu Ethereum blokzincirinin bir blok oluşturma süresine paralel şekilde borç verenlere ya da alanlara uygulanacak faiz her 15 saniyede bir belirleniyor.
 
 Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde özetlenebilecek temel ekonomik prensiplere dayanıyor.
 
@@ -34,7 +34,7 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 #### Tahsilat riski nasıl aşılıyor?
 
-Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan, örneğin ETH, en düşük teminat oranına sahip.
+Peki bankacılığın meşhur olayı “alacak riski \(counter-party risk\)” nasıl bertaraf ediliyor? Diğer DeFi projelerine \(örneğin MakerDAO\) benzer şekilde, Compound sisteminde de kredi alanın belli bir kriptoparayı teminat olarak yatırması gerekiyor. Her kriptoparanın teminat oranı farklı. En likit olan, örneğin ETH, en düşük teminat oranına sahip.
 
 ![](../.gitbook/assets/020307-compound-collateral-_ratio.png)
 
@@ -42,7 +42,7 @@ _Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Hazira
 
 #### Hangi paralarda işlem yapılabiliyor?
 
-Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kripto paralar ile USDC, Tether, DAI gibi sabit paralar ile [mevduat yapabilir ya da kredi alabilirsiniz sistemden](https://compound.finance/markets).
+Şu aşamada ETH, WBTC \(Bitcoin’in değerine eşit ETH bazlı bir sentetik para\), Augur gibi Ethereum bazlı kriptoparalar ile USDC, Tether, DAI gibi stabil paralar ile sistemden [mevduat yapabilir ya da kredi alabilirsiniz](https://compound.finance/markets).
 
 ![](../.gitbook/assets/020309-compound-money-compound_currencies.png)
 
@@ -50,13 +50,13 @@ _Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak:_ [_Compo
 
 #### Kimler kullanıyor?
 
-Neden bir kişi sistemden borç almak ister? Temel nedeni spekülatif hareketler. Örneğin kişi bir nedenle sabit bir paraya sıkıştı ancak elindeki ETH’i satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip karşılığında Dai kredi alabilir. Ya da ETH'nin daha yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
+Neden bir kişi sistemden borç almak ister? Temel nedeni spekülatif hareketler. Örneğin kişi bir nedenle stabil bir paraya sıkıştı ancak elindeki ETH’i satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip stabil Dai kredi alabilir. Ya da ETH'nin daha yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
 
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
 
 ### Kim kurmuş bu Compound’u? Güvenilir mi peki?
 
-Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi.
+Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi.
 
 #### Tamamen merkeziyetsiz mi?
 
@@ -72,11 +72,11 @@ Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıc�
 
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası.
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok. Onlar Dai de dahil başka paraları kullanıyorlar; aynı bir banka gibi. \(Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir stabil para \([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)\) yaratmışken, Compound’da benzer bir stabil para yok. Onlar Dai de dahil başka paraları kullanıyorlar; aynı bir banka gibi. \(Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz ancak COMP stabil bir para değil\). 
 
 Compound’un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 
-Öte yandan Compound’un MakerDAO’dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenına yakından bakalım. 
+Öte yandan Compound’un MakerDAO’dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenine yakından bakalım. 
 
 ### Nedir COMP token?
 
@@ -84,47 +84,47 @@ Compound  ilk kurulduğunda girişim sermayesi alıp, ürün olarak merkeziyetsi
 
 Sıradaki hamle benzer şekilde yönetimi de merkeziyetsiz hale getirmek idi. Bunu da demokratik bir şekilde geniş bir kitle tarafından yönetilebilmek için COMP adı verilen bir token çıkarıp kullanıcılarına dağıtmaya başlayarak yaptılar.
 
-Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlara sahip olmaları durumunda gelecekte sistemin güvenliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleri idi.
+Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlere sahip olmaları durumunda gelecekte sistemin güvenirliliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleri idi.
 
 ### Nasıl işledi COMP hamlesi?
 
-Compound, COMP tokenları dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde, örneğin bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformların kimileri de yönetim tokeni dağıtırken bu yolu izledi. Örneğin [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlarını bu şekilde “başkasına devredemezsiniz” [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) \(ve kısa bir süre sonra da satışı durdurdu\).
+Compound, COMP tokenleri dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde, örneğin bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformların kimileri de yönetim tokeni dağıtırken bu yolu izledi. Örneğin [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlerini bu şekilde “başkasına devredemezsiniz” [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) \(ve kısa bir süre sonra da satışı durdurdu\).
 
-Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP tokenlar anında çeşitli borsalarda işlem görmeye başladı. 
+Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP tokenler anında çeşitli borsalarda işlem görmeye başladı. 
 
-Kısıtlı sayıda \(10 milyon adet\) basılan COMP tokenler başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [çıktı](https://www.coingecko.com/en/coins/compound).
+Kısıtlı sayıda \(10 milyon adet\) basılmış olan COMP tokenler başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [yükseldi](https://www.coingecko.com/en/coins/compound).
 
 Tabii, bu hemen akıllara 2017 yılının meşhur halka arzlarını \(ingilizcesi Initial Coin Offering - ICO\) getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı 'kaldırmıştı'. COMP da acaba öyle mi?
 
 Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra neden benzediğini tartışırız.
 
-Öncelikle, 2017 yılının ICO projeleri tamamen kağıda yazılı bir hayal satıyorlardı. Compound’un durumu öyle değil. Zira hali hazırda sahip oldukları ve gayet iyi işleyen bir sistemleri var.
+Öncelikle, 2017 yılının ICO projeleri tamamen kâğıda yazılı bir hayal satıyorlardı. Compound’un durumu öyle değil. Zira hâlihazırda sahip oldukları ve gayet iyi işleyen bir sistemleri var.
 
-İkincisi, ICO’larda girişimlerin çıkardığı tokenlar tamamen kâr amacı güden yatırımcılara para karşılığı satılmıştı \(her ne kadar bu tokenların bir gün sistemi kullanmakta da işe yarayacağı söylense de\). Şimdi ise sistem üzerinden alım satım yapan kullanıcılara yaptıkları işlem karşılığı token verilmesi var. Dolayısıyla sistemi büyütmeye yarayan bir token dağıtımı söz konusu.
+İkincisi, ICO’larda girişimlerin çıkardığı tokenler tamamen kâr amacı güden yatırımcılara para karşılığı satılmıştı \(her ne kadar bu tokenlerin bir gün sistemi kullanmakta da işe yarayacağı söylense de\). Şimdi ise sistem üzerinden alım satım yapan kullanıcılara yaptıkları işlem karşılığı token verilmesi var. Dolayısıyla sistemi büyütmeye yarayan bir token dağıtımı söz konusu.
 
-Neden 2017’in token projelerini andırıyor? En önemli nedeni kullanıcılarda “aman kârlı bir projeyi kaçırıyorum” şeklinde bir panik \(FOMO\) yaratmış olması. Halbuki, Compound’un CEO’su bile bu tokenların bir kâr amacı gütmeyeceğini söylüyor.
+Neden 2017’in token projelerini andırıyor? En önemli nedeni kullanıcılarda “aman kârlı bir projeyi kaçırıyorum” şeklinde bir panik \(FOMO\) yaratmış olması. Hâlbuki, Compound’un CEO’su bile bu tokenlerin bir kâr amacı gütmeyeceğini söylüyor.
 
 ### Niye bu kadar talep gördü COMP?
 
 En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine bir sarmala dönüşmüş olması. Ne demek bu?
 
-Compound’un mevduat yatırmak ya da kredi almak işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokenı aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
+Compound’un mevduat yatırmak ya da kredi almak işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokeni aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
 
-COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformların en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kripto para değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
+COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformların en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kriptopara değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
-Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem mevduat yapan hem de kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkanları da hemen kullanılmaya başlandı.
+Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem mevduat yapan hem de kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkânları da hemen kullanılmaya başlandı.
 
-### COMP tokenların değeri nereden geliyor?
+### COMP tokenlerin değeri nereden geliyor?
 
-Bu arada şunu da belirtelim. Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaat etmiyor. Şu an için sadece sistemin hangi yöne gideceği konusunda oy verecek ellerinde COMP tutanlar.
+Bu arada şunu da belirtelim. Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaat etmiyor. Token sahiplerinin şu an içi yapabilecekleri, sadece sistemin hangi yöne gideceği konusunda oy vermek ile sınırlı. 
 
-Peki ileride bu değişebilir mi? Örneğin sistem kâr dağıtmaya başlayabilir mi? Kim bilir? COMP tokenlar bu hızla giderse 4 yıl sonra tamamen dağıtılmış olacak. Yönetim de tamamen merkeziyetsiz bir hale gelecek. O zaman COMP sahipleri oturup demokratik olarak kâr dağıtmaya karar verebilirler mi? Verebilirler tabii, neden olmasın?
+Peki ileride bu değişebilir mi? Örneğin sistem kâr dağıtmaya başlayabilir mi? Kim bilir? COMP tokenler bu hızla giderse 4 yıl sonra tamamen dağıtılmış olacak. Yönetim de tamamen merkeziyetsiz bir hale gelecek. O zaman COMP sahipleri oturup demokratik olarak kâr dağıtmaya karar verebilirler mi? Verebilirler tabii, neden olmasın?
 
-İşte bu ileride kâr dağıtma ihtimalini sevdi sanki kimi uzun vadeli ve sadece ekonomik getiriye bakan yatırımcılar.
+Kimi uzun vadeli ve sadece ekonomik getiriye bakan yatırımcılar, işte bu ileride kâr dağıtma ihtimalini sevdi gibi gözüküyor. 
 
-Ancak unutmamak lazım: bu aslında iki ucu keskin bir kılıç. COMP sayesinde yönetimi eline geçiren istediğini yapabilir. Kâr dağıtma kararı verebileceği gibi, yeni token dağıtma yolunu da seçebilir. Hepimizin aklı Bitcoin’in 21 milyon ile sınırlı olmasına gidiyor ama orada kanunu kod yazıyor ve bozulması merkeziyetsiz yapının iyice oturmuş olması nedeniyle neredeyse imkansız. Ama COMP için bu kadar kesin konuşmamak gerekiyor.
+Ancak unutmamak lazım: bu aslında iki ucu keskin bir kılıç. COMP sayesinde yönetimi eline geçiren istediğini yapabilir. Kâr dağıtma kararı verebileceği gibi, yeni token dağıtma yolunu da seçebilir. Hepimizin aklı Bitcoin’in 21 milyon ile sınırlı olmasına gidiyor ama orada kanunu kod yazıyor ve bozulması merkeziyetsiz yapının iyice oturmuş olması nedeniyle neredeyse imkânsız. Ama COMP için bu kadar kesin konuşmamak gerekiyor.
 
-### Peki kim alıyor bu COMP tokenları?
+### Peki kim alıyor bu COMP tokenleri?
 
 En başta, Compound’un gelecekte hangi yöne gitmesi konusunda hassas olan bazı kesimler var. Kim bunlar? Öncelikle, şimdiye kadar Compound’a yatırım yapmış olan fonlar; zira yaptıkları yatırımın ne yöne gideceği konusunda kontrolü ellerinden kaçırmak istemiyorlar.
 
@@ -132,7 +132,7 @@ COMP’a ilgi duyanlar, Compound’un mevcut yatırımcıları ile sınırlı de
 
 Son olarak, COMP token satın alanlar arasında kısa vadeli kazanç peşinde koşan spekülatörleri de sayabiliriz. Bu kesimin, Compound sisteminin yönetimine katılmak konusunda çok büyük bir arzusu olduğu pek düşünülemez.
 
-### COMP token üzerine son birkaç söz
+### Compound üzerine son birkaç söz
 
-İşte gelecekte karşımıza çok çıkacak olan kripto para sanal dünyası ile fiziki dünya arasında yaşanacak zihin açıcı sorulardan bir tanesi size: Bir gün Facebook, Google gibi büyük devlerin fiziki ülkelerden daha güçlü olacağını düşünenler var. Peki bu bir şekilde gerçek olursa, BTC, ETH gibi platformların da kendi içlerinde bağımsız adacıklar olarak bu merkezi yapıların yanında kendilerine yer bulmaları mümkün olabilir mi?
+Compound, kredi/mevduat alanının ağır topu olarak 2020 yılı içinde DeFi'nin büyümesine en çok katkı sağlayan protokollerden biri oldu. Gelecekte nasıl bir ilerleme göstereceklerini izlemek ilginç olacak. Zira karşılarında, Aave gibi oldukça yenilikçi ciddi rakipler var. DeFi'nin 'gücü müşteriye verme' felsefesi gereği, klasik finansın aksine, kullanıcılar varlıklarını çok rahat hizmet sağlayıcılar arasında kaydırabiliyorlar. Bu da müşteriyi elinde tutmak için sürekli yenilik yapma gerekliliği doğuruyor. Bakalım Compound bu yarışta önlerde yer alabilecek mi?
 
