@@ -4,7 +4,7 @@ Kitabımızın birinci kısmında, finans dünyasında yeni başlayan DeFi harek
 
 ### MakerDAO nedir?
 
-MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kriptoparaları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp, o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar - yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna İngilizce'de 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
+MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kriptoparaları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp, o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar; yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna İngilizce'de 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
 
 #### Nasıl çalışıyor?
 
@@ -46,7 +46,7 @@ Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai ya
 
 Teknik olarak çok detaya girmedik ancak Dai dışında MakerDAO’nun bir parası daha var, o da MKR. Dai’yi sistemin parası, MKR’yi ise sistemin sermayesi ya da yönetim tokeni olarak düşünebiliriz. Para alışverişleri Dai ile yapılırken ve Dai ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar. Örneğin; teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. 
 
-Bu arada olası bir kriz durumunda, MKR, bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat olarak tutulan paraların değerinde ani ve büyük bir düşüş yaşanır da teminat miktarı kredinin altına düşerse, o zaman aradaki fark MKR yaratılarak karşılanıyor. MKR'in emisyonunu artıran bu hareket onun değerini düşüreceği için MKR sahipleri açısından olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki tuttukları tokenların değeri böyle bir olay nedeniyle azalmasın diye teminat oranı vb rakamlarda olabildiğince tutucu davranmak zorundalar. Sistem bu alanda da bir nevi otokontrol yaratmış durumda.
+Bu arada olası bir kriz durumunda, MKR, bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat olarak tutulan paraların değerinde ani ve büyük bir düşüş yaşanır da teminat miktarı kredinin altına düşerse, o zaman aradaki fark MKR yaratılarak karşılanıyor. MKR'in emisyonunu artıran bu hareket onun değerini düşüreceği için MKR sahipleri açısından olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki tuttukları tokenlerin değeri böyle bir olay nedeniyle azalmasın diye teminat oranı vb rakamlarda olabildiğince tutucu davranmak zorundalar. Sistem bu alanda da bir nevi otokontrol yaratmış durumda.
 
 Bunun yanında Dai fiyatında aşırı bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri MakerDAO'nun [Tanıtım Dokümanı](https://makerdao.com/en/whitepaper/)‘nı \(İngilizcesi White Paper\) okumaya davet ederek konuyu kapatıyoruz.
 
@@ -74,7 +74,7 @@ Böyle bir durumda makul olanı; ya ekstradan ETH koyarak ya da yarattığınız
 
 MakerDAO yöneticileri, sistemin güvenliğini sağlayan MKR token sahiplerine dönerek zarar görenleri zor durumdan kurtaracak bir plan önerdiler. Bu sayede kontratı yananların durumları düzeltildi.
 
-Daha sonrasında 19 Mayıs 2021'de bir yıl önce yukarıda değindiğimize benzer bir olay daha yaşandı. Bu sefer,  ETH bir önceki günkü kapanışına göre gün içinde bir ara %45 değer kaybetse de, MakerDAO sistemsel olarak herhangi bir sıkıntı yaşamadı. 
+Daha sonrasında 19 Mayıs 2021'de bir yıl önce yukarıda değindiğimize benzer bir olay daha yaşandı. Bu sefer,  ETH bir önceki günkü kapanışına göre gün içinde bir ara %45 değer kaybetse de, MakerDAO sistemsel ya da kullanıcıya etki edecek herhangi bir sıkıntı yaşamadı. 
 
 ### Gelecek nasıl görünüyor?
 
