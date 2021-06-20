@@ -1,6 +1,6 @@
 # Uniswap ve DeFi'nin merkeziyetsiz borsaları
 
-Uniswap, merkeziyetsiz olarak işlem yapılan bir kripto para borsası ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap, özünde İngilizce’de “market maker” olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım:
+Uniswap, merkeziyetsiz olarak işlem yapılan bir kripto para borsası ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap, özünde İngilizce’de 'market maker' olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım:
 
 Öncelikle merkeziyetsizliğe bakalım. Merkez olmayınca aklımıza ilk olarak kişiden-kişiye \(peer-to-peer P2P\) işlem geliyor ancak Uniswap biraz daha farklı olarak kişiden-kontrata \(peer-to-contract\) işlem denen bir sistem ile çalışıyor . Yani kişi bir işlem yapmak istediğinde karşısında bir başka kişi yok, bir kontrat var. Ve bu kontratın arkasında da bir havuz.
 
@@ -108,11 +108,11 @@ Neden farklı havuzlara ihtiyaç var? Özellikle likidite sağlayanlar havuza to
 
 #### Yönetim tokeni
 
-Uniswap’ta likidite sağlayıcıların Eylül 2020 başına kadar gelirleri yalnızca sağladıkları likiditeye karşılık yapılan işlemlerden aldıkları komisyonlar idi. Halbuki rakip projeler, bu komisyonlar dışında kullanıcılara ve likidite sağlayıcılara kendi tokenlerini veren teşvik mekanizmaları geliştirdiler. İşte geçtiğimiz haftaki yazının hemen ardından Uniswap da benzer bir tokeni kendi paydaşlarına dağıtmaya başladı. Üstelik oldukça demokratik bir biçimde, geçtiğimiz dönemde \(1 Eylül 2020’ye kadar\) Uniswap kullanıp da işlem yapmış her bir hesaba 400 UNI tokeni bedava verdiler. Bu dağıtım sonrasındaki bir hafta içinde bir UNI token fiyatının 3-8 ABD Doları arasında değiştiği düşünülürse, geniş bir kitlenin mutlu olduğunu söylemeye gerek yok.
+Uniswap’ta likidite sağlayıcıların Eylül 2020 başına kadar gelirleri yalnızca sağladıkları likiditeye karşılık yapılan işlemlerden aldıkları komisyonlar idi. Halbuki rakip projeler, bu komisyonlar dışında kullanıcılara ve likidite sağlayıcılara kendi tokenlerini veren teşvik mekanizmaları geliştirdiler. Geçtiğimiz bölümde bahsettiğimiz Compound'un çıkardığı COMP tokeninin hemen ardından Uniswap da benzer bir tokeni kendi paydaşlarına dağıtmaya başladı. Üstelik oldukça demokratik bir biçimde, 1 Eylül 2020’ye kadar Uniswap kullanıp da işlem yapmış her bir hesaba 400 UNI tokeni bedava verdiler. Bu dağıtım sonrasındaki bir hafta içinde bir UNI token fiyatının 3-8 ABD Doları arasında değiştiği düşünülürse, geniş bir kitlenin mutlu olduğunu söylemeye gerek yok.
 
 #### Diğer projeler ile birlikte çalışabilmek
 
-DeFi projelerinin klasik projelere göre en önemli farklarından biri, farklı projelerin birbirleriyle uyumlu çalışabilmesi. Buna “money lego” diyenler de var. İşte, Uniswap rakipleri başka başka projeler ile iletişim içinde yeni ve kazancı daha yüksek ürünler çıkarabiliyorlar.
+DeFi projelerinin klasik projelere göre en önemli farklarından biri, farklı projelerin birbirleriyle uyumlu çalışabilmesi. Buna 'money lego' diyenler de var. İşte, Uniswap rakipleri başka başka projeler ile iletişim içinde yeni ve kazancı daha yüksek ürünler çıkarabiliyorlar.
 
 #### Fiyat
 
@@ -124,7 +124,7 @@ Peki Uniswap’ın hangi rakibi yukarıdaki hangi özellikte ondan farklılaşı
 
 #### Curve
 
- [Curve](https://www.curve.fi/), yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı kullanıcılara her ne olursa olsun işlem yapabilecekleri bir token sunmak iken; **Curve algoritması için önemli olan - yukarıda Uniswap için bahsettiğimiz - işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek**.
+ [Curve](https://www.curve.fi/), yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Uniswap algoritmasının amacı kullanıcılara her ne olursa olsun işlem yapabilecekleri bir token sunmak iken; **Curve algoritması için önemli olan, yukarıda Uniswap için bahsettiğimiz, işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek**.
 
 Curve’un kullandığı bu algoritma, daha çok al-sat yapan kullanıcılar için yüksek hacimli ve fiyatı fazla oynamayan token çiftlerinde avantaj sağlıyor. Örneğin; ABD Doları’na bağlı olan iki stabil kripto paranın \(Tether yani USDT ve USDC çifti gibi\) olduğu havuzlarda Curve’in algoritması çok daha iyi çalışıyor\[^3\].
 
