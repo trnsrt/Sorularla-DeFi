@@ -45,5 +45,3 @@
 * [Farklı merkeziyetsiz borsaları aynı anda kullanmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/farkli-merkeziyetsiz-borsalari-ayni-anda-kullanmak.md)
 * [DeFi'de portföy nasıl takip edilir?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defide-portfoey-nasil-takip-edilir.md)
 
-## Park edilenler
-

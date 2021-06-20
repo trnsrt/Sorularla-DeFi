@@ -2,7 +2,7 @@
 
 Bu bölümde, son kullanıcı olarak direkt olarak kullanmadığımız ancak Merkeziyetsiz Finans için kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım:
 
-### Nedir Oracle?
+## Nedir Oracle?
 
 Oracle’in tam Türkçesi karışık. Kahin ya da uzman olarak çevrilebilir. Peki ne işe yarar?
 
@@ -20,7 +20,7 @@ Bu, en basit ve bariz örnek. İki yıl önce yayınlanan [“Tahmin piyasaları
 
 ABD seçimi gibi tek bir olaya bağlı tahminlerde işe yarayabilecek olan manuel bilgi aktarımı, merkeziyetsiz dünyada çok da çalışmayacak gibi görünüyor. Gelin bakalım ne gerekiyor DeFi dünyasına:
 
-#### Merkeziyetsiz dünya için neden önemli?
+### Merkeziyetsiz dünya için neden önemli?
 
 Merkeziyetsiz finans dünyasının oyuncusu olan değişik platformlar, aynı bir legonun parçaları gibi birbirine iç içe geçmiş bir şekilde çalışıyorlar. Yukarıdaki basit örneğin ötesinde, bu lego parçalarının birbirleriyle uyumlu şekilde hareket edebilmeleri için onlarca hatta yüzlerce bilginin akıllı kontratlara akması gerekiyor. Bunu sağlayabilmek için kaynaklardan alınan bilginin hem doğru ve tarafsız hem de çok hızlı bir şekilde toplanması gerekiyor.
 
@@ -28,13 +28,13 @@ Bir örnek verelim: Sentetik türev piyasaları, basitçe herhangi bir ürünün
 
 İşte oracle dediğimiz uzmanlar, Akıllı Kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Ve her ne kadar direkt temasa geçmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
 
-#### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
+### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
 
 Yukarıda merkeziyetsiz bir oracle örneği verdik ancak hemen belirtmek lazım; bu alanda en büyüklerden bir tanesi ABD’nin en büyük merkezi kripto borsası olan Coinbase tarafından sunulan merkezi bir oracle. [Coinbase Price Oracle](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068) sayesinde, piyasada işlem gören tokenların fiyat bilgilerini sürekli bir biçimde elde etmek mümkün.
 
 Merkezi yapılar, DeFi dünyasında genelde hoş karşılanmazlar. Bunun temel nedeni, hep bahsettiğimiz dijital dünyada merkezi yapıların güvenlik açığı yaratma algısı. Zira, tek kaynak olmaları nedeniyle bu yapılara yapılacak saldırılar fiyatların manipüle edilmesine yol açabilir. Bu da, o fiyatları kullanarak hizmet veren platformları zor durumda bırakabilir.
 
-#### Merkeziyetsiz platformlar nasıl yapıyorlar bu işi?
+### Merkeziyetsiz platformlar nasıl yapıyorlar bu işi?
 
 Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım \(son kullanıcı olarak ilginizi çekmiyor ise bir sonraki bölüme atlayabilirsiniz\):
 
@@ -151,3 +151,4 @@ Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde s
 Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması, ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz.
 
 \[^1\] messari-report-crypto-theses-for-2021.pdf Sayfa 67
+
