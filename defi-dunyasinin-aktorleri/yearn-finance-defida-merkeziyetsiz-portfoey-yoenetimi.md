@@ -76,7 +76,7 @@ Bunun yannda, deneme anlamında pek çok yeni ürün çıkarma çabaları da sü
 
 Bunun dışında henüz ArGe aşamasında olan, şu anki mevcut DeFi sistemi içinde yaşanan aksaklıkların önüne geçip kullanıcıya daha sorunsuz bir deney sunmaya çalışan birçok ürüne sahip Yearn. Bunların ne zaman ve ne kadar yaygınlaşacağını hep birlikte göreceğiz.
 
-Kullanımda olan tüm Yearn ürünleri ile ilgili; yatırılmış ya da yatırıma yönlendirilmiş para, günlük/haftalık/aylık kazançları topluca görebileceğiniz [bir bilgi sayfası da mevcut](https://stats.finance/yearn).
+Kullanımda olan tüm Yearn ürünleri ile ilgili; yatırılmış ya da yatırıma yönlendirilmiş para, günlük/haftalık/aylık kazançları topluca görebileceğiniz [bir bilgi sayfası da mevcut](https://yearn.finance/stats).
 
 Şimdi de gelin Yearn ve tokeni YFI ile birlikte tüm protokolün risklerini değerlendirelim.
 
@@ -124,9 +124,9 @@ _**Protokol ne kadar Andre’ye bağlı?**_
 
 Andre çok sıkı bir programcı. Üniversite eğitimi hukuk; ancak Yearn öncesinde [CryptoBriefing](https://cryptobriefing.com/) sitesi için değişik blokzincirleri analiz ediyor, \(Bu arada kripto alanının en önde gelen şahsiyetlerinden Akıllı Kontratların mucidi [Nick Szabo](https://twitter.com/NickSzabo4)‘nun da [hukuk eğitimi almış olması](https://en.wikipedia.org/wiki/Nick_Szabo) ilginç bir detay\). Oldukça zeki ve kuvvetli bir programcı olmasının yanında gelgitleri olan biri. Kurduğu programı bir süreliğine bıraktı, hem de [bir](https://cointelegraph.com/news/one-man-defi-developer-quits-citing-hostile-community) değil [iki](https://www.coindesk.com/yearn-finances-creator-says-hes-quit-defi-but-project-has-bench-strength) kez. Verdiği kimi sözleri tutmadığı iddia edildi. Hatta bununla ilgili [Güney Afrika’da açılmış davalar olduğu söyleniyor](https://unchainedpodcast.com/why-bitcoin-now-meltem-demirors-and-lyn-alden-on-the-perfect-conditions-for-bitcoin/).
 
-Andre hakkında çıkan söylentileri “meyveli ağacı taşlarlar” olarak mı “ateş olmayan yerden duman çıkmaz” olarak mı değerlendirmeli o kullanıcıya kalmış.
+Andre hakkında çıkan söylentileri “meyveli ağacı taşlarlar” olarak mı “ateş olmayan yerden duman çıkmaz” olarak mı değerlendirmeli o kullanıcılara kalmış.
 
-Zira, asıl önemli olan projenin nasıl bir topluluğa sahip olduğu. Kişisel olarak çok sevdiğim Naval Ravikant’ın geçtiğimiz günlerde yazdığı şu tweeti hatırlatayım size: “[Bir ürünün sürdürülebilmesi için bir şirket gerektiği gibi, bir protokolün devam etmesi için de bir topluluk gerekir](https://twitter.com/naval/status/1325531942431813632?s=20) "
+Zira, asıl önemli olan projenin nasıl bir topluluğa sahip olduğu. Kişisel olarak çok sevdiğim Naval Ravikant'a ait şu tweeti hatırlatayım size: “[Bir ürünün sürdürülebilmesi için bir şirket gerektiği gibi, bir protokolün devam etmesi için de bir topluluk gerekir](https://twitter.com/naval/status/1325531942431813632?s=20) "
 
 Sonuçta Yearn tarafından ortaya çıkarılan bütün ürünler açık kod. İsteyen istediği gibi içine girip bakabilir. Klasik dünyada ise o koca koca şirketlerin içinde de kim bilir neler dönüyor? “Kol kırılır yen içinde kalır” hesabı bu olaylar dış dünyaya yansıtılmıyor. Hangisi daha şeffaf ve güvenilir?
 
@@ -134,7 +134,7 @@ Bir sistemin sürdürülebilirliğine bakarken belli sorular var cevaplanması g
 
 Keza bir önceki bölümde bahsettiğimiz YIF tokeninin ana amacı; protokolü kişilerden bağımsız topluluk tarafından sürdürülebilir hale getirmek.
 
-Dolayısıyla kurucusu Andre’nin gelgitlerinden bağımsız olarak Yearn protokolü; takipçi sayısı ve kullanıcısı geniş bir topluluk olarak gelecekte de DeFi’nin önemli protokollerinden biri olmaya aday.
+Dolayısıyla kurucusu Andre’nin gelgitlerinden bağımsız olarak Yearn protokolü; takipçi ve kullanıcısı sayısı geniş bir topluluk olarak gelecekte de DeFi’nin önemli protokollerinden biri olmaya aday.
 
 #### Neden popüler oldu Yearn ürünleri?
 
@@ -154,13 +154,13 @@ Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu
 
 _2020 yılından 2021 ortasına Yearn protokolüne kilitlenen para miktarı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/yearn.finance)\_\_
 
-Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenlarının ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler, insanların gözlerini kamaştırdı. Büyük miktarlarda “balina” olarak adlandırılan yatırımcıların paraları bu alana ve Yearn protokolüne yığıldı.
+Yearn asıl büyümesini, DeFi alanında yeni ortaya çıkan yönetim tokenlerinin ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler, insanların gözlerini kamaştırdı. Büyük miktarlarda “balina” olarak adlandırılan yatırımcıların paraları bu alana ve Yearn protokolüne yığıldı.
 
 #### Sonra?
 
 Sonra “deniz tükendi”. Yönetim tokenlerindeki artışların getirdiği üç haneli rakamlar, tek haneli rakamlara doğru inmeye başladı. Aslında üç haneli rakamlar yanıltıcı idi. Neden?
 
-Çünkü gösterilen getiri, aylık getirinin bileşik hesaba göre yıllığa çevrilmesi idi. Açıkcası bu da tek gösterim yolu; zira geçmişe ait veri yok elde. Ama bu yine de yanıltıcı olduğu gerçeğini değiştirmiyor. Örneğin, aylık %5.94 getirili bir üründen kazanılan para, yeniden yatırıma döner ve her ay aynı oranda kazandırmaya devam ederse; yılda %100 getirir \(matematiksel olarak \(1+0.0594\)^12-1\). Soru tabii ki; her ay aynı getiriyi getirebilir mi?
+Çünkü gösterilen getiri, aylık getirinin bileşik hesaba göre yıllığa çevrilmesi idi. Açıkçası bu da tek gösterim yolu; zira geçmişe ait veri yok elde. Ama bu yine de yanıltıcı olduğu gerçeğini değiştirmiyor. Örneğin, aylık %5.94 getirili bir üründen kazanılan para, yeniden yatırıma döner ve her ay aynı oranda kazandırmaya devam ederse; yılda %100 getirir \(matematiksel olarak \(1+0.0594\)^12-1\). Soru tabii ki; her ay aynı getiriyi getirebilir mi?
 
 Şunu söyleyelim: Yearn ürünleri hâlâ ortada ve getirileri eskisi kadar yüksek olmasa da hâlâ makul rakamlarda. Risk yönetimi açısından yukarıdaki gibi onlarca risk saysak da bu riskler genelde teknik alanda \(kod hatası benzeri\). Finansal olarak ise gerek Earn gerekse yVault prensip olarak kullanıcıya ellerinde tuttukları kriptoparanın üzerine “risksiz getiri” sağlama mantığına göre çalışıyor. Nasıl yapıyorlar bunu? Kullanıcıdan aldıkları kriptoparayı teminat verip; karşılığında borç olarak aldıkları stabil parayı değişik yatırım araçlarında değerlendirerek. Yani, **teminat volatil \(iniş-çıkışlı\), ama hem yatırım yapılan hem de bu yatırım için kullanılan kredi tam tersi olarak sıfıra yakın volatileye sahip.**
 
