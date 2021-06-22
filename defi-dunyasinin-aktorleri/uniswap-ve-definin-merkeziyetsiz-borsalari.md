@@ -72,6 +72,8 @@ Sistemdeki en kritik risk, ani ve kalıcı fiyat artışlarında ortaya çıkıy
 * Halbuki bu kişi ETH ve USDC’sini havuza yatırmayıp elinde tutsaydı; USDC cinsinden 10 ETH x 400=4.000 artı 3.000 USDC toplam 7.000 USDC varlığı olacaktı.
 * Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’çılara. Buna “geçici kayıp” \(impermanent loss\) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor.
 
+![Havuza likidite vermek sonucu ortaya &#xE7;&#x131;kan &apos;ge&#xE7;ici kay&#x131;p&apos;](../.gitbook/assets/placeholder.png)
+
 Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın arkasında kalmış. Yani likidite koyanlar ciddi bir risk taşıyorlar.
 
 ![](../.gitbook/assets/020407-uniswap_ve_definin_merkeziyetsiz_borsalari-uniswap_returns_v3.jpg)
