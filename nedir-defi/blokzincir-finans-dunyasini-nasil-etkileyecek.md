@@ -76,7 +76,7 @@ Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yükse
 
 #### Sonuç
 
-Dijitalleşme ile birlikte hızlı bir dönüşümden geçerek kârlı konumlarını artıran finansal kurumlar, şimdi yeni bir dönüşümün arifesindeler. Üstelik bu sefer masanın diğer tarafındaki müşteriler hem daha donanımlı hem de daha farklı alternatife sahipler. Açık bankacılık alanında olduğu gibi yeni Fintech girişimlerine adapte olmaları onları oyunda bir süre daha tutacak taktiksel davranışlar olabilir. Ancak uzun soluklu bir maraton için kendilerini yeniden konumlandırmaları şart. Bu da finansal kurumlar için hem daha güçlü ve zor ulaşılabilir bir müşteri kitlesi hem de yüksek işlem hacimli ama düşük marjların olduğu bir dünyayı işaret ediyor.
+Dijitalleşme ile birlikte hızlı bir dönüşümden geçerek kârlılıklarını artıran finansal kurumlar, şimdi yeni bir meydan okumanın arifesindeler. Üstelik bu sefer masanın diğer tarafındaki müşteriler hem daha donanımlı hem de daha farklı alternatife sahipler. Açık bankacılık alanında olduğu gibi yeni Fintech girişimlerine adapte olmaları onları oyunda bir süre daha tutacak taktiksel davranışlar olabilir. Ancak uzun soluklu bir maraton için kendilerini yeniden konumlandırmaları şart. Bu da finansal kurumlar için hem daha güçlü ve zor ulaşılabilir bir müşteri kitlesi hem de yüksek işlem hacimli ama düşük marjların olduğu bir dünyayı işaret ediyor.
 
 2009 yılında başlayan Blokzincir bazlı teknolojilerin günümüze gelirken en yaygın kullanıldıkları alan finans oldu. Bu alanda ortaya çıkan teknolojilere genel olarak merkeziyetsiz finans \(DeFi- Decentralized Finance\) denildi. Şimdi gelin, önümüzdeki bölümde DeFi konusuna yavaş yavaş girmeye başlayalım. 
 
