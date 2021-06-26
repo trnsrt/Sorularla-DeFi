@@ -42,7 +42,7 @@ Keza, 'finansal dünyaya erişimi olmayan kesimleri sistem içine sokmak' da fik
 
 Yukarıdaki saydığımız nedenlerin ötesinde, **bu hesaplar sayesinde merkez bankaları sadece parasal değil mâli anlamda da hızlı etki edebilecek politikalar geliştirme imkanına kavuşabilirler.** Biraz daha açalım: Devlet ile vatandaş arasında birebir bir kanal açıldığında, herhangi bir alanda verilecek teşviklerin ihtiyaç sahiplerine anında ulaştırılması sağlanabilir. Böyle bir sistem, bu teşviklerin kullanımının izlenmesi ve sonuçlarının hızla değerlendirilmesine olanak verebilir. Böylesine hızlı bir geribildirim aynı zamanda izlenen stratejinin çok daha etkin ve ölçülebilir yeni aksiyonlar ile güçlendirilmesine de destek olabilir.
 
-#### Finans dünyası nasıl tepki verecek?
+### Finans dünyası nasıl tepki verecek?
 
 İşte yukarıda bahsettiğimiz bu üç kulvarda, kriptoparalar, Facebook/PayPal benzeri büyük teknoloji şirketleri ve merkez bankaları, klasik finans dünyasının oturduğu sandalyeyi altından çekebilirler.
 
