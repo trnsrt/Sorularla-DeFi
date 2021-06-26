@@ -4,17 +4,15 @@ Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans ol
 
 ### Finans sektörü blokzincir bazlı teknolojilerden neden etkilenecek?
 
-Blockchain bazlı sistemlerin ana amacını iki taraf arasında yapılan işlemlerde merkezi bir aracının sağladığı 'güven' hizmetini aracıdan alıp binlerce makineye yaymak. Böylece bu güvene duyulan ihtiyacı ortadan kaldırmak.
+Blockchain bazlı sistemlerin ana amacı, iki taraf arasında gerçekleşen işlemlerde ihtiyaç duyulan 'güven' hizmetini merkezi aracıdan alıp binlerce makineye yayarak, bu ihtiyacı ortadan kaldırmak. Bu sistemi yürüten makineler farklı lokasyonlardalar ve birbirinden bağımsız hareket ediyorlar. Bu sayede, tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor.
 
-Bu sistemleri işleten makineler dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları sayesinde tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor.
+Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan, bu makineler için yazılmış özel direktifler, bir başka deyişiyle 'akıllı kontratlar'. Akıllı kontratları ilerleyen bölümlerde detaylıca ele alacağız. 
 
-Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan bu makineler için yazılmış özel direktifler, bir başka deyişiyle 'akıllı kontratlar'. Akıllı kontratları ilerleyen bölümlerde detaylıca ele alacağız. 
+Finans piyasasındaki aktörlerin ana fonksiyonu, işte ikili ilişkilerde kişiler arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleri idi. Şimdi blokzincirin bu rolü üstlenmesi, bugün olmasa bile yakın bir gelecekte, bu aktörler için varoluşsal bir tehdit oluşturuyor.
 
-Finans piyasasındaki aktörlerin ana fonksiyonu, işte ikili ilişkilerde kişiler arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleri idi. Şimdi blokzincirin bu role soyunması bu aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte.
+### Peki her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında?
 
-### Peki her tür finansal işlem etkilenecek mi? İlk tehdit altında olanlar hangileri?
-
-Finans piyasasının tehdit altında olduğu ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de kimi zaman belirli ülkelerde yaşayanlar için ulaşması imkansız bir sistem.
+Blokzincirin teknolojisinin kullanmaya başlamasıyla, finans piyasasında tehdit altında kalan ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de kimi zaman belirli ülkelerde yaşayanlar için ulaşması imkansız bir sistem.
 
 Dikkat ederseniz, para transferi kişiler arası gerçekleştirilen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı, tam da bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan, burası oldu.
 
