@@ -74,7 +74,7 @@ Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek 
 
 Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yüksek alanlara odaklandılar. Teknoloji geliştikçe ve insanlar alıştıkça daha karmaşık alanlara girmeye başladılar. Aslında **blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar demek daha doğru olabilir. Ancak bu girişimlerden, göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışanların başarı şansı daha yüksek olacak**.
 
-#### Sonuç
+### Sonuç
 
 Dijitalleşme ile birlikte hızlı bir dönüşümden geçerek kârlılıklarını artıran finansal kurumlar, şimdi yeni bir meydan okumanın arifesindeler. Üstelik bu sefer masanın diğer tarafındaki müşteriler hem daha donanımlı hem de daha farklı alternatife sahipler. Açık bankacılık alanında olduğu gibi yeni Fintech girişimlerine adapte olmaları onları oyunda bir süre daha tutacak taktiksel davranışlar olabilir. Ancak uzun soluklu bir maraton için kendilerini yeniden konumlandırmaları şart. Bu da finansal kurumlar için hem daha güçlü ve zor ulaşılabilir bir müşteri kitlesi hem de yüksek işlem hacimli ama düşük marjların olduğu bir dünyayı işaret ediyor.
 
