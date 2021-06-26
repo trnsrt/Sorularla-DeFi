@@ -12,7 +12,7 @@ _“Bir teknoloji genelde ilk çıktığında kullanıcıların ihtiyaçlarını
 
 _Ancak mevcut piyasa oyuncularının kaçırdığı nokta, başlangıçta oyuncak olarak adlandırılan bu teknolojilerin, hızlı yenilikler ve altyapıların oluşması sonucu bir noktada müşterilerin ihtiyaçlarını karşılamakla kalmayıp, onlara hayallerinin de ötesinde yeni imkanlar açıyor olması.”_
 
-Chris Dixon yukarıdaki yazıyı ne zaman yazmış biliyor musunuz? 2010 yılında. Şimdi yıllar sonra bakınca, gerçekten de başlangıçta oyun olarak adlandırılan pek çok yeni teknolojinin hayatımıza nasıl hızla girip ne kadar geniş yer aldığını görüyoruz. Örneğin, kendi adıma ilk hesap açtığımda “ne işe yarayacak bu?” diyerek anlamlandıramadığım ve bir süre hiç kullanmayıp şifremi dahi unuttuğum Twitter’dan, insanlar alışsın diye herkese bedava verilen Bitcoin’e kadar \(evet gerçek - Chris Dixon yukarıdaki satırları yazdığı yıllarda Gavin Andresen [Bitcoin Faucet](https://en.wikipedia.org/wiki/Bitcoin_faucet) adını verdiği siteye giren her kişiye bedava 5 BTC veriyordu\). 
+Chris Dixon yukarıdaki satırları ne zaman yazmış, biliyor musunuz? 2010 yılında. Şimdi yıllar sonra bakınca, gerçekten de başlangıçta oyun olarak adlandırılan pek çok yeni teknolojinin hayatımıza nasıl hızla girip ne kadar geniş yer aldığını görüyoruz. Örneğin, ilk açtığımda “ne işe yarayacak bu?” diyerek anlamlandıramadığım ve bir süre hiç kullanmayıp şifremi dahi unuttuğum Twitter hesabımdan, insanlar alışsın diye herkese bedava verilen Bitcoin’e kadar \(evet gerçek - Chris Dixon yukarıdaki satırları yazdığı yıllarda [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen), [Bitcoin Faucet](https://en.wikipedia.org/wiki/Bitcoin_faucet) adını verdiği siteye giren her kişiye bedava 5 BTC veriyordu\). 
 
 ### Finans dünyasının oyuncakları
 
@@ -56,7 +56,9 @@ Ancak bunlarla da sınırlı değil yapabildikleriniz. Gerçek dünyada kurduğu
 
 DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
 
-![Kilitlenmi&#x15F; de&#x11F;ere g&#xF6;re en b&#xFC;y&#xFC;k 20 DeFi protokol&#xFC;n ICO ya da operasyona ba&#x15F;lad&#x131;&#x11F;&#x131; y&#x131;l \(Not: Her bir noktan&#x131;n b&#xFC;y&#xFC;kl&#xFC;&#x11F;&#xFC; platforma kilitlenmi&#x15F; de&#x11F;eri ifade eder\) - Kaynaklar: DeFi Pulse, Messari ve platform web siteleri](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
+![](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
+
+_Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl \(Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder\) - Kaynaklar: DeFi Pulse, Messari ve platform web siteleri_
 
 Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar.
 
@@ -68,7 +70,7 @@ Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidi
 
 ![](../.gitbook/assets/defi_pulse_210530.png)
 
-DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak: [DeFi Pulse](https://defipulse.com/)
+_DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/)\_\_
 
 Bunlar kısa vadeli olarak büyüme sağlayan iki gelişme olsa da, konuyu DeFi'yi klasik finanstan ayıran temel özellikleri ile birlikte değerlendirirsek, bu çıkışın nasıl olduğu ve daha nerelere gidebileceği konusunda daha iyi fikir sahibi olabiliriz. DeFi'yi DeFi yapan temel özelliklere ise bir sonraki bölümde bakacağız. 
 
