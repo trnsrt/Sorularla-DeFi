@@ -18,7 +18,7 @@ Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu 
 
 **Bireyden bireye ödemelerde kripto paralar**
 
-**Blokzincir teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık.
+**Blokzincir teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık. Az sonra bu konuya daha detaylı gireceğiz ama önce diğer iki konuya ve finans sektörünün bu tehditlere nasıl karşılık verebileceğine kısaca değinelim. 
 
 **Alışveriş ödemelerinde teknoloji devleri**
 
