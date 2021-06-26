@@ -1,6 +1,6 @@
 # DeFi'nin çıkışı nasıl oldu?
 
-Kriptoparalar daha da özelinde Merkeziyetsiz Finans \(DeFi\) konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana” oluyor. Haklılar - ancak sadece şu an için.
+Kriptoparalar daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana” oluyor. Haklılar - ancak sadece şu an için.
 
 ### “Bir sonraki büyük ‘şey’ başlangıçta bir oyuncak gibi görünecek”
 
@@ -71,6 +71,4 @@ Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidi
 DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak: [DeFi Pulse](https://defipulse.com/)
 
 Bunlar kısa vadeli olarak büyüme sağlayan iki gelişme olsa da, konuyu DeFi'yi klasik finanstan ayıran temel özellikleri ile birlikte değerlendirirsek, bu çıkışın nasıl olduğu ve daha nerelere gidebileceği konusunda daha iyi fikir sahibi olabiliriz. DeFi'yi DeFi yapan temel özelliklere ise bir sonraki bölümde bakacağız. 
-
-
 
