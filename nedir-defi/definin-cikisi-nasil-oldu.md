@@ -18,9 +18,9 @@ Chris Dixon yukarıdaki satırları ne zaman yazmış, biliyor musunuz? 2010 yı
 
 Şu anda mevcut finansal sistem oyuncularının verdiği hizmeti dijital dünyada daha ucuza, daha hızlı ve herhangi bir kısıtlama olmaksızın yapmaya başlayan onlarca girişim var.
 
-Bunun yanında, mevcut oyuncuların vermediği, kullanıcıların bile ihtiyaçları olduğunu şu andan kestiremedikleri belki de yüzlerce girişim için de çalışmalar devam ediyor.
+Bunun yanında, bu girişimlerin kimileri mevcut oyuncuların sunmadığı hatta kullanıcıların şu anda ihtiyaçları olduğunun farkında bile olmadığı onlarca hizmet üzerinde çalışmalar da devam ediyor.
 
-Bütün bu girişimlerin büyümesi ve adaptasyonu için uygun zamanın ve altyapıların gelmesi gerekiyordu. Sanki artık “o uygun zamana” çok yaklaşmaya başladık.
+Bütün bu girişimlerin büyümesi ve kitlelerce adaptasyonu için gerekli altyapıların oluşması ve uygun zamanın gelmesi gerekiyordu. Sanki artık “o uygun zamana” çok yaklaşmaya başladık.
 
 Fiziki analog dünyamızda yaşadıklarımızı dijital dünyaya taşıma anlamında özellikle bankalar tarafından hayata geçirilen pek çok proje var \(genelde FinTech olarak da adlandırılan\). Özellikle dijital para, merkez bankası parası gibi adlandırılan enstrümanlar bunların bir örneği.
 
@@ -28,15 +28,15 @@ Ancak tamamen dijital dünyanın dinamiklerine göre kurulmuş olan bambaşka bi
 
 ### Bitcoin
 
-İlk adım bu dünyada değer saklama ve transfer edebilmeyi aracılardan kurtaran Bitcoin tarafından atıldı: Fiziksel dünya ile \(sistemi yürütmek ve savunmak için enerji harcamak dışında\) bağlantısı olmayan bir para. 10 yıldır kaya gibi çalışan bir örnek model.
+Dijital dünyada ilk adım, değer saklama ve transfer edebilmeyi aracılardan kurtaran Bitcoin tarafından atıldı: Fiziksel dünya ile \(sistemi yürütmek ve savunmak için enerji harcamak dışında\) bağlantısı olmayan bir para. 10 yıldır kaya gibi çalışan bir örnek model.
 
-Bu dünya sadece Bitcoin’den ibaret değil. Zira, Bitcoin’in yukarıda saydığımız iki özelliği layıkıyla yerine getirebilmesi için yavaş ilerleyen bir sistem olması gerekiyor. Sonuçta değer taşıyan ekonomik bir inanç sistemi iseniz en büyük sermayeniz güven - ve bu güveni sarsacak her tür gelişme sizin toptan çöküşünüze yol açabilir. Bitcoin öyle hızlı gelişim sonucu ortaya çıkabilecek teknik aksaklıklar, yap-boz-çalıştır türü denemeleri kaldıracak seviyeyi çoktan geçti. Bu da onun teknolojik olarak yenilik yapabilme yetisini oldukça kısıtlıyor.
+Dijital ya da daha belirleyici ismiyle kripto olarak adlandırılan bu dünya, sadece Bitcoin’den ibaret değil. Zira, Bitcoin’in yukarıda saydığımız iki özelliği layıkıyla yerine getirebilmesi için yavaş ilerleyen bir sistem olması gerekiyor. Sonuçta değer taşıyan ekonomik bir inanç sistemi iseniz en büyük sermayeniz güven ve bu güveni sarsacak her türlü gelişme sizin toptan çöküşünüze yol açabilir. Bitcoin öyle hızlı gelişim sonucu ortaya çıkabilecek teknik aksaklıklar, yap-boz-çalıştır türü denemeleri kaldıracak seviyeyi çoktan geçti. Bu da onun teknolojik olarak yenilik yapabilme yetisini oldukça kısıtlıyor.
 
 ### Ethereum
 
 İşte Bitcoin’in eksik kaldığı bu boşluğu dolduran Ethereum, özellikle son zamanlarda yeni girişimlerin altyapısı olmak konusunda neredeyse standart haline geldi.
 
-Felsefe olarak Bitcoin geliştiricilerinden oldukça farklı bir noktada olan Ethereum topluluğu, bir dijital varlık olmak yerine teknolojik gelişimi ön planda tutuyor. Onlar için yazılımda bozukluklar olabilir, bu normal karşılanmalı ve zamanla düzeltmeli - önemli olan hızlı şekilde kullanıcıların teknolojik ihtiyaçlarını karşılamak. \(Tabii çok büyük bir ekosistemden bahsettiğimiz de unutulmamalı - hızlı derken Bitcoin ile kıyaslıyoruz, yoksa Ethereum’un gelmek bilmeyen 2.0 versiyonu nedeniyle şikayetler gitgide çoğalıyor\)
+Felsefe olarak Bitcoin geliştiricilerinden oldukça farklı bir noktada olan Ethereum topluluğu, bir dijital varlık olmak yerine teknolojik gelişimi ön planda tutuyor. Onlar için yazılımda bozukluklar olabilir, bu normal karşılanmalı ve zamanla düzeltilmeli; önemli olan hızlı şekilde kullanıcıların teknolojik ihtiyaçlarını karşılamak. \(Tabii çok büyük bir ekosistemden bahsettiğimiz de unutulmamalı; hızlı derken Bitcoin ile kıyaslıyoruz, yoksa Ethereum’un gelmek bilmeyen 2.0 versiyonu nedeniyle şikayetler gitgide çoğalıyor\)
 
 Öte yandan yukarıda Bitcoin’in tamamen sanal dünyada işleyen, fiziki dünya ile tek ilişkisinin enerji harcayan madenciler olduğu bir sistem olduğunu söylemiştik. Ethereum, PoW olarak adlandırılan Bitcoin’in kullandığı bu mekanizmayı bir adım daha öteye götürüp uzun süredir üzerinde çalıştığı PoS mekanizmasına geçtiğinde bu enerji harcaması sona erecek. Sonuç olarak Ethereum fiziki dünya ile bağlarını toptan kopararak neredeyse tamamen bağımsız bir sanal yapı haline gelecek.
 
@@ -46,11 +46,11 @@ Geçtiğimiz yıllarda, özellikle ICO piyasası dediğimiz yeni girişimlerin h
 
 ### Şimdi de DeFi <a id="&#x15F;imdi-de-defi"></a>
 
-DeFi hareketinin ağırlıklı olarak ETH üzerine kurulmasının temel nedeni, yukarıda bahsettiğimiz işlem kapasitesinin yanında, kümelenme etkisi \(Cluster Effect\) olarak adlandırılan, hem müşterilerin bu alanda olması hem de hareketin diğer oyuncuları ile karşılıklı ilişkide olabilmek.
+DeFi hareketinin ağırlıklı olarak ETH üzerine kurulmasının temel nedeni, yukarıda bahsettiğimiz işlem kapasitesinin yanında, kümelenme etkisi \(Cluster Effect\) olarak adlandırılan, hem müşterilerin bu alanda olması hem de hareketin diğer oyuncuları ile karşılıklı ilişkide olabilmesi.
 
 Bugün DeFi kullanarak kredi alabiliyor, mevduat yatırabiliyor, sigorta yaptırabiliyor, yatırımlarınızı bir varlık yöneticisine emanet edebiliyorsunuz. Üstelik bunları isterseniz kıymeti kendinden menkul kriptoparalar \(BTC, ETH gibi\) ya da ABD Doları, TL gibi itibari paralara sabitlenmiş sabit/stabil paralar \(Tether-USDT-, USDC, DAI, BiLira gibi\) ile gerçekleştirebiliyorsunuz.
 
-Ancak bunlarla da sınırlı değil yapabildikleriniz. Gerçek dünyada kurduğunuz kanuni yapıların \(anonim şirket, kooperatif gibi\) benzerlerini ama bu sefer arada sınırlar olmadan yüzlerce kişi ile birlikte kurabiliyorsunuz. Üstelik sudan ucuz bir fiyata. Bu yapıları nasıl yönetebileceğiniz konusunda alternatifler sınırsız. Aradaki anlaşmazlıkların nasıl çözüleceği konusunda “kod kanundur” düsturundan gelen Akıllı Kontratları kullanabileceğiniz gibi, arada uyuşmazlık olduğunda size arabulucu ya da mahkeme hizmeti veren \(tamamen merkeziyetsiz\) hizmetler bile mümkün bu yapılarda.
+Ancak yapabildikleriniz bunlarla sınırlı değil. Gerçek dünyada kurduğunuz kanuni yapıların \(anonim şirket, kooperatif gibi\) benzerlerini ama bu sefer arada sınırlar olmadan yüzlerce kişi ile birlikte kurabiliyorsunuz. Üstelik bunu oldukça düşük bir ücret ile gerçekleştirebiliyorsunuz. Bu yapıları nasıl yönetebileceğiniz konusunda alternatifler sınırsız. Aradaki anlaşmazlıkların nasıl çözüleceği konusunda 'kod kanundur' düsturundan gelen akıllı kontratları kullanabileceğiniz gibi, arada uyuşmazlık olduğunda size arabulucu ya da mahkeme hizmeti veren \(tamamen merkeziyetsiz\) hizmetler bile mümkün bu yapılarda.
 
 ### Nasıl bir anda büyüdü DeFi?
 
@@ -58,19 +58,19 @@ DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu 
 
 ![](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
 
-_Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl \(Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder\) - Kaynaklar: DeFi Pulse, Messari ve platform web siteleri_
+_Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl \(Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder\). Kaynaklar:_ [_DeFi Pulse_](https://defipulse.com/)_,_ [_Messari_](https://messari.io/) _ve platform web siteleri_
 
-Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar.
+Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar; zira giriş-çıkışlar nedeniyle en büyük likidite onlardaydı. Merkeziyetsiz borsalar ise kasabın kapısında aç biilaç bekleyen kedilere döndüler. Bu anlamda yatırımcının ilgisini üzerlerine çekmeyi bir türlü başaramadılar.
 
-Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Likiditeyi kendilerine çekebilmek için yaptıkları pek çok numara içinde yatırımcıları likidite karşılığı ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri ileride detaylı olarak bahsedeceğimiz  [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı.
+Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Yapılan pek çok farklı deneyim içinde, likidite karşılığı ödüllendirme metodu işe yaradı. Bu işi ilk yapanlardan biri, bir sonraki kısımda detaylı olarak bahsedeceğimiz  [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı.
 
-Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB’yi veriyor. Ancak Compound’un farklı yanı bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi. Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler. \(Bu konuda daha fazla ayrıntı için bir sonraki kısımda yer alan Compound bölümüne göz atabilirsiniz\). 
+Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB’yi veriyor. Ancak Compound’un farklı yanı bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi. Her ne kadar Compound başta bu tokenlerin herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokene büyük bir ilgi gösterdiler. \(Bu konuda daha fazla ayrıntı için bir sonraki kısımda yer alan Compound bölümüne göz atabilirsiniz\). 
 
-Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidite sağlama, ayrıca yönetim tokenları aracılığıyla platformlara bir değer kazandırma taktikleri, ciddi miktarda paranın bu alana akmasını sağladılar: 
+Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidite sağlama, ayrıca yönetim tokenleri aracılığıyla platformlara bir değer kazandırma taktikleri, ciddi miktarda paranın bu alana akmasını sağladılar: 
 
 ![](../.gitbook/assets/defi_pulse_210530.png)
 
 _DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak:_ [_DeFi Pulse_](https://defipulse.com/)\_\_
 
-Bunlar kısa vadeli olarak büyüme sağlayan iki gelişme olsa da, konuyu DeFi'yi klasik finanstan ayıran temel özellikleri ile birlikte değerlendirirsek, bu çıkışın nasıl olduğu ve daha nerelere gidebileceği konusunda daha iyi fikir sahibi olabiliriz. DeFi'yi DeFi yapan temel özelliklere ise bir sonraki bölümde bakacağız. 
+Bunlar kısa vadeli olarak büyüme sağlayan iki gelişme olsa da, konuyu DeFi'yi klasik finanstan ayıran temel özellikleri ile birlikte değerlendirirsek, bu çıkışın nasıl olduğu ve daha nerelere gidebileceği konusunda daha iyi fikir sahibi olabiliriz. DeFi'yi DeFi yapan temel özellikleri ise bir sonraki bölümde inceleyeceğiz. 
 
