@@ -64,7 +64,7 @@ Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen e
 
 Finans piyasasındaki aktörlerin ana fonksiyonu, işte ikili ilişkilerde kişiler arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleri idi. Şimdi blokzincirin bu rolü üstlenmesi, bugün olmasa bile yakın bir gelecekte, bu aktörler için varoluşsal bir tehdit oluşturuyor.
 
-### Peki her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında?
+#### Peki her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında?
 
 Blokzincirin teknolojisinin kullanmaya başlamasıyla, finans piyasasında tehdit altında kalan ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de belirli ülkelerde yaşayanlar için kullanılması imkansız bir sistem.
 
