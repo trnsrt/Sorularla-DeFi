@@ -72,7 +72,7 @@ Aslına bakarsanız, para transferi kişiler arası gerçekleştirilen finansal 
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira, eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız, neden kriptopara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kriptopara şimdiden ciddi bir alternatif haline geliyor. 
 
-Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yüksek alanlara odaklandılar. Teknoloji geliştikçe ve insanlar alıştıkça daha karmaşık alanlara girmeye başladılar. Aslında blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar demek daha doğru olabilir. Ancak bu girişimlerden, göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışanların başarı şansı daha yüksek olacak.
+Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yüksek alanlara odaklandılar. Teknoloji geliştikçe ve insanlar alıştıkça daha karmaşık alanlara girmeye başladılar. Aslında **blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar demek daha doğru olabilir. Ancak bu girişimlerden, göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışanların başarı şansı daha yüksek olacak**.
 
 #### Sonuç
 
