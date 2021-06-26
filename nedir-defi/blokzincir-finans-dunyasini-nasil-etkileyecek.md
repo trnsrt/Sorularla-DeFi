@@ -12,11 +12,11 @@ Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu 
 * Birey ile ticari işletmeler arasında \(hizmet ya da ürün karşılığı ödeme\)
 * Birey ile devlet arasında \(vergi ve ceza\)
 
-### Finans kurumlarının temeline üç koldan yapılan atak
+### Finans kurumlarına üç koldan yapılan atak
 
 **Finansal kurumların belli bir komisyon karşılığı yüksek kâr marjları ile işlem yaptıkları dönemlerin artık yavaş yavaş sonuna gelmeye başladık.** Rekabetten söz etmiyorum, o artarak sürüyor. Yukarıda bahsettiğimiz kanalların altı daha temelden oyulmaya başladı. Tek tek bakalım şimdi:
 
-**Bireyden bireye ödemelerde kripto paralar**
+**Bireyden bireye ödemelerde kriptoparalar**
 
 **Blokzincir teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık. Az sonra bu konuya daha detaylı gireceğiz ama önce diğer iki konuya ve finans sektörünün bu tehditlere nasıl karşılık verebileceğine kısaca değinelim. 
 
@@ -26,7 +26,7 @@ Hizmet ve ürün karşılığı dijital dünyada yapılan işlemlerde Blokzincir
 
 Neden önemli Facebook? Şöyle düşünün: Ödeme için herhangi bir kredi kartı ya da banka hesabı kullanan bir tüketici kaç farklı kart ya da hesap kullanabilir? Onlarca. Bu, ticari bir işletme için yapacağı tahsilatlarda aracılara ciddi komisyonlar ödemesi demek. Peki, bu işletme Facebook kullansa? Unutmayın "herkesin bir Facebook hesabı var", sevgili Mark hepimizin cebinde, bize 7/24 dokunuyor. Üstelik finansal kurumlarımız mevcut coğrafi sınırlar içinde 80 milyona hizmet vermek için çabalarken o 2.7 milyar insana ulaşıyor. Tekrar soralım: **Hem maliyetlerinizi düşürecek hem de size dev bir müşteri kitlesi sunacak kapalı bir ekosisteme girmek istemez misiniz?**
 
-Benzer şekilde Facebook'un kurduğu Libra konsorsiyumunda yer alan dünyanın en önemli para transfer aracılarından PayPal, 2020'nin Ekim ayı içinde [kripto paralar ile ödeme almaya başlayacağını söyledi](https://www.bbc.com/news/technology-54630283). Kuruluşundan kısa bir süre sonra Libra konsorsiyumundan ayrılan **PayPal'ın yakın zamanda Libra benzeri kapalı sistem bir dijital para kurması çok olası bir seçenek**. Zira 300 milyon kullanıcı ve 28 milyon ticari işletmeyi elinde tutan bir güç, neden bunları kendi kapalı ekosisteminde tutup daha fazla 'sağmasın'?
+Benzer şekilde Facebook'un kurduğu Libra konsorsiyumunda yer alan dünyanın en önemli para transfer aracılarından PayPal, 2020'nin Ekim ayı içinde [kriptoparalar ile ödeme almaya başlayacağını söyledi](https://www.bbc.com/news/technology-54630283). Kuruluşundan kısa bir süre sonra Libra konsorsiyumundan ayrılan **PayPal'ın yakın zamanda Libra benzeri kapalı sistem bir dijital para kurması çok olası bir seçenek**. Zira 300 milyon kullanıcı ve 28 milyon ticari işletmeyi elinde tutan bir güç, neden bunları kendi kapalı ekosisteminde tutup daha fazla 'sağmasın'?
 
 **Ve merkez bankaları**
 
@@ -44,13 +44,13 @@ Yukarıdaki saydığımız nedenlerin ötesinde, **bu hesaplar sayesinde merkez 
 
 #### Finans dünyası nasıl tepki verecek?
 
-İşte yukarıda bahsettiğimiz bu üç kulvarda, kripto paralar, Facebook/PayPal benzeri büyük teknoloji şirketleri ve merkez bankaları, klasik finans dünyasının oturduğu sandalyeyi altından çekebilirler.
+İşte yukarıda bahsettiğimiz bu üç kulvarda, kriptoparalar, Facebook/PayPal benzeri büyük teknoloji şirketleri ve merkez bankaları, klasik finans dünyasının oturduğu sandalyeyi altından çekebilirler.
 
 Peki ne olacak? Finans dünyası çalışanları telefonlara sarılıp iş aramaya mı başlasınlar? Öncelikle şunu söyleyelim. Finans dünyasının bir yere gittiği yok, hep bizimle kalacaklar. Zaten **Fintech dediğimiz alanda son yıllarda yaşanan tüm gelişmeler aslında mevcut finans sektörünün artan rekabete karşı kendini korumak için aldığı tedbirler bir anlamda. Yine de finans kurumlarının yakın zamanda kökten bir dönüşümden geçeceğini görmek için kahin olmaya gerek yok.**
 
 Burada iki yönlü bir değişim olacağını tahmin ediyorum:
 
-Birincisi, **finans kurumları mevcut oyun alanı olan yüksek kâr marjlı bireysel hizmetlerde yukarıda bahsettiğimiz yeni gelişmeler nedeniyle bir daralma yaşayacaklar**. Bu durum, hem işlem hacimlerinde \(ya da pazar paylarında\) bir azalma hem de kar marjlarında bir düşüş olarak kendini gösterecek. Kripto para girişimleri finansal işlemlerde gücü aracılardan alıp tüketici tarafına kaydırmaya başladılar bile. Facebook benzeri teknoloji şirketleri de kullandıkları ileri teknoloji ve yıllar içinde edindikleri kullanıcı deneyimi sayesinde zaten dokunmakta oldukları kitleleri ufak bir dokunuş ile kendi ekosistemlerine çekmeye çok yakınlar.
+Birincisi, **finans kurumları mevcut oyun alanı olan yüksek kâr marjlı bireysel hizmetlerde yukarıda bahsettiğimiz yeni gelişmeler nedeniyle bir daralma yaşayacaklar**. Bu durum, hem işlem hacimlerinde \(ya da pazar paylarında\) bir azalma hem de kar marjlarında bir düşüş olarak kendini gösterecek. Kriptopara girişimleri finansal işlemlerde gücü aracılardan alıp tüketici tarafına kaydırmaya başladılar bile. Facebook benzeri teknoloji şirketleri de kullandıkları ileri teknoloji ve yıllar içinde edindikleri kullanıcı deneyimi sayesinde zaten dokunmakta oldukları kitleleri ufak bir dokunuş ile kendi ekosistemlerine çekmeye çok yakınlar.
 
 İkincisi değişim ise, **finansal kurumlar için yeni potansiyel fırsatların ortaya çıkması** şeklinde yaşanacak. Bir yandan bu alana yeni giren teknoloji şirketleri, tüketicinin korunması ve mevcut regülasyonlara uyumlu olma gibi ayrıcalıkları nedeniyle finans kurumlarını kullanmaya devam edecekler. Öte yandan merkez bankaları kullanıcı deneyimindeki engin tecrübelerinden dolayı mevcut finans dünyası aktörlerini vazgeçilmez bir iş ortağı olarak görecekler. Ancak ilişkinin şekli değişecek ve finans kurumları müşteriden uzaklaşacakları için güç kaybına uğrayacaklar. **Böyle bir senaryonun gerçekleşmesi durumunda, finans kurumları tabir-i caizse "fason üretim" yapan işletmelere dönüşecekler.** İşlem hacimleri belki eskisinden de fazla olacak. Ancak hem kâr marjları minimuma inecek, hem de artık müşteriye eskisi gibi dokunamayacaklar.
 
