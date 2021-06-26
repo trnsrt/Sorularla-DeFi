@@ -1,8 +1,8 @@
-# DeFi - Merkeziyetsiz Finans ne demek?
+# Merkeziyetsiz finans \(DeFi\) ne demek?
 
-DeFi 'Decentralized Finance' ya da Türkçe çevirisiyle 'Merkeziyetsiz Finans', özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday harekete verilen ad. 
+DeFi 'Decentralized Finance' ya da Türkçe çevirisiyle 'merkeziyetsiz finans', özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday harekete verilen ad. 
 
-Merkeziyetsiz Finans'ın neleri nasıl yapmayı hedeflediğine geçmeden önce yukarıda bahsettiğimiz sıkıntılar neler imiş, dilerseniz kısaca onlara bir göz atalım: 
+Merkeziyetsiz finansın neleri nasıl yapmayı hedeflediğine geçmeden önce yukarıda bahsettiğimiz sıkıntılar neler imiş, dilerseniz kısaca onlara bir göz atalım: 
 
 ### Nedir finans sisteminin sıkıntıları?
 
@@ -30,9 +30,9 @@ Keza [sistemlerin hack edilmesi ve kredi kartı bilgilerinin çalınması](https
 
 Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı ettiğimiz çok büyük bir kesim daha var. Dünya Bankası tarafından 1.7 milyar kişi olduğu [tahmin edilen](https://www.worldbank.org/en/news/press-release/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findex-database-shows) finans sistemine erişimi olmayan kesim. Ya onlar ne olacak? Onların canı can değil mi?
 
-### Merkeziyetsiz Finans ne yapacak bunlara? <a id="merkeziyetsiz-finans-ne-yapacak-bunlara"></a>
+### Merkeziyetsiz finans ne yapacak bunlara? <a id="merkeziyetsiz-finans-ne-yapacak-bunlara"></a>
 
-İşte Merkeziyetsiz Finans - DeFi denen hareket, mevcut finans aktörlerinden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. Herhangi bir kişinin herhangi bir yerden borç alma, verme, sigorta alma, ya da dijital varlıklara yatırım yapabilmesine imkan vermek.
+İşte merkeziyetsiz finans - DeFi denen hareket, mevcut finans aktörlerinden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. Herhangi bir kişinin herhangi bir yerden borç alma, verme, sigorta alma, ya da dijital varlıklara yatırım yapabilmesine imkan vermek.
 
 Nasıl sağlanacak bu? Öncelikle merkezi olmayan dağıtık yönetim esasına göre kurulacaklar. Sistemin ve dijital varlıkların korunması Blokzincir tarafından sağlanacak. Keza sistemin yönetimi de aynı şekilde demokratik bir biçimde blokzincir üzerinden olacak. Bunun yanında kurulan sistemler birbirleri ile konuşabilir olacaklar. Bir merkez olmadığı için işlemlerin yapılmasında akıllı kontratlar kullanılacak.
 
