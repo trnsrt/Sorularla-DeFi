@@ -48,3 +48,5 @@ Kurucularının ortak özelliği blokzincir sistemleri üzerine girişimler olma
 * _Ulaşılabilirlik ve finansal kapsayıcılık_: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde “değer”in \(ya da bir varlığın\) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi.
 * _Finansal şeffaflık_: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı.
 
+Bir sonraki bölümümüzde, DeFi'nin nasıl ortaya çıktığına bakalım hep birlikte. 
+
