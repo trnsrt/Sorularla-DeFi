@@ -52,9 +52,9 @@ sUSD, değeri ABD Doları'na çıpalanmış bir sabit para. Bu parayı elde edeb
 
 Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC’yi değil, onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde sUSD karşılığı satıp, eline geçen sUSD’yi de yine aynı şekilde kriptopara borsalarında satarak sistemden çıkabiliyor.
 
-Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Kitabın ilk kısmında kısaca değinmiştik. DeFi piyasaları, interneti olan herkesin erişimine açık; klasik borsalarda olduğu gibi 'nitelikli' bir kesime özel değil. Öte yandan özellikle çok al-sat yapanlar için, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebiliyor ve bu geçişler sırasında herhangi bir kayıp \(sızıntı\) yaşamıyorlar.
+Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Kitabın ilk kısmında kısaca değinmiştik. DeFi piyasaları, interneti olan herkesin erişimine açık; klasik borsalarda olduğu gibi 'nitelikli' bir kesime özel değil. Öte yandan özellikle çok al-sat yapanlar için, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebiliyor ve bu geçişler sırasında herhangi bir kayıp yaşamıyorlar.
 
-#### Ne tip ürünler var Synthetix’de?
+#### Synthetix’de ne tip ürünler var ?
 
 Beş ayrı kategori var; itibari paralar, emtialar, kriptoparalar, kriptopara endeksleri ve kriptopara fiyatlarını tersten izleyen inverse-kriptoparalar.. Bu beş kategoride, Mayıs 2021 itibariyle; 16 tanesi aktif toplam [71 adet ürün](https://dashboard.synthetix.io/) bulunuyor.  \[^1\]
 
