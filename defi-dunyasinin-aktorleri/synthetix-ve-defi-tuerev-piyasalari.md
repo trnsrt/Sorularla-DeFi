@@ -12,7 +12,7 @@ Peki ya bu varlığı elinizde tutmak istemiyor ama değer değişimlerinden fay
 
 Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerini korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim.
 
-DeFi zaten yeterince karışık, bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük \(ve bir parça bayat\) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici:
+DeFi zaten yeterince karışık, bir de türev piyasalar mı çıktı başımıza? ~~**Evet, öyle.**~~ Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici:
 
 ![](../.gitbook/assets/020605-synthetix_ve_turev_piyasalari-assets_global_1200.jpg)
 
@@ -165,8 +165,6 @@ Bir kere bu tür ürünleri kullandığınız durumda sistem karşı taraf riski
 
 Tabii yine de bunlara güvenmezseniz \(ki kimse “neden güvenmiyorsun?” diyemez\) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün..
 
-Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta kazanılan yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçiş yaşayacağız hep birlikte.
-
 #### Synthetix'e özgü riskler
 
 “Sistem çok güzel kurulmuş, riskler yok mu?” derseniz, hâlâ akla takılan ya da risk olarak görülebilecek alanlar var:
@@ -183,7 +181,9 @@ Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa
 
 Ayrıca şunu da unutmamak lazım; bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı, 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca, paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa, teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı? Önceden tahmin etmek zor. \[^2\]
 
-Yukarıdaki iki konu gibi risk olmasa da, sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemleri gerçekleştirmek için kullanılan Ethereum blokzinciri kullanmanın bedeli\). Bunun da temel nedeni; türev işlemlerinin, karmaşıklığından dolayı Ethereum sistemine ağır gelmesi. Synthetix ekibi, bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden olan [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/). 
+Yukarıdaki iki konu gibi risk olmasa da, sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemleri gerçekleştirmek için kullanılan Ethereum blokzinciri kullanmanın bedeli\). Bunun da temel nedeni; türev işlemlerinin, karmaşıklığından dolayı Ethereum sistemine ağır gelmesi. Synthetix ekibi, bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden olan [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/).  \(Bu çözümler ile ilgili bir sonraki kısımda 'Ethereum ve Rakipleri' bölümünde detaylı bilgi bulabilirsiniz\). 
+
+~~**Aslında bu tip ürünler üzerinde soru işareti olması çok normal.**~~ Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta kazanılan yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçiş yaşayacağız hep birlikte.
 
 \[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor; ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz._
 
