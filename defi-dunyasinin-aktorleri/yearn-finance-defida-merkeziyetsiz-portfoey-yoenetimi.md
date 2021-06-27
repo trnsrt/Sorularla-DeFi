@@ -1,4 +1,4 @@
-# Yearn Finance: DeFi'de merkeziyetsiz portföy yönetimi:
+# Yearn Finance: DeFi'de merkeziyetsiz portföy yönetimi
 
 Kriptoparalar pek çok insan için oldukça teknik ve karışık. Sıradan bir kriptopara borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız. Merkeziyetsiz finans alanında durum daha da içler acısı. Neden? Sıralayalım…
 
