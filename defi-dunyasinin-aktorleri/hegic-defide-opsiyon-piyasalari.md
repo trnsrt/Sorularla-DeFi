@@ -88,7 +88,7 @@ Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o za
 
 İşte DeFi’nin ikinci kritik özelliği: Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar.
 
-DeFi dünyasında sık kullanılan bir sözü tekrarlayalım: “Burada kod, kanundur”. Hem bu platformları çalıştıran kodlar, hem de platformu kullananların yaptıkları işlemleri gerçekleştiren Akıllı Kontrat dediğimiz yazılımlar herkesin görebileceği şekilde açık. Yani ‘bu platform, neyi nasıl yapar?’ sorusunun hem açıklaması var, hem de bunu gerçekleştiren kod şeffaf bir şekilde ortada. Biraz kodlamadan anlayan biri bakıp görebilir.
+DeFi dünyasında sık kullanılan bir sözü tekrarlayalım: “Burada kod, kanundur”. Hem bu platformları çalıştıran kodlar, hem de platformu kullananların yaptıkları işlemleri gerçekleştiren akıllı kontrat dediğimiz yazılımlar herkesin görebileceği şekilde açık. Yani ‘bu platform, neyi nasıl yapar?’ sorusunun hem açıklaması var, hem de bunu gerçekleştiren kod şeffaf bir şekilde ortada. Biraz kodlamadan anlayan biri bakıp görebilir.
 
 Kodlamadan anlamayan biz kimi faniler için, bu yazılımların birçoğunun dış denetlemesi de yapılıyor bu arada. Böyle bir şeffaflığın getirdiği güven, öyle karşınızda gördüğünüz bir kurum ya da kişiye duyacağınızdan çok daha öte. İşte bu nedenle bu platformlara ciddi paralar konduğunu görüyoruz.
 
@@ -124,11 +124,11 @@ Sistemde iki ana aktör var.
 
 Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/sahip olan \(holder\) deniyor. Ne satın alıyorlar? ETH ya da BTC’yi herhangi bir vade için alma \(call\) ya da satma \(put\) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz \(daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](https://turansert.com/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler\).
 
-Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu alma ya da satma hakkını satın alıyorlar. \([MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor\)
+Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu alma ya da satma hakkını satın alıyorlar. [MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor. 
 
-İkincisi ise, yukarıdaki **bu havuza likidite sağlayanlar**. Yani, yukarıdaki opsiyonları satanlar, ki onlara da opsiyon yazan/çıkaran \(writer\) deniyor. Ancak bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar. Yaptıkları sadece bu havuzun suyu olan likiditeyi koymak.
+İkinci grup ise, yukarıdaki **bu havuza likidite sağlayanlar,** yani opsiyonları satanlardan oluşuyor \(ki onlara da opsiyon yazan/çıkaran - İngilizce'de 'writer' -  deniyor\). Bir fark var; bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar, yaptıkları sadece bu havuzun suyu olan likiditeyi koymak.
 
-Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar…
+Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar. 
 
 Özet olarak, opsiyon fiyatları bir algoritma ile belirleniyor. Yukarıdaki birinci grup, opsiyon satın alırken prim ödüyor. Bu primler havuza gidiyor. Opsiyon satın alanlar opsiyonu kullanırlar ise, bunun ödemesini akıllı kontrat havuzdan alarak yapıyor. Havuzda kalan miktar, havuza likidite sağlayanlar arasında bölüşülüyor.
 
