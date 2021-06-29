@@ -48,7 +48,7 @@ Kullanıcılar, özünde herhangi bir varlığa sahip olmadan, o varlığın ris
 
 Synthetix sistemi herhangi bir şekilde gerçek bir varlığa dayanmıyor. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O para da sentetik bir ürün: adı da **sUSD**.
 
-sUSD, değeri ABD Doları'na çıpalanmış bir sabit para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak \(- ki o borsaların listesini [bu bağlantıda](https://www.coingecko.com/en/coins/susd) bulabilirsiniz- \), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
+sUSD, değeri ABD Doları'na çıpalanmış bir stabil para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak \(- ki o borsaların listesini [bu bağlantıda](https://www.coingecko.com/en/coins/susd) bulabilirsiniz- \), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
 
 Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC’yi değil, onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde sUSD karşılığı satıp, eline geçen sUSD’yi de yine aynı şekilde kriptopara borsalarında satarak sistemden çıkabiliyor.
 
@@ -131,7 +131,7 @@ Peki ya düşerse? O zaman da, teminat oranının altına düşme riski beliriyo
 
 Bunun da ötesinde eğer [teminat miktarı %200’ün altına düşerse o zaman kontrat tasfiye ediliyor](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) ve minimum teminat miktarına getirene kadar paydaşın kilitlediği bütün SNX’ler satılıp, sUSD yakılarak borç azaltılıyor.
 
-#### sUSD’nin sabit kalacağını nasıl garanti ediyorlar?
+#### sUSD’nin stabil kalacağını nasıl garanti ediyorlar?
 
 Aslında böyle bir garanti yok; ancak sistemin işleyişine baktığınızda neden bir sUSD; bir Amerikan Dolarına eşit olur, anlaşılıyor. Başta da yazdığımız gibi; paydaşlar, sUSD’yi basarak sisteme borçlanıyorlar ve bu borcu kapatmak için sUSD yakmak zorundalar:
 
@@ -145,7 +145,7 @@ Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efe
 
 #### Genel olarak türev piyasasındaki riskler
 
-Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar; çok daha fazla hâle gelebiliyor. \(Örneğin 2008 yılında ABD’de patlayan krizin sorumlusu olarak gayrimenkul fiyatları gösterilir ama özünde sorunu krize döndürüp kat be kat artmasına neden olan türev piyasalarıdır\)
+Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar; çok daha fazla hâle gelebiliyor. \(Örneğin 2008 yılında ABD’de patlayan krizin sorumlusu olarak gayrimenkul fiyatları gösterilir ama özünde sorunu krize dönüştürüp kat be kat artmasına neden olan türev piyasalarıdır\)
 
 DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Eğer kaldıraçlı işlem yapıyorsanız borçlandığınız orana göre çıpaladığınız varlıktaki değişim size 10 ile 100 kat daha fazla etki edebiliyor.
 
