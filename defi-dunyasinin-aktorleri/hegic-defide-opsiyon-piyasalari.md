@@ -8,7 +8,7 @@ En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz 
 
 #### Alım opsiyonu
 
-Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkanınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir.
+Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkânınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir.
 
 Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **‘alım opsiyonu’ \(İngilizcesi ‘call option’\)** kullanabilirsiniz.
 
@@ -94,7 +94,7 @@ Kodlamadan anlamayan biz kimi faniler için, bu yazılımların birçoğunun dı
 
 Üstelik Hegic platformu, kurulduğu Şubat 2020’den bu yana iki badire de atlatmış durumda. Birincisinde, [Nisan 2020’de opsiyon satanlar akıllı kontratın kodunda çıkan bir hatadan dolayı](https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building) 30,000 ETH değerinde bir rakamın kilitli kalması nedeniyle zarara uğradılar. 0molly Wintermut3, hatayı kabul etti ve yatırımcıları ile birlik olarak [bu kişilerin zararlarını tazmin etti](https://twitter.com/HegicOptions/status/1258889995835842562).
 
-Mayıs ayında ise, bu sefer, bir kod hatası değil ama [sistem dizaynındaki bir problem](https://cryptobriefing.com/defi-options-platform-hegic-shuts-down-again/) nedeniyle akıllı bir satıcı, [ufak bir miktar](https://twitter.com/Rewkang/status/1263435897954988033) haksız kazanç elde etmeyi başardı.
+Mayıs ayında ise, bu sefer, bir kod hatası değil ama [sistem dizaynındaki bir problem](https://cryptobriefing.com/defi-options-platform-hegic-shuts-down-again/) nedeniyle akıllı bir likidite sağlayıcı, [ufak bir miktar](https://twitter.com/Rewkang/status/1263435897954988033) haksız kazanç elde etmeyi başardı. Satıcının hareketinden hemen hemen farkedilen açık sonrası, diğer likidite sağlayıcılar sistem için manuel düzenleyebildikleri 'volatilite parametresini çok yükseğe çekerek, [opsiyon fiyatlarını bir anda artırdılar\]](https://twitter.com/Rewkang/status/1263435914518257668) ve sistemi efektif olarak kullanılamaz hale getirdiler. Daha sonra, yeni versiyonda bu açık düzeltildi. 
 
 Deneysel projelerde, bu tip problemler oluyor gördüğünüz gibi. Ama sonrasında hem bu hataların giderilmesi hem de zaman içinde yeni hataların çıkmaması, anlaşılan yatırımcıların gözünde “seni öldürmeyen güçlendirir” imajı yaratmış olmalı ki; Hegic son aylarda ciddi bir büyüme yaşadı.
 
@@ -116,7 +116,7 @@ Yukarıdaki temel sorun nedeniyle genelde DeFi piyasası ürünleri, ama özelde
 
 İşte DeFi piyasaları bu kısır döngüyü “havuz modeli” ile aştılar. Bu havuzların ilk örneklerinden biri üç bölüm önce bahsettiğimiz Uniswap olmuştu. 
 
-Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken; Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da, 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC tokenı çıkardı. Bu sayede, Hegic üzerine kilitlenen para miktarı ciddi bir artış kazandı. 
+Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken; Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da, 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC tokeni çıkardı. Bu sayede, Hegic üzerine kilitlenen para miktarı ciddi bir artış kazandı. 
 
 #### Sistem nasıl çalışıyor?
 
@@ -134,9 +134,9 @@ Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki s
 
 ### Hegic’in tokeni HEGIC
 
-Hegic’in yarattığı HEGIC tokenın iki farklı kullanım aracı var, ki bu diğer DeFi projelere oldukça yakın:
+Hegic’in yarattığı HEGIC tokenin iki farklı kullanım aracı var, ki bu diğer DeFi projelere oldukça yakın:
 
-Birincisi, HEGIC tokenlar, sisteme likidite sağlamak için ‘rehin’ edilebiliyor \(staking\). Bunun karşılığında,  yukarıda bahsettiğimiz prim ödemelerinin içinden ödenen opsiyonlar sonrası ortaya çıkan kârı alıyorlar. Ayrıca, rehin vermeleri karşılığı Hegic tarafından ödül olarak verilen ekstra tokenları kazanma şansına sahipler.
+Birincisi, HEGIC tokenler, sisteme likidite sağlamak için ‘rehin’ edilebiliyor \(staking\). Bunun karşılığında,  yukarıda bahsettiğimiz prim ödemelerinin içinden ödenen opsiyonlar sonrası ortaya çıkan kârı alıyorlar. Ayrıca, rehin vermeleri karşılığı Hegic tarafından ödül olarak verilen ekstra tokenleri kazanma şansına sahipler.
 
 İkincisi ise bu tokenler sayesinde, ileride Hegic sisteminin yönetimine dahil olma şansına sahip olacaklar. Hegic kurucusu Wintermut, token sahibi aktif kullanıcı sayısının 100’ü aşması ile birlikte sistemin yönetimini yavaş yavaş token sahiplerine geçirmeyi planlıyor.
 
@@ -148,5 +148,5 @@ Merkeziyetsiz finans alanında faaliyet gösteren iki büyük oyuncu Hegic ile O
 
 Bunun yanında, Opyn havuz kullanmak yerine yukarıda bahsettiğimiz eşten-eşe modelini kullanıyor. Yani, opsiyon satın alanların yanında, opsiyon satanlar \(yazanlar\) var. Bu çok da pratik bir yöntem değil. Zira, opsiyonun içerdiği pek çok parametreyi \(süre, oran, hedef fiyat, opsiyon prim değeri\) satıcının belirlemesi gerekiyor. Bu hem zahmetli bir süreç hem de alıcıların istediği parametreler ile uyumlu olmayabiliyor.
 
-Bu iki temel fark, aslında neden Hegic platformunun daha geç başlamış olsa da Opyn’e fark attığını anlatmaya yetiyor. Hegic, DeFi dünyasındaki son gelişmeleri yakından takip ederek daha geniş bir kitleye ulaşmış ve likidite anlamında rakibine üstünlük sağlamış görünüyor.
+Bu iki temel fark, aslında neden Hegic platformunun daha geç başlamış olsa da Opyn’e fark attığını anlamaya yetiyor. Hegic, DeFi dünyasındaki son gelişmeleri yakından takip ederek daha geniş bir kitleye ulaşmış ve likidite anlamında rakibine üstünlük sağlamış görünüyor.
 
