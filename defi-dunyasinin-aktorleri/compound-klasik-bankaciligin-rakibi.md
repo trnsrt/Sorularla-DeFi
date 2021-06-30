@@ -104,7 +104,7 @@ Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra ne
 
 İkincisi, ICO’larda girişimlerin çıkardığı tokenler tamamen kâr amacı güden yatırımcılara para karşılığı satılmıştı \(her ne kadar bu tokenlerin bir gün sistemi kullanmakta da işe yarayacağı söylense de\). Şimdi ise sistem üzerinden alım satım yapan kullanıcılara yaptıkları işlem karşılığı token verilmesi var. Dolayısıyla sistemi büyütmeye yarayan bir token dağıtımı söz konusu.
 
-Neden 2017’in token projelerini andırıyor? En önemli nedeni kullanıcılarda “Aman, kârlı bir projeyi kaçırıyorum!” şeklinde bir panik \(İngilizce'de 'Fear of Missing Out' - FOMO\) yaratmış olması. Hâlbuki, Compound’un CEO’su bile bu tokenlerin bir kâr amacı gütmeyeceğini söylüyor.
+Neden 2017’nin token projelerini andırıyor? En önemli nedeni kullanıcılarda “Aman, kârlı bir projeyi kaçırıyorum!” şeklinde bir panik \(İngilizce'de 'Fear of Missing Out' - FOMO\) yaratmış olması. Hâlbuki, Compound’un CEO’su bile bu tokenlerin bir kâr amacı gütmeyeceğini söylüyor.
 
 ### Niye bu kadar talep gördü COMP?
 

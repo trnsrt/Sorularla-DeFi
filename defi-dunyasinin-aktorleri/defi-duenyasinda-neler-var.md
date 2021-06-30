@@ -64,7 +64,7 @@ DeFi dünyasında binlerce farklı hizmet olmasının kullanıcıya alternatif s
 
 #### Cüzdanlar/Önyüzler
 
-DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzdanlar olduğunu söyleyebiliriz. Cüzdanlar, aynı zamanda; bu dünyaya yeni adım atan bir kullanıcının elinde olması gereken ilk temel araçlardan. Perakendede bir söz vardır: 'Müşteriye kim dokunuyorsa en güçlü odur' denir. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. \(Bu alana ilk kez adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili detaylı bilgiler son kısmımızda yer alıyor\). 
+DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzdanlar olduğunu söyleyebiliriz. Cüzdanlar, aynı zamanda; bu dünyaya ilk adımını atan bir kullanıcının elinde olması gereken temel araçlardan. Perakendede bir söz vardır: 'Müşteriye kim dokunuyorsa en güçlü odur' denir. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. \(Bu alana ilk kez adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili detaylı bilgiler son kısmımızda yer alıyor\). 
 
 ### Sırada neler var?
 
