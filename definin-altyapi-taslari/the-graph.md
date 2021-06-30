@@ -96,5 +96,5 @@ Para konmasının ikinci bir nedeni de, önüne gelenin içeri girip sistemi ç�
 
 ### The Graph üzerine son birkaç söz
 
-The Graph protokolü, merkeziyetsiz blokzincir dünyasının yarattığı bol veriyi; tarafsız bir şekilde tarayıp, endeksleyip, kullanıcıların sorgulamasına sunan ve bu dünyanın ruhuna uygun olarak merkeziyetsizleşmeyi kendine hedef seçmiş bir DeFi ürünü. Şu an için Ethereum bazlı olarak çalışan protokol, bakalım merkeziyetsizlik yolundaki yürüyüşüne devam edip sonrasında vazgeçilmez bir DeFi hizmet sağlayıcı olabilecek mi?
+The Graph protokolü, merkeziyetsiz blokzincir dünyasının yarattığı bol veriyi; tarafsız bir şekilde tarayıp, endeksleyip, kullanıcıların sorgulamasına sunan ve bu dünyanın ruhuna uygun olarak merkeziyetsizleşmeyi kendine hedef seçmiş bir DeFi ürünü. Şu an için Ethereum bazlı olarak çalışan protokol, bakalım merkeziyetsizlik yolundaki yürüyüşüne devam edip, sonrasında vazgeçilmez bir DeFi hizmet sağlayıcı olabilecek mi?
 
