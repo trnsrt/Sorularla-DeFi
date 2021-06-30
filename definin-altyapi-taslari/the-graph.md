@@ -22,7 +22,7 @@ Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyors
 
 #### Bir örnek mi versek?
 
-Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap’tan başlayalım: \(Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası. Ne olduğu ve nasıl çalıştığı ile ilgili [şu yazımıza](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) bakabilirsiniz\)
+Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap’tan başlayalım: \(Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası. Ne olduğu ve nasıl çalıştığı ile ilgili 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' bölümüne göz atabilirsiniz\).
 
 Uniswap, üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)‘da gerçekleşmiş. Her bir havuzdaki işlemleri, hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz The Graph sistemini kullanabilirsiniz.
 
@@ -30,13 +30,13 @@ Uniswap, üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet a
 
 _En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak:_ [_The Graph_](https://thegraph.com/blog/uniswap-built-on-the-graph)\_\_
 
-Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili teknik yeterliliğe sahip olmak gerekiyor.
+Hemen belirtelim son kullanıcıların bu üründen yararlanarak analiz yapması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili teknik yeterliliğe sahip olmak gerekiyor.
 
 #### The Graph’in diğer hizmet sağlayıcılardan farkı ne?
 
-The Graph’ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin Chainlink sisteminden söz ederken, her ne kadar müşterileri merkeziyetsiz DeFi platformları olsa da, sistemin oldukça merkezi olduğunu belirtmiştik.
+The Graph’ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin Chainlink sisteminden söz ederken, her ne kadar müşterileri olan platformlar merkeziyetsiz olsa da, sistemin oldukça merkezi olduğunu belirtmiştik.
 
-The Graph’de ise daha merkeziyetsiz bir sistem görüyoruz. Sisteme giriş ve çıkış izne tâbi değil herşeyden önce. İşleyiş de olabildiğince kendi kendine oluyor.
+The Graph’de ise daha merkeziyetsiz bir sistem görüyoruz. Öncelikle sisteme giriş ve çıkış izne tâbi değil. İşleyiş de olabildiğince kendi kendine oluyor.
 
 The Graph sisteminin işleyişini yürütenler ağırlıklı olarak ağ üzerindeki bağımsız aktörler \(ya da İngilizce node da denilen düğümler\). Dataları toplayan, endeksleyen, istenen analizleri çıkaran, datanın doğruluğunu sağlayanlar bunlar. \(Detaylı bilgi için en dipteki nota bakabilirsiniz\).
 
@@ -68,7 +68,7 @@ The Graph’ta ise köprü biraz daha farklı işliyor. Blokzincir içinden alı
 
 _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
-The Graph, şu aralar en mode olan Proof-of-Stake sistemini kullanıyor. Hemen bir parantez açalım: Yabancı olanlara hatırlatma: Bitcoin, Proof-of-Work denen güvenlik sistemini kullanıyor - hani şu en büyük eleştiri kaynağı olan “ama çok enerji harcıyor” sözünün müsebbibi olan madencilerin olduğu sistem. Ethereum da şu an aynı sistemi kullanmakla birlikte, önümüzdeki yıl içinde Proof-of-Stake mekanizmasına geçecekler. Bu sistemde sistemin güvenliğini sağlayanlar bunu kendi mal varlıklarını teminat göstererek garanti edecekler. Böylece eskiden kol gücü yani emek ile korunan sistem, artık zenginlik yani kapital ile korunmaya başlayacak. Ve parantezi kapatıp konumuza geri dönelim.
+The Graph, şu aralar en popüler olan Proof-of-Stake sistemini kullanıyor. Hemen bir parantez açalım: Yabancı olanlara hatırlatma: Bitcoin, Proof-of-Work denen güvenlik sistemini kullanıyor - hani şu en büyük eleştiri kaynağı olan “ama çok enerji harcıyor” sözünün müsebbibi olan madencilerin olduğu sistem. Ethereum da şu an aynı sistemi kullanmakla birlikte, önümüzdeki yıl içinde Proof-of-Stake mekanizmasına geçecekler. Bu sistemde sistemin güvenliğini sağlayanlar bunu kendi mal varlıklarını teminat göstererek garanti edecekler. Böylece eskiden kol gücü yani emek ile korunan sistem, artık zenginlik yani kapital ile korunmaya başlayacak. Ve parantezi kapatıp konumuza geri dönelim.
 
 #### Aktörler kimler?
 
@@ -92,7 +92,7 @@ Tabii bir de kullanıcılar var ki - bunlar genelde DeFi ürünleri oluyor. Örn
 
 Neden para konuyor peki? Sistem merkezi değil demiştik. Bu nedenle isteyen sisteme girip endeksçi, yetkilendirici ya da küratör olabiliyor. Peki ya bu kişiler kötü niyetli ise? Özellikle endeks tutanlar, yanlış bilgi sağlamak ya da endekslemek söz konusu olursa koydukları paranın tümünü kaybedebiliyorlar. Hemen belirtelim teminatlarını uzun bir süreliğine koydukları için bilginin yanlış olduğu sonradan anlaşılsa bile cezayı yiyorlar. Küratör ve yetkilendiriciler bilgi sağlamadıkları için böyle bir ağır cezaya tabi değiller ama onlar da eğer yanlış ata oynar yani yanlış analiz ya da endeksçi seçerlerse, paralarını geri çekerken bir ücret ödüyorlar.
 
-Para konmasının ikinci bir nedeni de, önüne gelenin sisteme girip sistemi çöplük haline getirmesini önlemek için. Zira, böyle bir durumda kaliteli endeksleme yapanları bulmak zorlaşıyor ve genel sistem reputasyonu bozuluyor.
+Para konmasının ikinci bir nedeni de, önüne gelenin içeri girip sistemi çöplük haline getirmesini önlemek için. Zira, böyle bir durumda kaliteli endeksleme yapanları bulmak zorlaşıyor ve genel sistem itibarı bozuluyor.
 
 ### The Graph üzerine son birkaç söz
 
