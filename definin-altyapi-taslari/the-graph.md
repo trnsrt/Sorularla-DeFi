@@ -1,12 +1,12 @@
 # The Graph: DeFi'nin merkeziyetsiz analiz sağlayıcısı
 
-Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni ancak önemli bir işlevi yerine getiren The Graph Protocol’den bahsedeceğiz.
+Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni; ancak önemli bir işlevi yerine getiren The Graph Protocol’den bahsedeceğiz.
 
-[The Graph Protocol](https://thegraph.com/), DeFi ürünler ile dış dünya arasında köprü görevi gören bir aracı. Hatırlarsanız bir önceki bölümde, DeFi’nin önemli altyapı sağlayıcılarından olan [Chainlink](https://chain.link/) üzerine [detaylı bir analiz](https://turansert.com/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) yapmıştık.. The Graph de işlevi farklı olsa da genel olarak Chainlink’e oldukça benziyor.
+[The Graph Protocol](https://thegraph.com/), DeFi ürünler ile dış dünya arasında köprü görevi gören bir aracı. Hatırlarsanız bir önceki bölümde, DeFi’nin önemli altyapı sağlayıcılarından olan [Chainlink](https://chain.link/) üzerine [detaylı bir analiz](https://turansert.com/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) yapmıştık. The Graph de işlevi farklı olsa da genel olarak Chainlink’e oldukça benziyor.
 
 ### Nedir Graph? Ne işe yarar? Kimler kullanır?
 
-The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri \(data ya da veri denebilir bunlara\) toplamak, arama yapılacak hale sokmak \(endekslemek\) ve ihtiyaç duyanların hizmetine sunmak.
+The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı; blokzincirlerin yarattığı bilgileri \(data ya da veri denebilir bunlara\) toplamak, arama yapılacak hale sokmak \(endekslemek\) ve ihtiyaç duyanların hizmetine sunmak.
 
 ![](../.gitbook/assets/030405-the_graph_definin-analiz-saglayicisi-arrows-2899888_1920.jpg)
 
@@ -16,33 +16,33 @@ _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pix
 
 DeFi dünyası 7/24 çalışan bir dünya. Bilgiye nerede ise gerçek zamanlı ihtiyaç duyuyorsunuz. Size bu tip analizler için hazır araçlar sunan siteler de mevcut. Ama tam istediğiniz gibi bir analiz seti bulabiliyor musunuz? Ya da o site, analizde kullandığı bilgileri sizin istediğiniz yerden mi alıyor?
 
-Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyorsanız, yapmanız gereken, kendi iç ekiplerinizi kullanıp ihtiyaç duyduğunuz bu araçları sıfırdan yaratmak yani yazmak. İyi de, bir DeFi ürünü olarak zamana karşı yarışıyorsunuz. Rakipler her gün yeni bir özellik sunuyorlar. İnsan kaynağı deseniz zaten kısıtlı. Kısıtlı insan kaynağınızı kendi ana ürününüzü geliştirmek için mi kullanmak istersiniz, yoksa bu tip bir ikincil ihtiyaç için mi?
+Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyorsanız, yapmanız gereken; kendi iç ekiplerinizi kullanıp ihtiyaç duyduğunuz bu araçları sıfırdan yaratmak yani yazmak. İyi de, bir DeFi ürünü olarak zamana karşı yarışıyorsunuz. Rakipler her gün yeni bir özellik sunuyorlar. İnsan kaynağı deseniz zaten kısıtlı. Kısıtlı insan kaynağınızı kendi ana ürününüzü geliştirmek için mi kullanmak istersiniz, yoksa bu tip bir ikincil ihtiyaç için mi?
 
-İşte Graph size herhangi bir blokzincire ait bilgileri istediğiniz formatta alıp istediğiniz şekilde analiz etmenizi sağlayacak bir platform sunuyor. Üstelik istediğiniz zaman ya da sıklıkta yaptırıyor, kullandığınız kadar para ödüyorsunuz. Tabii ki en büyük avantajı, bunu merkeziyetsiz yani aracılar olmadan daha güvenilir bir şekilde gerçekleştiriyorsunuz.
+İşte Graph size herhangi bir blokzincire ait bilgileri istediğiniz formatta alıp istediğiniz şekilde analiz etmenizi sağlayacak bir platform sunuyor. Üstelik istediğiniz zaman ya da sıklıkta yaptırıyor, kullandığınız kadar para ödüyorsunuz. Tabii ki en büyük avantajı; bunu merkeziyetsiz yani aracılar olmadan daha güvenilir bir şekilde gerçekleştiriyorsunuz.
 
 #### Bir örnek mi versek?
 
 Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap’tan başlayalım: \(Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası. Ne olduğu ve nasıl çalıştığı ile ilgili 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' bölümüne göz atabilirsiniz\).
 
-Uniswap, üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)‘da gerçekleşmiş. Her bir havuzdaki işlemleri, hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz The Graph sistemini kullanabilirsiniz.
+Uniswap üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu, Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar, Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)da gerçekleşmiş. Her bir havuzdaki işlemleri, hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz, The Graph sistemini kullanabilirsiniz.
 
 ![](../.gitbook/assets/030407-the_graph_definin-analiz-saglayicisi-uniswap-overview.jpg)
 
 _En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak:_ [_The Graph_](https://thegraph.com/blog/uniswap-built-on-the-graph)\_\_
 
-Hemen belirtelim son kullanıcıların bu üründen yararlanarak analiz yapması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili teknik yeterliliğe sahip olmak gerekiyor.
+Hemen belirtelim; son kullanıcıların bu üründen yararlanarak analiz yapması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili teknik yeterliliğe sahip olmak gerekiyor.
 
 #### The Graph’in diğer hizmet sağlayıcılardan farkı ne?
 
-The Graph’ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin Chainlink sisteminden söz ederken, her ne kadar müşterileri olan platformlar merkeziyetsiz olsa da, sistemin oldukça merkezi olduğunu belirtmiştik.
+The Graph’ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin; Chainlink sisteminden söz ederken, her ne kadar müşterileri olan platformlar merkeziyetsiz olsa da, sistemin oldukça merkezi olduğunu belirtmiştik.
 
 The Graph’de ise daha merkeziyetsiz bir sistem görüyoruz. Öncelikle sisteme giriş ve çıkış izne tâbi değil. İşleyiş de olabildiğince kendi kendine oluyor.
 
-The Graph sisteminin işleyişini yürütenler ağırlıklı olarak ağ üzerindeki bağımsız aktörler \(ya da İngilizce node da denilen düğümler\). Dataları toplayan, endeksleyen, istenen analizleri çıkaran, datanın doğruluğunu sağlayanlar bunlar. \(Detaylı bilgi için en dipteki nota bakabilirsiniz\).
+The Graph sisteminin işleyişini yürütenler, ağırlıklı olarak ağ üzerindeki bağımsız aktörler \(ya da İngilizce node da denilen düğümler\). Dataları toplayan, endeksleyen, istenen analizleri çıkaran, datanın doğruluğunu sağlayanlar bunlar. \(Detaylı bilgi için en dipteki nota bakabilirsiniz\).
 
 The Graph ekibi ise birkaç yerde işin içinde:
 
-Ortaya çıkarılan endeks ya da analizlerin, ihtiyaç sahiplerine düzgün bir şekilde tanıtılması için [Graph Explorer](https://thegraph.com/explorer/) isimli bir dApp kurmuş ekip - bir nevi pazaryeri burası. Bu oldukça kritik. Zira küratörler tarafından en kaliteli endeksler ortaya çıkarılmalı ki, bunlar talep sahipleri tarafından görülebilsin, kullanılsın ve küratör ve endeksçilere para kazandırsın. Ham data IPFS denilen merkeziyetsiz protokolde tutulsa da, Graph Explorer’daki endeks ve analiz bilgileri şimdilik merkezi bir yerde tutuluyor. Gelecekte bu hizmetin merkeziyetsiz bir şekilde sunulması için çalışmalar sürüyor.
+Ortaya çıkarılan endeks ya da analizlerin, ihtiyaç sahiplerine düzgün bir şekilde tanıtılması için [Graph Explorer](https://thegraph.com/explorer/) isimli bir dApp kurmuşlar. Burası bir nevi pazar yeri aslında. Bu oldukça kritik. Zira küratörler tarafından en kaliteli endeksler ortaya çıkarılmalı ki, bunlar talep sahipleri tarafından görülebilsin, kullanılsın ve küratör ve endeksçilere para kazandırsın. Ham data IPFS denilen merkeziyetsiz protokolde tutulsa da, Graph Explorer’daki endeks ve analiz bilgileri şimdilik merkezi bir yerde tutuluyor. Gelecekte bu hizmetin merkeziyetsiz bir şekilde sunulması için çalışmalar sürüyor.
 
 Bunun yanında başlangıçta endeksçilerin hatalı bilgi vermesi gibi konularda karar verici olan ekip olsa da, bu daha sonra protokolün yönetimine bırakılacak.
 
