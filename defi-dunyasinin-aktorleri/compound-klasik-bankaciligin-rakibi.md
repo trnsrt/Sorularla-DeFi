@@ -10,7 +10,7 @@ Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Öz
 
 Klasik bankacılık en basit tarifi ile yükümlülüklerinde mevduat sahiplerinin yatırdığı paraların,  ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı \(spread\).
 
-Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem.
+Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan, Ethereum üzerine kurulu bir sistem.
 
 ![](../.gitbook/assets/02031-compound-money-3405700_1920.jpg)
 
