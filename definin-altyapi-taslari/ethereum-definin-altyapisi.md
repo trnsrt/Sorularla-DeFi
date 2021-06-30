@@ -40,11 +40,11 @@ Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınız
 
 Neden akıllı kontrat deniyor o halde? Şu nedenle: İki kişi herhangi bir şekilde aralarında ‘normal’ bir kontrat yaptığında taraflardan biri “yok efendim, şöyle böyle oldu da ben vazgeçtim” gibisinden bir bahane altına saklanıp sözünü yerine getirmeyebilir. Ondan sonra araya girsin avukatlar, gerekirse yargı ve işin içinden çıkmaya çalışsınlar.
 
-Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontrat öyle çok karmaşık kurallar vesaire öngörmüyor, tam tersine oldukça basit. Ama akıllı kontratın asıl gücü, karşı tarafın işlemi yapacağına emin olmamızdan kaynaklanıyor. Zira koşullar otomatik olarak bir yazılım içinde olduğu için, o koşul gerçekleştiği anda, iki taraf için de belirlenen sonuç ne ise, o otomatik olarak gerçekleşiyor. Akıllı kontratlar ile ikili ilişkilerde karşı tarafın sözünü yerine getireceğine dair duymamız güven ihtiyacı ortadan kalkıyor.
+Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontrat öyle çok karmaşık kurallar vesaire öngörmüyor, tam tersine oldukça basit. Ama akıllı kontratın asıl gücü, karşı tarafın işlemi yapacağına emin olmamızdan kaynaklanıyor. Zira, kod uygun koşullar gerçekleştiğinde otomatik olarak çalışıyor. Akıllı kontratlar ile ikili ilişkilerde karşı tarafın sözünü yerine getireceğine dair duymamız gereken güven ihtiyacı ortadan kalkıyor.
 
 #### Ethereum ve Akıllı Kontratlar
 
-Aslında akıllı kontratlar uzun zamandır bilinen bir kavram - aynı otomatların uzun süredir hayatımızda olması gibi. Ethereum’un kurucusu Vitalik Buterin  blokzincir sistemlerini sadece para değil daha pek çok fonksiyon için kullanmak istiyordu. 
+Aslında akıllı kontratlar, uzun zamandır bilinen bir kavram \(aynı otomatların uzun süredir hayatımızda olması gibi\). Ethereum’un kurucusu Vitalik Buterin  blokzincir sistemlerini sadece para değil daha pek çok fonksiyon için kullanmak istiyordu. 
 
 Bu fonksiyonlar, dijital bir varlığın bir kişiden diğerine aktarımından tutun, her tür dijital hizmetin değişik yerlerdeki bilgisayarlar aracılığıyla verilmesine kadar uzanan geniş bir yelpazedeler. Bu tip bilgisayarlar arasında verilecek hizmetler ve bu hizmetler karşılığında bir ödeme yapılabilmesi için bu makinelerin ortak kabul ettikleri bir kurallar bütünü ve sözleşme olması gerekiyordu. İşte, Ethereum bu tip değişik makineler arasında yapılacak işlemler ve bu işlemlerin bağlı olacağı akıllı kontratlar için bir altyapı platformu olarak ortaya çıktı. Bu nedenle Ethereum ve benzeri altyapı blokzincirlerine 'akıllı kontrat platformu' adı veriliyor. 
 
@@ -64,7 +64,11 @@ Bitcoin ile Ethereum arasındaki bu hedef farklılığı, her iki platformun bel
 
 Benzer farklılığı iki blokzincirin para politikalarında da görüyoruz. Bitcoin parası BTC'nin parası arzı belli. Şu anda ne kadarı çıkarılmış kuruşu kuruşuna biliniyor, bundan sonra ne zaman ne kadar çıkacak büyük oranda belli ve 2140 yılında sonlanacak şekilde planlanmış.
 
-Ethereum’da ise durum farklı. Örneğin, tedavüldeki ETH sayısının ne kadar olduğu konusunda ortak bir sayı elde etmek mümkün değil. Bunun iki temel nedeni var: Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakika bir değil, 10-20 saniye arasında olması. İkincisi ise bloklar arasındaki Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
+Ethereum’da ise durum farklı. Örneğin, tedavüldeki ETH sayısının ne kadar olduğu konusunda ortak bir sayı elde etmek mümkün değil. Bunun iki temel nedeni var: 
+
+Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakika bir değil, 10-20 saniye arasında olması. 
+
+İkincisi ise bloklar arasındaki Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
 
 Aynı şekilde Ethereum para politikası da Bitcoin kadar net değil. Örneğin önümüzdeki yıllarda Ethereum basılmaya devam edecek ama ne kadar basılacağını tam olarak bilen yok. Pek çok yeni gelişmenin ETH para miktarını değiştirme ihtimali var.
 
@@ -82,7 +86,7 @@ Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korun
 
 Ancak bu ödül rakamı eskisinden farklı. Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 milyon adet ETH dağıtılıyor. Yeni sistem olan PoS’de ise bu ödül rakamı 1 milyon ETH’nin altına inebilir. Kesin rakam ne kadar insanın paralarını rehin ettiğine bağlı olarak değişecek. Vitalik’in tahmini yıllık 500 bin ETH civarı bir rakam olacağı idi ancak şu an için görünen rakamın daha az olacağı.
 
-1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde 2021 Mayıs ayı sonuna kadar[ 5milyon ETH civarında](https://launchpad.ethereum.org/en/) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte artacağı söylenebilir. Eğer rehin edilecek ETH sayısı iki katına çıkarsa bu yıllık olarak yaklaşık [500 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik’in tahmini de tam olarak bu. 
+1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde 2021 Mayıs ayı sonuna kadar[ 5 milyon ETH civarında](https://launchpad.ethereum.org/en/) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte artacağı söylenebilir. Eğer rehin edilecek ETH sayısı iki katına çıkarsa bu yıllık olarak yaklaşık [500 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik’in tahmini de tam olarak bu. 
 
 Ancak bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem ETH 1.0, hem de yeni sistem bir arada işleyecek. Bu sürede, hem madencilere hem de rehin verenlere ödül verilecek. Dolayısıyla, eğer ETH 1.0’dan 2.0’a geçiş bir yıl sürerse, 2021 yılı içinde basılacak olan ETH miktarı Vitalik’in tahmini ile yuvarlak olarak 5.2 milyon \(4.7 milyon artı 500 bin\) olacak.
 
