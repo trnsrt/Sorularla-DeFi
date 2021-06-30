@@ -8,13 +8,13 @@ Ancak bir önceki kısımda bahsettiğimiz birlikte çalışılabilirlik, açık
 
 ### Klasik finans ile DeFi'nin temel farkı
 
-Yukarıda bahsettiğimiz özellikler nedeniyle DeFi'nin çalışma prensiplerinin klasik finanstan temelde farklılık gösterdiğini söyleyebiliriz. Neler bunlar, kısaca değinelim: 
+Yukarıda bahsettiğimiz özellikler nedeniyle DeFi'nin çalışma prensiplerinin, temelde klasik finanstan farklılık gösterdiğini söyleyebiliriz. Neler bunlar, kısaca değinelim: 
 
-Klasik finans dünyasının aktörleri geçmişten gelen 'korumacı' zihniyetin devamı olarak 'silo' halinde çalışırlar.  Ne demek silo? Kendi içinde var olan ve dışarı ile iletişimi son derece kısıtlı küçük dünyalar. Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlara ait ürünleri kullanmak isterse, o başka kurumlarda hesap açarak varlığını yatırması gerekir. 
+Klasik finans dünyasının aktörleri, geçmişten gelen 'korumacı' zihniyetin devamı olarak 'silo' halinde çalışırlar.  Ne demek silo? Kendi içinde var olan ve dışarı ile iletişimi son derece kısıtlı küçük dünyalar. Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlara ait ürünleri kullanmak isterse, o başka kurumlarda hesap açarak varlığını yatırması gerekir. 
 
 Finans kurumu, aylarca hatta yıllarca çalışarak, müşterileri için ürünler hazırlar ve onlara sunar. Bu ürünlerin gelişmesine ait telif haklarını sıkı sıkıya kayıt ettirir ve başkalarının kullanımı halinde mahkemelerde hakkını arar.  
 
-DeFi'de ise bu durum kökten değişiyor. Öncelikle kullanıcı varlığını hizmet sağlayıcıya emanet etmez. Varlık kullanıcının elektronik cüzdanında durur \(Son bölümümüzde bu konuya detaylıca bakacağız\). Kullanıcı hizmet sağlayıcı ile çalışmak istediği anda cüzdanını bağlar, hizmeti kullanır sonra ilişkiyi keser. Üstelik, DeFi ürünleri birlikte çalışabildiği için, aldığı bir DeFi ürününü götürüp başka bir protokolde de kullanabilir. 
+DeFi'de ise bu durum kökten değişiyor. Öncelikle kullanıcı, varlığını hizmet sağlayıcıya emanet etmez. Varlık, kullanıcının elektronik cüzdanında durur. \(Son bölümümüzde bu konuya detaylıca bakacağız\) Kullanıcı, hizmet sağlayıcı ile çalışmak istediği anda; cüzdanını bağlar, hizmeti kullanır sonra ilişkiyi keser. Üstelik, DeFi ürünleri birlikte çalışabildiği için, aldığı bir DeFi ürününü götürüp başka bir protokolde de kullanabilir. 
 
 Bunun yanında, açık kaynak sayesinde ürün geliştirme süreçleri DeFi için oldukça kısa. Bu dünyada, telif hakları gibi konular yok denecek kadar az \(nadir görülen bir örneği Uniswap bölümünde görebilirsiniz\). Zira, bırakın ürünlerin nasıl dizayn edildiğini; ürünün kaynak kodları yani onu oluşturan her parça isteyen herkesin görebileceği şekilde açık. 
 
@@ -40,17 +40,17 @@ Bu arada hemen belirtelim, bu destedeki en alt üç parçaya, yani 'Para Birimle
 
 Kullanıcı, kendine ait bir değeri olduktan sonra bu değeri saklayabileceği ve finansal işlemlerini gerçekleştirebileceği bir alan arar. İşte temel olarak blokzincirler burada DeFi'nin ihtiyacı olan altyapı hizmetini verirler. 
 
-Bu kitapta genelde blokzincir olarak Ethereum'dan bahsedildiğini göreceksiniz.  Bunun temel nedenleri arasında, Ethereum'un Bitcoin'den sonra çıkmış en popüler blokzincir olması, kendisini bir akıllı kontrat platformu olarak sunması ve DeFi protokollerinin ağırlıklı bir çoğunluğuna ev sahipliği yapması geliyor. 
+Bu kitapta genelde blokzincir olarak Ethereum'dan bahsedildiğini göreceksiniz.  Bunun temel nedenleri arasında; Ethereum'un Bitcoin'den sonra çıkmış en popüler blokzincir olması, kendisini bir akıllı kontrat platformu olarak sunması ve DeFi protokollerinin ağırlıklı bir çoğunluğuna ev sahipliği yapması geliyor. 
 
 Teknolojinin her alanında olduğu gibi burada da Ethereum'un rakipleri var, ancak şu anda hemen hemen hepsi emekleme aşamasında. Gelecekte, bu rakiplerden bir ya da birkaçının Ethereum'a ciddi rakip olabileceğini de görebiliriz. 
 
-Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Yeni versiyonun bu alanda en büyük özelliği, sharding de denen sonuç olarak bir veri tabanı olan Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması. Bu yaparken şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/) 
+Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Yeni versiyonun bu alanda en büyük özelliği, sharding de denen sonuç olarak bir veri tabanı olan Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması. Bu yapıldığında, şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/) 
 
 Öte yandan 2021 yılının ilk aylarında, DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
 
 #### Bilgi Sağlayıcılar:
 
-DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar. Ancak blokzincirlerin doğası gereği dış dünya ile bağlantısı bulunmaz. Bilgi sağlayıcılar \(İngilizce ile 'oracle'\)  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören, önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
+DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar. Ancak blokzincirlerin doğası gereği dış dünya ile bağlantısı bulunmaz. Bilgi sağlayıcılar \(İngilizce'de 'oracle'\);  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören, önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
 
 #### Temel DeFi ürünleri
 
@@ -64,9 +64,9 @@ DeFi dünyasında binlerce farklı hizmet olmasının kullanıcıya alternatif s
 
 #### Cüzdanlar/Önyüzler
 
-DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğe cüzdanlar. Cüzdanlar, aynı zamanda; bu dünyaya yeni adım atan bir kullanıcının elinde olması gereken ilk temel araçlardan. Perakendede bir söz vardır: 'Müşteriye kim dokunuyorsa en güçlü odur' denir. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. \(Bu alana ilk kez adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili detaylı bilgiler son kısmımızda yer alıyor\). 
+DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzdanlar olduğunu söyleyebiliriz. Cüzdanlar, aynı zamanda; bu dünyaya yeni adım atan bir kullanıcının elinde olması gereken ilk temel araçlardan. Perakendede bir söz vardır: 'Müşteriye kim dokunuyorsa en güçlü odur' denir. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. \(Bu alana ilk kez adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili detaylı bilgiler son kısmımızda yer alıyor\). 
 
 ### Sırada neler var?
 
-Bundan önceki kısımda DeFi'nin genel felsefesine ve temel özelliklerine değinmiştik. Şu an okuduğunuz ikinci kısımda, gelin önce temel DeFi ürünlerinden birkaçına göz atalım. Sonrasında, üçüncü kısımda DeFi'nin altyapısını sağlayan hizmet sağlayıcılara bakıp; en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeye çalışalım. 
+Bundan önceki kısımda DeFi'nin genel felsefesine ve temel özelliklerine değinmiştik. Şu an okuduğunuz ikinci kısımda, gelin önce temel DeFi ürünlerinden birkaçına göz atalım. Sonrasında, üçüncü kısımda, DeFi'nin altyapısını sağlayan hizmet sağlayıcılara bakıp; en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeye çalışalım. 
 
