@@ -10,26 +10,6 @@ Ethereum da bu girişimlerin ağırlıklı olarak kullandığı akıllı kontrat
 
 _Image by_ [_Clarence Alford_](https://pixabay.com/users/clarencealford-5516293) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
-### ETH’nin sorunları ne?
-
-2020 yılının ortalarında başlayan DeFi hareketi nedeniyle Ethereum üzerindeki işlem hacmi ciddi şekilde arttı. Ne tip işlem hareketleri görüldü? Ağırlıklı olarak DeFi tokenlarının alım ve satımı.
-
-DeFi tokenlardan kastımız merkeziyetsiz finansın değişik alanlarında ortaya çıkan girişimlerin yarattıkları tokenlar. Ne işe yarıyorlar? Kullanım alanları farklı olsa da ait oldukları DeFi ürününün kullanımını teşvik edici özelikleri var. Bu tokenlara sahip olanlar ürünün başarılı olması halinde gelecekte bu başarıdan pay almayı umuyorlar.
-
-Bu tokenların bir de yönetim tokeni olmak gibi bir işlevleri var. Yani bu tokenlara sahip olanlar, DeFi platformunun iç işleyişi ve gideceği yön hakkında söz sahibi olma hakkı elde ediyorlar.
-
-DeFi henüz yeni gelişen bir alan olduğu için üzerine kurulu ürünler de yeni yeni gelişiyorlar. Bu nedenle bu yönetim tokenlarının hemen ortaya çıkmış ekonomik bir değerleri net olarak yok. Bu durum da aslında yavaş yavaş değişiyor. Token sahiplerine verilen ekstra tokenlar, yapılan işlem karşılığı belli tokenların yakılması sonucu token arzının azalması ya da toplanan komisyonların token sahiplerine dağıtılması gibi aktiviteler tokenlara ekonomik bir değer kazandırmaya başladılar bile.
-
-Ancak özünde DeFi tokenların değerleri hâlâ oldukça spekülatif. Bu nedenle de fiyatları hızlı bir şekilde değişkenlik gösteriyor. Tipik bir erken aşama, yüksek risk ürünün yaşadığı gel-gitler. Bu da bu tokenlari al-sat yapmaya oldukça müsait hale getiriyor.
-
-Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alım-satım uzmanları ödeyecekleri ücrete bakmadan olabildiğince hızlı şekilde hareket etmeye çalıştılar. Zaten yüklü olan hacmin üzerine bir de bu hızlı hareket etmek isteyenler binince işlem ücretleri inanılmaz bir biçimde arttı.
-
-![](../.gitbook/assets/030206-ethereum_ve_rakipleri-eth_median_fees_coinmetrics_1yr_v3.png)
-
-|  |
-| :--- |
-| _Ethereum platformu üzerindeki ortalama \(median\) işlem ücretleri. Kaynak:_ [_Coinmetrics_](https://network-charts.coinmetrics.io/) |
-
 ### Kimler ETH’nin rakibi olarak lanse ediliyor?
 
 İşte Ethereum’un bu yüksek işlem ücretleri özünde Ethereum rakibi olanlar için bulunmaz bir fırsat yarattı.
@@ -86,7 +66,29 @@ Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan bl
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 
-Öte yandan bir önceki bölümde bahsettiğimiz,  Ethereum üzerine kurulacak ikinci seviye çözümlerin de ağ üzerindeki yükü azaltması bekleniyor. Bu tip çözümleri, genelde ağ üzerine yük bindirecek yüksek hacimli çok sayıda işlemin hesaplama gerektiren kısımlarının ağ dışında ikinci seviyede yapılıp ve tüm işlem sonuçlarının tek bir işlem imiş gibi ağa yazılması olarak basitçe özetleyebiliriz. Bu sayede ağ üzerinde sıkışıklık yaratarak maliyetlerin artmasına neden olan onlarca işlemin çok daha ucuza yapılması mümkün olacak. Tabii bunu yaparken, güvenlik ya da hız konusunda bazı tavizler verilmesi söz konusu olabilir ancak bu çözümler yine de Ethereum ağının üzerindeki yükü alacak olumlu bir gelişme olarak görülüyor. 
+Öte yandan bir önceki bölümde bahsettiğimiz,  Ethereum üzerine kurulacak ikinci seviye çözümlerin de ağ üzerindeki yükü azaltması bekleniyor. Bu tip çözümleri, genelde ağ üzerine yük bindirecek yüksek hacimli çok sayıda işlemin hesaplama gerektiren kısımlarının ağ dışında ikinci seviyede yapılıp ve tüm işlem sonuçlarının tek bir işlem imiş gibi ağa yazılması olarak basitçe özetleyebiliriz. Bu sayede ağ üzerinde sıkışıklık yaratarak maliyetlerin artmasına neden olan onlarca işlemin çok daha ucuza yapılması mümkün olacak. Tabii bunu yaparken, güvenlik ya da hız konusunda bazı tavizler verilmesi söz konusu olabilir ancak bu çözümler yine de Ethereum ağının üzerindeki yükü alacak olumlu bir gelişme olarak görülüyor.
+
+ETH’nin sorunları ne?
+
+2020 yılının ortalarında başlayan DeFi hareketi nedeniyle Ethereum üzerindeki işlem hacmi ciddi şekilde arttı. Ne tip işlem hareketleri görüldü? Ağırlıklı olarak DeFi tokenlarının alım ve satımı. 
+
+DeFi tokenlardan kastımız merkeziyetsiz finansın değişik alanlarında ortaya çıkan girişimlerin yarattıkları tokenlar. Ne işe yarıyorlar? Kullanım alanları farklı olsa da ait oldukları DeFi ürününün kullanımını teşvik edici özelikleri var. Bu tokenlara sahip olanlar ürünün başarılı olması halinde gelecekte bu başarıdan pay almayı umuyorlar.
+
+Bu tokenların bir de yönetim tokeni olmak gibi bir işlevleri var. Yani bu tokenlara sahip olanlar, DeFi platformunun iç işleyişi ve gideceği yön hakkında söz sahibi olma hakkı elde ediyorlar.
+
+DeFi henüz yeni gelişen bir alan olduğu için üzerine kurulu ürünler de yeni yeni gelişiyorlar. Bu nedenle bu yönetim tokenlarının hemen ortaya çıkmış ekonomik bir değerleri net olarak yok. Bu durum da aslında yavaş yavaş değişiyor. Token sahiplerine verilen ekstra tokenlar, yapılan işlem karşılığı belli tokenların yakılması sonucu token arzının azalması ya da toplanan komisyonların token sahiplerine dağıtılması gibi aktiviteler tokenlara ekonomik bir değer kazandırmaya başladılar bile.
+
+Ancak özünde DeFi tokenların değerleri hâlâ oldukça spekülatif. Bu nedenle de fiyatları hızlı bir şekilde değişkenlik gösteriyor. Tipik bir erken aşama, yüksek risk ürünün yaşadığı gel-gitler. Bu da bu tokenlari al-sat yapmaya oldukça müsait hale getiriyor.
+
+Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alım-satım uzmanları ödeyecekleri ücrete bakmadan olabildiğince hızlı şekilde hareket etmeye çalıştılar. Zaten yüklü olan hacmin üzerine bir de bu hızlı hareket etmek isteyenler binince işlem ücretleri inanılmaz bir biçimde arttı.
+
+![](../.gitbook/assets/030206-ethereum_ve_rakipleri-eth_median_fees_coinmetrics_1yr_v3.png)
+
+|  |
+| :--- |
+| _Ethereum platformu üzerindeki ortalama \(median\) işlem ücretleri. Kaynak:_ [_Coinmetrics_](https://network-charts.coinmetrics.io/) |
+
+###  
 
 ### Ethereum ve rakipleri üzerine son birkaç söz
 
