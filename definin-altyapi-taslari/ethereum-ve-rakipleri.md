@@ -52,7 +52,7 @@ Yukarıdaki büyükler dışında geliştirici sayısı 100'ün altında olan g�
 
 _Geliştirici sayısı 100'den fazla olan platformların bir yıl içindeki değişimi \(Kaynak:_ [_Electric Capital Developer Report_](https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444) _Sayfa 90\)_
 
-### ETH bunlara nasıl cevap verecek? Verebilecek mi?
+### ETH bunlara nasıl cevap verecek?
 
 Aslına bakarsanız Ethereum’un ‘tüm dünyanın kullanabileceği bir bilgisayar olmak’ gibi bir vizyonu olsa da, bu alanda ‘tek’ olmak gibi bir hedefi yok. Zaten yukarıda saydığımız diğer blokzincirler ile yakın ilişkileri de devam ediyor. Örneğin, eğer takip ediyorsanız Avalanche kurucusu Emin Gür Sirer hocanın Twitter’da Ethereum’un defacto lideri Vitalik Buterin ile sık sık yazıştığını görebilirsiniz.
 
@@ -68,7 +68,7 @@ Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok bü
 
 Öte yandan bir önceki bölümde bahsettiğimiz,  Ethereum üzerine kurulacak ikinci seviye çözümlerin de ağ üzerindeki yükü azaltması bekleniyor. Bu tip çözümleri, genelde ağ üzerine yük bindirecek yüksek hacimli çok sayıda işlemin hesaplama gerektiren kısımlarının ağ dışında ikinci seviyede yapılıp ve tüm işlem sonuçlarının tek bir işlem imiş gibi ağa yazılması olarak basitçe özetleyebiliriz. Bu sayede ağ üzerinde sıkışıklık yaratarak maliyetlerin artmasına neden olan onlarca işlemin çok daha ucuza yapılması mümkün olacak. Tabii bunu yaparken, güvenlik ya da hız konusunda bazı tavizler verilmesi söz konusu olabilir ancak bu çözümler yine de Ethereum ağının üzerindeki yükü alacak olumlu bir gelişme olarak görülüyor.
 
-ETH’nin sorunları ne?
+### ETH’nin sorunları ne?
 
 2020 yılının ortalarında başlayan DeFi hareketi nedeniyle Ethereum üzerindeki işlem hacmi ciddi şekilde arttı. Ne tip işlem hareketleri görüldü? Ağırlıklı olarak DeFi tokenlarının alım ve satımı. 
 
