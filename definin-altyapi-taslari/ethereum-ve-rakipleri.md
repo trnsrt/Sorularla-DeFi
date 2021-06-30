@@ -62,7 +62,7 @@ Zira yüksek işlem ücretleri Ethereum’un ilk kez karşılaştığı bir duru
 
 Sistemdeki yüksek madencilik ücretlerini törpülemek ve yoğun zamanlarda blok boyutunu artırmak ile ilgili Vitalik Buterin’in o zamandan kalma EIP 1559 isimli bir iyileştirme önerisi bulunmakta. DeFi yoğunluğu ile birlikte geliştirmesi daha da hızlanan bu önerinin 2021 yaz aylarında uygulamaya konulması umuluyor.
 
-Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan blokzincirini birbiri ile ortak çalışan 64 ayrı zincir haline getirmesi \(ingilizcesi sharding\) kapasiteyi ciddi şekilde artıracak. Bu özelliğin ise 18 ay içinde yani 2022 yılının ortalarında kullanıma hazır hale gelmesi planlanıyor.
+Bunun yanında 2020 Kasım ayında başlayan ETH 2.0’in ana özelliği olan blokzincirini birbiri ile ortak çalışan 64 ayrı zincir haline getirmesi \(İngilizce'de sharding\) kapasiteyi ciddi şekilde artıracak. Bu özelliğin ise 18 ay içinde yani 2022 yılının ortalarında kullanıma hazır hale gelmesi planlanıyor.
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 
@@ -87,8 +87,6 @@ Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alı
 |  |
 | :--- |
 | _Ethereum platformu üzerindeki ortalama \(median\) işlem ücretleri. Kaynak:_ [_Coinmetrics_](https://network-charts.coinmetrics.io/) |
-
-###  
 
 ### Ethereum ve rakipleri üzerine son birkaç söz
 
