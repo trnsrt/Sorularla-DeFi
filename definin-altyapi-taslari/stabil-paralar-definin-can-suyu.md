@@ -1,6 +1,6 @@
 # Stabil paralar: DeFi'nin can suyu
 
-Kripto dünyasının en büyük ve eski varlığı Bitcoin bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar yaşaması.
+Kripto dünyasının en büyük ve eski varlığı Bitcoin bir para olarak 'değer saklama' işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar yaşaması.
 
 Ama bu dalgalanmalar için alınacak çok da bir önlem yok. Zira Bitcoin’in fiyatını diğer tüm paralarda ya da hisse senetlerinde olduğu gibi borsalarda alım satım yapanlar belirliyor. Normalde fiat paralarda parayı basan merkezi otorite \(merkez bankaları\) piyasada bir oyuncu olarak yer alıp, fiyattaki ani zıplamaları önlüyorlar. Kriptopara dünyasında böyle arkada duran bir güç yok, kaldı ki böyle yapının kriptoparaların özündeki “merkezi otoriteye olan ihtiyacı sıfırlamak” hedefi ile ciddi bir çelişki yaratırdı. 
 
@@ -64,7 +64,7 @@ Sonuç olarak USDT şu anda belli bir işlevi yerine getiriyor. İşe de yarıyo
 
 Yukarıda saydığımız USDT'nin arkasından gelen ikinci büyük para olan USDC, özellikle 2021 yılında ciddi bir atak yapmış durumda. Bunun temel nedeninin, ABD'de kanun koyucular ile kurdukları iyi ilişkiler olduğu söylenebilir. Zira, USDC yaratılırken dayanak olarak kullanılan para ABD bankalarında bire-bir olarak tutuluyor. ,
 
-Her ne kadar özel şirketler tarafından çıkarılmış olsa da, ABD banka hesapları ile garanti altına alınmış olan USDC'nin aslında bir nevi ABD tarafından çıkarılan merkez bankası dijital parası gibi görmek çok da yanlış olmaz. Örneğin, 2020 yılının Kasım ayında, Venezüela resmi hükümetinin ülkede bulunan banka hesaplarına el koyan ABD makamları, bu paraları muhalefet hükümetine resmi banka kanalları kullanarak iletemediği için para USDC olarak \[gönderildi\]\([https://www.coindesk.com/circle-usdc-venezuela-airtm](https://www.coindesk.com/circle-usdc-venezuela-airtm)\). 
+Her ne kadar özel şirketler tarafından çıkarılmış olsa da, ABD banka hesapları ile garanti altına alınmış olan USDC'nin aslında bir nevi ABD tarafından çıkarılan merkez bankası dijital parası gibi görmek çok da yanlış olmaz. Örneğin, 2020 yılının Kasım ayında, Venezüela resmi hükümetinin ülkede bulunan banka hesaplarına el koyan ABD makamları, bu paraları muhalefet hükümetine resmi banka kanalları kullanarak iletemediği için para USDC olarak [gönderildi](https://www.coindesk.com/circle-usdc-venezuela-airtm). 
 
 Gelecekte de USDC'nin yavaş yavaş USDT ile benzer ağırlığa geleceğini söylemek kahinlik olmaz. 
 
