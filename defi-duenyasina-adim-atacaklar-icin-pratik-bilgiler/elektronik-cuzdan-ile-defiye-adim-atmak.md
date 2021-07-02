@@ -123,5 +123,5 @@ Zaten cüzdanlar da bu avantajı kullanmaya başladılar bile. Cüzdan içinde y
 
 Benzer şekilde Argent de, son zamanlarda DeFi üzerinde gittikçe ön plana çıkan getiri çiftçiliği alanında yatırım yapabilmeleri için kullanımı kolay ve anlaşılır bir arayüz sunuyor.
 
-Bir sonraki bölümümüzde, cüzdanlar sonrası 
+Bir sonraki bölümümüzde, cüzdan kurduktan sonra DeFi dünyasında nasıl işlem yapıldığına bakacağız. 
 
