@@ -36,17 +36,17 @@ Genel olarak işlem ücretini belirlerken, üç farklı dinamik çalışıyor:
 
 ### Çok karmaşık görünüyor. Kullanıcı olarak ne yapabilirim?
 
-Öncelikle yukarıdaki teknik detaylar sizi korkutmasın. Herhangi bir hesaplama yapmanıza gerek yok. Elektronik cüzdanınız size gerekli alternatifleri ve her bir alternatifin ücretini ortaya çıkaracak.
+Öncelikle, yukarıdaki teknik detaylar sizi korkutmasın. Herhangi bir hesaplama yapmanıza gerek yok. Elektronik cüzdanınız, size gerekli alternatifleri ve her bir alternatifin ücretini ortaya çıkaracak.
 
-Örneğin Metamask, herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda bu üç farklı seçeceğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
+Örneğin Metamask; herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda, bu üç farklı seçeceğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
 
-Peki neler yapabilirsiniz? Öncelikle işleminizin ne kadar acil olduğunu düşünerek farklı stratejiler geliştirebilirsiniz:
+Peki neler yapabilirsiniz? Öncelikle, işleminizin ne kadar acil olduğunu düşünerek farklı stratejiler geliştirebilirsiniz:
 
-Eğer satın almak istediğiniz bir tokenin değerinin ucuzladığını ve fırsatı kaçırmamak gerektiğini düşünüyorsanız hemen işlem yapmak isteyebilirsiniz. O zaman yüksek işlem ücretine razı olabilirsiniz.
+Eğer satın almak istediğiniz bir tokenin değerinin ucuzladığını ve bu fırsatı kaçırmamak gerektiğini düşünüyorsanız, hemen işlem yapmak isteyebilirsiniz. O zaman yüksek işlem ücretine razı olabilirsiniz.
 
-Eğer uzun vadeli bir işlem yapıyorsanız \(örneğin staking yapacaksanız\), o zaman ‘yavaş’ göndermek isteyebilirsiniz ya da ileri sekmesinden daha da düşük bir birim maliyet seçebilirsiniz.
+Eğer uzun vadeli bir işlem yapıyorsanız \(örneğin, staking yapacaksanız\), o zaman ‘yavaş’ göndermek isteyebilirsiniz ya da ileri sekmesinden daha da düşük bir birim maliyet seçebilirsiniz.
 
-Bir diğer seçenek, işlemi o an için bekletip, maliyetlerin daha düşük olduğu bir başka zaman dilimini seçmek olabilir. Örneğin, blokzinciri çok kullanan ABD piyasaları için gece geç saatler \(Türkiye için sabah 11:00 ile 14:00 saatleri\) ücretler nispeten daha düşük olabiliyor. Birim maliyetleri ethgastation.info adresinden takip edebilirsiniz.
+Bir diğer seçenek; işlemi o an için bekletip, maliyetlerin daha düşük olduğu bir başka zaman dilimini seçmek olabilir. Örneğin, blokzinciri çok kullanan ABD piyasaları için gece geç saatler \(Türkiye için sabah 11:00 ile 14:00 saatleri\) ücretler nispeten daha düşük olabiliyor. Birim maliyetleri ethgastation.info adresinden takip edebilirsiniz.
 
 Bunun yanında, son zamanlarda sıkça kullanılmaya başlayan ikinci seviye çözümler kullanmak da kimi zaman faydalı olabilir. İkinci seviye çözümler, 'bir işlemin gerçekleşmesi için yapılması gereken işlemlerin büyük bir kısmını blokzincir dışında yapıp, sadece işlem sonuçlarını topluca blokzincire yazmak' şeklinde basitleştirebileceğimiz bir yöntem ile işlem ücretlerini oldukça ucuzlatabiliyorlar.
 
