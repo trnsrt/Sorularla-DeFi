@@ -1,6 +1,6 @@
 # Elektronik cüzdan ile DeFi'ye adım atmak
 
-Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu bölümde elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:
+Cüzdanlar, DeFi dünyasına girişin ilk adımı. Gelin bu bölümde; elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:
 
 ![](../.gitbook/assets/040205-elektronik-cuzdan-ile-defiye-adim-atmak-electronic-4433604_1280.jpg)
 
@@ -12,9 +12,9 @@ Cüzdanların en kritik noktası, içinde tuttukları varlığın tek sahibinin 
 
 DeFi dünyasındaki hemen hemen tüm ürünler, özünde size bir işlem yapabilmeniz için yardımcı olan araçlar. Bu, aslında bu dünyanın klasik dünyadan en büyük farkı. Zira, klasik dünyadaki aracılar, sizin adınıza işlem yapabilmek için sizin varlığınızı kendi üzerlerine almak zorundalar, aksi pek mümkün değil.
 
-Diyelim paranızı yatırımda kullanmak ve faiz mi almak istiyorsunuz? Parayı, bankaya emanet vermek zorundasınız. DeFi dünyasında ise, paranın sahipliği hep kullanıcıda kalır. Aynı örnekten devam edersek, bunu bir nevi evde kasada sakladığınız paranıza bir yandan faiz almak olarak düşünebiliriz.
+Örneğin, paranızı yatırımda kullanmak ve faiz mi almak istiyorsunuz? Parayı, bankaya emanet vermek zorundasınız. DeFi dünyasında ise, paranın sahipliği her zaman kullanıcıda kalır. Aynı örnekten devam edersek, bunu bir nevi evde kasada sakladığınız paranıza bir yandan faiz almak şeklinde düşünebiliriz.
 
-Bu dünyada kullanıcı, istediği zaman ürüne sahip olur, istediği zaman da o üründen çıkar. Bütün bunları ise kendisine ait elektronik cüzdan sayesinde yapar. Yani, DeFi dünyasında hareket etmek istiyorsanız, kripto paranız olmalı ve bu kripto paranız size ait elektronik cüzdanda durmalı.
+Bu dünyada kullanıcı, istediği zaman ürüne sahip olur; istediği zaman da o üründen çıkar. Bütün bunları ise kendisine ait elektronik cüzdan sayesinde yapar. Yani DeFi dünyasında hareket etmek istiyorsanız, kripto paranız olmalı ve bu kripto paranız size ait elektronik cüzdanda durmalı.
 
 İşte bu nedenle, elektronik cüzdan, bir kullanıcı için çok önemli. Bu dünyaya adım atabilmek ve sonrasında finansal olarak gücü elinde tutabilmek için gerekli.
 
@@ -26,61 +26,57 @@ Evet, kripto cüzdan ya da elektronik cüzdan kişinin kripto dünyasında hür 
 
 #### Kritik olan cüzdan değil tohum sözcük grubu
 
-Bu nedenle, cüzdan sahibi olmak ne kadar önemli olsa da, asıl kritik olan bu cüzdan üzerinde saklanan bize ait bilgiler. Kimse görmemesi için şifreli olarak saklanan bu bilgileri açmak sadece Özel Anahtar ile mümkün. Bu anahtara ait bilgileri kaybetmemek ve kimse ile paylaşmamak kullanıcı için son derece önemli.
+Cüzdan sahibi olmak ne kadar önemli olsa da, asıl kritik olan bu cüzdan üzerinde saklanan bize ait bilgiler. Kimsenin görmemesi için şifreli olarak saklanan bu bilgileri açmak sadece özel anahtar ile mümkün. Bu anahtara ait bilgileri kaybetmemek ve kimse ile paylaşmamak kullanıcı için son derece önemli.
 
-Bu arada kullanıcı kolaylığı olması açısından anahtar nispeten basitleştirilmiş: Özel Anahtarı genelde 12 ya da 24 kelimeli bir parola gibi düşünebilirsiniz. İngilizce bir sözlükten seçilen bu kelimelere bir bütün halinde ‘seed phrase’ deniyor \(recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var\). Türkçeye ‘tohum sözcük grubu’ şeklinde çevirirsek yanlış olmaz.
+Bu arada, kullanıcı kolaylığı olması açısından anahtar nispeten basitleştirilmiş; özel anahtarı genelde 12 ya da 24 kelimeli bir parola gibi düşünebilirsiniz. İngilizce bir sözlükten seçilen bu kelimelere bir bütün halinde ‘seed phrase’ deniyor \(recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var\). Türkçeye ‘tohum sözcük grubu’ şeklinde çevirirsek yanlış olmaz.
 
-Bu sözcük grubu elinizin altında olduğu sürece istediğiniz elektronik cüzdan üzerinden blokzincirdeki varlığınıza ulaşabilirsiniz. Dolayısıyla tek bir elektronik cüzdana bağlı değilsiniz, yeter ki bu kelime grubunu kaybetmeyin. Konuya başlamadan bunu bilmekte fayda var.
+Bu sözcük grubu elinizin altında olduğu sürece, istediğiniz elektronik cüzdan üzerinden, blokzincirdeki varlığınıza ulaşabilirsiniz. Dolayısıyla tek bir elektronik cüzdana bağlı değilsiniz; yeter ki bu kelime grubunu kaybetmeyin. Konuya başlamadan bunu bilmekte fayda var.
 
 #### Cüzdanlar güvenli mi?
 
-Öncelikle şunu belirtmekte fayda var: Güvenlik göreceli bir konu. Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki yazımızda farklı cüzdanlara baktığımızda hangisi daha güvenli ona da bakacağız. Bir yandan da güvenlik ile kullanım rahatlığı arasında bazen bir taraf öbürüne göre daha ağır basabiliyor, bunu da hesaba katmakta fayda var.
+Güvenlik göreceli bir konu. Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki bölümümüzde, farklı cüzdanları incelerken, hangilerinin daha güvenli olduğuna da bakacağız. Bir yandan da güvenlik ile kullanım rahatlığı arasında bazen bir taraf öbürüne göre daha ağır basabiliyor, bunu da hesaba katmakta fayda var.
 
-Kripto dünyası yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Artık hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça kişisel tercih \(güvenlik ya da pratikliğin seçilmesi anlamında\) içerdiği için buradan bir tavsiye vermeyeceğiz. Ancak sonraki yazılarımızda sık kullanılan bir kaç cüzdan örneği olacak - bunları daha bir gönül rahatlığı içinde kullanabilirsiniz.
+Kripto dünyası, yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Şu anda, hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça fazla kişisel tercih \(güvenlik ya da pratikliğin seçilmesi anlamında\) içerdiği için, buradan bir tavsiye vermeyeceğiz. İlerleyen bölümlerimizde sık kullanılan birkaç cüzdan örneği olacak \(bunları daha bir gönül rahatlığı içinde kullanabilirsiniz.\)
 
-Genel olarak güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış, örneğin mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.
+Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.
 
-### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne?
+### Kripto cüzdan nasıl yaratılıyor? Çeşitleri ne?
 
-KriptoCüzdan’ların hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım:
+Kripto cüzdanların \(ya da bir diğer deyişle 'dijital elektronik cüzdanların'\), hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım:
 
 #### Web sitesi üzerinden
 
-Bir web sitesine giriyorsunuz \(örneğin [Blockchain Info](https://www.blockchain.com/)\). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara \(bu site örneğinde Bitcoin ve Ethereum\) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bu sitenin hack edilmesi \(yani bilgilerin dışarı sızdırılması\). Ufak bir ihtimal, ancak sonuç olarak burası da merkezi bir sistem.
+Bir web sitesine giriyorsunuz, \(örneğin [Blockchain Info](https://www.blockchain.com/)\) ve oradan kendinize bir kullanıcı adı ile şifre alıyorsunuz. Site size otomatik olarak özel ve genel anahtar yaratıyor. Sonrasında buradaki hesabınıza kriptopara \(bu site örneğinde Bitcoin ve Ethereum\) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok; rahat ve pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bu sitenin hack edilmesi \(yani bilgilerin dışarı sızdırılması\). Ufak bir ihtimal; ancak sonuç olarak burası da merkezi bir sistem.
 
 #### Bilgisayar ile
 
-Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz. Program içinde Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımların özellikle Açık Kaynak yazılımlar olmasına dikkat etmek gerek. Bu satırların yazarı [Electrum](https://electrum.org/#home) isimli programı kullanıyor ancak hiçbir şekilde güvenliği konusunda garanti veremez. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanız tavsiye ederim. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl kurtarırsınız bir sonraki bölüme bakabilirsiniz.
+Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz. Program içinde özel ve genel anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden kriptopara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımların özellikle açık kaynak yazılımlar olmasına dikkat etmek gerek. Bu alanda  [Electrum](https://electrum.org/#home) isimli yaygın bir şekilde kullanılıyor ancak %100 güvenli olduğuna dair kimse garanti veremez. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanız tavsiye ederim.
 
 #### Mobil üzerinden
 
-Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip \(örneğin [My Celium](https://wallet.mycelium.com/)\) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz.
+Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip \(örneğin, Bitcoin için Blockstream tarafından üretilen Green Wallet ya da DeFi için Metamask\) kriptoparanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem; ancak yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz.
 
 #### Fiziki Cüzdan \(Hardware Wallet\)
 
-Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve Genel Anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online \(çevrim içi\) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline \(çevrim dışı\) oluyor ve dijital dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda KriptoParanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. \(Örnek: [Ledger](https://www.ledger.com/), [Trevor](https://trezor.io/)\)
+Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve genel anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online \(çevrim içi\) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline \(çevrim dışı\) oluyor ve dijital dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik; ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda kriptoparanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. \(Örnek: [Ledger](https://www.ledger.com/), [Trezor](https://trezor.io/)\)
 
 #### Kağıt Kalem
 
-Gördünüz mü, yine geldik kalem kağıda :\) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip \(Bitcoin için [BitAddress](https://www.bitaddress.org/), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir\) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin \(tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek\). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp paranızı istediğiniz bir KriptoBorsa hesabına gönderebilirsiniz.
-
-|  |
-| :--- |
-| _Kendinize Özel ve Genel anahtar yaratmak bu kadar basit!_ |
+Gördünüz mü, yine geldik kalem kağıda :\) İsterseniz kendiniz hiçbir programa sahip olmadan da özel ve genel anahtar yaratabilirsiniz. Bunun için yapmanız gereken; bu konuda uzmanlaşmış açık kaynak kodlu bir web sitesine gidip \(Bitcoin için [BitAddress](https://www.bitaddress.org/) bir örnek olabilir\) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size kriptopara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin \(tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek\). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp paranızı istediğiniz bir kripto para borsası hesabına gönderebilirsiniz. Bu tip adresler genel olarak güvenli gibi görülse de, oluştururken birinin sizi görmesi, kötü niyetli kişilerce bu tip sitelerin kopyalarının yapılmış olması, kullandığınız kağıdın eskimesi, yıpranması ya da kaybolması gibi nedenlerle, uzmanlar tarafından çok da tavsiye edilmiyorlar. 
 
 ### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
 
-Yukarıdaki ilk üç alternatifte de bir “kaybolma” senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Hemen hepsinin bu tür durumlar için benzer çözümleri var \(en azından Bitcoin için geçerli bu\). Size kayıt olurken \(ya da Özel ve Genel Anahtarları yaratırken\) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere \(mümkünse bir kağıda\) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. Fiziki Cüzdanların çok farklı felaket senaryosu çözümleri var, her bir üreticinin sayfasına bakabilirsiniz. Son alternatif, kağıtta ise kağıdı alıp ağzı bağlı bir torbaya koyun \(ki su baskını gibi durumda ıslanıp yazılar okunaksız bir hale gelmesin\) ve sakın kaybetmeyin, kaybettiğiniz noktada geri dönüş yok.
+Yukarıdaki ilk üç alternatifte de bir “kaybolma” senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Hemen hepsinin bu tür durumlar için benzer çözümleri var \(en azından Bitcoin için geçerli bu\). Size kayıt olurken \(ya da özel ve genel Anahtarları yaratırken\) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere \(mümkünse bir kağıda\) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, özel ve genel anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. Fiziki cüzdanların çok farklı felaket senaryosu çözümleri var, her bir üreticinin sayfasına bakabilirsiniz. Son alternatif, kağıtta ise kağıdı alıp ağzı bağlı bir torbaya koyun \(ki su baskını gibi durumda ıslanıp yazılar okunaksız bir hale gelmesin\) ve sakın kaybetmeyin, kaybettiğiniz noktada geri dönüş yok.
 
 ### Hangi cüzdan bana göre?
 
-İşin özünde KriptoCüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri bankada işlem yaparsanız da başınıza gelebilir. Bankada genelde bu tip senaryolarda yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. KriptoPara dünyasında ise böyle konuşacağınız bir mercii yok. O nedenle kritik olan gerekli önlemleri baştan almak. Nedir bu önlemler?
+İşin özünde KriptoCüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri bankada işlem yaparsanız da başınıza gelebilir. Bankada genelde bu tip senaryolarda yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. kriptopara dünyasında ise böyle konuşacağınız bir mercii yok. O nedenle kritik olan gerekli önlemleri baştan almak. Nedir bu önlemler?
 
 1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak.
 2. Pratik olması bakımından işlem yapmayı planladığınız ufak bir miktarı kripto para borsasında tutmak, ki böylece ani değişimlerde hızlıca işlem yapabilin.
 3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı KriptoBorsa’ya göndermeniz gerekli ve bu da bir süre \(genelde on dakika ama bazen uzayabilir\) alıyor. Hemen işlem yapamıyorsunuz.
 4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak kripto para tutacaksanız, Fiziki Cüzdan \(Hardware Wallet\) almak.
-5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter.
+5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın özel ve genel anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter.
 
 ### DeFi için genelde hangi cüzdanlar kullanılıyor?
 
