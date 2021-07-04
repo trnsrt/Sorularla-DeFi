@@ -10,13 +10,13 @@ Geçtiğimiz bölümlerde önce DeFi tokenlerin elektronik cüzdanlar aracılı�
 
 Aslında anlatım açısından basit ancak teknik olarak hatalı bir söylem. Kripto varlıklar cüzdanda durmaz. Cüzdanda duran, o varlıklara ulaşmada kullanılan anahtarlardır.
 
-#### **Kripto varlıklar blokzincirde durur**
+#### **Kripto varlıklar blokzincirde durur.**
 
-Kripto varlıklar, blokzincire kaydedilirler. Bu kayıtlar şeffaftır. Herkes görebilir. Eğer bu şeffaflık olmasaydı, o zaman bu kayıtların doğru olduğunu bilemezdik. Halbuki herkese açık olduğu için her isteyen bu kayıtların doğru olduğunu; toplamının o zamana kadar üretilen toplam kripto para sayısına eşit olduğunu görebilir.
+Kripto varlıklar, blokzincire kaydedilirler. Bu kayıtlar şeffaftır ve herkes görebilir. Eğer bu şeffaflık olmasaydı, o zaman bu kayıtların doğru olduğunu bilemezdik. Halbuki herkese açık olduğu için her isteyen bu kayıtların doğru olduğunu; toplamının o zamana kadar üretilen toplam kripto para sayısına eşit olduğunu görebilir.
 
-#### **Elektronik cüzdan, blokzincirdeki kayda ulaşıp işlem yapmaya yarar**
+#### **Elektronik cüzdan, blokzincirdeki kayda ulaşıp işlem yapmaya yarar.**
 
-Blokzincirde şeffaf olarak görülen; paralar ve o paraların hangi hesaplarda olduğu. Hesap sahiplerinin kim olduğu ise bilinmez. Bu sahiplik şifrelenme ile korunur. O şifreye sahip olan kişi, şifreyi elektronik cüzdanda tutar. Elektronik cüzdan sayesinde blokzincire ulaşıp, o para üzerinde işlem yapabilir; parayı başkasına transfer edebilir ya da merkeziyetsiz finansın nimetlerinden faydalanıp finansal işlemlerde kulanabilir.
+Blokzincirde şeffaf olarak görülen; paralar ve o paraların hangi hesaplarda olduğudur. Hesap sahiplerinin kim olduğu ise bilinmez. Bu sahiplik şifrelenme ile korunur. O şifreye sahip olan kişi, şifreyi elektronik cüzdanda tutar. Elektronik cüzdan sayesinde blokzincire ulaşıp, o para üzerinde işlem yapabilir; parayı başkasına transfer edebilir ya da merkeziyetsiz finansın nimetlerinden faydalanıp finansal işlemlerde kulanabilir.
 
 ### Token satın aldıktan sonra nasıl takip edilir?
 
@@ -38,15 +38,15 @@ Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örne
 
 [Zapper](https://zapper.fi/) ve [Zerion](https://zerion.io/) tüm portföyü bir arada gösteren müthiş birer arayüz. Yatırımcının tüm yapması gereken, sisteye girip cüzdanını bağlaması. Birbirinin rakibi olan bu iki arayüz, benzer özellikleri gösterdiği için hangisini kullanmak istediği yatırımcının keyfine kalmış bir durum.
 
-Öncelikle, cüzdan bağlandığı noktada, yatırımcı tüm portföyündeki tokenleri, bunların ABD Doları cinsinden değerlerini görebiliyor. \(Bu arada her ikisinin de Türk Lirası desteği olduğunu belirtelim.\)
+Öncelikle, cüzdan bağlandığı noktada, yatırımcı tüm portföyündeki tokenleri, bunların ABD Doları cinsinden değerlerini görebiliyor. \(Bu arada her ikisinin de Türk Lirası desteği olduğunu belirtelim\). 
 
-Sonrasında, geçmişte yapılmış tüm işlemleri de gün gün ve detaylı bir şekilde incelemek mümkün. Ama bunlar standart özellikler.
+Sonrasında, geçmişte yapılmış tüm işlemleri de gün gün ve detaylı bir şekilde incelemek mümkün ama bunlar standart özellikler.
 
 Hep bahsettiğimiz gibi, DeFi alanındaki 'ahenkli çalışma' \(İngilizce'de 'composability'\) aynı zamanda rekabeti de artırıyor. Zapper ve Zerion de,  bu prensipten hareketler, sadece hesap göstermek işlevinin ötesinde başka alanlara da kaymış durumdalar. Örneğin:
 
 Yatırımcı her iki platformda da, sadece hesaplarını görmekle kalmıyor,  aynı zamanda bir önceki bölümde bahsettiğimiz 'toplayıcı' hizmetini kullanarak, farklı borsalardan fiyat alıp en uygunu ile işlem yapabiliyor.
 
-Bunun yanında, farklı yatırım ürünlerinin, örneğin likidite havuzlarının ya da getiri çiftçiliği \(yield farming\) gibi farklı yatırım araçlarını sunan platformların getirilerini karşılaştırmalı olarak görüp onlara yatırım yapabiliyor. Hatta, farklı platformlardan borç alabiliyor.
+Bunun yanında yatırımcı, farklı yatırım ürünlerinin, örneğin likidite havuzlarının ya da getiri çiftçiliği \(İngilizce'de 'yield farming'\) gibi farklı yatırım araçlarını sunan protokollerin getirilerini karşılaştırmalı olarak görüp onlara yatırım yapabiliyor. Hatta, farklı platformlardan borç alabiliyor.
 
 Bu arada hemen şunu belirtelim: Yatırımcının birden fazla hesabı bulunuyorsa, bütün hesaplarını bu arayüzlere tanıtıp tüm varlıklarını topluca görebilme imkanı da var.
 
@@ -54,7 +54,7 @@ Bunun yanında bu platformları kullanmak için cüzdan bağlamak gerekli değil
 
 Kısacası bu platformlar, komple bir banka gibi çalışarak, kullanıcılarına DeFi'nin her tür hizmetine tek bir arayüz ile ulaşma imkanı sağlıyorlar.
 
-**Bir de Etherscan var**
+**Bir de Etherscan var.** 
 
 Tabii gerek cüzdanlar gerekse Zapper ve Zerion cinsi arayüzler sonuçta bilgilerini blokzincir üzerinden alıyorlar.
 
