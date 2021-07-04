@@ -32,7 +32,7 @@ Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an çok konu
 
 _Akıllı kontrat platformlarının ucu bucağı yok. Kaynak:_ [_CoinGecko_](https://www.coingecko.com/en/categories/smart-contract-platform)\_\_
 
-Bunların hangileri başarılı olacağını, şu aşamada kestirmek zor. Peki, yatırım yaparken nelere dikkat etmeli? İlgilenenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı. Örneğin; ağların geliştirici sayıları, üstlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, uygulamalara kilitli değer miktarları \(Ingilizce'de ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. Yani kısacası ilk kısımda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
+Bunların hangileri başarılı olacak, şu aşamada kestirmek zor. Peki, yatırım yaparken nelere dikkat etmeli? İlgilenenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı. Örneğin; ağların geliştirici sayıları, üstlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, uygulamalara kilitli değer miktarları \(Ingilizce'de ‘total value locked’ kısaca TVL\) ve diğer ağlar ile ilişkiler gibi. Yani kısacası ilk kısımda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 
 Yukarıda saydığımız kriterlerden uygulama sayıları ve işlem hacimleri, yeni kurulma aşamasındaki bu platformlar için zaman geçtikçe daha önem kazanacak. Ancak şu aşamada henüz inşası devam eden platformlarda belki de en çok dikkat edilmesi gereken alan geliştirici sayıları. Bu konuda şu ilginç tabloya bakmakta fayda olabilir: 
 
