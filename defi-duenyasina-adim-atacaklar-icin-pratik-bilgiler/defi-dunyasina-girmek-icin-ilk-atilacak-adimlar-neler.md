@@ -22,7 +22,7 @@ Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da iş
 
 İşte, gücün bireyden çok hizmet veren kurumda olması, mevcut finansal sistemlerin en büyük handikapı. Kullanıcılar, kendilerine DeFi tarafından yavaş yavaş sunulan bu gücün tadına vardıklarında, bir daha arkalarına bakacaklar mı? Muhtemelen hayır.
 
-Peki, DeFi bu gücü nasıl kullanıcıya verecek? İki temel özelliği var DeFi’nin: Birincisi, kişi ayırt etmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. İkincisi ise, içindeki her tür ürün ve platformun birbiri ile uyumlu bir şekilde beraberce kullanılabilmesi.
+Peki, bu gücü nasıl kullanıcıya verecek? DeFi'nin iki temel özelliği var: Birincisi, kişi ayırt etmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. İkincisi ise, içindeki her tür ürün ve platformun birbiri ile uyumlu bir şekilde beraberce kullanılabilmesi.
 
 ### DeFi gelecek tüm dertler bitecek mi?
 
@@ -38,5 +38,5 @@ En başından başlarsak; DeFi dünyasını kullanmak için kullanıcının krip
 
 Kullanıcı, kripto paraya sahip olabilmek için de bir kripto para borsasına üye olmalı. İşte bu nedenle, kripto dünyasına ilk giriş aşaması, aslında klasik dünyaya oldukça yakın. Herhangi bir kripto para alımı için bir kripto para borsası kullanırken, kişi yine belirli bürokratik süreçlerden geçmek zorunda. Rekabetin de etkisi ile borsalar bu süreci kolaylaştırmak için ellerinden geleni yapsalar da, henüz ilk kripto parasını alırken “çok basit bir süreçti” diyene rastlamadım açıkçası.
 
-Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme hakkı. Aslında bu, aynı zamanda, DeFi dünyasına geçebilmek için ilk yapılması gereken hamlelerden biri, hatta birincisi. Bu ilk adım önemli, o nedenle gelin bir sonraki bölümde elektronik cüzdanlar konusuna daha detaylı bakalım.
+Bu ilk aşamayı geçip, bir süre alım-satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme hakkı. Aslında bu, aynı zamanda, DeFi dünyasına geçebilmek için ilk yapılması gereken hamlelerden biri, hatta birincisi. Bu ilk adım önemli, o nedenle gelin bir sonraki bölümde elektronik cüzdanlar konusuna daha detaylı bakalım.
 
