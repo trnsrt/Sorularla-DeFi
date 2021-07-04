@@ -10,7 +10,7 @@ Kripto paranızı bir borsadan kendi cüzdanınıza çektikten sonra, dilediğin
 
 Blokzincir üzerinde işlem yapmak demek, o blokzincir üzerindeki blok kapasitesini kullanmak demek. Bitcoin blokzinciri her 10 dakikada bir blok oluşturuyor. Dolayısıyla yazılmak istenen işlemler, bu blok içinde girebilmek için birbirleri ile yarışıyorlar. Eğer o sırada fazla işlem yapılmıyor ise bir sorun yok. Hemen hemen her istenen işlem, madenciler tarafından toplanıp zincire yazılıyor.
 
-Peki ya çok fazla işlem varsa? İşte o zaman serbest piyasa ekonomisi devreye giriyor. Madenciler, seçim hakkına sahip oluyorlar. Neye göre seçim yapıyorlar o zaman? Kendileri için en kârlı olan işlemlere göre tabii.
+Peki ya çok fazla işlem varsa? İşte o zaman serbest piyasa ekonomisi devreye giriyor. Madenciler, seçim hakkına sahip oluyorlar. Neye göre seçim yapıyorlar o zaman? Kendileri için en kârlı olan işlemlere göre.
 
 Ethereum, Bitcoin’den daha sonra kurulmuş bir zincir olarak, teknolojik anlamda daha fazla yenilik içeriyor. Bunlardan biri; blokların Bitcoin olduğu gibi 10 dakika yerine ortalama 15 saniyede bir hazırlanması. Bu özellik, Ethereum’un daha fazla blok işlem kapasitesine sahip olmasını sağlıyor.
 
@@ -32,13 +32,13 @@ Genel olarak işlem ücretini belirlerken, üç farklı dinamik çalışıyor:
 
 1. **İşlemin karmaşıklığı \(ya da büyüklüğü\)**: Yukarıda da yazdığımız gibi, bir işlem ne kadar karmaşık ise blokzincir üzerinde o kadar fazla yer kaplıyor. En basit işlem, bir kişiden diğerine ETH transfer etmek. Daha karmaşıkları işlem için birkaç farklı akıllı kontrat kullanınca ortaya çıkıyor. Her bir akıllı kontratın yaptığı işlem ne kadar fazla ise, zincirde kaplayacağı yer de o kadar artıyor. Kullanıcı olarak bu konuda alabileceğiniz bir önlem yok.
 2. **Yoğunluğa bağlı değişen birim işlem maliyeti:** Ethereum blokzinciri tek. Burada işlem yapmak isteyen binlerce kullanıcı var. Kimi zaman, örneğin, fiyatlarda dalgalanmalar olduğunda işlem yapmak isteyenlerin sayısı bir anda artabiliyor. Sistem bir nevi mezat yöntemi ile çalıştığı için, birim maliyet çok hızlı bir şekilde arşa çıkabiliyor.
-3. **İşlemi gerçekleştirme hızı:** İşlem ücretini belirleyen son kriter, kullanıcının bu işlemi ne kadar hızlı yapmak istediği. Eğer aceleniz varsa, normalden daha yüksek bir ücret ödeyerek o işlemin kuyrukta öne geçmesini sağlayabilirsiniz. Ama ‘yok, o kadar yüksek işlem ücreti veremem’ diyorsanız o zaman yavaş hız seçip, sabırla bekleyebilirsiniz \(ama ücreti çok düşük seçerseniz, uzun süre beklemeye razı olmalısınız\)
+3. **İşlemi gerçekleştirme hızı:** İşlem ücretini belirleyen son kriter, kullanıcının bu işlemi ne kadar hızlı yapmak istediği. Eğer aceleniz varsa, normalden daha yüksek bir ücret ödeyerek o işlemin kuyrukta öne geçmesini sağlayabilirsiniz. "Yok, o kadar yüksek işlem ücreti veremem" diyorsanız o zaman yavaş hız seçip, sabırla bekleyebilirsiniz \(ama ücreti çok düşük seçerseniz, uzun süre beklemeye razı olmalısınız\).
 
 ### Çok karmaşık görünüyor. Kullanıcı olarak ne yapabilirim?
 
 Öncelikle, yukarıdaki teknik detaylar sizi korkutmasın. Herhangi bir hesaplama yapmanıza gerek yok. Elektronik cüzdanınız, size gerekli alternatifleri ve her bir alternatifin ücretini ortaya çıkaracak.
 
-Örneğin Metamask; herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda, bu üç farklı seçeceğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
+Örneğin; Metamask, herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda, bu üç farklı seçeceğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
 
 Peki neler yapabilirsiniz? Öncelikle, işleminizin ne kadar acil olduğunu düşünerek farklı stratejiler geliştirebilirsiniz:
 
