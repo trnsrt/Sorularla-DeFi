@@ -12,7 +12,7 @@ The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin p
 
 _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
-İhtiyaç duyanlar kimler? Başka başka DeFi servisleri, yatırımcılar ya da yatırımcılara danışmanlık verenler…
+İhtiyaç duyanlar kimler? Başka başka DeFi servisleri, yatırımcılar ya da yatırımcılara danışmanlık verenler. 
 
 DeFi dünyası 7/24 çalışan bir dünya. Bilgiye nerede ise gerçek zamanlı ihtiyaç duyuyorsunuz. Size bu tip analizler için hazır araçlar sunan siteler de mevcut. Ama tam istediğiniz gibi bir analiz seti bulabiliyor musunuz? Ya da o site, analizde kullandığı bilgileri sizin istediğiniz yerden mi alıyor?
 
@@ -68,7 +68,7 @@ The Graph’ta ise köprü biraz daha farklı işliyor. Blokzincir içinden alı
 
 _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
-The Graph, şu aralar çok popüler olan Proof-of-Stake sistemini kullanıyor. Burada konuya yabancı olanlar için hemen bir parantez açalım: Bitcoin, Proof-of-Work denen güvenlik sistemini kullanıyor \(hani şu, “ama çok enerji harcıyor” diye büyük eleştiri kaynağı olan; madenciler tarafından yürütülen sistem\). Ethereum da aynı sistemi kullanmakla birlikte, önümüzdeki yıl içinde Proof-of-Stake mekanizmasına geçecek. Bu mekanizmada; sistemin güvenliğini sağlayanlar, bunu kendi mal varlıklarını teminat göstererek garanti edecekler. Böylece eskiden kol gücü yani emek ile korunan sistem, artık zenginlik yani kapital ile korunmaya başlayacak. Parantezi kapatıp konumuza geri dönelim:
+The Graph, şu aralar çok popüler olan Proof-of-Stake sistemini kullanıyor. Burada konuya yabancı olanlar için hemen bir parantez açalım: Bitcoin, Proof-of-Work denen güvenlik sistemini kullanıyor; hani şu, “ama çok enerji harcıyor” diye büyük eleştiri kaynağı olan; madenciler tarafından yürütülen sistemi. Ethereum da aynı sistemi kullanmakla birlikte, önümüzdeki yıl içinde Proof-of-Stake mekanizmasına geçecek. Bu mekanizmada; sistemin güvenliğini sağlayanlar, bunu kendi mal varlıklarını teminat göstererek garanti edecekler. Böylece eskiden kol gücü yani emek ile korunan sistem, artık zenginlik yani kapital ile korunmaya başlayacak. Parantezi kapatıp konumuza geri dönelim:
 
 #### Aktörler kimler?
 
@@ -78,7 +78,7 @@ The Graph sisteminde endeksçiler \(İngilizce'de 'indexers'\), ağın düğüml
 
 _**Yetkilendiriciler:**_
 
-Tabii önüne gelen endeksçi olamıyor. Bunun için bir miktar parayı \(sistemin parası GRT\) teminat göstermek gerekiyor. Ya paranız yoksa? 'Demokrasilerde ve blokzincirlerde çare tükenmez!' O zaman, yetkilendiriciler \(delegators\) imdadınıza yetişiyor. Bu kişiler, parası olan ancak endeksleme/arama gibi ağır işçilik yapmak istemeyen sermayedarlar. Paralarını işini iyi yapan endeksçilere veriyor, karşılığında yapılan iş karşılığı kazanılan ödül ya da ücretlerden bir kısmını alıyorlar. Sistemde [Mart 2021 itibariyle 157 endeksçi](https://network.thegraph.com/participants?selected=Indexers) ve [5,696 adet yetkilendirici](https://network.thegraph.com/participants?selected=Delegators) bulunmakta.
+Tabii önüne gelen endeksçi olamıyor. Bunun için bir miktar parayı \(sistemin parası GRT\) teminat göstermek gerekiyor. Ya paranız yoksa? Demokrasilerde ve blokzincirlerde çare tükenmez!. O zaman, yetkilendiriciler \(delegators\) imdadınıza yetişiyor. Bu kişiler, parası olan ancak endeksleme/arama gibi ağır işçilik yapmak istemeyen sermayedarlar. Paralarını işini iyi yapan endeksçilere veriyor, karşılığında yapılan iş karşılığı kazanılan ödül ya da ücretlerden bir kısmını alıyorlar. Sistemde [Mart 2021 itibariyle 157 endeksçi](https://network.thegraph.com/participants?selected=Indexers) ve [5,696 adet yetkilendirici](https://network.thegraph.com/participants?selected=Delegators) bulunmakta.
 
 _**Küratörler:**_
 
@@ -86,13 +86,13 @@ Bunun dışında, bir de küratörler \(İngilizce'de 'curators'\) var. Bunlar, 
 
 _**Kullanıcılar:**_
 
-Tabii bir de kullanıcılar var \(ki bunlar genelde DeFi ürünleri oluyor\). Örneğin; DeFi dünyasının ağır topları Uniswap, Synthetix The Graph’in modellerini kullanıyorlar. Nasıl belli bilgilerini depolamak için bulut üzerinde yer kiralıyorlar, benzer şekilde modellemeleri için The Graph’i tercih ediyorlar. Gerekli işi yapmak için ekip tutmak, server kiralamak yerine; sistemi kullandıkça ödeme yaptıkları için bu model açıkçası onların da işine geliyor. Zira, DeFi dünyasının en büyüklerinden [Uniswap’ın 2021 yılının Ocak ayında sadece 11 çalışanı olduğunu](https://twitter.com/haydenzadams/status/1346575665940860929) söylersek, neden böyle bir servise ihtiyaç duydukları sanırım daha iyi anlaşılır.
+Bir de kullanıcılar var ki bunlar genelde DeFi ürünleri oluyor. Örneğin; DeFi dünyasının ağır topları Uniswap, Synthetix The Graph’in modellerini kullanıyorlar. Nasıl belli bilgilerini depolamak için bulut üzerinde yer kiralıyorlar, benzer şekilde modellemeleri için The Graph’i tercih ediyorlar. Gerekli işi yapmak için ekip tutmak, server kiralamak yerine; sistemi kullandıkça ödeme yaptıkları için bu model açıkçası onların da işine geliyor. Zira, DeFi dünyasının en büyüklerinden [Uniswap’ın 2021 yılının Ocak ayında sadece 11 çalışanı olduğunu](https://twitter.com/haydenzadams/status/1346575665940860929) söylersek, neden böyle bir servise ihtiyaç duydukları sanırım daha iyi anlaşılır.
 
 #### Neden para konuyor sisteme?
 
-Neden para konuyor peki? Sistem merkezi değil demiştik. Bu nedenle isteyen sisteme girip endeksçi, yetkilendirici ya da küratör olabiliyor. Peki ya bu kişiler kötü niyetli ise? Özellikle endeks tutanlar, yanlış bilgi sağlamak ya da endekslemek söz konusu olursa koydukları paranın tümünü kaybedebiliyorlar. Hemen belirtelim teminatlarını uzun bir süreliğine koydukları için bilginin yanlış olduğu sonradan anlaşılsa bile cezayı yiyorlar. Küratör ve yetkilendiriciler bilgi sağlamadıkları için böyle bir ağır cezaya tabi değiller; ama onlar da eğer yanlış ata oynar yani yanlış analiz ya da endeksçi seçerlerse, paralarını geri çekerken bir ücret ödüyorlar.
+Sistem merkezi değil demiştik. Bu nedenle isteyen sisteme girip endeksçi, yetkilendirici ya da küratör olabiliyor. Peki ya bu kişiler kötü niyetli ise? Özellikle endeks tutanlar, yanlış bilgi sağlamak ya da endekslemek söz konusu olursa koydukları paranın tümünü kaybedebiliyorlar. Hemen belirtelim teminatlarını uzun bir süreliğine koydukları için bilginin yanlış olduğu sonradan anlaşılsa bile cezayı yiyorlar. Küratör ve yetkilendiriciler bilgi sağlamadıkları için böyle bir ağır cezaya tabi değiller; ama onlar da eğer yanlış ata oynar yani yanlış analiz ya da endeksçi seçerlerse, paralarını geri çekerken bir ücret ödüyorlar.
 
-Para konmasının ikinci bir nedeni de, önüne gelenin içeri girip sistemi çöplük haline getirmesini önlemek için. Zira, böyle bir durumda kaliteli endeksleme yapanları bulmak zorlaşıyor ve genel sistem itibarı bozuluyor.
+Para konmasının bir diğer nedeni de, önüne gelenin içeri girip sistemi çöplük haline getirmesini önlemek için. Zira, böyle bir durumda kaliteli endeksleme yapanları bulmak zorlaşıyor ve genel sistem itibarı bozuluyor.
 
 ### The Graph üzerine son birkaç söz
 
