@@ -4,7 +4,7 @@ Bu bölümde, son kullanıcı olarak direkt olarak kullanmadığımız; ancak Me
 
 ## Nedir Oracle?
 
-Oracle’in tam Türkçesi karışık. 'Kahin' ya da 'uzman' olarak çevrilebilir. Peki ne işe yarar?
+Oracle’in tam Türkçe karşılığı biraz karışık. 'Kahin' ya da 'uzman' olarak çevrilebilir. Peki ne işe yarar?
 
 Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden bir sonraki adımında; karmaşık işlemleri gerçekleştirebilmek için [‘akıllı kontrat’ denen bir yenilik kullanılıyor](https://turansert.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html). Akıllı kontrat dediğimiz, aslında bir kod. Güzelliği ne? Tamamen tarafsız bir şekilde kendisinden ne istenirse onu istendiği zaman yapıyor. Böylece, kontrata taraf olanlar, eğer belirlenen koşullar gerçekleşirse, kontratın yerine getirileceğinden emin oluyorlar.
 
@@ -24,9 +24,9 @@ ABD seçimi gibi tek bir olaya bağlı tahminlerde işe yarayabilecek olan manue
 
 Merkeziyetsiz finans dünyasının oyuncusu olan değişik platformlar, aynı bir legonun parçaları gibi birbirine iç içe geçmiş bir şekilde çalışıyorlar. Yukarıdaki basit örneğin ötesinde, bu lego parçalarının birbirleriyle uyumlu şekilde hareket edebilmeleri için onlarca hatta yüzlerce bilginin akıllı kontratlara akması gerekiyor. Bunu sağlayabilmek için kaynaklardan alınan bilginin hem doğru ve tarafsız hem de çok hızlı bir şekilde toplanması gerekiyor.
 
-Bir örnek verelim. Sentetik türev piyasaları, basitçe herhangi bir ürünün \(örneğin, altın ya da petrol\) aslına sahip olmadan, o ürünün kazancına \(ya da kaybına\) ortak olma ve alım-satımını yapmaya imkan veren pazarlar idi \[^1\]. Merkeziyetsiz sentetik türev borsasında ürünün kendisi değil taklidi alındığı ya da satıldığı için, dış dünyadaki orijinal fiyatların buraya aktarılması gerek, hem de çok sık bir şekilde.
+Bir örnek verelim. Sentetik türev piyasaları, basitçe herhangi bir ürünün \(örneğin, altın ya da petrol\) aslına sahip olmadan, o ürünün kazancına ya da kaybına ortak olma ve alım-satımını yapmaya imkan veren pazarlar idi \[^1\]. Merkeziyetsiz sentetik türev borsasında ürünün kendisi değil taklidi alındığı ya da satıldığı için, dış dünyadaki orijinal fiyatların buraya aktarılması gerek, hem de çok sık bir şekilde.
 
-İşte oracle dediğimiz uzmanlar, Akıllı Kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Ve her ne kadar direkt temasa geçmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
+İşte oracle dediğimiz uzmanlar, akıllı kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Ve her ne kadar direkt temasa geçmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
 
 ### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
 
@@ -38,7 +38,7 @@ Merkezi yapılar, DeFi dünyasında genelde hoş karşılanmazlar. Bunun temel n
 
 Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım \(son kullanıcı olarak ilginizi çekmiyor ise bir sonraki bölüme atlayabilirsiniz\):
 
-Oracle sistemlerinde de dış dünya ile ilişkiyi ağ üyesi makineler kuruyor. Bilgi ihtiyacı olan DeFi yapıları, bir Akıllı Kontrat aracılığıyla hangi tür teknik bilgiyi istediklerini oracle hizmeti veren ağın içine koyuyorlar. Teknik derken kasıt; hangi bilgi kaynağının kullanılacağından, ne sıklıkla ve hangi hizmet süreleri \(örneğin, %99.99 çalışma gerekliliği\) gibi istekler.
+Oracle sistemlerinde de dış dünya ile ilişkiyi ağ üyesi makineler kuruyor. Bilgi ihtiyacı olan DeFi yapıları, bir akıllı kontrat aracılığıyla hangi tür teknik bilgiyi istediklerini oracle hizmeti veren ağın içine koyuyorlar. Teknik derken kasıt; hangi bilgi kaynağının kullanılacağından, ne sıklıkla ve hangi hizmet süreleri \(örneğin, %99.99 çalışma gerekliliği\) gibi istekler.
 
 Ağ içindeki üyeler bu tip bir talebi içeren bir akıllı kontrat gördüklerinde, bu hizmeti ne kadar bir ücret karşılığı yerine getirebileceklerini kontrata bildiriyorlar. Bu ücret, genel olarak o ağın kullandığı kripto para cinsinden belirleniyor.
 
@@ -48,7 +48,7 @@ Sonrasında akıllı kontrat, farklı üyelerden gelen teyid edilmiş bilgilerin
 
 #### Son zamanlarda önemi arttı mı?
 
-DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı… Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağını en çok meşgul eden 5. ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler\(pdf\)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
+DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı. Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağını en çok meşgul eden 5. ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler\(pdf\)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
 
 Bu alandaki belli başlı oyuncular; [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Ancak hemen belirtelim; Chainlink bu piyasanın neredeyse tek hakimi.
 
@@ -144,7 +144,7 @@ Dolayısıyla, yukarıdaki Zeus Capital iddialarını, 'çamur at izi kalsın' o
 
 ### Chainlink ve tokeni LINK üzerine son birkaç söz
 
-Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının, ayağa kalkıp yürümesi için gerekli yapı taşlarından biri de oracle servis sağlayıcılar olacak. Şu an için tek bir oyuncunun ağırlığında olması ve merkezi servis sağlayıcıların potansiyel risk barındırması nedeniyle, bu alan aynı hizmet verdiği DeFi platformları gibi henüz olgunlaşmış sayılmaz. Bu alandaki ihtiyacı düşünürsek, önümüzdeki dönemde teknik olarak farklı ürünlerin çıkması ve bu alanın oyuncularının hacim olarak büyümesi kaçınılmaz görünüyor…
+Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının, ayağa kalkıp yürümesi için gerekli yapı taşlarından biri de oracle servis sağlayıcılar olacak. Şu an için tek bir oyuncunun ağırlığında olması ve merkezi servis sağlayıcıların potansiyel risk barındırması nedeniyle, bu alan aynı hizmet verdiği DeFi platformları gibi henüz olgunlaşmış sayılmaz. Bu alandaki ihtiyacı düşünürsek, önümüzdeki dönemde teknik olarak farklı ürünlerin çıkması ve bu alanın oyuncularının hacim olarak büyümesi kaçınılmaz görünüyor. 
 
 Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde sayabileceğimiz ‘dış dünyadan bilgi sağlama’ görevini yerine getiren oracle servis sağlayıcıların lideri. Kurucusu, şu ana kadar daha çok geleneksel bir dünya şirketi gibi hareket etti. Bu hareketler, LINK token denen sistem parasına son birkaç yılda ciddi bir değer kazandırdı. Ancak uzun vadede bu tip geleneksel hareketler gerek kanuni otoriteler gerekse merkeziyetsizlik felsefesi ile yetişen yeni DeFi girişimlerinin eleştiri ve tepkisine yol açabilir.
 
