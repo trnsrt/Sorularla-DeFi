@@ -2,7 +2,7 @@
 
 Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)‘a göz atalım.
 
-Şu aralar geniş kitleler spekülatif yanını konuşsa da, DeFi projelerinin kişisel olarak devrim niteliğinde olduğunu düşündüğüm en heyecan verici tarafı; merkeziyetsiz bir şekilde yönetiliyor olmaları. Aslına bakarsanız, merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
+Şu aralar ağırlıklı token değeri bazlı spekülatif yanı konuşulsa da, DeFi projelerinin devrim olarak nitelendirilebilecek en heyecan verici taraflarından biri; merkeziyetsiz bir şekilde yönetiliyor olmaları. Aslına bakarsanız, merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
 
 Aragon öncesinde, DeFi projelerinin pek çoğunun kendine model aldığı [DAO \(Decentralized Autonomous Organization\)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) yani Merkeziyetsiz Otonom Organizasyon yapısı ne demek ona bakalım:
 
@@ -38,7 +38,7 @@ Tabii projeleri kurmak nispeten kolay. Asıl büyük sorun genelde üyeler aras�
 
 Başta söyledik, blokzincirlerde kanunlar yazılımcılar tarafından kod yazılarak sisteme konuyor. Ancak her tür senaryoyu koda çevirmek mümkün olmayabiliyor. İşte o zaman Aragon, katılımcılara opsiyonel bir Subjektif Akıllı Kontrat sunuyor. Baştan böyle bir kontratı kabul etmeleri durumunda katılımcılar bir miktar kriptoparayı sisteme teminat olarak kilitliyorlar. Sonrasında, bir anlaşmazlık olduğunda ya konuyu kendi aralarında hallediyor ya da “sanal mahkeme”ye gidebiliyorlar .\(Yalnız sanal mahkemeye gider ve kaybederler ise teminatları yanıyor. Bunu; sorunları, mahkemeye gitmeden kendi aralarında çözsünler diye yapmışlar\).
 
-Peki sanal mahkeme nasıl çalışıyor? Yargıyı kimler sağlıyor? Sisteme özgü Aragon Network Juror \(ANJ\) tokene sahip olan üyeler arasından sanal mahkemeye rastgele bir seçim yapılıyor. Seçilen üyeler önlerine gelen vakayı inceliyor ve oyluyorlar. Çoğunluğun verdiği karar kazanıyor. \(Yalnız burada da ilginç bir durum var - eğer çoğunluk tarafında değilseniz teminat verdiğiniz para yanıyor\).
+Peki sanal mahkeme nasıl çalışıyor? Yargıyı kimler sağlıyor? Sisteme özgü Aragon Network Juror \(ANJ\) tokene sahip olan üyeler arasından sanal mahkemeye rastgele bir seçim yapılıyor. Seçilen üyeler önlerine gelen vakayı inceliyor ve oyluyorlar. Çoğunluğun verdiği karar kazanıyor. \(Yalnız burada da ilginç bir durum var; eğer çoğunluk tarafında değilseniz teminat olarak verdiğiniz para yanıyor\).
 
 Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro’nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını [Aragon blog sayfasından](https://blog.aragon.one/aragon-agreements/) inceleyebilirsiniz.
 
