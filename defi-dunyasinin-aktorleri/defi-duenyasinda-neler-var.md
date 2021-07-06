@@ -10,7 +10,7 @@ Ancak bir önceki kısımda bahsettiğimiz birlikte çalışılabilirlik, açık
 
 Yukarıda bahsettiğimiz özellikler nedeniyle DeFi'nin çalışma prensiplerinin, temelde klasik finanstan farklılık gösterdiğini söyleyebiliriz. Neler bunlar, kısaca değinelim: 
 
-Klasik finans dünyasının aktörleri, geçmişten gelen 'korumacı' zihniyetin devamı olarak 'silo' halinde çalışırlar.  Ne demek silo? Kendi içinde var olan ve dışarı ile iletişimi son derece kısıtlı küçük dünyalar. Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlara ait ürünleri kullanmak isterse, o başka kurumlarda hesap açarak varlığını yatırması gerekir. 
+Klasik finans dünyasının aktörleri, geçmişten gelen 'korumacı' zihniyetin devamı olarak bir 'silo' \(kendi içinde var olan ve dışarı ile iletişimi son derece kısıtlı\) şeklinde çalışırlar.  Ne demek silo? . Kullanıcı, varlığını bir finans kurumuna emanet eder ve sadece o finans kurumunun sunduğu ürünleri kullanabilir. Başka kurumlara ait ürünleri kullanmak isterse, o başka kurumlarda hesap açarak varlığını yatırması gerekir. 
 
 Finans kurumu, aylarca hatta yıllarca çalışarak, müşterileri için ürünler hazırlar ve onlara sunar. Bu ürünlerin gelişmesine ait telif haklarını sıkı sıkıya kayıt ettirir ve başkalarının kullanımı halinde mahkemelerde hakkını arar.  
 
@@ -30,8 +30,6 @@ Dolayısıyla, klasik finansın dikey yapılanmasına karşılık DeFi yatay bir
 
 DeFi destesindeki altı parçayı, en alttan \(yani temel altyapıdan\) en üste \(yani kullanıcıya\) dokunan şekilde sıralayıp, her bir katmandan birer cümle ile bahsetmekte fayda var: 
 
-Bu arada hemen belirtelim, bu destedeki en alt üç parçaya, yani 'Para Birimleri', 'İşlem Katmanı' ve 'Bilgi Sağlayıcılar' parçalarına, bir sonraki kısım olan 'DeFi'nin Altyapı Taşları' kısmında; 'Temel DeFi Ürünleri' olarak adlandırabileceğimiz, kullanıcıların daha aşina olduğu DeFi protokollerine bu kısımda; en üstte bulunan 'Kaynak Sağlayıcılar' ve ' Cüzdanlar/Önyüzler' parçalarına ise en son bölüm olan 'DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler' kısmında değiniyor olacağız. 
-
 #### Para birimleri \(Unit of Value\):
 
 İşin en temelinde para birimleri var. Neden? Ortada bir para birimi yani değer olmalı ki, kullanıcı varlığını saklayabilsin ve o varlık ile finansal işlem yapabilsin. DeFi'de kullanılan para birimleri; BTC, ETH gibi kıymeti kendinden menkul kriptoparalar olabildiği gibi, değeri ABD Doları gibi itibari paralara dayanan stabil para dediğimiz kripto paralar da olabiliyor. 
@@ -42,25 +40,25 @@ Kullanıcı, kendine ait bir değeri olduktan sonra bu değeri saklayabileceği 
 
 Bu kitapta genelde blokzincir olarak Ethereum'dan bahsedildiğini göreceksiniz.  Bunun temel nedenleri arasında; Ethereum'un Bitcoin'den sonra çıkmış en popüler blokzincir olması, kendisini bir akıllı kontrat platformu olarak sunması ve DeFi protokollerinin ağırlıklı bir çoğunluğuna ev sahipliği yapması geliyor. 
 
-Teknolojinin her alanında olduğu gibi burada da Ethereum'un rakipleri var, ancak şu anda hemen hemen hepsi emekleme aşamasında. Gelecekte, bu rakiplerden bir ya da birkaçının Ethereum'a ciddi rakip olabileceğini de görebiliriz. 
+Teknolojinin her alanında olduğu gibi burada da Ethereum'un rakipleri var ancak şu anda hemen hemen hepsi emekleme aşamasında. Gelecekte, bu rakiplerden bir ya da birkaçının Ethereum'a ciddi rakip olabileceğini de görebiliriz. 
 
-Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. Yeni versiyonun bu alanda en büyük özelliği, sharding de denen sonuç olarak bir veri tabanı olan Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması. Bu yapıldığında, şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/) 
+Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. ETH 2.0 olarak adlandırılan bu versiyonun en büyük özelliği, Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması \(teknik olarak İngilizce'de 'sharding' denen bir yenilik\). Bu yapıldığında, şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/) 
 
 Öte yandan 2021 yılının ilk aylarında, DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
 
 #### Bilgi Sağlayıcılar:
 
-DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar. Ancak blokzincirlerin doğası gereği dış dünya ile bağlantısı bulunmaz. Bilgi sağlayıcılar \(İngilizce'de 'oracle'\);  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören, önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
+DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar ancak doğaları gereği dış dünya ile bağlantıları bulunmaz. Bilgi sağlayıcılar \(İngilizce'de 'oracle'\);  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören, önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
 
 #### Temel DeFi ürünleri
 
-İşte aslında en çok konuşulan ve DeFi dünyasına yeni adım atanların ilk karşılaştıkları DeFi protokolleri burada. Öncelikle klasik finansı taklit eden ürünler ile başlayan, şimdilerde yavaş yavaş DeFi'nin temel avantajlarını kullanarak klasik dünyada hayal bile edilemeyecek yeni ürünler sunan protokoller. Özünde birer akıllı kontrattan ibaret olan yazılım parçaları. 
+İşte aslında en çok konuşulan ve DeFi dünyasına yeni adım atanların ilk karşılaştıkları DeFi ürünleri bu kategorinin içinde. Başlangıçta klasik finansı taklit eden ürünler ile işe başlayan, şimdilerde yavaş yavaş DeFi'nin temel avantajlarını kullanarak klasik dünyada hayal bile edilemeyecek yeni ürünler sunan protokoller. Ürün ya da protokol olarak adlandırdığımız bu yapıların her biri, aslına bakarsınız, özünde akıllı kontrat da denen bir yazılım parçası. 
 
 İncelememize bu alandaki en eski protokollerden MakerDAO ile başlayacak ve yedi temel ürüne detaylıca göz atacağız. 
 
-#### Kaynak Sağlayıcılar
+#### Kaynak Sağlayıcılar/Toplayıcılar
 
-DeFi dünyasında binlerce farklı hizmet olmasının kullanıcıya alternatif sunma açısından faydası olsa da, bir noktadan sonra akılları karıştırdığını da unutmamak gerek. Ama DeFi'nin birlikte çalışabilirlik temel prensibi sayesinde, artık farklı hizmetleri karşılaştırmak ve en optimum \(ki bu; risk algısı, kazanç beklentisi,  işlemleri en hızlı/ucuz yapma gibi farklı parametrelere göre kişiden kişiye değişir\) hizmet kombinasyonunu bulmak mümkün. 
+DeFi dünyasında binlerce farklı hizmet olması, kullanıcıya alternatif sunma açısından fayda sağlasa da, bir noktadan sonra onun aklını da karıştırabiliyor. DeFi ürünlerinin 'birlikte çalışabilirlik' temel prensibine göre oluşturulması sayesinde, artık farklı hizmetleri karşılaştırmak ve en optimum  hizmet kombinasyonunu bulmak mümkün \(ki bu optimum nokta; risk algısı, kazanç beklentisi,  işlemleri en hızlı/ucuz yapma gibi farklı parametrelere göre kişiden kişiye değişir\).
 
 #### Cüzdanlar/Önyüzler
 
@@ -68,5 +66,11 @@ DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzd
 
 ### Sırada neler var?
 
-Bundan önceki kısımda DeFi'nin genel felsefesine ve temel özelliklerine değinmiştik. Şu an okuduğunuz ikinci kısımda, gelin önce temel DeFi ürünlerinden birkaçına göz atalım. Sonrasında, üçüncü kısımda, DeFi'nin altyapısını sağlayan hizmet sağlayıcılara bakıp; en son kısımda ise bu dünyaya ilk kez gireceklere pratik bilgiler vermeye çalışalım. 
+Yukarıdaki DeFi destesinde bulunan parçalardan:
+
+* İlk olarak açıkladığımız ve destenin en altında bulanan üç parçaya, yani 'Para Birimleri', 'İşlem Katmanı' ve 'Bilgi Sağlayıcılar' parçalarına, bir sonraki kısım olan 'DeFi'nin Altyapı Taşları' kısmında
+* 'Temel DeFi Ürünleri' olarak adlandırabileceğimiz, kullanıcıların daha aşina olduğu DeFi protokollerine bu kısımda
+* En üstte bulunan 'Kaynak Sağlayıcılar' ve ' Cüzdanlar/Önyüzler' parçalarına ise en son kısım olan 'DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler' kısmında
+
+değiniyor olacağız. 
 
