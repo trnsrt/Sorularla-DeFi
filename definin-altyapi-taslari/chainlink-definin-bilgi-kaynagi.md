@@ -4,15 +4,15 @@ Bu bölümde, son kullanıcı olarak direkt olarak kullanmadığımız; ancak Me
 
 ## Nedir Oracle?
 
-Oracle’in tam Türkçe karşılığı biraz karışık. 'Kahin' ya da 'uzman' olarak çevrilebilir. Peki ne işe yarar?
+Oracle’in tam Türkçe karşılığı biraz karışık; 'kahin' ya da 'uzman' olarak çevrilebilir. Peki ne işe yarar?
 
 Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden bir sonraki adımında; karmaşık işlemleri gerçekleştirebilmek için [‘akıllı kontrat’ denen bir yenilik kullanılıyor](https://turansert.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html). Akıllı kontrat dediğimiz, aslında bir kod. Güzelliği ne? Tamamen tarafsız bir şekilde kendisinden ne istenirse onu istendiği zaman yapıyor. Böylece, kontrata taraf olanlar, eğer belirlenen koşullar gerçekleşirse, kontratın yerine getirileceğinden emin oluyorlar.
 
-Çok güzel ancak ufak bir sorun var: Kontratın, kendisini harekete geçirecek bu önceden belirlenmiş koşulların oluştuğunu bilmesi gerek. Bu koşulların oluşup oluşmadığını belirleyen bilgilerin büyük çoğunluğu ise; blokzincirin içinde değil, dış dünyadan geliyor. Ya biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak.
+Çok güzel ancak ufak bir sorun var: Kontratın, kendisini harekete geçirecek bu koşulların oluştuğunu bilmesi gerek. Bunu belirleyen bilgilerin büyük çoğunluğu ise; blokzincirin içinde değil, dış dünyadan geliyor. Biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak.
 
 ![](../.gitbook/assets/030305-chainlink-definin-bilgi-kaynagi-labrador-5741850_1280.jpg)
 
-_Biri bilgiyi kapıp gelsin - bunun gibi :\) Kaynak: Image by_ [_Jana Schmidt_](https://pixabay.com/users/jawika-19109282/) _from_ [_Pixabay_](https://pixabay.com/)
+_Biri bilgiyi kapıp gelsin - bunun gibi 😁 Kaynak: Image by_ [_Jana Schmidt_](https://pixabay.com/users/jawika-19109282/) _from_ [_Pixabay_](https://pixabay.com/)
 
 Örneğin; 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte akıllı kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki, akıllı kontrat bunu nasıl alacak?
 
@@ -26,7 +26,7 @@ Merkeziyetsiz finans dünyasının oyuncusu olan değişik platformlar, aynı bi
 
 Bir örnek verelim. Sentetik türev piyasaları, basitçe herhangi bir ürünün \(örneğin, altın ya da petrol\) aslına sahip olmadan, o ürünün kazancına ya da kaybına ortak olma ve alım-satımını yapmaya imkan veren pazarlar idi \[^1\]. Merkeziyetsiz sentetik türev borsasında ürünün kendisi değil taklidi alındığı ya da satıldığı için, dış dünyadaki orijinal fiyatların buraya aktarılması gerek, hem de çok sık bir şekilde.
 
-İşte oracle dediğimiz uzmanlar, akıllı kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Ve her ne kadar direkt temasa geçmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
+İşte oracle dediğimiz uzmanlar, akıllı kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Dolayısıyla, her ne kadar direkt temasa etmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
 
 ### Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi?
 
@@ -36,7 +36,7 @@ Merkezi yapılar, DeFi dünyasında genelde hoş karşılanmazlar. Bunun temel n
 
 ### Merkeziyetsiz platformlar nasıl yapıyorlar bu işi?
 
-Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım \(son kullanıcı olarak ilginizi çekmiyor ise bir sonraki bölüme atlayabilirsiniz\):
+Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım \(son kullanıcı olarak ilginizi çekmiyorsa hemen bir sonraki bölüme atlayabilirsiniz 😉\):
 
 Oracle sistemlerinde de dış dünya ile ilişkiyi ağ üyesi makineler kuruyor. Bilgi ihtiyacı olan DeFi yapıları, bir akıllı kontrat aracılığıyla hangi tür teknik bilgiyi istediklerini oracle hizmeti veren ağın içine koyuyorlar. Teknik derken kasıt; hangi bilgi kaynağının kullanılacağından, ne sıklıkla ve hangi hizmet süreleri \(örneğin, %99.99 çalışma gerekliliği\) gibi istekler.
 
@@ -50,11 +50,11 @@ Sonrasında akıllı kontrat, farklı üyelerden gelen teyid edilmiş bilgilerin
 
 DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı. Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağını en çok meşgul eden 5. ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler\(pdf\)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
 
-Bu alandaki belli başlı oyuncular; [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Ancak hemen belirtelim; Chainlink bu piyasanın neredeyse tek hakimi.
+Bu alandaki belli başlı oyuncular; [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Hemen belirtelim; Chainlink bu piyasanın neredeyse tek hakimi.
 
 ### Sıkıntıları neler?
 
-Merkeziyetsiz Finans dünyasında oracle sistemlerinin en büyük sıkıntısı gecikmeler. Yukarıda bilgi aktarımda bahsetmiştik. Bilgi toplanıyor, blokzincir ağına aktarılıyor, orada teyit ediliyor ve talep edene gönderiliyor. Dijital dünyada aslında saniyeler içinde yapılabilecek bir işlem. Ancak burada bilginin teyidi sonrası blokzincire yazılıyor olması nedeniyle, blok oluşturma hızları darboğaz yaratıyor. Örneğin, Ethereum sisteminde her bir blok 10-20 saniye arasında oluşuyor. Bu da bilginin ulaşımında gecikmeler olması demek.
+Merkeziyetsiz Finans dünyasında oracle sistemlerinin en büyük sıkıntısı gecikmeler. Yukarıda bilgi aktarımda bahsetmiştik. Bilgi toplanıyor, blokzincir ağına aktarılıyor, orada teyit ediliyor ve talep edene gönderiliyor. Dijital dünyada aslında saniyeler içinde yapılabilecek bir işlem, ancak burada bilginin teyidi sonrası blokzincire yazılıyor olması nedeniyle, blok oluşturma hızları darboğaz yaratıyor. Örneğin, Ethereum sisteminde her bir blok 10-20 saniye arasında oluşuyor. Bu da bilginin ulaşımında gecikmeler olması demek.
 
 Bunun yanında, bilgiyi tek bir kaynaktan almak da sıkıntı yaratabiliyor. Örneğin, kimi platformların akıllı kontratları, ihtiyaç duydukları token fiyat bilgisini tek bir borsadan çekebiliyorlar. Bazı akıllılar ise, özellikle likiditenin azaldığı durumlarda, bu borsadaki token fiyatını manipüle edip, bu bilgiyi kullanan platformlarda anlık işlemler ile ciddi kazançlar elde edebiliyorlar. Bunu önlemenin yolu, akıllı kontratları iyi dizayn etmek ve bilginin birkaç farklı yerden gelmesini sağlayarak manipülasyonu zorlaştırmak.
 
@@ -118,11 +118,11 @@ Ripple, XRP kullanımı ile ilgili hangi banka ile “test sürümü” deney ya
 
 Chainlink de aynı şekilde, hangi platform ile hizmet sağlayıcı olarak anlaşsa, bunu çok yoğun bir PR faaliyeti ile sunuyor. Ayrıca hem XRP hem de LINK’in, bu tokenlere ‘gönülden bağlı’ sosyal medya takipçi orduları var.
 
-Bu benzerliklerden dolayı Chainlink, Ripple’a; tokeni LINK XRP’ye benzer mi? Gayet tabii hayır. Ancak, böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi bir platform olarak değerlendirilmesi gerektiği algısını güçlendiriyor.
+Bu benzerliklerden dolayı Chainlink, Ripple’a; tokeni LINK XRP’ye benzer mi? Gayet tabii hayır ancak böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi bir platform gibi değerlendirilmesi gerektiği algısını güçlendiriyor.
 
 _**LINK fazla mı değerli?**_
 
-Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil. Ancak, yine yukarıda bahsettiğimiz Ryan Selkis’in bir başka eleştirisini de dikkate almakta fayda var:
+Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil ancak Ryan Selkis’in bir başka eleştirisini de dikkate almakta fayda var:
 
 Şu an için LINK tokenin toplam değerinin, tüm DeFi’nin üzerine kurulu olduğu ETH sisteminin değerinin yaklaşık %6’sı olduğunu görüyoruz. LINK tokenin toplam değeri yaklaşık 5 milyar ABD Doları seviyesinde. Görevi ekosisteme bilgi sağlamak olan bir hizmetin tek bir oyuncusunun değeri bu kadar eder mi?Değerlendirmesi siz sevgili okuyucunun.
 
@@ -146,9 +146,9 @@ Dolayısıyla, yukarıdaki Zeus Capital iddialarını, 'çamur at izi kalsın' o
 
 Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının, ayağa kalkıp yürümesi için gerekli yapı taşlarından biri de oracle servis sağlayıcılar olacak. Şu an için tek bir oyuncunun ağırlığında olması ve merkezi servis sağlayıcıların potansiyel risk barındırması nedeniyle, bu alan aynı hizmet verdiği DeFi platformları gibi henüz olgunlaşmış sayılmaz. Bu alandaki ihtiyacı düşünürsek, önümüzdeki dönemde teknik olarak farklı ürünlerin çıkması ve bu alanın oyuncularının hacim olarak büyümesi kaçınılmaz görünüyor. 
 
-Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde sayabileceğimiz ‘dış dünyadan bilgi sağlama’ görevini yerine getiren oracle servis sağlayıcıların lideri. Kurucusu, şu ana kadar daha çok geleneksel bir dünya şirketi gibi hareket etti. Bu hareketler, LINK token denen sistem parasına son birkaç yılda ciddi bir değer kazandırdı. Ancak uzun vadede bu tip geleneksel hareketler gerek kanuni otoriteler gerekse merkeziyetsizlik felsefesi ile yetişen yeni DeFi girişimlerinin eleştiri ve tepkisine yol açabilir.
+Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde sayabileceğimiz ‘dış dünyadan bilgi sağlama’ görevini yerine getiren oracle servis sağlayıcıların lideri. Kurucusu, şu ana kadar daha çok geleneksel bir şirket gibi hareket etti. Bu hareketler, LINK token denen sistem parasına son birkaç yılda ciddi bir değer kazandırdı. Uzun vadede bu tip geleneksel hareketler gerek kanuni otoriteler gerekse merkeziyetsizlik felsefesi ile yetişen yeni DeFi girişimlerinin eleştiri ve tepkisine yol açabilir.
 
-Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması; ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz.
+Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz.
 
 \[^1\] messari-report-crypto-theses-for-2021.pdf Sayfa 67
 
