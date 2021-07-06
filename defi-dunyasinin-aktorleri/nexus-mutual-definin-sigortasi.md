@@ -10,7 +10,7 @@ Her ne kadar bildiğimiz klasik finans ile belli alanlarda kesişse de DeFi yani
 
 _Image by_ [_neo tam_](https://pixabay.com/users/neotam-11291643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) _from_ [_Pixabay_](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667)\_\_
 
-Öncelikle, bundan önceki sayfalarda sıklıkla yazdığımız şu düsturu tekrar hatırlatalım: Klasik finans, emanet/velayet \(İngilizce'de 'custodial'\) sistemi ile çalışır. Yani siz, müşteri olarak, işlem yapabilmek için finansal varlığınızı hizmet aldığınız kuruma kuzu kuzu verirsiniz. Zaten bu nedenle finans sektöründe çok sıkı kanun ve denetimler var. Kanuni otoriteler, halkın hakkını korumak için sektörü sıkı kontrol altında tutarlar. Başkasının varlığına sahip olmak sorumluluk gerektirir, ağır bir yük. Ama bununla da yetinmez kurumlar; kullanıcı hesapları ile ilgili çeşit çeşit sigortalar da isterler tüketiciyi korumak için. \(Ülkemizde mevduatlara verilen 150,000 TL’ye kadar [garanti uygulanması](https://www.tmsf.org.tr/tr/Tmsf/Mevduat/mevduat.sss) gibi\).
+Öncelikle, bundan önceki sayfalarda sıklıkla yazdığımız şu düsturu tekrar hatırlatalım: Klasik finans, emanet/velayet \(İngilizce'de 'custodial'\) sistemi ile çalışır. Yani siz, müşteri olarak, işlem yapabilmek için finansal varlığınızı hizmet aldığınız kuruma kuzu kuzu verirsiniz. Zaten bu nedenle finans sektöründe çok sıkı kanun ve denetimler var. Kanuni otoriteler, halkın hakkını korumak için sektörü sıkı kontrol altında tutarlar. Başkasının varlığına sahip olmak sorumluluk gerektirir, ağır bir yük. Bununla da yetinmez kurumlar; kullanıcı hesapları ile ilgili çeşit çeşit sigortalar da isterler tüketiciyi korumak için. \(Ülkemizde mevduatlara verilen 150,000 TL’ye kadar [garanti uygulanması](https://www.tmsf.org.tr/tr/Tmsf/Mevduat/mevduat.sss) gibi\).
 
 DeFi ise emanetsiz/velayetsiz \(non-custodial\) bir şekilde çalışıyor. DeFi oyuncuları kullanıcının varlığına dokunmazlar. Dijital varlık, sahibinin uhdesinde yani cüzdanında durur. Kripto dünyasında varlıklarınıza tam anlamıyla sahipsiniz, ama elinizden gittiğinde de “yandı gülüm keten helva”.
 
@@ -52,7 +52,7 @@ Temel olarak çalışma şekli; kullanıcıların Nexus Mutual sistemine üye ol
 
 Nedir bunlar? Örneğin, akıllı kontratın yazılımındaki bir hatadan dolayı dış dünyadan kimi aktörler sistemde kilitli olan tüm parayı çekebilir. Sigorta işte böyle bir durumda kullanıcının satın aldığı token kadar bir miktarı onun cüzdanına gönderiyor.
 
-Şu aşamada Nexus sigortasının yaptığı sadece bu. Hep söylediğimiz gibi DeFi henüz emekleme aşamasında, bu alandaki ürünler de benzer şekilde yeni yeni çıkıyor ortaya. Nexus, farklı alanlarda farklı riskleri kapsayacak yeni ürünler üzerinden çalıştığını söylüyor. Neler olabilir bunlar dediğimizde yine [Nexus’a kulak vermekte fayda var](https://bankless.substack.com/p/how-to-assess-the-risk-of-lending):
+Şu aşamada Nexus sigortasının yaptığı sadece bu. Hep söylediğimiz gibi DeFi henüz emekleme aşamasında, bu alandaki ürünler de benzer şekilde yeni yeni ortaya çıkıyor. Nexus, farklı alanlarda farklı riskleri kapsayacak yeni ürünler üzerinden çalıştığını söylüyor. Neler olabilir bunlar dediğimizde yine [Nexus’a kulak vermekte fayda var](https://bankless.substack.com/p/how-to-assess-the-risk-of-lending):
 
 Özellikle kodun düzgün çalıştığı \(kod hatası içermeyen\) platformlarda çıkabilecek diğer sorunlar henüz kapsam dışı. Örneğin, sisteme bilgi veren dış kaynaklarda \(İngilizce'de 'oracle'\) oluşabilecek sorunlar yani dış kaynaktan sisteme yanlış bilgi gelmesi bir risk. Ya da yeni yeni oturmaya başlayan DeFi sistemleride çıkabilecek yönetimsel sorunlar ayrı bir risk. Bir örnek daha verelim; platformların verdiği yönetim ile ilgili teşvikleri kazanmak isteyen kimi kullanıcıların yaptığı hareketler, diğer kullanıcıların zarar etmesine neden olabilir. İşte bu tip koda dayanmayan hataları karşılayacak bir sigorta henüz yok. Nexus Mutual hangi riskleri kapsayacak ürünler çıkaracak bekleyip göreceğiz.
 
@@ -74,7 +74,7 @@ Hatırlarsak, Uniswap’da iki bölmeli iki paradan oluşan havuzlar vardı. Al�
 
 Nexus Mutual havuzunun çalışma prensipleri ise bir parça farklı. Gelin hızlıca bir göz atalım:
 
-Nexus Mutual’in havuzu özünde sistem tarafından alınan risklere karşılık ödenebilecek kapital rakamının toplamından oluşuyor. Sigorta satın alanların ödedikleri tüm ücretler, havuzun içine girişleri oluşturuyor. Yapılan hasar ödemeleri ise temel çıkışları.
+Nexus Mutual’in havuzu özünde sistem tarafından alınan risklere karşılık ödenebilecek kapital rakamının toplamından oluşuyor. Sigorta satın alanların ödedikleri tüm ücretler, havuzun içine girişleri, yapılan hasar ödemeleri ise havuzdan temel çıkışları oluşturuyor.
 
 Havuzun sahibi tüm üyeler. Nasıl sahip oluyorlar bu havuza? Aynı hisse senedinde olduğu gibi havuzun sahipliğini gösteren sistemin parası NXM ile. Dolayısı ile NXM sahibi olmak, hem havuzun riskini hem de getirisini paylaşmak anlamına geliyor.
 
@@ -118,9 +118,9 @@ Yine aynı şekilde eğer havuzdaki para minimum rakama doğru yaklaşmaya başl
 
 _**Peki sigorta oranını kim nasıl belirliyor?**_
 
-Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu da staking dediğimiz rehin verme işlemi ile yapıyorlar.
+Sigorta oranını aslında Nexus Mutual yatırımcıları belirliyor. Bunu da rehin verme işlemi \(İngilizce'de 'staking'\) ile yapıyorlar.
 
-Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normalde Nexus Mutual’a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistemin risk ve getirisine ortak oluyorsunuz. Ancak staking yaptığınızda bu riski ürün bazında ayrıştırmak da mümkün oluyor.
+Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normalde Nexus Mutual’a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistemin risk ve getirisine ortak oluyorsunuz. Staking yaptığınızdaysa, bu riski ürün bazında ayrıştırmak da mümkün oluyor.
 
 ![](../.gitbook/assets/020807-nexus_mutual_definin_sigortasi-umbrella-3289996_1280.jpg)
 
@@ -128,7 +128,7 @@ _Image by_ [_Sarah Lötscher_](https://pixabay.com/users/sarah_loetscher-4248505
 
 NXM satın alan dolayısıyla genel sisteme yatırım yapmış bir yatırımcı, sonrasında dilerse bu NXM’i belli bir spesifik ürüne koyarak riskini daha da artırabiliyor. Böyle yaparak, bu spesifik ürünü satın almış olanların ödedikleri primlerden bir kısmını havuzdan önce kazanma hakkına sahip oluyor. Risk tarafında ise üründe bir sorun çıkıp da zarar tazminat ödenmesi halinde koymuş olduğu NXM’i toptan kaybetme ihtimali var. Bu nedenle, staking yapmanın ekstra riskli bir yatırım olduğu unutulmamalı.
 
-Aslına bakarsanız, staking akıllı kontratların risklerini anlayabilmek için güzel bir endikatör aynı zamanda. Risk tutarı aynı görünen iki akıllı kontrattan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir.
+Aslına bakarsanız, staking akıllı kontratların risklerini anlayabilmek için güzel bir endikatör. Risk tutarı aynı görünen iki akıllı kontrattan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir.
 
 _**Bir sorun olduğunda ödeme yapılacağına kim karar veriyor?**_
 
