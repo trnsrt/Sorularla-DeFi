@@ -87,7 +87,7 @@ Havuzun çalışma sistemi ise şöyle; her bir paydaş yarattığı sUSD oranı
 
 #### sUSD nasıl yaratılıyor?
 
-sUSD yaratımında teminat olarak konan SNX; borsalarda alıp satılan bir token. Paydaş, SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez Bankası eskiden bire-bir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
+sUSD yaratımında teminat olarak konan SNX; borsalarda alıp satılan bir token. Paydaş, SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez Bankası eskiden birebir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
 
 O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/).  Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi\)
 
@@ -141,7 +141,7 @@ Peki ya sUSD’nin değeri yükseldi ve 1.10 ABD Doları’na geldi. O zaman da 
 
 ### Peki riskler neler?
 
-Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi’da riskler çok. Ama türev piyasalarında riskler, klasik piyasalara göre daha da fazla!..
+Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi’da riskler çok ama türev piyasalarında riskler, klasik piyasalara göre daha da fazla!..
 
 #### Genel olarak türev piyasasındaki riskler
 
