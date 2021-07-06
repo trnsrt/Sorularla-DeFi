@@ -1,30 +1,30 @@
 # Synthetix ve DeFi türev piyasaları
 
-DeFi yani merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlara ucuz bir alternatif olmak. Bu aracılardan ilk akla gelen de bankalar. Ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Sermaye piyasalarındaki her türlü aracı, DeFi oyuncularının tehdidi altında. Ve hiçbir klasik piyasa, DeFi’dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları..
+DeFi yani merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlara ucuz bir alternatif olmak. Bu aracılardan ilk akla gelen de bankalar ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Finans piyasalarındaki her türlü aracı, DeFi oyuncularının tehdidi altında ve hiçbir klasik piyasa, DeFi’dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları..
 
 ### Nedir türev piyasaları?
 
 Türev, adı üzerinde türetilmiş demek. Yani herhangi bir varlıktan türemiş bir enstrüman. Peki, bu tam olarak ne demek?
 
-En basit tabiri ile şöyle açıklayalım: Alım satıma açık her varlığın bir değeri var. Bu değer zaman içinde azalır ya da artar. Klasik anlamda kazanç sağlamak için, bu varlığı elinizde tutar; düşük fiyattan alır \(ya da üretir\) ve yüksek fiyattan satarsınız. Ama bunu yapabilmek için o varlığı elinizde tutmalısınız.
+En basit tabiri ile şöyle açıklayalım: Alım satıma açık her varlığın bir değeri var. Bu değer zaman içinde azalır ya da artar. Klasik anlamda kazanç sağlamak için, bu varlığı elinizde tutar; düşük fiyattan alır \(ya da üretir\) ve yüksek fiyattan satarsınız ama bunu yapabilmek için o varlığı elinizde tutmalısınız.
 
 Peki ya bu varlığı elinizde tutmak istemiyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii, neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor; herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı, bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi…
 
 Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerini korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim.
 
-DeFi zaten yeterince karışık, bir de türev piyasalar mı çıktı başımıza? ~~**Evet, öyle.**~~ Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici:
+Türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici:
 
 ![](../.gitbook/assets/020605-synthetix_ve_turev_piyasalari-assets_global_1200.jpg)
 
-_Tüm dünyadaki ekonomik büyüklükler \(Ocak 2019\). En sağda en büyük pazar olarak türev piyasaları var. Onu sırasıyla; gayrimenkul, kredi, fiziki/dijital para, hisse senedi ve altın izliyor. En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: “Toplam kriptopara pazarı” kendisi :\)_ [_Kaynak_](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)\_\_
+_Tüm dünyadaki ekonomik büyüklükler \(Ocak 2019\). En sağda en büyük pazar olarak türev piyasaları var. Onu sırasıyla; gayrimenkul, kredi, fiziki/dijital para, hisse senedi ve altın izliyor. En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: “'toplam kriptopara pazarı' kendisi :\)_ [_Kaynak_](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)\_\_
 
 ### Neden merkezi olmayan DeFi türev piyasalarına ihtiyaç var?
 
 Aslına bakarsanız, türev piyasalarında faaliyet gösteren merkezi oyuncular ve sistemler gayet pratik, hızlı ve müşterinin istediği çözümleri sunabilen sistemler. Peki o zaman bunu merkeziyetsiz olarak sunmaya gerek var mı? Her ne kadar daha çok küçük olsalar da hızla büyümeleri bu alanda da DeFi ürünlere ihtiyaç olduğunu gösteriyor. Neden?
 
-En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür; hem zahmetli hem de kimileri için \(örneğin coğrafi kısıtlar, yeterince maddi servete sahip olmama gibi nedenlerle\) imkansız. Ama eğer kriptoparalar ile bir haşır neşirliğiniz var ise, örneğin ETH tutan bir cüzdana sahipseniz; bu borsalarda işlem yapmaya başlamanız bırakın saatleri dakikalar içinde mümkün.
+En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür; hem zahmetli hem de kimileri için \(örneğin coğrafi kısıtlar, yeterince maddi servete sahip olmama gibi nedenlerle\) imkansız. Eğer kriptoparalar ile bir haşır neşirliğiniz varsa, örneğin ETH tutan bir cüzdana sahipseniz; merkeziyetsiz borsalarda işlem yapmaya başlama süreniz dakikalar ile ölçülebiliyor. 
 
-Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin son zamanlarda adını sıkça duymaya başladığımız getirici çiftçiliği \(İngilizce'de 'yield farming'\) benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
+Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin, son zamanlarda adını sıkça duymaya başladığımız getirici çiftçiliği \(İngilizce'de 'yield farming'\) benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
 
 Bunun yanında DeFi ürünlerini kullanmanın bir başka avantajı, önceki kısımda da bahsettiğimiz; kullanıcıya verilen güç. Özellikle herhangi bir türev pazarından aldığınız herhangi bir ürünü, bir başka DeFi platformu üzerinden satabiliyorsunuz. Ne de olsa kontratı yapan kişi olarak kontrat sizin. O kontrat Ethereum zinciri üzerine işleniyor ve anahtarı sizde. İşlem yapmak için daha kârlı bir platform bulduğunuz anda cüzdanınızı saniyeler içinde o platforma bağlayıp işlemi oradan gerçekleştirebilirsiniz.
 
@@ -40,7 +40,7 @@ _2020-2021 yılları Synthetix’de kilitlenen para miktarı. Kaynak:_ [_DefiPul
 
 ### Nasıl çalışıyor sistem?
 
-Sistemin çalışması kısaca şöyle: Normalde bir türev piyasasında alan ve satan olarak iki parti bulunması gerekirken, Synthetix’de al-sat işleminde bir taraf var bir de karşısında bir havuz. Havuz kısmına birazdan değineceğiz ama gelin öncelikle işin basit kısmından; sistemi kullanmak isteyen yani al-sat işlemi yapanlardan \(trader\) başlayalım ve basitlik adına bu kişilere 'kullanıcı' diyelim.
+Sistemin çalışması kısaca şöyle: Normalde bir türev piyasasında alan ve satan olarak iki parti bulunması gerekirken, Synthetix’de al-sat işleminde bir taraf var bir de karşısında bir havuz. Havuz kısmına birazdan değineceğiz ama gelin öncelikle işin basit kısmından; sistemi kullanmak isteyen yani al-sat işlemi yapanlardan \(İngilizce'de 'trader'\) başlayalım ve basitlik adına bu kişilere 'kullanıcı' diyelim.
 
 #### Nasıl işlem yapıyor kullanıcılar Synthetix sisteminde?
 
@@ -75,11 +75,11 @@ Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sen
 * Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğin düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu kârı bu kullanıcılara?
 * Bunların hepsi çok makul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza - malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara:
 
-#### Hepimizin çok sevdiği havuz problemi - ne menem şeydir bu havuz?
+#### Hepimizin çok sevdiği havuz problemi, tekrar karşımızda. 
 
-Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, burada da benzeri var: Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi \(Bu kişilere İngilizce'de “staker” deniyor; Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu bölüm özelinde “paydaş” terimini kullanacağız\).
+Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, burada da benzeri var: Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi \(Bu kişilere İngilizce'de “staker” deniyor; Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu bölüm özelinde 'paydaş' terimini kullanacağız\).
 
-Biliyorsunuz Merkez Bankası’nın bastığı ve tedavüle soktuğu para esasında bankanın o parayı kullananlara yani halka bir borcudur. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sistemi kullananlara borçlanıyorlar.
+Biliyorsunuz, Merkez Bankası’nın bastığı ve tedavüle soktuğu para esasında bankanın o parayı kullananlara yani halka bir borcudur. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sistemi kullananlara borçlanıyorlar.
 
 Şimdilerde artık o nosyonu kaybettik gerçi ama yirminci yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stoklarında altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarına karşılık Synthetix’in kendi tokeni olan SNX’i teminat olarak göstermek zorundalar.
 
@@ -89,7 +89,7 @@ Havuzun çalışma sistemi ise şöyle; her bir paydaş yarattığı sUSD oranı
 
 sUSD yaratımında teminat olarak konan SNX; borsalarda alıp satılan bir token. Paydaş, SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez Bankası eskiden bire-bir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
 
-O nedenle, sUSD basarken SNX olarak çok daha fazlasını tutmak zorunda paydaşlar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/).  Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi\)
+O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/).  Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi\)
 
 #### Peki nereden geliyor bu SNX?
 
@@ -105,7 +105,7 @@ Bunlardan birincisi, kullanıcıların havuzda yaptıkları işlemler için \(ö
 
 İkincisi ise sUSD yaratanlar, havuza can suyu yani likidite sağladıkları için her hafta sistem tarafından belli bir ödüle sahip oluyorlar. Ödül ise bir önceki bölümde bahsettiğimiz her yıl basılacak olan ekstra SNX’ler. Paydaşlar, yarattıkları sUSD bazında oransal olarak bu SNX’lerden kazanıyorlar. Aynı Bitcoin sistemini korumak için enerji sarfeden madencilerde olduğu gibi.
 
-Bunun yanında tabii ki, kullanıcılar yaptıkları al-sat işlemlerinden kâr ederlerse bu kâr havuzun zararı oluyor ve havuzdan kullanıcılara ödeniyor. Ya da zarar ederlerse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor.
+Bunun yanında tabii ki, kullanıcılar yaptıkları al-sat işlemlerinden kâr ederlerse bu kâr havuzun zararı oluyor ve havuzdan kullanıcılara ödeniyor. Benzer şekilde, zarar ederlerse, bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor.
 
 #### sUSD yaratan paydaş bununla neler yapabilir?
 
@@ -157,9 +157,9 @@ Keza bu tip ürünleri kullanırken, hep teminat vermek zorundasınız. Teminat;
 
 Özetle, protokol üzerine protokol, üzerine protokol şeklinde türeyen bu ürünlerde; her bir protokolün getirdiği riskleri de göğüslemek zorunda kullanıcılar.
 
-Şimdi bu kadar riskten bahsedince gözünüz korkabilir; çok normal. Ancak unutmayın; risklerin yanında bu risklerden korunmak için önlemler de var:
+Bu kadar riskten bahsedince gözünüz korkabilir; çok normal ancak unutmayın; risklerin yanında bu risklerden korunmak için önlemler de var:
 
-Bir kere bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Ve bu teminatlar, DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar.
+Öncelikle, bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Bu teminatlar, DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar.
 
 İkincisi bu kontratların çoğunluğu dış denetim \(audit\) geçiriyorlar. Denetim geçirmek; 'her şey süper, kontrat çok güvenli' anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere, en azından kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor.
 
@@ -177,13 +177,11 @@ Bununla bağlantılı ikinci temel risk ise şu; yapılan işlemlerin ağırlık
 
 _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı_ [_Kaynak_](https://dashboard.synthetix.io/)\_\_
 
-Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. \(Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor\).
+Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. \(Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Yine de bu durum, ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor\).
 
 Ayrıca şunu da unutmamak lazım; bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı, 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları’na kadar geldi. SNX değeri artınca, paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa, teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı? Önceden tahmin etmek zor. \[^2\]
 
-Yukarıdaki iki konu gibi risk olmasa da, sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemleri gerçekleştirmek için kullanılan Ethereum blokzinciri kullanmanın bedeli\). Bunun da temel nedeni; türev işlemlerinin, karmaşıklığından dolayı Ethereum sistemine ağır gelmesi. Synthetix ekibi, bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden olan [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/).  \(Bu çözümler ile ilgili bir sonraki kısımda 'Ethereum ve Rakipleri' bölümünde detaylı bilgi bulabilirsiniz\). 
-
-~~**Aslında bu tip ürünler üzerinde soru işareti olması çok normal.**~~ Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta kazanılan yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçiş yaşayacağız hep birlikte.
+Yukarıdaki iki konu gibi risk olmasa da, sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları \(sistemde borç yaratmak gibi işlemleri gerçekleştirmek için kullanılan Ethereum blokzinciri kullanmanın bedeli\). Bunun da temel nedeni; türev işlemlerinin, karmaşıklığından dolayı Ethereum sistemine ağır gelmesi. Synthetix ekibi, bunun önüne geçmek için Ethereum üzerine ikinci seviye çözümlerden olan [Optimistic üzerinden çalışıyor](https://blog.synthetix.io/oks-update/).  
 
 \[^1\] _Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor; ancak çok fazla terim olmaması adına dipnot olarak buraya bırakıyoruz._
 
