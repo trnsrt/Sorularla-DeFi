@@ -10,7 +10,7 @@ En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz 
 
 Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkânınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir.
 
-Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **‘alım opsiyonu’ \(İngilizcesi ‘call option’\)** kullanabilirsiniz.
+Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **‘alım opsiyonu’ \(İngilizce'de ‘call option’\)** kullanabilirsiniz.
 
 Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediğiniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
 
@@ -18,7 +18,7 @@ Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama f�
 
 Bunun tam tersi de mümkün. Varsayalım, elinizde tuttuğunuz herhangi bir varlığın değerinin gelecekte nasıl bir seyir izleyeceğini kestiremiyorsunuz.
 
-Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak isterseniz, o varlık için **‘satım opsiyonu’ \(İngilizcesi ‘put option’\)** kullanabilirsiniz.
+Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak isterseniz, o varlık için **‘satım opsiyonu’ \(İngilizce'de ‘put option’\)** kullanabilirsiniz.
 
 Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz \(ya da satıp kârı realize edersiniz\).
 
@@ -52,7 +52,7 @@ Peki, bir kullanıcı olarak bunu alıyoruz, ama kim satıyor? Sizin düşündü
 
 ### Kripto dünyasında nasıl oluyor opsiyonlar?
 
-Kripto para dünyasının opsiyonlara ihtiyacı olduğunu söylemek o kadar da zor değil! Bu kadar belirsizliğin, inişin çıkışın olduğu bir dünyada kim akıl rahatlığı istemez ki?
+Kriptopara dünyasının opsiyonlara ihtiyacı olduğunu söylemek o kadar da zor değil! Bu kadar belirsizliğin, inişin çıkışın olduğu bir dünyada kim akıl rahatlığı istemez ki?
 
 Kripto dünyasına hizmet veren merkezi borsalar ve finans kurumlarında opsiyonlar oldukça yaygın olarak kullanılıyor \([Deribit](https://www.deribit.com/), [FTX](https://ftx.com/) bunlardan birkaçı\). Profesyonel olarak çok fazla opsiyon kullanmak zorunda olanlar için, maliyeti daha düşük bu kurumlardan işlem yapmak gayet cezbedici olabilir.
 
@@ -66,9 +66,9 @@ Merkeziyetsiz yapıların şu an için temel dezavantajı, likiditenin azlığı
 
 Yukarıdaki basit örnekte alım ve satım opsiyonlarının nasıl kullanılacağından bahsettik. Bu klasik dünyanın en temel opsiyon kullanım alanı. Kripto, yepyeni bir dünyanın kapılarını açarken, opsiyon piyasalarının kullanım alanını da yukarıdaki örnekten daha öteye taşıyor. Birkaç örnek daha verelim konuyu daha iyi anlamak için:
 
-Varsayalım kripto para madenciliği işi yapıyorsunuz. Masraflarınız \(yol, su, elektrik\) fiat para ile ama geliriniz kripto para cinsinden. Ani bir düşüş olursa ne yapacaksınız? Eğer masrafları karşılayacak kadar satım opsiyonu kullanırsanız, nakit akışınızı daha düzenli hale getirip ayağınızı yorganınıza göre uzatabilirsiniz.
+Varsayalım kriptopara madenciliği işi yapıyorsunuz. Masraflarınız \(yol, su, elektrik\) 'itibari' yani hayatta kullandığımız para ile ama geliriniz kriptopara cinsinden. Ani bir düşüş olursa ne yapacaksınız? Eğer masrafları karşılayacak kadar satım opsiyonu kullanırsanız, nakit akışınızı daha düzenli hale getirip ayağınızı yorganınıza göre uzatabilirsiniz.
 
-Bir diğer örnek: Kripto paranız var ve likidite sağlayarak para kazanmak istiyorsunuz. Merkeziyetsiz opsiyon platformları, aynı Uniswap’ın borsa işlemlerinde ve Synthetix’in türev piyasalarında yaptığı gibi, kurdukları havuzlar aracılığıyla, bu alana yatırım yapıp para kazanmak isteyenlere ilginç fırsatlar sunuyorlar. Herhangi bir opsiyon yazma bilgisine sahip olmadan bu havuzlara katılarak, getiri kazanmak mümkün \(riski unutmadan tabii\). Bu havuzların kullanım şekline önümüzdeki yazımızda değineceğiz.
+Bir diğer örnek: Kriptoparanız var ve likidite sağlayarak para kazanmak istiyorsunuz. Merkeziyetsiz opsiyon platformları, aynı Uniswap’ın borsa işlemlerinde ve Synthetix’in türev piyasalarında yaptığı gibi, kurdukları havuzlar aracılığıyla, bu alana yatırım yapıp para kazanmak isteyenlere ilginç fırsatlar sunuyorlar. Herhangi bir opsiyon yazma bilgisine sahip olmadan bu havuzlara katılarak, getiri kazanmak mümkün \(riski unutmadan tabii\). Bu havuzların kullanım şekline önümüzdeki yazımızda değineceğiz.
 
 ### Kimler var merkeziyetsiz opsiyon piyasasında?
 
@@ -82,9 +82,7 @@ Merkezi olmayan opsiyon piyasalarının en büyüğü olan [Hegic](https://www.h
 
 Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir ‘hesap’. Üstüne üstlük, finansal piyasaların en riskli ürünlerinden biri olan opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki?
 
-Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi’de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor.
-
-Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenilir yer konusu daha da önemli bir hale geliyor. Oysa burada, böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik; bir kişi bile yok. Ne var peki?
+Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi’de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. Eğer likidite sağlıyorsanız, paranızı sisteme kilitliyorsunuz, ki o zaman güvenilir yer konusu daha da önemli bir hale geliyor. Oysa burada, böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik; bir kişi bile yok. Ne var peki?
 
 İşte DeFi’nin ikinci kritik özelliği: Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar.
 
@@ -96,7 +94,7 @@ Kodlamadan anlamayan biz kimi faniler için, bu yazılımların birçoğunun dı
 
 Mayıs ayında ise, bu sefer, bir kod hatası değil ama [sistem dizaynındaki bir problem](https://cryptobriefing.com/defi-options-platform-hegic-shuts-down-again/) nedeniyle akıllı bir likidite sağlayıcı, [ufak bir miktar](https://twitter.com/Rewkang/status/1263435897954988033) haksız kazanç elde etmeyi başardı. Satıcının hareketinden hemen hemen farkedilen açık sonrası, diğer likidite sağlayıcılar sistem için manuel düzenleyebildikleri 'volatilite parametresini çok yükseğe çekerek, [opsiyon fiyatlarını bir anda artırdılar\]](https://twitter.com/Rewkang/status/1263435914518257668) ve sistemi efektif olarak kullanılamaz hale getirdiler. Daha sonra, yeni versiyonda bu açık düzeltildi. 
 
-Deneysel projelerde, bu tip problemler oluyor gördüğünüz gibi. Ama sonrasında hem bu hataların giderilmesi hem de zaman içinde yeni hataların çıkmaması, anlaşılan yatırımcıların gözünde “seni öldürmeyen güçlendirir” imajı yaratmış olmalı ki; Hegic son aylarda ciddi bir büyüme yaşadı.
+Deneysel projelerde, bu tip problemler oluyor gördüğünüz gibi. Ama sonrasında hem bu hataların giderilmesi hem de zaman içinde yeni hataların çıkmaması, anlaşılan yatırımcıların gözünde 'seni öldürmeyen güçlendirir' imajı yaratmış olmalı ki; Hegic 2020 yılının ikinci yarısında hızlı bir büyüme yaşadı. 
 
 ### Nasıl bir sistem kullanıyor Hegic?
 
@@ -126,7 +124,7 @@ Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/s
 
 Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu alma ya da satma hakkını satın alıyorlar. [MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor. 
 
-İkinci grup ise, yukarıdaki **bu havuza likidite sağlayanlar,** yani opsiyonları satanlardan oluşuyor \(ki onlara da opsiyon yazan/çıkaran - İngilizce'de 'writer' -  deniyor\). Bir fark var; bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar, yaptıkları sadece bu havuzun suyu olan likiditeyi koymak.
+İkinci grup ise, yukarıdaki **bu havuza likidite sağlayanlar,** yani opsiyonları satanlardan oluşuyor \(ki onlara da opsiyon yazan/çıkaran deniyor, İngilizce'de 'writer'\). Bir fark var; bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar, yaptıkları sadece bu havuzun suyu olan likiditeyi koymak.
 
 Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar. 
 
