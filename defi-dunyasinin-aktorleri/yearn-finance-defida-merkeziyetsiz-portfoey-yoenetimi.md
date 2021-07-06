@@ -104,6 +104,8 @@ YFI token sahiplerinin oylamaları sonucu çıkan kararları, 9 kişinin sahip o
 
 Özet olarak, **YFI tokeni, hem token sahiplerine oylamalara katılma karşılığı gelir sağlıyor, hem de yazılımcılara geliştirdikleri ürünlerin yarattığı komisyonlardan pay veriyor. Bu da bireylerden bağımsız uzun vadeli sürdürülebilir bir protokol yaratılmasında kritik bir önem taşıyor.**
 
+\*\*\*\*
+
 #### Riskler neler?
 
 _**Protokol, protokol üzerine olunca akıllı kontrat riski artıyor…**_
