@@ -8,7 +8,7 @@ Ama önce gelin Ethereum'un ortaya çıkış hikayesinden bahsedelim:
 
 ### Ethereum'un hikayesi
 
-Ethereum, en basit haliyle, binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında. İlginç bir hikayesi var Ethereum'un. Kısaca bahsedelim.
+Ethereum, en basit haliyle, binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında. İlginç de bir hikayesi var; kısaca bahsedelim.
 
 #### Vitalik Buterin: 18 yaşında bir dahi
 
@@ -18,7 +18,7 @@ Bitcoin’in ortaya çıkışından birkaç yıl sonra, 2011 yılında, Rusya’
 
 _Vitalik Buterin_
 
-Başlangıçta Bitcoin blokzinciri üzerinde geliştirmeler yapmaya başlayan Buterin, Bitcoin transferi dışında daha başka pek çok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin özelliği itibariyle sadece 'dijital dünyada değer saklama ve transfer edebilme' işlerini iyi yapabilmek üzerine kurgulanmıştır. Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgisayarı vizyonu vardır.
+Başlangıçta Bitcoin blokzinciri üzerinde geliştirmeler yapmaya başlayan Buterin, Bitcoin transferi dışında daha başka pek çok fonksiyonu \(para dışı varlıkları gönderme, dijital kontrat yaratma gibi\) bu sisteme geçirmek için uğraşır ancak oldukça zorlanır. Zira Bitcoin özelliği itibariyle sadece 'dijital dünyada değer saklama ve transfer edebilme' işlerini iyi yapabilmek üzerine kurgulanmıştır. Buterin’in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan hesap makinesi benzeri bir fonksiyonun ötesinde, daha pek çok işlemi gerçekleştirebilecek bir 'dünya bilgisayarı' vizyonu vardır.
 
 #### Ethereum’un ortaya çıkışı
 
@@ -40,7 +40,7 @@ Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınız
 
 Neden akıllı kontrat deniyor o halde? Şu nedenle: İki kişi herhangi bir şekilde aralarında ‘normal’ bir kontrat yaptığında taraflardan biri “yok efendim, şöyle böyle oldu da ben vazgeçtim” gibisinden bir bahane altına saklanıp sözünü yerine getirmeyebilir. Ondan sonra araya girsin avukatlar, gerekirse yargı ve işin içinden çıkmaya çalışsınlar.
 
-Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontrat öyle çok karmaşık kurallar vesaire öngörmüyor, tam tersine oldukça basit. Ama akıllı kontratın asıl gücü, karşı tarafın işlemi yapacağına emin olmamızdan kaynaklanıyor. Zira, kod uygun koşullar gerçekleştiğinde otomatik olarak çalışıyor. Akıllı kontratlar ile ikili ilişkilerde karşı tarafın sözünü yerine getireceğine dair duymamız gereken güven ihtiyacı ortadan kalkıyor.
+Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontrat öyle çok karmaşık kurallar öngörmüyor, tam tersine oldukça basit. Akıllı kontratın asıl gücü, karşı tarafın işlemi yapacağına emin olmamızdan kaynaklanıyor. Zira, kod uygun koşullar gerçekleştiğinde otomatik olarak çalışıyor. Akıllı kontratlar ile, 'ikili ilişkilerde karşı tarafın sözünü yerine getirmesini sağlayan aracılara olan ihtiyaç' ortadan kalkıyor.
 
 #### Ethereum ve akıllı kontratlar
 
