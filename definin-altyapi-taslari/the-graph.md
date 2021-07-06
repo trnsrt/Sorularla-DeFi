@@ -14,7 +14,7 @@ _Image by_ [_Gerd Altmann_](https://pixabay.com/users/geralt-9301/) _from_ [_Pix
 
 İhtiyaç duyanlar kimler? Başka başka DeFi servisleri, yatırımcılar ya da yatırımcılara danışmanlık verenler. 
 
-DeFi dünyası 7/24 çalışan bir dünya. Bilgiye nerede ise gerçek zamanlı ihtiyaç duyuyorsunuz. Size bu tip analizler için hazır araçlar sunan siteler de mevcut. Ama tam istediğiniz gibi bir analiz seti bulabiliyor musunuz? Ya da o site, analizde kullandığı bilgileri sizin istediğiniz yerden mi alıyor?
+DeFi dünyası 7/24 çalışan bir dünya. Bilgiye nerede ise gerçek zamanlı ihtiyaç duyuyorsunuz. Size bu tip analizler için hazır araçlar sunan siteler de mevcut. Peki, tam istediğiniz gibi bir analiz seti bulabiliyor musunuz? Ya da o site, analizde kullandığı bilgileri sizin istediğiniz yerden mi alıyor?
 
 Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyorsanız, yapmanız gereken; kendi iç ekiplerinizi kullanıp ihtiyaç duyduğunuz bu araçları sıfırdan yaratmak yani yazmak. İyi de, bir DeFi ürünü olarak zamana karşı yarışıyorsunuz. Rakipler her gün yeni bir özellik sunuyorlar. İnsan kaynağı deseniz zaten kısıtlı. Kısıtlı insan kaynağınızı kendi ana ürününüzü geliştirmek için mi kullanmak istersiniz, yoksa bu tip bir ikincil ihtiyaç için mi?
 
@@ -54,13 +54,13 @@ Ancak bütün merkezi servislerde yukarıda bahsettiğimiz güvenirlilik sıkın
 
 Bakalım bu alanda da, her alanda olduğu gibi, merkezi platformların hızlı ve kullanıcı dostu arayüzleri ile merkeziyetsiz platformların daha az kullanışlı ama eğilip bükülebilir ve tarafsız yapısı arasındaki tatlı rekabette kim ön plana çıkacak. Şu an görünen her iki hizmetin de farklı alıcıları olacağı ve pazarda kendilerine yer bulacakları şeklinde.
 
-Ancak şunu unutmamakta fayda var; oldukça kuvvetli bir yatırımcı ordusunu arkasına alan, token değeri olarak da çok iyi bir yükseliş yakalayan The Graph, şu an için merkezi rakiplerinin önünde değil. Üstelik bu rakiplerden ayrışacağını belirttiği merkeziyetsizlik konusunda ise daha önünde alacağı çok yol var. Muhtemelen yatırımcıları değer olarak The Graph’ın arkasında olmaya devam edecekler; ancak ürün başarıyı bu söz verdiği merkeziyetsizliği başarabildiği ölçüde kazanacak.
+Bu arada şunu unutmamakta fayda var; oldukça kuvvetli bir yatırımcı ordusunu arkasına alan, token değeri olarak da çok iyi bir yükseliş yakalayan The Graph, şu an için merkezi rakiplerinin önünde değil. Üstelik bu rakiplerden ayrışacağını belirttiği merkeziyetsizlik konusunda ise daha önünde alacağı çok yol var. Muhtemelen yatırımcıları değer olarak The Graph’ın arkasında olmaya devam edecekler; ancak ürün başarıyı bu söz verdiği merkeziyetsizliği başarabildiği ölçüde kazanacak.
 
 Şimdi de gelin Graph dünyasının aktörlerine ve sistemin nasıl çalıştığına daha yakından bakalım.
 
 ### Sistem nasıl çalışıyor?
 
-Graph tam bir oracle sayılmaz. Zira oracle hizmetine servis sağlayan dış aracılar \(oracle düğümleri\) dış dünyadan aldıkları bilgiyi akıllı kontrata aktarıyorlar.
+Graph tam bir oracle sayılmaz, zira oracle protokolüne servis sağlayan dış aracılar \(oracle düğümleri\) harici dünyadan aldıkları bilgiyi akıllı kontrata aktarıyorlar.
 
 The Graph’ta ise köprü biraz daha farklı işliyor. Blokzincir içinden alınan bilgi, anlamlı bir hale getirildikten sonra hem zincir içi hem de zincir dışı ihtiyaç sahiplerine dağıtılıyor.
 
@@ -82,11 +82,11 @@ Tabii önüne gelen endeksçi olamıyor. Bunun için bir miktar parayı \(sistem
 
 _**Küratörler:**_
 
-Bunun dışında, bir de küratörler \(İngilizce'de 'curators'\) var. Bunlar, akıllı sınıfı \(!\) temsil ediyorlar. Küratörlerin yaptığı, hangi bilgi kaynaklarında hangi analizlerin para yapacağını önceden kestirmek. Böyle bir ‘cevher’ bulduklarında, hemen analize para \(yine sistemin parası olan GRT\) kilitliyorlar. Eğer analiz tutarsa, getirinin bir kısmına hak kazanıyorlar. Burada, hızlı ve kaliteli analiz bulmak çok önemli; erken bulan kazanıyor. Zira öyle “analizi ben buldum kimseye kaptırmam” gibi bir münhasırlık yok. Bir analizin kaliteli ve potansiyel olduğunu gören herkes para yatırır, endeksçiler de daha ilgi gören analizler için iş yaparlar. İlk bulan ve para yatıran iyi getiriler elde ederken, daha sonradan katılanlar daha az gelir elde eder.
+Bunun dışında, bir de küratörler \(İngilizce'de 'curators'\) var. Bunlar, akıllı sınıfı \(!\) temsil ediyorlar. Küratörlerin yaptığı, hangi bilgi kaynaklarında hangi analizlerin para yapacağını önceden kestirmek. Böyle bir ‘cevher’ bulduklarında, hemen analize para \(yine sistemin parası olan GRT\) kilitliyorlar. Eğer analiz tutarsa, getirinin bir kısmına hak kazanıyorlar. Burada, hızlı ve kaliteli analiz bulmak çok önemli; erken bulan kazanıyor, zira öyle “analizi ben buldum kimseye kaptırmam” gibi bir münhasırlık yok. Bir analizin kaliteli ve potansiyel olduğunu gören herkes para yatırır, endeksçiler de daha ilgi gören analizler için iş yaparlar. İlk bulan ve para yatıran iyi getiriler elde ederken, daha sonradan katılanlar daha az gelir elde eder.
 
 _**Kullanıcılar:**_
 
-Bir de kullanıcılar var ki bunlar genelde DeFi ürünleri oluyor. Örneğin; DeFi dünyasının ağır topları Uniswap, Synthetix The Graph’in modellerini kullanıyorlar. Nasıl belli bilgilerini depolamak için bulut üzerinde yer kiralıyorlar, benzer şekilde modellemeleri için The Graph’i tercih ediyorlar. Gerekli işi yapmak için ekip tutmak, server kiralamak yerine; sistemi kullandıkça ödeme yaptıkları için bu model açıkçası onların da işine geliyor. Zira, DeFi dünyasının en büyüklerinden [Uniswap’ın 2021 yılının Ocak ayında sadece 11 çalışanı olduğunu](https://twitter.com/haydenzadams/status/1346575665940860929) söylersek, neden böyle bir servise ihtiyaç duydukları sanırım daha iyi anlaşılır.
+Bir de kullanıcılar var ki bunlar genelde DeFi ürünleri oluyor. Örneğin; DeFi dünyasının ağır topları Uniswap ve Synthetix The Graph’in modellerini kullanıyorlar. Nasıl belli bilgilerini depolamak için bulut üzerinde yer kiralıyorlar, benzer şekilde modellemeleri için The Graph’i tercih ediyorlar. Gerekli işi yapmak için ekip tutmak, server kiralamak yerine; sistemi kullandıkça ödeme yaptıkları için bu model açıkçası onların da işine geliyor. Zira, DeFi dünyasının en büyüklerinden [Uniswap’ın 2021 yılının Ocak ayında sadece 11 çalışanı olduğunu](https://twitter.com/haydenzadams/status/1346575665940860929) söylersek, neden böyle bir servise ihtiyaç duydukları sanırım daha iyi anlaşılır.
 
 #### Neden para konuyor sisteme?
 
