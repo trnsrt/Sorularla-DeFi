@@ -16,11 +16,13 @@ _Maker DAO sistemi kullanımı. Kaynak:_ [_Token Analyst_](https://medium.com/to
 
 #### İnsanlar neden kullanıyor?
 
-Diyelim kişinin ani olarak paraya ihtiyacı var, mevcut parası da ETH olarak duruyor. Ancak ETH’nin yükseleceğini düşünüyor ya da başka herhangi bir nedenle ETH’lerinden ayrılmak istemiyor. Bu sistemi kullanarak hem nakit ihtiyacını karşılayabilir hem de ETH’nin getireceği kârdan yararlanmaya devam edebilir. Öte taraftan, hatırı sayılır bir kitle de, bu sistemi spekülasyon amaçlı kullanıyor. Mevcut varlıklarını teminat gösterip stabil bir para olan Dai borçlanıyor ve bu borç ile gidip yükseleceğini düşündükleri kriptoparalara yatırım yapıyorlar. 
+Temel kullanımı bir örnek ile açıklayalım: Kişinin ani olarak paraya ihtiyacı var; mevcut yatırımı ETH olarak duruyor ancak ETH’nin yükseleceğini düşündüğü için satmak istemiyor. Bu sistemi kullanarak hem nakit ihtiyacını karşılayabilir hem de ETH’nin getireceği kârdan yararlanmaya devam ediyor \(Tabii ki, ETH'nin düşmesi durumunda oluşacak zarar riskini taşıyarak\).  
+
+Öte taraftan, hatırı sayılır bir kitle de, bu sistemi spekülasyon amaçlı kullanmakta. Mevcut varlıklarını teminat gösterip stabil bir para olan Dai borçlanıyorlar ve bu borç ile gidip yükseleceğini düşündükleri kriptoparalara yatırım yapıyorlar. 
 
 #### Kredi maliyeti ne?
 
-Kredinin maliyetleri, kullanılan teminatın cinsine ve seçilen teminatın yeterlilik oranına göre değişkenlik gösteriyor. Örneğin; Mayıs 2021 itibariyle en çok kullanılan 'ETH'yi kilitleyip %150 teminat oranı ile Dai borçlanma' işleminin maliyeti yıllık 5.5% oranında. Faiz oranının değiştirilmesine, sistemin yönetim tokenine sahip olanlar karar veriyor. 
+Kredinin maliyetleri, kullanılan teminatın cinsine ve seçilen teminatın yeterlilik oranına göre değişkenlik gösteriyor. Örneğin; Mayıs 2021 itibariyle en çok kullanılan işlem olan 'ETH'yi kilitleyip %150 teminat oranı ile Dai borçlanma' işleminin maliyeti yıllık %5.5 oranında. Faiz oranının değiştirilmesine, sistemin yönetim tokenine sahip olanlar karar veriyor. 
 
 ![](../.gitbook/assets/020203-makerdao-stability_fees.png)
 
@@ -30,7 +32,7 @@ _MakerDAO kredi maliyetleri - Haziran 2021 itibariyle. Kaynak:_ [_MakerDAO_](htt
 
 Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse kullanıcının ekstra ETH yüklemesi lazım. Ya da kullanıcılar en başta koymaları gerekenden daha fazla ETH'yi sisteme kilitliyorlar. Aksi takdirde, yani teminat oranı %150'nin altına düşer ise sistem kullanıcının ETH’sini “bozuyor” ve [%13 gibi bir ceza](https://oasis.app/borrow/vaults/open/ETH-C) sonrası \(İngilizce [liquidation fee](https://community-development.makerdao.com/en/learn/vaults/liquidation/) olarak tanımlanıyor\) borcu düşüp, kalan teminatı kullanıcıya geri veriyor.
 
-Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının, Haziran 2021 itibariyle [yaklaşık %350 olduğunu görüyoruz](https://daistats.com/#/collateral). Yani insanlar gerekli minimum limit olan %150’nin üzerine ekstra teminat koymuşlar kullandıkları krediler için.
+Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının, Haziran 2021 itibariyle [yaklaşık %350 olduğunu görüyoruz](https://daistats.com/#/collateral). Yani insanlar, kullandıkları krediler için gerekli minimum limit olan %150’nin üzerine ekstra teminat koymuşlar.
 
 #### Kim borç veriyor bu sisteme?
 
@@ -38,9 +40,9 @@ Aslında kimse kimseye borç vermiyor. Kullanıcı elindeki ETH’yi teminat ola
 
 #### Dai parası nasıl stabil kalıyor peki?
 
-Dai, bir ABD dolarına denk olacak şekilde planlanmış. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları, fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesinin otomatik olacağını düşünüyorlar. Nasıl? Açıklayalım:
+Dai, bir ABD dolarına denk olacak şekilde planlanmış ancak işlem gördüğü borsalara baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları, fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesinin otomatik olacağını düşünüyorlar. Nasıl? Açıklayalım:
 
-Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai yaratıp borç almış olanlar, aldıkları borcu yine Dai ile ödeyecekleri için kredilerini ucuza kapatma fırsatı bulabilecekler ve Dai satın alacaklar. Aynı şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha yüksek bir fiyata geldiğinde\), insanlar ellerindeki ETH’leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai’yi piyasada 1 ABD Doları’nın üzerinde bozdurma şansı yakalayacaklar. Bu da piyasada 1 Dai’nin 1 ABD Doları’na yaklaşmasını sağlayacak.
+Örneğin, Dai fiyatında bir düşüş oldu. Böyle bir durumda, geçmişte Dai yaratıp borç almış olanlar, kredilerini ucuza kapatma fırsatı bulabilecekler ve Dai satın alacaklar. Bu da Dai fiyatının artarak dengeye gelmesini sağlayacak. Benzer şekilde Dai fiyatında bir artış olduğunda \(1 ABD dolarından daha yüksek bir fiyata geldiğinde\), insanlar ellerindeki ETH’leri sisteme gönderip Dai yaratacaklar. 1 ABD Doları maliyetle yarattıkları Dai'yi piyasada 1 ABD Doları’nın üzerinde bozdurarak kâr elde edecekler. Bu bahsettiğimiz her iki duruma finans piyasalarında arbitraj deniyor ve likit piyasalar arbitraj fırsatlarını hızlıca değerlendirip sistemi tekrar dengeye getiriyorlar. 
 
 #### Dai dışında sistemin bir de yönetim tokeni olan MKR var
 
@@ -89,5 +91,5 @@ DeFi'nin geniş kesimlerce benimsenmesi için birkaç alanda gelişme kaydetmesi
 
 Tüm DeFi protokollerinde yukarıda saydığımız konularda yavaş yavaş ilerleme olduğunu görüyoruz. Bir borç yaratma protokolü olan MakerDAO ise, yavaş yavaş olgunluğa ulaşmaya başladı. Şu aşamada en büyük hedefleri tamamen merkeziyetsiz bir yapıya kavuşabilmek. Bunun için de yaptıkları en önemli iş, başlangıcından beri sistemin lokomotifi olan geliştirici ekibin içinde yer aldığı MakerDAO vakfını yavaş yavaş kaldırmak olacak. 
 
-MakerDAO sistemi içinde uzunca bir süredir stratejik kararlar MKR sahipleri tarafından veriliyor idi.  MakerDAO Foundation dediğimiz geliştirici ekip, MKR sahiplerinin aldığı kararları uyguluyorlardı. Bunu yaparken de masraflarını kaşılamak için kendilerine tahsis edilmiş olan MKR paraları kullanıyorlardı. 2021 yılının Mart ayında aldıkları bir kararla ellerinde kalan MKR'ların kullanım hakkını MKR sahiplerine bırakıyorlar. Bundan sonra bağımsız ekipler; MakerDAO'nun geliştirme, pazarlama ya da dış ilişkilerini sürdürecekler. Her ekip, hangi alanda çalışıp, karşılığında ne kadar bütçe istediğini, MKR sahiplerine sunacak. MKR sahiplerinin oylaması sonucu kendilerine bütçe verilen ekipler çalışmaya devam edecekler. Bu DeFi protokolleri içinde belki de  en uç nokta. 
+MakerDAO sistemi içinde uzunca bir süredir stratejik kararlar MKR sahipleri tarafından veriliyordu.  MakerDAO Foundation olarak adlandırılan geliştirici ekip, MKR sahiplerinin aldığı kararları uyguluyorlardı. Bunu yaparken de masraflarını kaşılamak için kendilerine tahsis edilmiş olan MKR paraları kullanıyorlardı. 2021 yılının Mart ayında aldıkları bir kararla ellerinde kalan MKR'ların kullanım hakkını MKR sahiplerine bırakıyorlar. Bundan sonra bağımsız ekipler; MakerDAO'nun geliştirme, pazarlama ya da dış ilişkilerini sürdürecekler. Ekipler, hangi alanda çalışıp, karşılığında ne kadar bütçe istediklerini, MKR sahiplerine sunacaklar. MKR sahiplerinin oylaması sonucu, kendilerine bütçe verilen ekipler çalışmaya devam edecekler. Bu, DeFi protokolleri içinde belki de  en uç nokta. 
 
