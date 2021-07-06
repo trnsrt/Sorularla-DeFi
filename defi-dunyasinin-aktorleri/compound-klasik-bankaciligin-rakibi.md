@@ -22,13 +22,13 @@ Compound sisteminde bireyler ellerindeki kriptoparaları mevduat olarak yatırı
 
 #### Faiz nasıl belirleniyor?
 
-Sistemin faiz belirleme yöntemi aslında bankalara benziyor: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza, yani arz ve talebe göre bir algoritma tarafından hesaplanıyor faiz.
+Sistemin faiz belirleme yöntemi aslında bankalara benziyor: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza \(yani arz ve talebe\) göre bir algoritma tarafından faiz hesaplanıyor.
 
 Ne sıklıkla? Çok! Üzerine kurulu olduğu Ethereum blokzincirinin bir blok oluşturma süresine paralel şekilde; borç verenlere ya da alanlara uygulanacak faiz her 15 saniyede bir belirleniyor.
 
-Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde özetlenebilecek temel ekonomik prensiplere dayanıyor.
+Sistem temel olarak denge sistemi ile çalışıyor: Örneğin, faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde özetlenebilecek temel ekonomik prensiplere dayanıyor.
 
-#### Faiz çok oynak görünüyor, peki ya sisteme giriş-çıkış nasıl oluyor?
+#### Sisteme giriş-çıkış nasıl oluyor?
 
 Şunu da hemen belirtelim. Neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman paranızı çekebiliyorsunuz.
 
@@ -50,23 +50,23 @@ _Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak:_ [_Compo
 
 #### Kimler kullanıyor?
 
-Neden bir kişi sistemden borç almak ister? Temel nedeni; spekülatif hareketler. Örneğin, kişi bir ödemesi nedeniyle paraya sıkıştı; ancak elindeki ETH’yi satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip stabil Dai kredi alabilir. Ya da ETH'nin daha da yükseleceğini düşünüyor; o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
+Neden bir kişi sistemden borç almak ister? Bir önceki bölümde MakerDAO'da da bahsettiğimiz nedenler ile. Örneğin, kişi bir ödemesi nedeniyle paraya sıkıştı; ancak elindeki ETH’yi satmak istemiyor. Böyle bir durumda bu ETH’i teminat gösterip stabil Dai ya da USDC kredi alabilir. Bir diğer örnek ise daha spekülatif. Kişi, ETH'nin daha da yükseleceğini düşünüyorsa, o zaman Dai borçlanıp daha fazla ETH sahibi olabilir. 
 
 Peki neden borç verirsiniz? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre.
 
 ### Kim kurmuş bu Compound’u? Güvenilir mi peki?
 
-Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Şimdi görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim. 
+Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Şimdi, görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim. 
 
 #### Tamamen merkeziyetsiz mi?
 
-Hayır. Merkeziyetsizlik '[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)' ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? O da belli değil açıkçası.
+Hayır. Merkeziyetsizlik 'uzun ince bir yol' ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? Açıkçası, o da belli değil 
 
 Merkezilik nerede var? Öncelikle, geliştiren ekip merkezi ama bu o kadar da kritik değil.
 
 Asıl kritik olan, kredi alanlara hangi faiz oranı uygulayacağına bir “robot” karar veriyor. Peki bu robot nasıl karar veriyor? Compound’un içindeki \(içeriği çok da bilinmeyen\) bir algoritma sistemdeki arz ve talebe göre faizi belirliyor. Yani arz ve talep toplanıp bir havuz şeklinde düşünülüyor.
 
-Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıcı ile verici pazar yeri misali birbirleri ile direkt bir araya gelebilirdi. O zaman da böyle bir kara kutuya ihtiyaç olmazdı. Birkaç yıl önce [Dharma](https://www.dharma.io/) protokolü böyle bir niyetle ortaya çıktı; ancak o projenin çok başarılı olduğu söylenemez.
+Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman alıcı ile satıcı, pazar yeri misali birbirleri ile karşı karşıya gelebilirdi. O zaman da böyle bir kara kutuya ihtiyaç olmazdı. Birkaç yıl önce [Dharma](https://www.dharma.io/) protokolü böyle bir niyetle ortaya çıktı ancak başarılı olamadı.
 
 ### MakerDAO’dan farkı ne?
 
@@ -86,7 +86,7 @@ Pek çok prestijli girişim sermayesinden yatırım aldı. İlk olarak ürünler
 
 Sıradaki hamle benzer şekilde yönetimi de merkeziyetsiz hale getirmekti. Burada da işe, demokratik bir şekilde geniş bir kitle tarafından yönetilebilmek için COMP adı verilen bir token çıkarıp kullanıcılarına dağıtmakla başladılar.
 
-Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlere sahip olmaları durumunda gelecekte sistemin güvenirliliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleri idi.
+Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlere sahip olmaları durumunda gelecekte sistemin güvenirliliği ve doğru bir yolda ilerlemesi konusunda ellerinden geleni yapacağını düşünmeleriydi.
 
 ### COMP hamlesi nasıl işledi?
 
@@ -110,7 +110,7 @@ Neden 2017’nin token projelerini andırıyor? En önemli nedeni kullanıcılar
 
 En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine bir sarmala dönüşmüş olması. Ne demek bu?
 
-Compound’un; mevduat yatırma ya da kredi alma işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz. Ancak bunun yanında, şu anda bir de COMP token kazanıyorsunuz. Ve bu tokeni aldığınız gibi piyasada satabiliyorsunuz. Böyle olunca aslında kazandığınız para kat be kat artıyor.
+Compound’un; mevduat yatırma ya da kredi alma işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz, üzerine bir de COMP token kazanıyorsunuz. Bu tokeni aldığınız gibi piyasada satabiliyorsunuz, böyle olunca aslında kazandığınız para kat be kat artıyor.
 
 COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformlarının en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kriptopara değeri beş kat artarak, DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
@@ -118,13 +118,13 @@ Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tart�
 
 ### COMP tokenlerin değeri nereden geliyor?
 
-Bu arada şunu da belirtelim; Compound, ellerinde COMP tutanlara herhangi bir ekonomik menfaat vaat etmiyor. Token sahiplerinin şu an için yapabilecekleri, sadece sistemin hangi yöne gideceği konusunda oy vermek ile sınırlı. 
+Bu arada şunu da belirtelim; Compound, elinde COMP tutanlara herhangi bir ekonomik kazanç vaat etmiyor. Token sahiplerinin şu an için yapabilecekleri, sadece sistemin hangi yöne gideceği konusunda oy vermek ile sınırlı. 
 
 Peki ileride bu değişebilir mi? Örneğin, sistem kâr dağıtmaya başlayabilir mi? Kim bilir? COMP tokenler bu hızla giderse 4 yıl sonra tamamen dağıtılmış olacak. Yönetim de tamamen merkeziyetsiz bir hale gelecek. O zaman COMP sahipleri oturup demokratik olarak kâr dağıtmaya karar verebilirler mi? Verebilirler tabii, neden olmasın?
 
 Kimi uzun vadeli ve sadece ekonomik getiriye bakan yatırımcılar, işte bu ileride kâr dağıtma ihtimalini sevdi gibi gözüküyor. 
 
-Ancak unutmamak lazım; bu aslında iki ucu keskin bir kılıç. COMP sayesinde yönetimi eline geçiren istediğini yapabilir. Kâr dağıtma kararı verebileceği gibi, yeni token dağıtma yolunu da seçebilir. Hepimizin aklı Bitcoin’in 21 milyon ile sınırlı olmasına gidiyor ama orada kanunu kod yazıyor ve bozulması merkeziyetsiz yapının iyice oturmuş olması nedeniyle neredeyse imkânsız. Ama COMP için bu kadar kesin konuşmamak gerekiyor.
+Öte yandan unutmamak lazım; bu, aslında iki ucu keskin bir bıçak. COMP sayesinde yönetimi eline geçiren istediğini yapabilir. Kâr dağıtma kararı verebileceği gibi, yeni token dağıtma yolunu da seçebilir. Hepimizin aklı Bitcoin’in 21 milyon ile sınırlı olmasına gidiyor ama orada kanunu kod yazıyor ve bozulması merkeziyetsiz yapının iyice oturmuş olması nedeniyle neredeyse imkânsız. COMP için bu kadar kesin konuşmamak gerekiyor.
 
 ### Peki kim alıyor bu COMP tokenleri?
 
