@@ -8,9 +8,9 @@ DeFi tokenleri alabilmek için birkaç farklı yöntem var. Dilerseniz bunlardan
 
 #### Merkezi borsalar
 
-Kullanıcılar, borsalarda satın aldığı kriptopararaları farklı DeFi ürünlerine yatırım yapmak isterlerse bu borsaların sunduğu tokenlerden alabilirler. Burada unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğu. Sonuç olarak, bu borsalarda tutulan kriptoparalar, henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk; kullanıcı, parayı kendi elektronik cüzdanına taşımadıkça devam eder.
+Kullanıcılar, farklı DeFi ürünlerine yatırım yapmak isterlerse bu borsaların sunduğu tokenlerden alabilirler. Burada unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğu. Sonuç olarak, bu borsalarda tutulan kriptoparalar, henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk; kullanıcı, parayı kendi elektronik cüzdanına taşımadıkça devam eder.
 
-Bunun yanında, yukarıdaki ilk kısımda bahsettiğimiz rahatlık nedeniyle kullanıcılar kısıtlı da olsa borsanın sunduğu kriptoparalar ile yatırım yapmayı sürdürebilirler.
+Bunun yanında, kullanım kolaylığı nedeniyle kullanıcılar kısıtlı da olsa borsanın sunduğu kriptoparalar ile yatırım yapmayı sürdürebilirler.
 
 #### Merkeziyetsiz borsalar
 
@@ -40,7 +40,7 @@ Bunun yanında, kişinin merkezi borsaları kullanmak istemesinin bir başka ned
 
 Merkeziyetsiz borsaları kullanmanın en zor yanı başlangıcı. Aslında bu merkezi borsalar için de benzer şekilde. Zira merkezi borsalar ‘müşterini tanı’ \(İngilizce'de 'know-your-customer' - KYC\) ilkeleri ile çalıştıkları ve itibari paralara dokundukları için oldukça hassaslar.
 
-Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. ‘Kabul etmek ne demek?’ Derseniz şöyle hatırlatalım: Herhangi bir merkeziyetsiz borsanın web sitesine girerseniz, yapacağınız ilk iş genelde sağ üst tarafta bulunan ‘cüzdanını bağla’ \(connect your wallet\) düğmesine basmak. O zaman site size hangi elektronik cüzdanı kullanmak istediğinizi sorar ki bunu, bir önceki bölümümüzde detaylı olarak anlatmıştık.
+Merkeziyetsiz borsalar ise sadece kriptopara kabul ediyorlar. "Kabul etmek ne demek?" diye soracak olursanız şöyle hatırlatalım: Herhangi bir merkeziyetsiz borsanın web sitesine girerseniz, yapacağınız ilk iş genelde sağ üst tarafta bulunan ‘cüzdanını bağla’ \(İngilizce'de 'connect your wallet'\) düğmesine basmak. O zaman site size hangi elektronik cüzdanı kullanmak istediğinizi sorar ki bunu, bir önceki bölümümüzde detaylı olarak anlatmıştık.
 
 Örnek olarak, Metamask’ı seçtiğinizde, uygulama, siteye bağlanmak isteyip istemediğiniz konusunda sizden teyit alır ve onay verirseniz, ancak o zaman cüzdanınızdaki varlıkları site içinde görüntüleme imkanı verir.
 
