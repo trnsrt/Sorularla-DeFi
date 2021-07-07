@@ -44,4 +44,5 @@
 * [DeFi'deki yüksek işlem ücretlerine dikkat!](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defideki-yueksek-islem-uecretlerine-dikkat.md)
 * [Farklı merkeziyetsiz borsaları aynı anda kullanmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/farkli-merkeziyetsiz-borsalari-ayni-anda-kullanmak.md)
 * [DeFi'de portföy nasıl takip edilir?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defide-portfoey-nasil-takip-edilir.md)
+* [DeFi ile bizi neler bekliyor?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-ile-bizi-neler-bekliyor.md)
 

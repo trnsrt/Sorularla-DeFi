@@ -6,14 +6,6 @@ Bundan önceki bölümlerde DeFi dünyasına ilk girişte ihtiyaç duyulan cüzd
 
 DeFi tokenleri alabilmek için birkaç farklı yöntem var. Dilerseniz bunlardan kısaca bahsedelim:
 
-#### İlk adım; itibari paradan kriptoparaya geçmek
-
-DeFi dünyasından işlem yapmak için kullanıcının elinde kriptopara olması gerekiyor.
-
-Peki, bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari paraları \(yani devletler tarafından basılan paralar\), kriptoparaya çevirmesi gerekiyor. Bunu ise merkezi kriptopara borsaları ile yapabilir. Kendisine ait bir banka hesabından, merkezi bir kriptopara borsası hesabına itibari parasını gönderir; sonrasında o borsanın sunduğu kriptoparalardan satın alabilir.
-
-DeFi dünyası, ağırlıklı olarak Ethereum blokzinciri üzerine kurulu olduğu için, DeFi ürünlerinde bu blokzincirin parası olan ETH en sık karşılacağınız ve en likit para. Bunun yanında, USDT \(Tether\) ve USDC de ABD dolarına çıpalanmış stabil paralar olarak rağbet görüyorlar. Kullanıcı, ilk adım olarak hemen hemen tüm borsalarda bulunan bu tokenler ile yatırıma başlayabilir.
-
 #### Merkezi borsalar
 
 Kullanıcılar, daha sonrasında farklı DeFi ürünlerine yatırım yapmak isterlerse kriptopara borsalarının sunduğu tokenlerden alabilirler. Burada unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğu. Sonuç olarak, bu borsalarda tutulan kriptoparalar, henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk; kullanıcı, parayı kendi elektronik cüzdanına taşımadıkça devam eder.
