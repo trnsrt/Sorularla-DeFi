@@ -22,7 +22,7 @@ Efendim, Aragon özünde merkeziyetsiz olarak yönetilmek isteyen kişilere, bu 
 
 _Photo by_ [_Sam Beasley_](https://unsplash.com/@sam_beasley) _on Unsplash_
 
-“Ne gerek var?” diye sorabilirsiniz. Gereği şu: Dijital dünyada da olsanız, kişilerin oluşturduğu toplulukları yönetmek için kurallara ihtiyacınız var. Benzer şekilde sorunlar çıktığında bunları çözmek için de belli mekanizmalara ihtiyaç duyuyorsunuz. Oysa katılımcıların hepsinin bu kuralları, artılarını ve eksilerini bilme imkanı yok, hatta buna gerek de yok.
+“Ne gerek var?” diye sorabilirsiniz. Gereği şu: Dijital dünyada da olsanız, kişilerin oluşturduğu toplulukları yönetmek için kurallara ihtiyacınız var. Benzer şekilde sorunlar çıktığında bunları çözmek için de belli mekanizmalara ihtiyaç duyuyorsunuz. Oysa katılımcıların hepsinin bu kuralları, artılarını ve eksilerini bilme imkânı yok, hatta buna gerek de yok.
 
 İşte Aragon, bu anlamda bir araya gelen gruplara kendi sistemlerini yönetmek için daha önce denenmiş hazır ve esnek şablonlar sunuyor. Kullanıcı dostu, Akıllı Kontratlar ile çalışan ve kişilerin ihtiyaçlarına göre şekillendirebildikleri platformlar.
 
@@ -46,5 +46,5 @@ Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro’nun 
 
 Decentralized Autonomus Organization yani DAO’lar DeFi alanına ilgi duyanların yakından anlamaları gereken yapılar. Zira fiziki dünyada hepimizin alıştığı anonim şirket, limited şirket gibi oluşumlar devletin koyduğu kanunlara tabi, otoriteler tarafından kontrol edilen ve hissedar ya da çalışan haklarının bir nevi korunduğu yerler. Dijital dünyada ise devlet kontrolünün olmadığı bir ortamda, bu tip yapılar katılımcılar için pratiklik yanında sorumluluk da getiriyor. Aragon benzeri projeler bu anlamda bize bu tip yapıların nasıl işleyebileceği konusunda farklı alternatifler sunuyor, bir nevi yol gösteriyor.
 
-Hep söylediğimiz gibi son on yıldır dijital dünyada hepimizin gözleri önünde bir devrim yaşanıyor, DAO’lar da bu devrimin önemli yapı taşlarından biri. Gelecek bu anlamda çok heyecanlı olacak, hep birlikte yaşayarak göreceğiz.
+Hep söylediğimiz gibi son on yıldır dijital dünyada hepimizin gözleri önünde bir devrim yaşanıyor, DAO’lar da bu devrimin önemli yapı taşlarından biri.
 
