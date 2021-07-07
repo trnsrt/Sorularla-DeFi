@@ -12,7 +12,7 @@ Aslında anlatım açısından basit ancak teknik olarak hatalı bir söylem. Kr
 
 #### **Kripto varlıklar blokzincirde durur.**
 
-Kripto varlıklar, blokzincire kaydedilirler. Bu kayıtlar şeffaftır ve herkes görebilir. Eğer bu şeffaflık olmasaydı, o zaman bu kayıtların doğru olduğunu bilemezdik. Halbuki herkese açık olduğu için her isteyen bu kayıtların doğru olduğunu; toplamının o zamana kadar üretilen toplam kripto para sayısına eşit olduğunu görebilir.
+Kripto varlıklar, blokzincire kaydedilirler. Bu kayıtlar şeffaftır ve herkes görebilir. Eğer bu şeffaflık olmasaydı, o zaman bu kayıtların doğru olduğunu bilemezdik. Halbuki herkese açık olduğu için her isteyen bu kayıtların doğru olduğunu; toplamının o zamana kadar üretilen toplam kriptopara sayısına eşit olduğunu görebilir.
 
 #### **Elektronik cüzdan, blokzincirdeki kayda ulaşıp işlem yapmaya yarar.**
 
