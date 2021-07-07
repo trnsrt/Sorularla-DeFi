@@ -10,7 +10,7 @@ DeFi tokenleri alabilmek için birkaç farklı yöntem var. Dilerseniz bunlardan
 
 DeFi dünyasından işlem yapmak için kullanıcının elinde kriptopara olması gerekiyor.
 
-Peki,, bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari paraları \(yani devletler tarafından basılan paralar\), kriptoparaya çevirmesi gerekiyor. Bunu ise merkezi kriptopara borsaları ile yapabilir. Kendisine ait bir banka hesabından, merkezi bir kriptopara borsası hesabına itibari parasını gönderir; sonrasında o borsanın sunduğu kriptoparalardan satın alabilir.
+Peki, bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari paraları \(yani devletler tarafından basılan paralar\), kriptoparaya çevirmesi gerekiyor. Bunu ise merkezi kriptopara borsaları ile yapabilir. Kendisine ait bir banka hesabından, merkezi bir kriptopara borsası hesabına itibari parasını gönderir; sonrasında o borsanın sunduğu kriptoparalardan satın alabilir.
 
 DeFi dünyası, ağırlıklı olarak Ethereum blokzinciri üzerine kurulu olduğu için, DeFi ürünlerinde bu blokzincirin parası olan ETH en sık karşılacağınız ve en likit para. Bunun yanında, USDT \(Tether\) ve USDC de ABD dolarına çıpalanmış stabil paralar olarak rağbet görüyorlar. Kullanıcı, ilk adım olarak hemen hemen tüm borsalarda bulunan bu tokenler ile yatırıma başlayabilir.
 
