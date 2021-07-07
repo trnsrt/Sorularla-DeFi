@@ -40,7 +40,7 @@ Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fa
 
 Oracle sistemlerinde de dış dünya ile ilişkiyi ağ üyesi makineler kuruyor. Bilgi ihtiyacı olan DeFi yapıları, bir akıllı kontrat aracılığıyla hangi tür teknik bilgiyi istediklerini oracle hizmeti veren ağın içine koyuyorlar. Teknik derken kasıt; hangi bilgi kaynağının kullanılacağından, ne sıklıkla ve hangi hizmet süreleri \(örneğin, %99.99 çalışma gerekliliği\) gibi istekler.
 
-Ağ içindeki üyeler bu tip bir talebi içeren bir akıllı kontrat gördüklerinde, bu hizmeti ne kadar bir ücret karşılığı yerine getirebileceklerini kontrata bildiriyorlar. Bu ücret, genel olarak o ağın kullandığı kripto para cinsinden belirleniyor.
+Ağ içindeki üyeler bu tip bir talebi içeren bir akıllı kontrat gördüklerinde, bu hizmeti ne kadar bir ücret karşılığı yerine getirebileceklerini kontrata bildiriyorlar. Bu ücret, genel olarak o ağın kullandığı kriptopara cinsinden belirleniyor.
 
 Anlaşma sağlanıp sistem çalışmaya başladığında, bilgi sağlayıcı üyeler dış dünyadaki kaynaklardan aldıkları bilgileri akıllı kontrata aktarıyor. Diğer üyeler de ağ üzerinden bu bilginin doğruluğunu teyit ediyor.
 
