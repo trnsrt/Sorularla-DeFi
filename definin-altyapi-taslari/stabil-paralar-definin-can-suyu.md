@@ -58,7 +58,7 @@ _Mayıs 2021'de açıklanan Tether'in elinde tuttuğu varlıklar. Kaynak:_ [_Tet
 
 Gördüğünüz gibi Tether, yaratılan USDT'lerin karşılığı olarak %75 nakit tuttuğunu söylüyor. Detaylara bakınca, aslında 'nakit' denen paranın içinde %65 Commercial Paper yani özel şirketlerin çıkardığı kağıtlar. İstendiği anda paraya çevrilme özelliğinden dolayı 'nakit' olarak adlandırılan bu kağıtların, gerçekten ihtiyaç halinde geri alınacağı ne malum? Gerçekten nakit olarak tutulan para sadece %3.9 oranında. 
 
-Sonuç olarak USDT şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Özellikle ABD dışındaki merkezi borsalarda ağırlıklı olarak kullanımda olan para USDT.  Ancak, gerek banka hesaplarının şeffaf olmaması, gerekse açıkladığı rakamların bile 'itibari parayı arkasına alan stabil para' tanımına tam olarak uymaması nedeniyle dikkat edilmesinde fayda olan bir kriptopara. 
+Sonuç olarak USDT şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Özellikle ABD dışındaki merkezi borsalarda ağırlıklı olarak kullanımda olan para USDT ancak gerek banka hesaplarının şeffaf olmaması, gerekse açıkladığı rakamların bile 'itibari parayı arkasına alan stabil para' tanımına tam olarak uymaması nedeniyle dikkat edilmesinde fayda olan bir kriptopara. 
 
 #### USDC
 
@@ -100,7 +100,7 @@ Piyasada yeterince stabil kriptopara varken neden Ampleforth’a ihtiyaç olsun?
 
 _ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir. Kaynak:_ [_Wikipedia_](https://https//en.wikipedia.org/wiki/Executive_Order_6102)\_\_
 
-Ayrıca bu stabil kriptoparalar ödemeler konusunda çözüm olsalar da, bir önceki bölümde bahsettiğimiz gibi bu paraları basanların, ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Örneğin,  Tether’in müşteri hesaplarını dondurabilme gücü \(ki 2020 yılının Eylül ayında yaşanan Kucoin hack olayında, 33 milyon ABD Dolarını [dondurdular](https://news.bitcoin.com/kucoin-hacked-for-150-million-in-bitcoin-bitfinex-and-tether-freeze-33-million-of-the-stolen-funds/#:~:text=5-,Kucoin%20Hacked%20for%20%24150%20Million%20in%20Bitcoin%3B%20Bitfinex%20and%20Tether,bitcoin%20and%20multiple%20ERC20%20tokens.)\) kripto dünyasının bireylere en büyük faydası olarak da bilinen “dijital varlığa tümüyle sahip olma” özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında.
+Ayrıca bu stabil kriptoparalar ödemeler konusunda çözüm olsalar da, bir önceki bölümde bahsettiğimiz gibi bu paraları basanların, ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Örneğin,  Tether’in müşteri hesaplarını dondurabilme gücü \(2020 yılının Eylül ayında yaşanan Kucoin hack olayında, 33 milyon ABD Dolarını [dondurdular](https://news.bitcoin.com/kucoin-hacked-for-150-million-in-bitcoin-bitfinex-and-tether-freeze-33-million-of-the-stolen-funds/#:~:text=5-,Kucoin%20Hacked%20for%20%24150%20Million%20in%20Bitcoin%3B%20Bitfinex%20and%20Tether,bitcoin%20and%20multiple%20ERC20%20tokens.)\) kripto dünyasının bireylere en büyük faydası olarak da bilinen “dijital varlığa tümüyle sahip olma” özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında.
 
 _**Bitcoin’in sıkıntısı**_
 
@@ -170,9 +170,7 @@ Ampleforth’un, arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var a
 
 _**İlk aşama**_
 
-İlk aşama, kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak yüksek bir ağırlığa sahip.
-
-Dolayısıyla piyasadaki kriptoparaların büyük bir çoğunluğu, ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar \(genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar\). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine, yarattıkları strateji sayesinde, AMPL değerindeki değişimlerin diğer bütün kriptoparalardan farklı şekilde yol alacağını; bunun da portföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar.
+İlk aşama, kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmada yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak yüksek bir ağırlığa sahip. Dolayısıyla piyasadaki kriptoparaların büyük bir çoğunluğu, ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar \(genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar\). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine, yarattıkları strateji sayesinde, AMPL değerindeki değişimlerin diğer bütün kriptoparalardan farklı şekilde yol alacağını; bunun da portföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar.
 
 _**İkinci aşama:**_
 
@@ -186,7 +184,7 @@ _**Üçüncü aşama:**_
 
 Üçüncü aşamada ise kullanımın yaygınlaşması ve arzın artması ile birlikte artık geniş kitleler tarafından ödemeler için kullanılabilecek; güvenli, bağımsız bir para olma hedefi var. Yani aslında bir nevi Satoshi’nin, Bitcoin’e başlangıçta koyduğu vizyona ulaşmak. Uzun vadede yeterli büyüklüğe ulaşıldığında, volatilitenin azalması ile birlikte paraya olan talebin ancak büyük makro ekonomik değişiklikler olması durumunda değişiklik göstereceğini; bunun da şimdiki gibi sık olmasa da yapılacak arz değişiklikleri ile yatırımcılara yansıtılacağını düşünüyorlar.
 
-Tabii bu arada geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir. Özellikle merkezi borsalarda işlem görmek yaygınlaşma için önemli ancak böyle bir durumda, müşteri cüzdanlarının merkezi borsalarda nasıl işleneceği teknik bir sorun olabilir gibi görünüyor. \(Özellikle de kullanıcıların verdikleri emirler gerçekleşmeden önce yapılan para arzı artışı ya da kısıtlamaların müşteri cüzdanlarına nasıl yansıtılacağı konusunda\). 
+Tabii bu arada geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir. Merkezi borsalarda işlem görmek, yaygınlaşma için önemli ancak böyle bir durumda, müşteri cüzdanlarının bu borsalarda nasıl işleneceği konusunda teknik bir sorunlar çıkabilir. Özellikle kullanıcıların verdikleri emirler gerçekleşmeden önce yapılan para arzı artışı ya da kısıtlamaların müşteri cüzdanlarına nasıl yansıtılacağı, operasyonel olarak borsaların başını bir hayli ağrıtabilir. 
 
 #### Sıkıntılar/riskler neler Ampleforth’da?
 
@@ -198,7 +196,7 @@ Ampleforth’da arz kısılması ancak fiyat belli bir seviyenin altına düşt�
 
 _Image by_ [_Gordon Johnson_](https://pixabay.com/users/gdj-1086657/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
-Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi. Geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bu iniş çıkışı, üstelik dramatik bir şekilde yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı, alışık olmadığımız bir sistem deneyi.
+Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi. Bitcoin, geçmişte pek çok kez benzer düşüşleri yaşasa da sonunda toparlandı. Ampleforth’da da bu iniş çıkışı, üstelik dramatik bir şekilde yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı, alışık olmadığımız bir sistem deneyi.
 
 Fiyatın, bir süre sonra bandın içine geleceğini düşünenlerin argümanı şu: Öncelikle AMPL’deki azalışlara denk gelecek arz değişimleri \(rebase de deniyor buna\) günlük olarak hesaplansa da, artışlar 10 günlük bir vade içinde yapılıyor. Yani %10’luk bir artış, her gün %1’lik bir arz artışı demek.
 
@@ -208,7 +206,7 @@ AMPL yatırımcısının, token ile ilgili değerlendirme yaparken bakması gere
 
 _**Türev enstrümanları AMPL için sorun yaratır mı?**_
 
-AMPL ile ilgili soru işaretlerinden bir tanesi de, FTX benzeri merkezi borsalarda kote olan kriptoparanın, türev işlemleri sonucunda “açığa satış” durumu. Çok aşina olmayanlar için tekrarlayalım: Açığa satış, elinizde olmayan bir hisseyi \(ya da tokeni\), sonradan yerine koymak şartıyla şimdiden satmak. Bunu özellikle fiyatın düşmesini beklediğiniz durumlarda yaparsınız. Yukarıda bahsettiğimiz gibi, AMPL denge fiyatına ulaşabilmek adına ilk aşamada tüm ağın değerini azaltan ilginç bir sisteme sahip. Açığa satışlar, bu tüm ağ değerindeki değişimlerin çok daha hızlı gerçekleşmesini sağlayabilirler. Dolayısıyla şüphe duyanlar için yukarıdaki girdap, çok daha hızlı çalışıp sistemi çökertebilir; AMPL savunucuları için ise, fiyatın hızlı düşmesi ile tekrar toparlanma hızlıca gerçekleşebilir. Hangi tarafa inanmak istersiniz? Seçim sizin.
+AMPL ile ilgili soru işaretlerinden bir tanesi de, FTX benzeri merkezi borsalarda kote olan kriptoparanın, türev işlemleri sonucunda ortaya çıkan 'açığa satış' durumu olarak görünüyor. Çok aşina olmayanlar için tekrarlayalım: Açığa satış, elinizde olmayan bir hisseyi \(ya da tokeni\), sonradan yerine koymak şartıyla şimdiden satmak. Bunu özellikle fiyatın düşmesini beklediğiniz durumlarda yaparsınız. Yukarıda bahsettiğimiz gibi, AMPL denge fiyatına ulaşabilmek adına ilk aşamada tüm ağın değerini azaltan ilginç bir sisteme sahip. Açığa satışlar, bu tüm ağ değerindeki değişimlerin çok daha hızlı gerçekleşmesini sağlayabilirler. Dolayısıyla şüphe duyanlar için yukarıdaki girdap, çok daha hızlı çalışıp sistemi çökertebilir; AMPL savunucuları için ise, fiyatın hızlı düşmesi ile tekrar toparlanma hızlıca gerçekleşebilir. Hangi tarafa inanmak istersiniz? Seçim sizin.
 
 _**Yeterli talep/adaptasyon olacak mı?**_
 
@@ -222,7 +220,7 @@ Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. B
 
 #### Ampleforth üzerine son birkaç söz 
 
-Ampleforth; Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden; makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların, gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. 
+Ampleforth; Bitcoin sonrası ortaya çıkan ve kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümler içinde makroekonomik para politikalarına odaklanmış bir kriptopara. Ekonomide teori olarak ortaya konan kavramların, gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. 
 
-Ampleforth, diğer başka DeFi girişimlerine göre oldukça yeni bir proje. Ekip her ne kadar iki yıldır bir arada olsa da, asıl çıkışlarını DeFi’a olan ilginin arttığı Temmuz 2020’den itibaren yaşadılar. Sonrasında, 2021'in bahar aylarında, merkeziyetsizlik yolunda bir adım atarak, kendi yönetim tokeni olan FORTH'u çıkarıp, bu tokenin önemli bir kısmını elinde uzun süre AMPL tutmuş ve bundan dolayı zarar etmiş kullanıcılara dağıttılar. AMPL, henüz geniş kesimler tarafından kullanılmıyor, o nedenle yukarıda bahsettiğimiz üç aşamalı vizyonun daha henüz ilk aşamasını bile geçtikleri söylenemez. Rakip olarak çıkan pek çok proje olduğunu da düşünürsek, işleri hiç kolay değil. Başarılı olacaklar mı, önümüzdeki yıllarda hep birlikte takip edeceğiz. 
+Ampleforth, diğer başka DeFi girişimlerine göre oldukça yeni bir proje. Ekip her ne kadar iki yıldır bir arada olsa da, asıl çıkışlarını DeFi’ye olan ilginin arttığı Temmuz 2020’den itibaren yaşadılar. Sonrasında, 2021'in bahar aylarında, merkeziyetsizlik yolunda bir adım atarak, kendi yönetim tokeni olan FORTH'u çıkarıp, bu tokenin önemli bir kısmını elinde uzun süre AMPL tutmuş ve bundan dolayı zarar etmiş kullanıcılara dağıttılar. AMPL, henüz geniş kesimler tarafından kullanılmıyor, o nedenle yukarıda bahsettiğimiz üç aşamalı vizyonun daha henüz ilk aşamasını bile geçtikleri söylenemez. Rakip olarak çıkan pek çok proje olduğunu da düşünürsek, işleri hiç de kolay değil. 
 
