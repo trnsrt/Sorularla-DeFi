@@ -26,7 +26,7 @@ Alternatif zincirler, birkaç nedenle daha ucuza işlem yaptırabiliyorlar. Önc
 
 Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an en fazla konuşulan birkaç tanesini isim olarak verip, Ethereum ile farklarına kısaca değinelim:
 
-[Polkadot](https://polkadot.network/), [Cardano](https://cardano.org/) ve [Avalanche](https://www.avalabs.org/); başlangıçta Ethereum’u kuran ekipte olup sonrasında felsefi fikir ayrılıkları nedeniyle hareketten ayrılmış saygın isimlerin kurdukları projeler. Polkadot ve Avalanche gerek işlev gerekse yapmak istedikleri açısından Ethereum’a oldukça yakınlar; hatta Avalanche, Ethereum ile bir köprü kurup orada bulunan tokenlerin kendi platformunda da işlem görmesini sağladı. Bu sayede Ethereum ile olan ilişkisini iyice artırdı. Cardano ise daha çok kurumsal alanda kapalı/açık blokzincir taleplerine karşılık olmayı hedefliyor. Keza diğer bir platform sağlayıcısı [Cosmos](https://cosmos.network/); Polkadot benzeri farklı blokzincirler arası ortak çalışacak bir altyapı olmayı planlarken, [Stellar](https://www.stellar.org/) da ödeme sistemleri konusunda kendisine bir yer kapmaya çalışıyor. Özellikle a16z liderliğindeki bir gruptan yatırım alan [Solana](https://solana.com/) da, son zamanlarda adını sıkça duyuranlardan.  
+[Polkadot](https://polkadot.network/), [Cardano](https://cardano.org/) ve [Avalanche](https://www.avalabs.org/); başlangıçta Ethereum’u kuran ekipte olup sonrasında felsefi fikir ayrılıkları nedeniyle hareketten ayrılmış, saygın isimlerin kurdukları projeler. Polkadot ve Avalanche gerek işlev gerekse yapmak istedikleri açısından Ethereum’a oldukça yakınlar; hatta Avalanche, Ethereum ile bir köprü kurup orada bulunan tokenlerin kendi platformunda da işlem görmesini sağladı. Bu sayede Ethereum ile olan ilişkisini iyice artırdı. Cardano ise daha çok kurumsal alanda kapalı/açık blokzincir taleplerine karşılık olmayı hedefliyor. Keza diğer bir platform sağlayıcısı [Cosmos](https://cosmos.network/); Polkadot benzeri farklı blokzincirler arası ortak çalışacak bir altyapı olmayı planlarken, [Stellar](https://www.stellar.org/) da ödeme sistemleri konusunda kendisine bir yer kapmaya çalışıyor. Özellikle a16z liderliğindeki bir gruptan yatırım alan [Solana](https://solana.com/) da, son zamanlarda adını sıkça duyuranlardan.  
 
 ![](../.gitbook/assets/030207-ethereum_ve_rakipleri-ethereum_ve_diger_platformlar_v2.png)
 
@@ -45,7 +45,7 @@ Yazıların küçük olması nedeniyle tabloya açıklama getirmekte fayda var. 
 Tablodan şu sonuçları çıkarmak mümkün: 
 
 * Ethereum, geliştirici sayısı olarak diğer altı platformun toplamından daha fazla geliştiriciye sahip. 
-* Cosmos ve Bitcoin arkasından gelen platformlar olarak bir yıl içinde geliştirici sayılarını sabit tutmuşlar. 
+* Arkasından gelen platformlar olarak Cosmos ve Bitcoin, bir yıl içinde geliştirici sayılarını sabit tutmuşlar. 
 * Polkadot ise bir yıl içinde geliştirici sayısını iki katına çıkararak bu ikiliye yetişmiş.
 * Arkasından gelen Tezos ve Cardano geliştirici sayılarına artırsalar da 200 civarında seyrediyorlar. 
 * Grubun son sırasındaki EOS ise bir önceki yıla göre geliştici sayısında kayıp yaşamış. 
