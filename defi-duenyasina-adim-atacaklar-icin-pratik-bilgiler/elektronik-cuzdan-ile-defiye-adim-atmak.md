@@ -22,7 +22,9 @@ Bu dünyada kullanıcı, istediği zaman ürüne sahip olur; istediği zaman da 
 
 Evet, kripto cüzdan ya da elektronik cüzdan kişinin kripto dünyasında hür bir şekilde gezebilmesi ve varlıkların kontrolünü kendinde hissedebilmesi için elindeki en büyük araç.
 
-Öncelikle cüzdan dediğimiz ‘şeyin’ aslında bir email adresinden farksız olduğunu tekrar hatırlatalım. Kripto dünyasında değer, sahiplik olarak da adlandırabileceğimiz her tür bilgi blokzincir üzerinde saklanır. Cüzdan ise blokzincir üzerindeki bu bilgi ya da varlığın bize ait olduğunu kanıtlayan, bir nevi blokzincir ile kullanıcı arasında köprü vazifesi gören bir araç aslında.
+Öncelikle cüzdan dediğimiz ‘şeyin’ aslında bir email adresinden farksız olduğunu tekrar hatırlatalım. **Kripto dünyasında değer, sahiplik olarak da adlandırabileceğimiz her tür bilgi blokzincir üzerinde saklanır.**  Cüzdan ise blokzincir üzerindeki bu bilgi ya da varlığın bize ait olduğunu kanıtlayan, bir nevi blokzincir ile kullanıcı arasında köprü vazifesi gören bir araç aslında. Kriptoparanız cüzdanda durmaz, cüzdan blokzincirde kayıtlı olan varlığınıza ulaşım sağlar. 
+
+Bir başka açıdan, paranızı borsada tutuyorsanız, aslında o borsaya borç vermiş oluyorsunuz. O paranın sahibi borsa oluyor. Eğer paraya tam olarak sahip olmak isterseniz, o zaman borsadan cüzdanınıza çekmeniz gerekir. 
 
 #### Kritik olan cüzdan değil tohum sözcük grubu
 
@@ -38,7 +40,7 @@ Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki böl�
 
 Kripto dünyası, yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Şu anda, hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça fazla kişisel tercih  içerdiği için \(güvenlik ya da pratikliğin seçilmesi anlamında\), buradan bir tavsiye vermeyeceğiz. İlerleyen bölümlerimizde sık kullanılan birkaç cüzdan örneği olacak, bunları daha bir gönül rahatlığı içinde kullanabilirsiniz.
 
-Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.
+`Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.`
 
 ### Kripto cüzdan nasıl yaratılıyor? Çeşitleri ne?
 
@@ -60,7 +62,7 @@ Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip \(örn
 
 Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve genel anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online \(çevrim içi\) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline \(çevrim dışı\) oluyor ve dijital dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik; ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda kriptoparanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. \(Örnek: [Ledger](https://www.ledger.com/), [Trezor](https://trezor.io/)\)
 
-#### Kağıt Kalem
+#### Kağıt kalem
 
 Gördünüz mü, yine geldik kalem kağıda :\) İsterseniz kendiniz hiçbir programa sahip olmadan da özel ve genel anahtar yaratabilirsiniz. Bunun için yapmanız gereken; bu konuda uzmanlaşmış açık kaynak kodlu bir web sitesine gidip \(Bitcoin için [BitAddress](https://www.bitaddress.org/) bir örnek olabilir\) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel anahtarı bir arkadaşınıza gönderip size kriptopara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin. \(Tek yapmanız gereken sitedeki arama çubuğuna genel anahtarınızı girmek\). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp, paranızı istediğiniz bir kripto hesabına gönderebilirsiniz. Bu tip adresler genel olarak güvenli gibi görülse de, oluştururken birinin sizi görmesi, kötü niyetli kişilerce bu tip sitelerin kopyalarının yapılmış olması, kullandığınız kağıdın eskimesi, yıpranması ya da kaybolması gibi nedenlerle, uzmanlar tarafından çok da tavsiye edilmiyorlar. 
 
