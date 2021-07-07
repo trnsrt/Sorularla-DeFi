@@ -38,15 +38,13 @@ DeFi projelerinin üzerine kurulu oldukları blokzincir altyapıları \(örneği
 
 Piyasada endişenin hakim olduğu ya da ufak çaplı krizlerin yaşandığı ortamda, DeFi projelerinin üzerinde yer aldığı altyapı projelerine adeta bir hücum başlıyor. Bu da projelerin kimi durumlarda yüksek talebi karşılayamaz hâle gelmesine yol açabiliyor. 2021 yılının Mayıs ayında yaşanan krizde Ethereum projesi alnının akıyla krizden çıkarken, rakip birkaç projede ciddi sıkışmalar yaşandığını gördük. Ama Ethereum herhangi bir durma yaşamadan krizden çıkarken, işlem ücretlerinin arşa çıktığını da belirtelim. Böyle bir durumda maliyetlerin yüksekliğinin farkına varmayan yatırımcılar, düşük ücretler ile işlem yapmaya kalktıklarında saatlerce beklemek zorunda kaldılar. 
 
-### Peki nasıl korunabiliriz bu risklerden? 
-
-Risk hayatın bir parçası. Maalesef genel olarak riski, 'var ya da yok' denkleminde değerlendirmeyi seviyoruz. Halbuki, riskin de onlarca tonu var. Örneğin, sabah evden çıkıp sokakta yürümeye başladığınızda bile aslında risk alıyorsunuz. Allah korusun, araba çarpabilir, balkondan saksı düşebilir gibi. Peki bu nedenle sokağa çıkmamalı mı? Tabii ki hayır. İki gökdelen arasına ip bağlayıp üzerinde yürümekle sokakta yoldan karşı karşıya geçmek tabii ki farklı riskler. 
+### Peki nasıl korunabiliriz bu risklerden?  
 
 DeFi'nin de riskleri ile ilgili aslında en büyük sorun, bu riskleri değerlendirme sıkıntısından kaynaklanıyor. Risklerin neler olduğunu görebiliyorsunuz, ancak olma ihtimalini ve olduğundaki zararı kestirmek zor olabiliyor. Bunun da temel nedeni DeFi sistemlerinin henüz yeni olması. 
 
 #### Mutlaka kendi araştırmanızı yapmak gerek 
 
-Öncelikle bir önceki bölümde bahsettiğimiz yatırım yaparken yaptığınız incelemelerin tamamını kullanacağınız platformlar için de yapmanız gerekiyor. Kripto dünyasının en temel desturudur bu: 'DYOR - Do your own research'. Çok meşakkatli bir iş olduğununun, çoğumuzun özellikle teknik olarak bu protokollerin ne iş yaptığını bile bilmez iken onların doğru çalışıp çalışmadığını anlamanın zorluğunun farkıdayım. İşte tam da bu nedenle, bu alana yatırım yapmayı düşünenlerin yüksek risk altına girdiklerini iyi anlaması gerekiyor. Göreceli olarak riski azaltacak konuların başında ise, olabildiğince çok okuyarak bilgi sahibi olmak geliyor.  
+Öncelikle bir önceki bölümde bahsettiğimiz yatırım yaparken yaptığınız incelemelerin tamamını kullanacağınız platformlar için de yapmanız gerekiyor. Kripto dünyasının en temel düsturdur bu: 'DYOR - Do your own research'. Çok meşakkatli bir iş olduğununun, çoğumuzun özellikle teknik olarak bu protokollerin ne iş yaptığını bile bilmez iken onların doğru çalışıp çalışmadığını anlamanın zorluğunun farkıdayım. İşte tam da bu nedenle, bu alana yatırım yapmayı düşünenlerin yüksek risk altına girdiklerini iyi anlaması gerekiyor. Göreceli olarak riski azaltacak konuların başında ise, olabildiğince çok okuyarak bilgi sahibi olmak geliyor.  
 
 #### DeFi diye denetim yaptırmayacak değil elbet
 
@@ -54,7 +52,7 @@ Akıllı kontrat yazılım hatalarını önlemenin bir yolu yok mu? Tabii ki bol
 
 #### Yeni proje yüksek risk demek 
 
-DeFi projeleri zamana karşı yarıştıkları için çoğu zaman bu tip denetimleri yaptırmadan piyasaya çıkıyorlar.  Açıkçası son kullanıcının, yeni çıkmış projelere baştan tüm paralarını kaybetmeyi göze alarak yatırım yapmalarını söylemek en sağlıklısı. Projenin eskiliği ile riski arasında ters bir orantı olduğu da söylenebilir: Bir ürün ne kadar uzun süredir hizmet veriyorsa, kodlama anlamında ki risk de göreceli olarak o kadar azalıyor denebilir. 
+DeFi projeleri zamana karşı yarıştıkları için çoğu zaman bu tip denetimleri yaptırmadan piyasaya çıkıyorlar.  Açıkçası son kullanıcının, yeni çıkmış projelere baştan tüm paralarını kaybetmeyi göze alarak yatırım yapmalarını söylemek en sağlıklısı. Projenin eski olması ile içerdiği risk arasında ters bir orantı olduğu da söylenebilir: Bir ürün ne kadar uzun süredir hizmet veriyorsa, kodlama anlamında ki risk de göreceli olarak o kadar azalıyor denebilir. 
 
 #### Sigorta imkanı da var
 
@@ -62,13 +60,11 @@ DeFi projeleri zamana karşı yarıştıkları için çoğu zaman bu tip denetim
 
 #### Zaman pek çok sorunun ilacı
 
-DeFi projelerinin yaşadıkları sıkıntılardan ders çıkarmaları önemli. Örneğin, bir sonraki bölümde detaylıca bahsedeceğimiz MakerDAO, 2020 yılının Mart ayında yaşanan Kara Perşembe olayında yatırımcılarına para kaybettirmiş iken \(sonra bu kayıpları kendi hazinesinden karşıladı\), 2021 yılının Mayıs ayında yaşanan benzer krizden herhangi bir sorun yaşamadan çıktı. Keza, Ethereum blokzinciri üzerinde yaşanan yoğunluk, kuvvetle muhtemelen 2022 yılı içinde gelecek ETH 2.0 yeni versiyon ile bir nebze azalacak \(ki öncesinde ikinci seviye çözümler ile de yoğunlukta azalma emareleri görülmeye başladı\). 
+DeFi projelerinin yaşadıkları sıkıntılardan ders çıkarmaları önemli. Örneğin, bir sonraki bölümde detaylıca bahsedeceğimiz MakerDAO, 2020 yılının Mart ayında yaşanan Kara Perşembe olayında yatırımcılarına para kaybettirmiş iken \(sonra bu kayıpları kendi hazinesinden karşıladı\), 2021 yılının Mayıs ayında yaşanan benzer krizden herhangi bir sorun yaşamadan çıktı. Keza, Ethereum blokzinciri üzerinde yaşanan yoğunluk, kuvvetle muhtemelen 2022 yılı içinde gelecek ETH 2.0 yeni versiyon ile bir nebze azalacak \(ki öncesinde ikinci seviye çözümler ile de yoğunlukta azalma emareleri görülmeye başladı bile\). 
 
 ### Sonuç
 
-DeFi ürünler yap-boz şeklinde gelişiyorlar ve doğal olarak bunların bir kısmı benimsenecek, muhtemelen pek çoğu da batacak. Bu durumu azımsamak, küçümsemek yerine böyle olduğunu kabullenip ona göre değerlendirmek önemli; zira bu alanda ayakta kalacak projelerin uzun vadede kullanıcılara dijital dünyada finansal özgürlük anlamında ciddi kazanımlar sağlayacağını unutmamak gerekiyor.
-
-DeFi ürünleri zamana karşı ayakta kaldıkça daha güçlenecekler. Henüz emekleme aşamasında olan bu sektör bundan sonra da pek çok kriz yaşayacak ve bu krizlerden ders alıp güçlenerek çıkmaya çalışacak. Ne kadar başarılı olacaklar ve geniş kesimlere yayılabilecekler mi? Hep birlikte yaşayarak göreceğiz.  
+DeFi ürünler yap-boz şeklinde gelişiyorlar ve doğal olarak bunların bir kısmı benimsenecek, muhtemelen pek çoğu da batacak. Bu durumu azımsamak, küçümsemek yerine böyle olduğunu kabullenip ona göre değerlendirmek önemli; zira bu alanda ayakta kalacak projelerin uzun vadede kullanıcılara dijital dünyada finansal özgürlük anlamında ciddi kazanımlar sağlayacağını unutmamak gerekiyor. 
 
 ##  <a id="sonu&#xE7;"></a>
 

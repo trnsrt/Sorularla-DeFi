@@ -40,7 +40,7 @@ Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki böl�
 
 Kripto dünyası, yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Şu anda, hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça fazla kişisel tercih  içerdiği için \(güvenlik ya da pratikliğin seçilmesi anlamında\), buradan bir tavsiye vermeyeceğiz. İlerleyen bölümlerimizde sık kullanılan birkaç cüzdan örneği olacak, bunları daha bir gönül rahatlığı içinde kullanabilirsiniz.
 
-`Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.`
+Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.
 
 ### Kripto cüzdan nasıl yaratılıyor? Çeşitleri ne?
 
