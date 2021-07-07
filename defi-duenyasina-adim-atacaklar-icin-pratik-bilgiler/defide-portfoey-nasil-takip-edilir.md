@@ -30,7 +30,7 @@ Merkeziyetsiz finansta ise, belli standartlar ile kurulan uygulamaların birbirl
 
 DeFi için kullanılan cüzdanlar içinden önceki bölümde de belirttiğimiz gibi, token alım-satımı yapılabildiği gibi; sahip olunan finansal varlıkları bir arada görmek, ayrıca yapılan tüm geçmiş aktiviteleri gözlemlemek mümkün.
 
-Örneğin, bu satırlarda sıkça bahsettiğimiz, aylık 5 milyon kullanıcısı olan Metamask üzerinden bunu kolayca görmek mümkün. Yine de, cüzdan kullanmak ne kadar pratik, bu konu tartışmalı. Satın alınan bir ürün, özelikle de yeni çıktıysa Metamask'ta olmayabiliyor. Böyle bir durumda, varlıkların en altında bulunan 'token ekle' \(İngilizce'de 'add token'\) bölümünden varlığı araştırmak ve eklemek mümkün; ancak bu da, çok pratik değil.
+Örneğin, bu satırlarda sıkça bahsettiğimiz, aylık 5 milyon kullanıcısı olan Metamask üzerinden bunu kolayca görmek mümkün. Yine de, cüzdan kullanmanın ne kadar pratik olduğu tartışmalı. Satın alınan bir ürün, özelikle de yeni çıktıysa Metamask'ta olmayabiliyor. Böyle bir durumda, varlıkların en altında bulunan 'token ekle' \(İngilizce'de 'add token'\) bölümünden varlığı araştırmak ve eklemek mümkün; ancak bu da, çok pratik değil.
 
 Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örnek ile devam edelim:
 
