@@ -1,10 +1,10 @@
 # DeFi'de işlem yaparken nelere dikkat etmeli?
 
-DeFi dünyasında ilk adım olan cüzdanı kurduktan ve ilk tokenleri kripto para borsasından aldıktan sonra; sıra bu dünyada işlem yapmaya geldiğinde nelere dikkat etmek gerekir, gelin birlikte üzerinden geçelim:
+DeFi dünyasında ilk adım olan cüzdanı kurduktan ve ilk tokenleri kriptopara borsasından aldıktan sonra; sıra bu dünyada işlem yapmaya geldiğinde nelere dikkat etmek gerekir, gelin birlikte üzerinden geçelim:
 
 ### Cüzdanı bağladık ya sonra?
 
-Kripto paranızı bir borsadan kendi cüzdanınıza çektikten sonra, dilediğiniz DeFi protokolünde rahatça gezebilir, bakiyenizi görerek yapabileceğiniz işlemleri seçebilirsiniz. İşlemi seçtikten sonrasında dikkat etmeniz gereken kritik birkaç özellik var:
+Kriptoparanızı bir borsadan kendi cüzdanınıza çektikten sonra, dilediğiniz DeFi protokolünde rahatça gezebilir, bakiyenizi görerek yapabileceğiniz işlemleri seçebilirsiniz. İşlemi seçtikten sonrasında dikkat etmeniz gereken kritik birkaç özellik var:
 
 ### Blokzincirde işlem yapmak ne demek?
 
