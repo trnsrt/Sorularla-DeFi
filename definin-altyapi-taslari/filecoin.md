@@ -6,7 +6,7 @@ Bu bölümde gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ile
 
 ### Merkeziyetsiz saklamaya neden ihtiyaç var?
 
-Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu gösteren bilgi. Peki ya işlemin kendisi nerede?
+Hatırlayacağınız gibi blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu gösteren bilgi. Peki ya işlemin kendisi nerede?
 
 Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil \(benzersiz\) tokenler \(belirteçler\), birbirine benzemeyen ürünlerin ‘sahipliğini göstermek’ için kullanılıyorlar. Tokenleri satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?\[^1\]
 
@@ -44,7 +44,7 @@ Gel zaman git zaman, tam üç yıl süren geliştirme sonrası taahhüt ettikler
 
 Temel olarak sistemin geliştirmesini Protocol Labs gerçekleştirse de, ekibin sistemi yavaş yavaş merkeziyetsizleştirmeye başladığını görmek mümkün.
 
-Filecoin esas olarak, dağıtık yapıda verilerin farklı noktalarda şifreli olarak saklanmasına aracılık ediyor. Bunu yaparken madencilerden yararlanıyor. Madencilerin iki ana fonksiyonu var. Bunlardan birincisi, verileri saklamak. Diğeri ise bu saklanan verileri ihtiyaç olduğunda isteyene iletmek. Bunun karşılığı olarak madenciler [FIL](https://www.coingecko.com/en/coins/filecoin) dediğimiz sistem tokenini almaya hak kazanıyorlar.
+Filecoin esas olarak, dağıtık yapıda verilerin farklı noktalarda şifreli olarak saklanmasına aracılık ediyor. Bunu yaparken madencilerden yararlanıyor. Madencilerin iki ana fonksiyonu var. Bunlardan birincisi, verileri saklamak, diğeri ise bu saklanan verileri ihtiyaç olduğunda isteyene iletmek. Bunun karşılığı olarak madenciler [FIL](https://www.coingecko.com/en/coins/filecoin) dediğimiz sistem tokenini almaya hak kazanıyorlar.
 
 Peki ya bu ilk grup olarak adlandırılan madenciler, söz verdikleri verileri saklamazlar ise? Verileri saklayan madenciler aynı zamanda belli bir miktar FIL tokenini teminat olarak veriyorlar. Bu teminat karşılığı belli bir miktar veriyi belli süreler için saklamak zorundalar. Eğer yapmazlar ise koydukları teminat yanıyor.
 
@@ -54,7 +54,7 @@ Elbette sistem tek bir madencinin ‘verdiğim teminat yanacak’ korkusu ile em
 
 ### Rakipleri var mı?
 
-Filecoin’in esas olarak [Amazon Web Services](https://aws.amazon.com/tr/) \(AWS\) gibi dünya devleri ile yarıştığını söylemek mümkün. AWS bu piyasanın en büyüğü ve Amazon’un meşhur en düşük fiyatlı hizmet verme çabası ile yarışabilmek de kolay değil. Ancak karşılaştırma için hazırlanmış sitesinde yapılan [detaylı ve karmaşık hesaplamalarda](https://file.app/), Filecoin’in AWS’e göre çok ciddi oranda ucuz olduğu iddia ediliyor \(1 GB için [AWS](https://aws.amazon.com/s3/pricing/) aylık 1.25 cent isterken, Filecoin 0.005 cent talep ediyor. Bu arada; AWS fiyatlarının sabit, Filecoin fiyatlarının değişken olduğunu ve anlık durumu yansıttığını ve kimi zaman arttığını da belirtelim\).
+Filecoin’in esas olarak [Amazon Web Services](https://aws.amazon.com/tr/) \(AWS\) gibi dünya devleri ile yarıştığını söylemek mümkün. AWS bu piyasanın en büyüğü ve Amazon’un meşhur en düşük fiyatlı hizmet verme çabası ile yarışabilmek de kolay değil, ancak karşılaştırma için hazırlanmış sitesinde yapılan [detaylı ve karmaşık hesaplamalarda](https://file.app/), Filecoin’in AWS’e göre çok ciddi oranda ucuz olduğu iddia ediliyor \(1 GB için [AWS](https://aws.amazon.com/s3/pricing/) aylık 1.25 cent isterken, Filecoin 0.005 cent talep ediyor. Bu arada; AWS fiyatlarının sabit, Filecoin fiyatlarının değişken olduğunu ve anlık durumu yansıttığını ve kimi zaman arttığını da belirtelim\).
 
 Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkeziyetsiz olarak Filecoin’e göre çok daha küçük olan [Sia](https://sia.tech/) ve [Stroj](https://www.storj.io/). Bu arada 2021 yılı Mayıs ayında tokeni işlem görmeye başlayan 2017 yılı bazlı [Dfinity](https://dfinity.org/) de başka işlerin yanı sıra merkeziyetsize yakın bir saklama hizmeti sağlıyor. Öte yandan, Mart 2021'de faaliyete geçen [Chia Network](https://www.chia.net/), kimileri tarafından Filecoin'in rakibi olarak nitelendirilse de; aslında PoW \(Proof-of-Work\) ya da PoS \(Proof-of-Stake\) yerine kullandığı Proof-of-Space gereği sabit diske duyulan ihtiyaç dışında, iki sistem arasında başkaca bir benzerlik bulunmamakta. 
 
