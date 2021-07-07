@@ -34,7 +34,7 @@ Yukarıda bahsedilen toplanan paranın tamamının, geliştiricilere verilecek �
 
 Ethereum'un hayatımıza kattığı belki de en büyük yenilik 'akıllı kontratlar' oldu. Ne olduğunu basit bir örnek ile açıklayalım: 
 
-Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınız yok. “Alt katta bir otomat var, oradan bir bisküvi alayım açlığımı bastırsın. Şurada bir yerde bir kaç bozuk para olacaktı” Gittiniz, parayı otomata attınız, otomat da size istediğiniz bisküviyi attı. Tebrikler! Bir akıllı kontrat işlemi gerçekleştirdiniz!
+Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınız yok. “Alt katta bir otomat var, oradan bir bisküvi alayım açlığımı bastırsın. Şurada bir yerde bir kaç bozuk para olacaktı” dediniz. Gittiniz, parayı otomata attınız, otomat da size istediğiniz bisküviyi attı. Tebrikler! Bir akıllı kontrat işlemi gerçekleştirdiniz!
 
 Şaka değil, gerçekten de belki de bir yerde kulağınıza çalınan 'akıllı kontrat' aslında tam bu. 'Akıllı' olarak adlandırılmasından dolayı çok karmaşık ya da derin bir kavram bekliyorsunuz ama öyle değil. Tam tersine; akıllı kontrat ile bahsedilen, önceden kuralları konmuş, iki tarafın bu kurallara bağlı olarak anlaştıkları koşulların gerçekleşmesi durumunda kendi kendine yürürlüğe giren işlem. Yukarıdaki örnekte, siz biliyorsunuz ki, makineye para attığınızda bisküvi alacaksınız. Makine de benzer şekilde programlanmış ve içine para atılıp seçim yapıldığında otomatik olarak o işlemi gerçekleştiriyor.
 
@@ -56,7 +56,7 @@ Ethereum üzerine kurulmuş olan yüzlerce akıllı kontrat yani yazılım var. 
 
 ### ETH’nin para arzı
 
-Bitcoin, özünde dijital dünyada değer korumayı kendine temel hedef olarak belirlemiş bir kripto para, aslında bir inanç sistemi.
+Bitcoin, özünde dijital dünyada değer korumayı kendine temel hedef olarak belirlemiş bir kriptopara, aslında bir inanç sistemi.
 
 Ethereum ise amaç olarak Bitcoin’den ayrışıyor. Onlar için temel hedef 'dünyanın bilgisayarı' olmak. Ne demek bu? Üzerlerine kurulacak binlerce uygulamaya ev sahipliği yapacak merkeziyetsiz büyük bir altyapı platformu haline gelmek.
 
@@ -70,19 +70,19 @@ Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakikada bir değil, 10-20 s
 
 İkincisi ise bloklar arasında Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
 
-Aynı şekilde Ethereum para politikası da Bitcoin kadar net değil. Örneğin, önümüzdeki yıllarda Ethereum basılmaya devam edecek ama ne kadar basılacağını tam olarak bilen yok. Pek çok yeni gelişmenin ETH para miktarını değiştirme ihtimali var.
+Aynı şekilde Ethereum para politikası da Bitcoin'inki kadar net değil. Örneğin, önümüzdeki yıllarda Ethereum basılmaya devam edecek ama ne kadar basılacağını tam olarak bilen yok. Pek çok yeni gelişmenin ETH para miktarını değiştirme ihtimali var.
 
 Dilerseniz gelin şimdi asıl konumuz olan piyasadaki toplam ETH miktarını değiştirecek iki kritik konuya beraberce bakalım:
 
 #### ETH 2.0 - ödül olarak basılan yeni ETH miktarı azalıyor
 
-Genel olarak kripto paralarda yeni para yaratılmasının temel nedenlerinden biri sistemin güvenliğini sağlamak. Bir blokzincirin, dijital dünyadaki dış tehlikelere karşı korunması işini madenciler gerçekleştiriyor.
+Genel olarak kriptoparalarda yeni para yaratılmasının temel nedenlerinden biri sistemin güvenliğini sağlamak. Bir blokzincirin, dijital dünyadaki dış tehlikelere karşı korunması işini madenciler gerçekleştiriyor.
 
 Örneğin, Bitcoin’in güvenlik sistemi olan Proof-of-Work \(PoW\) mekanizmasının düzgün çalışması için madencilerin efor sarfetmesi gerekli. Bu da ancak elektrik enerjisi ile gerçekleşebiliyor ve maliyetli bir iş. Madencilerin bu enerjiyi harcaması için bir teşviğe ihtiyaçları var, yoksa kimse başkasının hayrına kılını bile kıpırdatmaz. İşte bu nedenle sistem yeni yarattığı paraları, madencilere yaptıkları bu hizmetin karşılığında ödül olarak veriyor.
 
 Ethereum sistemi de benzer şekilde PoW sistemi ile çalışıyor. Ancak Ethereum 2.0. denen yeni versiyonda \( [1 Aralık 2020 itibariyle düğmeye basıldı](https://www.btchaber.com/ethereum-2-0a-yatirilan-miktar-1-milyona-ulasti/)\), sistem artık yeni bir aşamaya geçiyor.
 
-Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korunması için madencilerin enerji harcamasına ihtiyaç kalmayacak. Bunun yerine, sistemin düzgün yürümesi için, ETH sahipleri ellerindeki kripto paraları rehin verecekler. Buna Proof-of-Stake \(PoS\) deniyor. Ellerindeki ETH’yi rehin verenler, bunun karşılığı olarak da, eskiden madencilere verilen ödüllere hak kazanacaklar.
+Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korunması için madencilerin enerji harcamasına ihtiyaç kalmayacak. Bunun yerine, sistemin düzgün yürümesi için, ETH sahipleri ellerindeki kriptoparaları rehin verecekler. Buna Proof-of-Stake \(PoS\) deniyor. Ellerindeki ETH’yi rehin verenler, bunun karşılığı olarak da, eskiden madencilere verilen ödüllere hak kazanacaklar.
 
 Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 milyon adet ETH dağıtılıyor. Yeni sistem olan PoS’de ise bu ödül rakamı 1 milyon ETH’nin altına inebilir. Kesin rakam, ne kadar insanın paralarını, rehin verdiğine bağlı olarak değişecek. 
 
@@ -90,15 +90,15 @@ Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 
 
 Bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem ETH 1.0, hem de yeni sistem bir arada işleyecek. Bu sürede, hem madencilere hem de rehin verenlere ödül verilecek. Dolayısıyla, eğer ETH 1.0’dan 2.0’a geçiş bir yıl sürerse, 2021 yılı içinde basılacak olan ETH miktarı Vitalik’in tahmini ile yuvarlak olarak 5.2 milyon \(4.7 milyon artı 500 bin\) olacak.
 
-Bir süre sonra ise ETH 1.0, ETH 2.0’a katılacak; ancak bunun ne zaman olacağı belli değil. Geliştirmenin nasıl ilerleyeceği, ne gibi sorunlar çıkacağı ve nasıl çözüleceği bu zamanlamayı belirleyecek. Ekip şu anda, ne yapacağı konusunu az çok kesinleştirmiş durumda; ancak zaman planı henüz verilmiyor ve 2021 yılı içinde olması zor görünüyor.
+Bir süre sonra ise ETH 1.0, ETH 2.0’a katılacak; ancak bunun ne zaman olacağı belli değil. Geliştirmenin nasıl ilerleyeceği, ne gibi sorunlar çıkacağı ve nasıl çözüleceği bu zamanlamayı belirleyecek. Ekip şu anda, ne yapacağı konusunu az çok kesinleştirmiş durumda; ancak 2021 yılı içinde olması zor görünüyor.
 
 #### EIP 1559 ile dolaşımdaki ETH miktarı azalacak
 
-Bu arada hemen şunu da belirtmekte fayda var; madenciler sadece yeni yaratılan ETH’lerden para kazanmıyorlar. ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler; Bitcoin gibi basit para transferlerinden öte, akıllı kontratların karmaşık işlemlerini gerçekleştirmek olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da işlem ücretlerinin değişkenlik göstermesi sonucunu doğuruyor. Peki ücret nasıl belirleniyor?
+Bu arada hemen şunu da belirtmekte fayda var; madenciler sadece yeni yaratılan ETH’lerden para kazanmıyorlar, ayrıca ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler; Bitcoin gibi basit para transferlerinden öte, akıllı kontratların karmaşık işlemlerini gerçekleştirmek olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da işlem ücretlerinin değişkenlik göstermesi sonucunu doğuruyor. Peki ücret nasıl belirleniyor?
 
 Ethereum sisteminde genelde ücrete madenciler karar veriyor. Bir nevi müzayede sistemi ile yüksek ücret ödeyenlere öncelik veriyorlar, düşük ücretlileri ise geriye atıyorlar.
 
-Son zamanlarda, özellikle Ethereum üzerine kurulan DeFi \(Merkeziyetsiz Finans\) uygulamalarının yoğun kullanımı nedeniyle fiyatlar çok artmıştı. Vitalik bu konuda madencilerin haksız rekabet uyguladıklarını düşünüyor. Hatta düşünmenin de ötesinde, daha 2019 yılının Nisan ayında Ethereum üzerinde EIP \(Ethereum Improvement Proposal – Ethereum İyileştirme Önerisi\) diye nitelenen yeni bir değişiklik önerisinde bile bulundu.
+Son zamanlarda, özellikle Ethereum üzerine kurulan DeFi uygulamalarının yoğun kullanımı nedeniyle fiyatlar çok artmıştı. Vitalik bu konuda madencilerin haksız rekabet uyguladıklarını düşünüyor. Hatta düşünmenin de ötesinde, daha 2019 yılının Nisan ayında Ethereum üzerinde EIP \(Ethereum Improvement Proposal – Ethereum İyileştirme Önerisi\) diye nitelenen yeni bir değişiklik önerisinde bile bulundu.
 
 [EIP 1559 olarak da adlandırılan bu öneri](https://eips.ethereum.org/EIPS/eip-1559) ile, yapılan işlemlerden alınacak olan komisyon madencilere verilmek yerine “yakılacak”. Vitalik, yakılacak rakamın şu anki DeFi sonrası oluşan yoğun işlem rakamlarının devam etmesi durumunda, yıllık yaklaşık bir milyon ETH’yi bulmasını bekliyor. 2020 yılında Ethereum üzerinde [toplam 600 milyon USD işlem ücreti](https://formula-builder.coinmetrics.io/#369) ödendiğini düşünürsek; bu tahmin tutacak gibi görünüyor. \(Bu arada [2019 yılında işlemlere ödenen toplam ücretin 35 milyon ABD Doları](https://formula-builder.coinmetrics.io/#371) olduğunu da belirtelim\).
 
@@ -108,9 +108,9 @@ _Ethereum 2021 aylık madenci gelirleri \(Kaynak:_ [_TheBlock_](https://www.theb
 
 Bu öneri sayesinde, işlem komisyonlarını tahmin edememekten dolayı ödenen fahiş ücretlerin önüne geçilmesi isteniyor. Ücret, ağın sıkışıklığına göre artacak ya da azalacak; ancak bu artış azalış nispeten daha tahmin edilebilir olacak. Bu sayede, elektronik cüzdanlarda işlem yapıldığında yaşanan “ne kadar ödeme yapacağım” belirsizliği de büyük ölçüde ortadan kalkacak.
 
-Peki madenciler nasıl para kazanacaklar bu durumda? Yukarıdaki baz ücretin üzerine, kullanıcıların madencilere ufak bir bahşiş vermesi planlanıyor. Eski sistemde olduğu gibi kullanıcı eğer işlemini hızlı gerçekleştirmek istiyorsa bahşişi yüksek tutacak. Bahşiş verilmemesi durumunda işlemin olmama ihtimali de var, o nedenle madencilere minimum da olsa bir ödeme gerekli gibi görünüyor. Aynı Bitcoin ve Ethereum’un şu anki durumunda olduğu gibi.
+Peki madenciler nasıl para kazanacaklar bu durumda? Yukarıdaki baz ücretin üzerine, kullanıcıların madencilere ufak bir bahşiş vermesi planlanıyor. Eski sistemde olduğu gibi kullanıcı eğer işlemini hızlı gerçekleştirmek istiyorsa bahşişi yüksek tutacak. Bahşiş verilmemesi durumunda işlemin olmama ihtimali de var. Bu nedenle madencilere minimum da olsa bir ödeme gerekli gibi görünüyor. Aynı Bitcoin ve Ethereum’un şu anki durumunda olduğu gibi.
 
-EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak Temmuz 2021'de yürürlüğe girmesi bekleniyor. Bu arada hemen belirtelim; EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor. Dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilenmeyecek gibi görünüyor.
+EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak Temmuz 2021'de yürürlüğe girmesi bekleniyor. Bu arada hemen belirtelim; EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor. Dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilemeyecek gibi görünüyor.
 
 Öte yandan, Ethereum üzerinde çalışılan bir başka insiyatif ise, işlemlerin blokzincir yerine üst seviye \(Layer 2\) zincir dışında bir araya getirilip, sonrasında zincire yazılması. Her bir işlem ücretini ciddi şekilde azaltabilecek bu gelişme için çalışan pek çok girişim var. Hangi girişim ön plana çıkacak birlikte göreceğiz.
 
