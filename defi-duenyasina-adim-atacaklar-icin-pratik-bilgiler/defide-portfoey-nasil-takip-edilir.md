@@ -38,9 +38,7 @@ Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örne
 
 [Zapper](https://zapper.fi/) ve [Zerion](https://zerion.io/) tüm portföyü bir arada gösteren müthiş birer arayüz. Yatırımcının tüm yapması gereken, sisteye girip cüzdanını bağlaması. Birbirinin rakibi olan bu iki arayüz, benzer özellikleri gösterdiği için hangisini kullanmak istediği yatırımcının keyfine kalmış bir durum.
 
-Öncelikle, cüzdan bağlandığı noktada, yatırımcı tüm portföyündeki tokenleri, bunların ABD Doları cinsinden değerlerini görebiliyor. \(Bu arada her ikisinin de Türk Lirası desteği olduğunu belirtelim\). 
-
-Sonrasında, geçmişte yapılmış tüm işlemleri de gün gün ve detaylı bir şekilde incelemek mümkün ama bunlar standart özellikler.
+Öncelikle, cüzdan bağlandığı noktada, yatırımcı tüm portföyündeki tokenleri, bunların ABD Doları cinsinden değerlerini görebiliyor. \(Bu arada her ikisinin de Türk Lirası desteği olduğunu belirtelim\). Sonrasında, geçmişte yapılmış tüm işlemleri de gün gün ve detaylı bir şekilde incelemek mümkün ama bunlar standart özellikler.
 
 Hep bahsettiğimiz gibi, DeFi alanındaki 'ahenkli çalışma' \(İngilizce'de 'composability'\) aynı zamanda rekabeti de artırıyor. Zapper ve Zerion de,  bu prensipten hareketler, sadece hesap göstermek işlevinin ötesinde başka alanlara da kaymış durumdalar. Örneğin:
 
