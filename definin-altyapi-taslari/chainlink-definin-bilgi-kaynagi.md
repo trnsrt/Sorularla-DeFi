@@ -8,7 +8,7 @@ Oracle’in tam Türkçe karşılığı biraz karışık; 'kahin' ya da 'uzman' 
 
 Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden bir sonraki adımında; karmaşık işlemleri gerçekleştirebilmek için [‘akıllı kontrat’ denen bir yenilik kullanılıyor](https://turansert.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html). Akıllı kontrat dediğimiz, aslında bir kod. Güzelliği ne? Tamamen tarafsız bir şekilde kendisinden ne istenirse onu istendiği zaman yapıyor. Böylece, kontrata taraf olanlar, eğer belirlenen koşullar gerçekleşirse, kontratın yerine getirileceğinden emin oluyorlar.
 
-Çok güzel ancak ufak bir sorun var: Kontratın, kendisini harekete geçirecek bu koşulların oluştuğunu bilmesi gerek. Bunu belirleyen bilgilerin büyük çoğunluğu ise; blokzincirin içinde değil, dış dünyadan geliyor. Biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak.
+Çok güzel ancak ufak bir sorun var: Kontratın, kendisini harekete geçirecek bu koşulların oluştuğunu bilmesi gerek. Bunu belirleyen bilgilerin büyük çoğunluğu ise blokzincirin içinde değil, dış dünyadan geliyor. Biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak.
 
 ![](../.gitbook/assets/030305-chainlink-definin-bilgi-kaynagi-labrador-5741850_1280.jpg)
 
@@ -80,7 +80,7 @@ Bu işin nasıl becerilebileceği konusuna uzunca bir süre kafa yoran ve deneys
 
 ICO sonrasında da devam eden ürün ve platform geliştirme sürecinin devamında, Chainlink nihayet 2019 yılı Mayıs ayında kullanıcılara sunuluyor.
 
-Her ne kadar hizmet verdiği sektör ağırlıklı olarak Merkeziyetsiz Finans olsa da, Chainlink için merkeziyetsiz bir platform demek doğru değil. Chainlik ağı üyeleri dağıtık bir şekilde görev yapıyor ama diğer alanlarda sıkı bir merkezilik söz konusu. Örneğin, LINK tokenlerinin herhangi bir yönetim hakkı yok. Zaten, bu tokenlerin ciddi bir kısmı halen Chainlink Labs kasasında. Ağın yönetimi de elbette Chainlink ekibinin elinde.
+Her ne kadar hizmet verdiği sektör ağırlıklı olarak Merkeziyetsiz Finans olsa da Chainlink için merkeziyetsiz bir platform demek doğru değil. Chainlik ağı üyeleri dağıtık bir şekilde görev yapıyor ama diğer alanlarda sıkı bir merkezilik söz konusu. Örneğin, LINK tokenlerinin herhangi bir yönetim hakkı yok. Zaten, bu tokenlerin ciddi bir kısmı halen Chainlink Labs kasasında. Ağın yönetimi de elbette Chainlink ekibinin elinde.
 
 ### Chainlink tokeni LINK
 
@@ -148,7 +148,7 @@ Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının, a
 
 Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde sayabileceğimiz ‘dış dünyadan bilgi sağlama’ görevini yerine getiren oracle servis sağlayıcıların lideri. Kurucusu, şu ana kadar daha çok geleneksel bir şirket gibi hareket etti. Bu hareketler, LINK token denen sistem parasına son birkaç yılda ciddi bir değer kazandırdı. Uzun vadede bu tip geleneksel hareketler gerek kanuni otoriteler gerekse merkeziyetsizlik felsefesi ile yetişen yeni DeFi girişimlerinin eleştiri ve tepkisine yol açabilir.
 
-Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz.
+Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için yapacağı hamleler konuşulmaya devam edecek.
 
 \[^1\] messari-report-crypto-theses-for-2021.pdf Sayfa 67
 
