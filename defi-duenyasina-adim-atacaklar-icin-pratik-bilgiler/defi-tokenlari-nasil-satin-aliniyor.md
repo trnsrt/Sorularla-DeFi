@@ -8,7 +8,7 @@ DeFi tokenleri alabilmek için birkaç farklı yöntem var. Dilerseniz bunlardan
 
 #### Merkezi borsalar
 
-Kullanıcılar, daha sonrasında farklı DeFi ürünlerine yatırım yapmak isterlerse kriptopara borsalarının sunduğu tokenlerden alabilirler. Burada unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğu. Sonuç olarak, bu borsalarda tutulan kriptoparalar, henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk; kullanıcı, parayı kendi elektronik cüzdanına taşımadıkça devam eder.
+Kullanıcılar, borsalarda satın aldığı kriptopararaları farklı DeFi ürünlerine yatırım yapmak isterlerse bu borsaların sunduğu tokenlerden alabilirler. Burada unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğu. Sonuç olarak, bu borsalarda tutulan kriptoparalar, henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk; kullanıcı, parayı kendi elektronik cüzdanına taşımadıkça devam eder.
 
 Bunun yanında, yukarıdaki ilk kısımda bahsettiğimiz rahatlık nedeniyle kullanıcılar kısıtlı da olsa borsanın sunduğu kriptoparalar ile yatırım yapmayı sürdürebilirler.
 
