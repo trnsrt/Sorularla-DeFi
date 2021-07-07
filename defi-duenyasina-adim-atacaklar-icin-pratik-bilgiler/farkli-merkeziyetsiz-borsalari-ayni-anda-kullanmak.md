@@ -14,17 +14,13 @@ DeFi için durum daha farklı. Neredeyse her ürün bir başkası ile birlikte k
 
 #### Merkeziyetsiz borsaların avantajı ve dezavantajı
 
-Merkeziyetsiz borsalar, tokenlerini elektronik cüzdanında tutan DeFi kullanıcıları için en rahat alım-satım platformları. \(Bu konuda \('Uniswap ve DeFi'nin merkeziyetsiz borsaları'\) bölümünde detaylı bilgi alabilirsiniz\).
+Merkeziyetsiz borsalar, tokenlerini elektronik cüzdanında tutan DeFi kullanıcıları için en rahat alım-satım platformları. \(Bu konuda 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' bölümünde detaylı bilgi alabilirsiniz\).
 
 DeFi kullanıcıları, genelde merkezi borsalara gitmiyorlar. Neden? Merkezi borsalara kayıt olmak için yığınla belge, fotoğraf vs. vermek gerekiyor. Sonra başka bir merkezi borsaya geçmek istersen, ona da tekrar kayıt yaptırman gerekli. Sanki klasik dünyadaki bankaları andırıyor değil mi?
 
 Kullanıcı bunun yerine merkeziyetsiz borsaları tercih edebiliyor. Zira, böyle bir borsayı kullanmak için yapması gereken tek hareket, ilgili siteye gitmek ve kendi elektronik cüzdanını bağlamak. Bu kadar basit. 
 
-Bu olayın güzel tarafı, ancak bunun da bir takım sorunları var. Neler, mesela?
-
-En önemli konu, tabii ki işlem fiyatı. Her bir borsada arz ve talebin farklı olması nedeniyle fiyatlar farklılık gösterebiliyor.
-
-Öte yandan, borsada bulunan likidite de önemli. Zira likit olmayan bir token alımında, fiyatın ufak bir alım ya da satım hareketinde ciddi bir hareket göstermesi mümkün.
+Bu olayın güzel tarafı, ancak bunun da bir takım sorunları var. Neler, mesela? En önemli konu, tabii ki işlem fiyatı. Her bir borsada arz ve talebin farklı olması nedeniyle fiyatlar farklılık gösterebiliyor. Öte yandan, borsada bulunan likidite de önemli. Zira likit olmayan bir token alımında, fiyatın ufak bir alım ya da satım hareketinde ciddi bir hareket göstermesi mümkün.
 
 Bir başka konu ise, kullanıcının alım yapmak istediği sırada, başka alıcıların da işlem yapması sonucu fiyatın bir anda değişebilmesi. Burada kullanıcı ne kadarlık bir fiyat değişimine \(ki buna İngilizce'de 'slippage' deniyor\) izin vereceğini \(genelde %1-2 gibi\) seçebiliyor.
 
@@ -48,7 +44,7 @@ Bunun yerine, toplayıcıya parasını kullanma konusunda izin verdiğinde, sonr
 
 ### Kimler var toplayıcı olarak?
 
-2020 yılının Nisan ayı itibariyle, piyasada üç büyük toplayıcı bulunuyor. Bunlar; [1inch](https://1inch.exchange/#/), [Matcha](https://matcha.xyz/), ve [ParaSwap](https://paraswap.io/) olarak sıralanıyor. 
+2020 yılının Nisan ayı itibariyle, piyasada üç büyük toplayıcı bulunuyor. Bunlar; [1inch](https://1inch.exchange/#/), [Matcha](https://matcha.xyz/) ve [ParaSwap](https://paraswap.io/) olarak sıralanıyor. 
 
 ![](../.gitbook/assets/040507-farkli-merkeziyetsiz-borsalar-dex_islem_hacimleri.jpg)
 
