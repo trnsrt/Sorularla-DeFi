@@ -117,7 +117,7 @@ Metamask’ın nasıl kullanılacağı ile ilgili [Aybars Dorman’ın detaylı 
 
 ### Cüzdanlar, alanlarını geliştiriyor
 
-Perakende sektöründe temel bir anlayış vardır: Son kullanıcıya kim dokunuyor ise en avantajlı olan odur. Kripto dünyasında da kullanıcıya son dokunanlar cüzdanlar. Bu nedenle ileride değer olarak ciddi bir avantaja sahip olacaklar. 
+Perakende sektöründe temel bir anlayış vardır: Son kullanıcıya kim dokunuyor ise en avantajlı olan odur. Kripto dünyasında da kullanıcıya son dokunanlar cüzdanlar. Bu nedenle ilerleyen dönemlerde değer bakımından ciddi bir avantaja sahip olacaklar. 
 
 Zaten cüzdanlar da bu avantajı kullanmaya başladılar bile. Cüzdan içinde yeni özellikler çıkararak kullanıcıyı olabildiğince kendilerine bağlamaya başladılar. Örneğin kullanıcılar Metamask üzerinden sadece varlıkları görmek değil, artık onları alıp satma imkanına da sahipler. Metamask token satmak isteyen kullanıcılarına yaklaşık 10 farklı borsadan fiyat toplayarak en uygununu sunuyor.
 
