@@ -14,7 +14,7 @@ DeFi dünyasındaki hemen hemen tüm ürünler, özünde size bir işlem yapabil
 
 Örneğin, paranızı yatırımda kullanmak ve faiz mi almak istiyorsunuz? Parayı, bankaya emanet vermek zorundasınız. DeFi dünyasında ise, paranın sahipliği her zaman kullanıcıda kalır. Aynı örnekten devam edersek, bunu bir nevi evde kasada sakladığınız paranıza bir yandan faiz almak şeklinde düşünebiliriz.
 
-Bu dünyada kullanıcı, istediği zaman ürüne sahip olur; istediği zaman da o üründen çıkar. Bütün bunları ise kendisine ait elektronik cüzdan sayesinde yapar. Yani DeFi dünyasında hareket etmek istiyorsanız, kripto paranız olmalı ve bu kripto paranız size ait elektronik cüzdanda durmalı.
+Bu dünyada kullanıcı, istediği zaman ürüne sahip olur; istediği zaman da o üründen çıkar. Bütün bunları ise kendisine ait elektronik cüzdan sayesinde yapar. Yani DeFi dünyasında hareket etmek istiyorsanız, kriptoparanız olmalı ve bu kriptoparanız size ait elektronik cüzdanda durmalı.
 
 İşte bu nedenle, elektronik cüzdan, bir kullanıcı için çok önemli. Bu dünyaya adım atabilmek ve sonrasında finansal olarak gücü elinde tutabilmek için gerekli.
 
@@ -75,9 +75,9 @@ Yukarıdaki ilk üç alternatif bir 'kaybolma' senaryosu da içeriyor. Web sites
 Sonuç olarak kripto cüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri, bankada işlem yaparsanız da başınıza gelebilir. Bankada, genelde bu tip durum ortaya çıktığında, yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. Kriptopara dünyasında ise böyle konuşacağınız bir mercii yok. O nedenle kritik olan, gerekli önlemleri baştan almak. Nedir bu önlemler?
 
 1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak.
-2. Pratik olması bakımından, işlem yapmayı planladığınız ufak bir miktarı kripto para borsasında tutmak ki böylece ani değişimlerde hızlıca işlem yapabilin.
-3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı kripto para borsasına göndermeniz gerekli ve bu da oldukça süre \(genelde on dakika ama bazen uzayabilir\) alıyor. Hemen işlem yapamıyorsunuz.
-4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak kripto para tutacaksanız; fiziki cüzdan satın almak.
+2. Pratik olması bakımından, işlem yapmayı planladığınız ufak bir miktarı kriptopara borsasında tutmak ki böylece ani değişimlerde hızlıca işlem yapabilin.
+3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı kriptopara borsasına göndermeniz gerekli ve bu da oldukça süre \(genelde on dakika ama bazen uzayabilir\) alıyor. Hemen işlem yapamıyorsunuz.
+4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak kriptopara tutacaksanız; fiziki cüzdan satın almak.
 
 ### DeFi için genelde hangi cüzdanlar kullanılıyor?
 
