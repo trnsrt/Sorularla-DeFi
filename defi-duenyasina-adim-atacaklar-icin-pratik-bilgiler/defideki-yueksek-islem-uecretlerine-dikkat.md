@@ -1,4 +1,4 @@
-# DeFi'deki yüksek işlem ücretlerine dikkat!
+# DeFi'de işlem yaparken nelere dikkat etmeli?
 
 DeFi dünyasında ilk adım olan cüzdanı kurduktan ve ilk tokenleri kripto para borsasından aldıktan sonra; sıra bu dünyada işlem yapmaya geldiğinde nelere dikkat etmek gerekir, gelin birlikte üzerinden geçelim:
 

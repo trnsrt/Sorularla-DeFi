@@ -41,7 +41,7 @@
 * [DeFi dünyasına girmek için ilk atılacak adımlar neler?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-dunyasina-girmek-icin-ilk-atilacak-adimlar-neler.md)
 * [Elektronik cüzdan ile DeFi'ye adım atmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/elektronik-cuzdan-ile-defiye-adim-atmak.md)
 * [DeFi tokenları nasıl satın alınıyor?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-tokenlari-nasil-satin-aliniyor.md)
-* [DeFi'deki yüksek işlem ücretlerine dikkat!](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defideki-yueksek-islem-uecretlerine-dikkat.md)
+* [DeFi'de işlem yaparken nelere dikkat etmeli?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defideki-yueksek-islem-uecretlerine-dikkat.md)
 * [Farklı merkeziyetsiz borsaları aynı anda kullanmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/farkli-merkeziyetsiz-borsalari-ayni-anda-kullanmak.md)
 * [DeFi'de portföy nasıl takip edilir?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defide-portfoey-nasil-takip-edilir.md)
 * [DeFi ile bizi neler bekliyor?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-ile-bizi-neler-bekliyor.md)
