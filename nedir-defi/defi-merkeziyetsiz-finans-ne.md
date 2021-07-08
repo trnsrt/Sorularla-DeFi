@@ -10,21 +10,21 @@ Merkeziyetsiz finansın neleri nasıl yapmayı hedeflediğine geçmeden önce yu
 
 Tabii yavaşlığın bir başka nedeni de, genelde coğrafi kısıtlar nedeniyle iş yaptıkları ülkelerin mevzuat ve denetimlerden kaynaklanmakta. Yapılan her bir yenilik için onlarca görüş ve onay alınması gerekiyor.
 
-Sonra artık yavaş yavaş doyuma ulaşıyor sektör. Bireysel müşterileri düşünün. Yeterli kredibilitesi olanların her birinin cebinde bir düzine kart, kullandıkları birkaç tane banka hesabı var. Keza kurumsal yapılar için de aynısı geçerli. Finans ürünleri emtia haline dönmüş durumda, kim ne kadar ucuza hizmet sunarsa müşteriler oraya yöneliyor.
+Öte yandan sektör artık yavaş yavaş doyuma ulaşıyor. Bireysel müşterileri düşünün. Yeterli kredibilitesi olanların her birinin cebinde bir düzine kart, kullandıkları birkaç tane banka hesabı var. Keza kurumsal yapılar için de aynısı geçerli. Finans ürünleri emtia haline dönmüş durumda; kim ne kadar ucuza hizmet sunarsa müşteriler oraya yöneliyor.
 
 Peki mevcut oyuncular ucuza hizmet sunabiliyorlar mı? Şaşaalı genel merkezler, o merkezlerdeki müdürlerin arabaları, şoförleri derken masraflar arşa çıkmış durumda. Birinin bu masrafları karşılaması gerek ama öte yandan hissedarlar da kâr beklentisi içinde.
 
-Finans sistemi tabii ki bu sıkıntıların farkında ki, son yıllarda kendisini geliştirmek için ciddi bir efor sarfediyor. Özellikle Fintech olarak adlandırdığımız sistemin oyuncularını yeni teknolojilere adapte etmek için ortaya çıkmış pek çok kurum içi ve kurum dışı girişim söz konusu.
+Finans sistemi tabii ki bu sıkıntıların farkında ki, son yıllarda kendisini geliştirmek için ciddi bir efor sarfediyor. Özellikle 'Fintech' olarak adlandırdığımız sistemin oyuncularını yeni teknolojilere adapte etmek için ortaya çıkmış pek çok kurum içi ve kurum dışı girişim söz konusu.
 
-### Ya müşteriler? <a id="ya-m&#xFC;&#x15F;teriler"></a>
+### Peki, ya müşteriler? <a id="ya-m&#xFC;&#x15F;teriler"></a>
 
 Yukarıda yazdığımız genelde sistemin mevcut aktörlerinin sıkıntıları. Peki ya bireyler? Onlar verilen hizmetten memnun mu?
 
 Özellikle Fintech alanındaki teknolojik girişimlerin finans kurumlarının dijitalleşmesine yaptıkları katkının hizmet kalitesine de yansıdığını söylemek yanlış olmaz. Ancak, insan hep daha iyisini isteyen ve bekleyen bir varlık. "Neden daha hızlı hizmet almayayım, neden daha da ucuza olmasın aldığım hizmet?" soruları  akılları hep meşgul ediyor. 
 
-Bir başka problem; Bir finans kurumu ile çalışmaya başlarken onlarca bilgi ve belge vermek zorunda müşteri. Hadi hesap açarken nispeten kolay; hizmeti ayağınıza kadar getiriyorlar. Ya hesap kapatmaya çalışırken yaşanan çile? Ondan sonra başka bir kuruma geçildiğinde, aynı bilgileri ve belgeleri tekrar vermek, adeta bir kısır döngü içinde kalmak.
+Bir başka problem; Bir finans kurumu ile çalışmaya başlarken onlarca bilgi ve belge vermek zorunda müşteri. Hadi hesap açarken nispeten kolay; hizmeti ayağınıza kadar getiriyorlar. Peki, ya hesap kapatmaya çalışırken yaşanan çile? Ondan sonra başka bir kuruma geçildiğinde, aynı bilgileri ve belgeleri tekrar vermek, adeta bir kısır döngü içinde kalmak.
 
-Peki ya bizden aldıkları, kampanya benzeri taktikler ile izin koparıp pazarlamacılara sundukları kişisel bilgilerimiz?
+Öte yandan bizden aldıkları, kampanya benzeri taktikler ile izin koparıp pazarlamacılara sundukları kişisel bilgilerimiz?
 
 Keza [sistemlerin hack edilmesi ve kredi kartı bilgilerinin çalınması](https://www.bbc.com/turkce/haberler-turkiye-50746265) da artık olağan karşılamaya başladığımız modern çağ problemleri arasına girdiler bile.
 
@@ -38,7 +38,7 @@ Nasıl sağlanıyor bu? Öncelikle sistem merkezi olmayan dağıtık yönetim es
 
 Bu yapmaktaki temel amaç ve motivasyon ne? Finansal işlemleri gerçekleştirirken, hizmet veren ve hizmeti alan arasındaki ilişkide, gücü olabildiğince bireye verebilmek.
 
-Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Nasıl bir kontrol bu? Şifreleme ve anahtarlar aracılığıyla kendine ait bilgilerin tamamını değil, sadece bilginin geçerli ve kendisine ait olduğunu kanıtlayan kısımları kurumlar le paylaşmak. İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek; bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken, ayrıldığı kurumun kişisel bilgilerine erişimini anında kesmek.
+Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Nasıl bir kontrol bu? Şifreleme ve anahtarlar aracılığıyla kendine ait bilgilerin tamamını değil, sadece bilginin geçerli ve kendisine ait olduğunu kanıtlayan kısımları kurumlar ile paylaşmak. İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek; bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken, ayrıldığı kurumun kişisel bilgilerine erişimini anında kesmek.
 
 ### DeFi'nin temel prensipleri ne?
 
