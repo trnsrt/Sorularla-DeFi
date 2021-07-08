@@ -18,7 +18,7 @@ Dolayısıyla, klasik dünya yukarıdaki müşteriye sahip olma \(Customer acqui
 
 DeFi, klasik dünyanın temel taşlarını yeni baştan tasarlayan, oyunun kurallarının yeniden yazan bir oluşum. Buna paralel olarak, müşteriye bakış açısı klasik dünyaya göre çok daha farklı. Nasıl?
 
-DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek \(ingilizcede permissionless yani izin gerektirmeyen\). Yalnızca kullanıcı tarafında değil ürün geliştirici tarafında da - isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi demek. Peki bunun doğurduğu sonuçlar neler?
+DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek \(İngilizce'de 'permissionless' yani izin gerektirmeyen\). Sadece kullanıcı tarafında değil ürün geliştirici tarafında da 'isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi' demek. Peki bunun doğurduğu sonuçlar neler?
 
 Kullanıcı tarafından bakarsak, açık protokol gücü kullanıcıya veriyor. Bu sayede, kullanıcı hiçbir DeFi platformuna bağlı kalmak zorunda değil. Bugün kullanır, yarın gider başkasını kullanır, öbür gün geri gelir. Klasik dünyadan oldukça farklı bir dinamik.
 
@@ -30,9 +30,9 @@ Yukarıda anlattığımız iki durumdan dolayı DeFi ürünleri hep uyanık ve a
 
 Peki bu dünyada kritik olan ne? Verilen hizmete inanmış bir topluluk yaratmak. Böyle bir topluluğunuz varsa, o zaman işiniz nispeten daha kolay.
 
-|  |
-| :--- |
-| _Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/) |
+![](../.gitbook/assets/010705-defide_oyunun_adi_topluluk-gears-5688996_1280.png)
+
+_Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
 
 DeFi dünyasına girmek isteyen genç bir geliştirici iseniz ya da bu dünyaya yatırım yapmayı düşünen bireysel ya da kurumsal yatırımcı, ya da bu ürünleri kullanmak isteyen müşteri, yapmanız gereken ilk iş ilgilendiğiniz DeFi ürününün nasıl bir topluluğa sahip olduğunu anlamak.
 
@@ -42,7 +42,7 @@ Birkaç yöntemi var:
 
 #### Websitesini inceleyin
 
-İşe, platformun web sitesine bakmak ile başlayabilirsiniz. Ancak bu ilk adım ve muhtemelen size çok fazla ipucu vermeyecek. Gerek konunun çok teknik olması, gerekse ürünleri yaratanların pazarlama değil yazılım odaklı olmaları nedeniyle ürünü çok fazla anlama şansınız yok…
+İşe, platformun web sitesine bakmak ile başlayabilirsiniz, ancak bu sadece bir ilk adım ve muhtemelen size çok fazla ipucu vermeyecek. Gerek konunun çok teknik olması, gerekse ürünleri yaratanların pazarlama değil yazılım odaklı olmaları nedeniyle ürünü çok fazla anlama şansınız yok.
 
 #### Forumları takip edin
 
@@ -58,7 +58,7 @@ Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araş
 
 Öncelikle küçük denemeler yapmakta fayda var. Ürünü kullandınız ve beğendiniz, ondan sonrasında platformun merkeziyetsizliğe ne kadar gönül verdiğini anlamakta fayda var. Zira, ‘doğan görünümlü şahin’ benzeri, DeFi alanında olduğunu söyleyen ama merkezi olan yapılar var \(sana bakıyorum Chainlink!\). Bunu yazdığım için bu tip yapılar başarılı olamazlar diye bir sonuç çıkmasın sakın. Meramım şu: Madem merkeziyetsiz bir dünyanın içindeyiz, bu dünyada başarılı olacak olanların bu felsefeyi sadece sözde değil özde de benimsediğini anlamak gerek.
 
-Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekmiyor - zaten gerekli de değil. Başlangıç aşaması, ürünü geliştirmek adına merkezi bir şekilde yürüyebilir. Ancak grup belli bir olgunluğa ulaştıkça, ürün geliştirmenin yanında özellikle yönetimi de merkezilikten çıkarmak gerekiyor. Bu nedenle, belli bir büyüklüğe erişmiş girişimlerde demokratikleşme ve kritik yönetim kararlarını topluluğa bırakma ön plana çıkmalı.
+Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekmiyor; zaten gerekli de değil. Başlangıç aşaması, ürünü geliştirmek adına merkezi bir şekilde yürüyebilir. Ancak grup belli bir olgunluğa ulaştıkça, ürün geliştirmenin yanında özellikle yönetimi de merkezilikten çıkarmak gerekiyor. Bu nedenle, belli bir büyüklüğe erişmiş girişimlerde demokratikleşme ve kritik yönetim kararlarını topluluğa bırakma ön plana çıkmalı.
 
 #### Yönetim kanallarını takip edin
 
@@ -68,5 +68,5 @@ Likidite DeFi alanındaki bir platform için can suyu demek. Neden? Çünkü, bu
 
 İşte 2020 yılının bahar aylarında Compound ile başlayan yönetim tokenını topluluğu dağıtma politikası ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFi platformuna daha gönülden bağlanarak verilen hizmetleri daha geniş kitlelere yaydılar.
 
-DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor - bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir.
+DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor?. Bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir.
 
