@@ -4,11 +4,11 @@ Kitabımızın birinci kısmında, finans dünyasında yeni başlayan DeFi harek
 
 ### MakerDAO nedir?
 
-MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kriptoparaları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda bir ABD Doları karşılığı satıp, o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar; yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp, bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna İngilizce'de 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
+MakerDAO kullanıcıların kendi başlarına kredi yaratabilecekleri bir platform. Kullanıcılar sahip oldukları kriptoparaları teminat olarak veriyorlar ve sistemde bulunan akıllı kontrat da bu teminat karşılığı Dai yaratıp kullanıcının cüzdanına yolluyor. Sonra bu Dai’yi borsalarda 1 ABD Doları karşılığı satıp, o parayı istedikleri gibi kullanıyorlar. Yarattıkları \(yani borç aldıkları\) bu Dai’yi belli bir faiz ödeyerek istedikleri süre tutuyorlar; yeter ki teminatları borçlarını karşılasın. Sonrasında istedikleri zaman borsadan Dai satın alıp, bu Dai’yi sisteme gönderiyor, bu sayede borçlarını kapatıyor ve başlangıçta koydukları teminatlarını geri alabiliyorlar. Sistem de kullanıcının gönderdiği bu Dai'yi yok ediyor \(ki buna İngilizce'de 'burn' yani 'yakmak' deniyor\).  Sistemin işleyişi için gerekli önemli kararlar \(örneğin faiz oranları gibi\) yine bir merkezden ziyade kullanıcılar tarafından oylama yöntemi ile alınıyor.
 
 #### Nasıl çalışıyor?
 
-Kullanıcı, elindeki ['sağlam' sayılan kriptoparaları](https://oasis.app/borrow) teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparayı sisteme kilitlemek anlamına geliyor. Örneğin, gönderilen her 150 birim ETH için akıllı kontrat 100 birime kadar Dai verebiliyor. Kullanıcı, borsalarda bir ABD Doları'na yakın değerden işlem gören Dai'yi isterse başka stabil paralara çevirebilir ya da başka kriptoparaları satın almak için kullanabilir. Borç alınan paranın bir maliyeti var; kullanıcı dilediği noktada faizi ile anaparası borcunu piyasadan Dai satın alıp sisteme ödeyebilir ve ETH'sine geri kavuşur. 
+Kullanıcı, elindeki ['sağlam' sayılan kriptoparaları](https://oasis.app/borrow) teminat olarak gösteriyor. Teminat olarak göstermek demek kriptoparayı sisteme kilitlemek anlamına geliyor. Örneğin, gönderilen her 150 birim ETH için akıllı kontrat 100 birime kadar Dai verebiliyor. Kullanıcı, borsalarda 1 ABD Doları'na yakın değerden işlem gören Dai'yi isterse başka stabil paralara çevirebilir ya da başka kriptoparaları satın almak için kullanabilir. Borç alınan paranın bir maliyeti var; kullanıcı dilediği noktada faizi ile anaparası borcunu piyasadan Dai satın alıp sisteme ödeyebilir ve ETH'sine geri kavuşur. 
 
 ![](../.gitbook/assets/020203-makerdao-user_dai_1_2_tr.png)
 
@@ -60,7 +60,7 @@ Sistemin en büyük riski ETH'nin yaşayabileceği ani değer kayıpları. Zira 
 
 #### Mart 2020 Kara Perşembe krizi
 
-Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii. Ancak öncelikle şunu belirtmekte fayda var; bu tip ürünler/platformlar deneysel ve yeni. O yüzden sorun çıkması gayet normal. Neden? 
+Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii. Yine de öncelikle şunu belirtmekte fayda var; bu tip ürünler/platformlar deneysel ve yeni. O yüzden sorun çıkması gayet normal. Neden? 
 
 Birincisi, nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Kullanılmadan önce detaylı gözden geçiriliyor ve test ediliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcılarının her türlü senaryoyu öngörmelerinin mümkün olmaması. Sistem kullanıldıkça kimi sorunları ortaya çıkıyor ve bunlar zaman içinde gideriliyor ve sonuçta sistem 'kurşun geçirmez' bir hale geliyor. \(Bu arada hemen belirtelim; MakerDAO'nun akıllı kontratları için yaptırdığı [dış denetimler de var](https://security.makerdao.com/audit-reports). \)
 
