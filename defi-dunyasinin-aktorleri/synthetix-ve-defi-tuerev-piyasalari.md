@@ -1,6 +1,6 @@
 # Synthetix ve DeFi türev piyasaları
 
-DeFi yani merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlara ucuz bir alternatif olmak. Bu aracılardan ilk akla gelen de bankalar ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Finans piyasalarındaki her türlü aracı, DeFi oyuncularının tehdidi altında ve hiçbir klasik piyasa, DeFi’dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları..
+DeFi yani merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlara ucuz bir alternatif olmak. Bu aracılardan ilk akla gelen de bankalar ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Finans piyasalarındaki her türlü aracı, DeFi oyuncularının tehdidi altında ve hiçbir klasik piyasa, DeFi’dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları.
 
 ### Nedir türev piyasaları?
 
@@ -8,7 +8,7 @@ Türev, adı üzerinde türetilmiş demek. Yani herhangi bir varlıktan türemi�
 
 En basit tabiri ile şöyle açıklayalım: Alım satıma açık her varlığın bir değeri var. Bu değer zaman içinde azalır ya da artar. Klasik anlamda kazanç sağlamak için, bu varlığı elinizde tutar; düşük fiyattan alır \(ya da üretir\) ve yüksek fiyattan satarsınız ama bunu yapabilmek için o varlığı elinizde tutmalısınız.
 
-Peki ya bu varlığı elinizde tutmak istemiyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii, neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor; herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı, bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi…
+Peki ya bu varlığı elinizde tutmak istemiyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii, neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor; herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı, bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi. 
 
 Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerini korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim.
 
@@ -73,7 +73,7 @@ Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sen
 * Sonra yarın öbür gün sBTC’mi satmak istediğimde yerine bana verecekleri sUSD’yi alacak biri çıkacak mı?
 * Bir sUSD bir ABD Doları’na eşit diye kim söylüyor, kim böyle bir garanti veriyor? Verilen garanti ne kadar güvenilir?
 * Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğin düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu kârı bu kullanıcılara?
-* Bunların hepsi çok makul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza - malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara:
+* Bunların hepsi çok makul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza. Malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara:
 
 #### Hepimizin çok sevdiği havuz problemi, tekrar karşımızda. 
 
@@ -89,7 +89,7 @@ Havuzun çalışma sistemi ise şöyle; her bir paydaş yarattığı sUSD oranı
 
 sUSD yaratımında teminat olarak konan SNX; borsalarda alıp satılan bir token. Paydaş, SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez Bankası eskiden birebir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
 
-O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/).  Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi\)
+O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. \(Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/).  Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi\)
 
 #### Peki nereden geliyor bu SNX?
 
@@ -141,11 +141,11 @@ Peki ya sUSD’nin değeri yükseldi ve 1.10 ABD Doları’na geldi. O zaman da 
 
 ### Peki riskler neler?
 
-Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi’da riskler çok ama türev piyasalarında riskler, klasik piyasalara göre daha da fazla!..
+Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi’da riskler çok ama türev piyasalarında riskler, klasik piyasalara göre daha da fazla!.
 
 #### Genel olarak türev piyasasındaki riskler
 
-Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar; çok daha fazla hâle gelebiliyor. \(Örneğin 2008 yılında ABD’de patlayan krizin sorumlusu olarak gayrimenkul fiyatları gösterilir ama özünde sorunu krize dönüştürüp kat be kat artmasına neden olan türev piyasalarıdır\)
+Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar; çok daha fazla hâle gelebiliyor. \(Örneğin 2008 yılında ABD’de patlayan krizin sorumlusu olarak gayrimenkul fiyatları gösterilir ama özünde sorunu krize dönüştürüp kat be kat artmasına neden olan türev piyasalarıdır\).
 
 DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Eğer kaldıraçlı işlem yapıyorsanız borçlandığınız orana göre çıpaladığınız varlıktaki değişim size 10 ile 100 kat daha fazla etki edebiliyor.
 
@@ -161,7 +161,7 @@ Bu kadar riskten bahsedince gözünüz korkabilir; çok normal ancak unutmayın;
 
 Öncelikle, bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Bu teminatlar, DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar.
 
-İkincisi bu kontratların çoğunluğu dış denetim \(audit\) geçiriyorlar. Denetim geçirmek; 'her şey süper, kontrat çok güvenli' anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere, en azından kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor.
+İkincisi bu kontratların çoğunluğu dış denetim \(İngilizce'de 'audit'\) geçiriyorlar. Denetim geçirmek; 'her şey süper, kontrat çok güvenli' anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere, en azından kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor.
 
 Tabii yine de bunlara güvenmezseniz \(ki kimse “neden güvenmiyorsun?” diyemez\) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün..
 
