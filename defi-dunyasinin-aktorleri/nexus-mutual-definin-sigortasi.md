@@ -80,13 +80,13 @@ Havuzun sahibi tüm üyeler. Nasıl sahip oluyorlar bu havuza? Aynı hisse sened
 
 Peki başlangıçta sistem nasıl başladı? Havuz boş muydu? Hayır, bu alanda tecrübeli, riski bilen kişi ve kurumlar başlangıçta Ethereum sisteminin parası olan ETH koyup karşılığında NXM alarak havuza bir kapital sağladılar.
 
-Havuzdaki para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli en azından şimdilik ETH’e dayanıyor. Bu da anlaşılır; zira koruma verdikleri DeFi platformlarının çoğunluğu da Ethereum üzerinde işlem yaptığı için risk ETH bazlı, o nedenle bu riske karşı fonları da ETH olarak değerlendirmek mantıklı.
+Havuzdaki para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli en azından şimdilik ETH’ye dayanıyor. Bu da anlaşılır; zira koruma verdikleri DeFi platformlarının çoğunluğu da Ethereum üzerinde işlem yaptığı için risk ETH bazlı, o nedenle bu riske karşı fonları da ETH olarak değerlendirmek mantıklı.
 
 #### Kim niye NXM alsın?
 
 Birkaç neden var.
 
-Öncelikle sigorta yaptırmak, pardon 'Akıllı kontratlar’a karşı koruma satın almak' istiyorsanız bunu NXM ile yapıyorsunuz. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak aldığınız korumanın yani poliçenin ücretini NXM olarak veriyorsunuz \(bir başka deyişle NXM yakıyorsunuz\). NXM’i de havuzdan ETH ya da [stabil bir kriptopara olan DAI](https://turansert.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) karşılığı alacaksınız.
+Öncelikle sigorta yaptırmak, pardon 'Akıllı kontratlar’a karşı koruma satın almak' istiyorsanız bunu NXM ile yapıyorsunuz. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak aldığınız korumanın yani poliçenin ücretini NXM olarak veriyorsunuz. Bir başka deyişle NXM yakıyorsunuz. NXM’i de havuzdan ETH ya da [stabil bir kriptopara olan DAI](https://turansert.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) karşılığı alacaksınız.
 
 İkincisi ise yatırım olarak almak. Sonuç olarak NXM aldığınızda havuzun bir parçasına sahip oluyorsunuz ve ödenen primlerin risklerden fazla olduğunu ve sistemin ileride büyüyeceğini tahmin ediyorsunuz. NXM değerini neler etkiliyor, hemen bir sonraki bölümde değerlendireceğiz.
 
@@ -144,9 +144,9 @@ _**Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?**_
 
 ### Önümüzdeki dönemde Nexus'u neler bekliyor?
 
-Nexus özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri şart. Ama asıl büyüme, farklı riskleri de kapsama alanı içine almaları durumunda olacak \(yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı\) üstelik kullanıcıların mevcut platformlarda zaman geçirdikçe kendilerini daha rahat hissedip platform riskine para ödemeyi bırakmaları da söz konusu olabilir. yEarn benzeri yapacakları ortaklıklar onların daha geniş kitleler tarafından kullanılmasını sağlayabilir.
+Nexus özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri şart. Yine de asıl büyüme, farklı riskleri de kapsama alanı içine almaları durumunda olacak. Sadece kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı; üstelik kullanıcıların mevcut platformlarda zaman geçirdikçe kendilerini daha rahat hissedip platform riskine para ödemeyi bırakmaları da söz konusu olabilir. yEarn benzeri yapacakları ortaklıklar onların daha geniş kitleler tarafından kullanılmasını sağlayabilir.
 
-Bunun yanında Nexus Mutual’ın olası riskleri karşılamak için elinde tuttuğu bir kapital var - [bu 2020 Ekim aylarında 200 bin ETH \(yaklaşık 75 milyon ABD Doları\) seviyesinde](https://nexustracker.io/capital_pool). Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için elindeki ETH’yi buraya koyarak ekstradan gelir kazanma ihtimali de doğacak.
+Bunun yanında Nexus Mutual’ın olası riskleri karşılamak için elinde tuttuğu bir kapital var. [Bu 2020 Ekim aylarında 200 bin ETH \(yaklaşık 75 milyon ABD Doları\) seviyesinde](https://nexustracker.io/capital_pool). Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için elindeki ETH’yi buraya koyarak ekstradan gelir kazanma ihtimali de doğacak.
 
 Öte yandan her ne kadar merkeziyetsiz finans ürünü olsa da Nexus Mutual pek çok açıdan hâlâ merkezi sayılabilir. Örneğin, az önce bahsettiğimiz gibi sisteme üye olmak için KYC prosedürlerinden geçmeniz gerekiyor. Sistemi yürüten Nexus, İngiltere’de kurulu bir şirket. Kullanıcılar sistemin tokeni olan NXM’i alıp satmayı şu aşamada sadece Nexus üzerinde yapabiliyorlar. Öte yandan hasar taleplerinin değerlendirilmesi merkeziyetsiz bir şekilde Nexus yatırımcıları tarafından yapılsa da, bu yatırımcıların kurallara uyup uymadığını denetleyen bir merkezi Danışma Kurulu var. Bütün bunlar, Nexus Mutual’ın merkeziyetsiz olma yolunda önünde çözmesi gereken pek çok konu olduğunu gösteriyor.
 
