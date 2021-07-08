@@ -36,7 +36,7 @@ DeFi projelerinin üzerine kurulu oldukları blokzincir altyapıları \(örneği
 
 #### DeFi altyapısı projelerin ölçeklenmesi de bir problem
 
-Piyasada endişenin hakim olduğu ya da ufak çaplı krizlerin yaşandığı ortamda, DeFi projelerinin üzerinde yer aldığı altyapı projelerine adeta bir hücum başlıyor. Bu da projelerin kimi durumlarda yüksek talebi karşılayamaz hâle gelmesine yol açabiliyor. 2021 yılının Mayıs ayında yaşanan krizde Ethereum projesi alnının akıyla krizden çıkarken, rakip birkaç projede ciddi sıkışmalar yaşandığını gördük. Ama Ethereum herhangi bir durma yaşamadan krizden çıkarken, işlem ücretlerinin arşa çıktığını da belirtelim. Böyle bir durumda maliyetlerin yüksekliğinin farkına varmayan yatırımcılar, düşük ücretler ile işlem yapmaya kalktıklarında saatlerce beklemek zorunda kaldılar. 
+Piyasada endişenin hakim olduğu ya da ufak çaplı krizlerin yaşandığı ortamda, DeFi projelerinin üzerinde yer aldığı altyapı projelerine adeta bir hücum başlıyor. Bu da projelerin kimi durumlarda yüksek talebi karşılayamaz hâle gelmesine yol açabiliyor. 2021 yılının Mayıs ayında yaşanan krizde Ethereum projesi alnının akıyla krizden çıkarken, rakip birkaç projede ciddi sıkışmalar yaşandığını gördük. Öte yandan, Ethereum herhangi bir durma yaşamadan krizden çıkarken, işlem ücretlerinin arşa çıktığını da belirtelim. Böyle bir durumda maliyetlerin yüksekliğinin farkına varmayan yatırımcılar, düşük ücretler ile işlem yapmaya kalktıklarında saatlerce beklemek zorunda kaldılar. 
 
 ### Peki nasıl korunabiliriz bu risklerden?  
 
