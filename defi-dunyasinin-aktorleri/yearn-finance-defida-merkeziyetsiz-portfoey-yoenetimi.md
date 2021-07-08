@@ -34,7 +34,7 @@ Kullanıcının parasını alıp, çeşitli borç verme protokolleri arasında g
 
 Neden kullanıcılar Earn kullansın? Birkaç temel nedeni var.
 
-Öncelikle kullanıcının farklı borç verme protokollerini sürekli olarak kontrol etmek için zamanı yok, bunun yerine elinde olan bir stabil parayı Yearn protokolüne koyup kendi işine dönebilir - üstelik herhangi bir komisyon ödemeden.
+Öncelikle kullanıcının farklı borç verme protokollerini sürekli olarak kontrol etmek için zamanı yok, bunun yerine elinde olan bir stabil parayı Yearn protokolüne koyup kendi işine dönebilir; üstelik herhangi bir komisyon ödemeden.
 
 İkincisi; Earn, para transferi sırasında çıkabilecek yüksek işlem ücretlerinden kullanıcıyı kurtarıyor. Sonuçta, işlem yaptığınızda ödenecek ücreti, işlemin tutarı değil, yapılacak işlemin ne kadar karmaşık olduğu ve ne kadar hızlı yapılması istendiği belirliyor. Kullanıcının 100 ABD Doları’nı protokoller arası değiştirirken ödeyeceği ücret ile Earn’in 10 milyon ABD Doları için aynı işlemi yapmasında ödeyeceği ücret arasında öyle çok da büyük bir fark yok.
 
@@ -62,7 +62,7 @@ Peki ya kullanıcı elinde tuttuğu volatil kriptoparadan vazgeçmek istemiyor i
 
 O zaman kullanıcıya stabil para bulalım ve onu değerlendirelim. Nasıl? Hatırlarsanız, bundan üç bölüm önce DeFi’nin ilk büyük protokollerinden MakerDAO’dan bahsetmiştik. Kullanıcıların Ether teminat gösterip, DAI kredi kullanabildiği bir merkeziyetsiz sistem. İşte Yearn burada benzer bir sistemi kullanıyor.
 
-Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.com/en/coins/aave) ya da [Link](https://www.coingecko.com/en/coins/chainlink) kriptoparası koyup, sonrasında borç verme ve getiri çiftçiliğinden para kazanabiliyor. Nasıl oluyor bu? Sistem, kullanıcının koyduğu parayı teminat göstererek stabil para borç alıyor. Sonra bu stabil parayı yukarıdaki bahsettiğimiz yVault ürünlerine koyarak ekstra stabil para gelir kazanıyor. Kazandığı bu stabil para ile gidip orijinal para ne ise ondan satın alıp tekrar ürünün içine koyuyor. Böylece kullanıcı, sahip olduğu Aave ya da Link’in getirisinden \(ve riskinden\) feragat etmeden, ekstra getiri kazanma imkanına sahip oluyor.
+Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.com/en/coins/aave) ya da [Link](https://www.coingecko.com/en/coins/chainlink) kriptoparası koyup, sonrasında borç verme ve getiri çiftçiliğinden para kazanabiliyor. Nasıl oluyor bu? Sistem, kullanıcının koyduğu parayı teminat göstererek stabil para borç alıyor. Sonra bu stabil parayı yukarıdaki bahsettiğimiz yVault ürünlerine koyarak ekstra stabil para gelir kazanıyor. Kazandığı bu stabil para ile gidip orijinal para ne ise ondan satın alıp tekrar ürünün içine koyuyor. Böylece kullanıcı, sahip olduğu Aave ya da Link’in getirisinden artırma imkanına sahip oluyor.
 
 ![&#x15E;EK&#x130;L &#xC7;&#x130;Z&#x130;M&#x130;](../.gitbook/assets/placeholder.png)
 
@@ -70,7 +70,7 @@ Yalnız bu ürün diğer yVault ürünlerine göre daha riskli. Neden? Mevcut yV
 
 #### Diğer ürünler
 
-Bunun yanında, Yearn'da yeni pek çok ürün çıkarmak için denemeler devam ediyor. Malum, açık kaynaklı “lego” gibi bir sistem DeFi.. Bu dünyadaki ürünler aynı dili konuştukları için yeni ürün çıkarmak yıllar, aylar değil, haftalar alıyor.
+Bunun yanında, Yearn'da yeni pek çok ürün çıkarmak için denemeler devam ediyor. Malum, açık kaynaklı 'lego' gibi bir sistem DeFi. Bu dünyadaki ürünler aynı dili konuştukları için yeni ürün çıkarmak yıllar, aylar değil, haftalar alıyor.
 
 Örneğin; [yInsure](https://yinsure.finance/) ürününü ele alalım.  Bu kısmın en son bölümünde detaylı olarak bahsedeceğimiz DeFi’nin en büyük sigortacısı olan [Nexus Mutual](https://nexusmutual.io/) üzerinden kopyalanan bir sigortacılık ürünü. Bir diğer adı da [Cover](https://yinsure.finance/). Nexus Mutual, üyelerinden KYC \(Know-Your-Customer yani Müşterini Tanı\) prosedürü isterken, yInsure, benzer sistemi DeFi’nin KYC’den uzak kendi dünyası içinde kullanıcılarına sunuyor.
 
