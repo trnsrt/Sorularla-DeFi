@@ -120,7 +120,7 @@ Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukar
 
 Sistemde iki ana aktör var.
 
-Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/sahip olan \(holder\) deniyor. Ne satın alıyorlar? ETH ya da BTC’yi herhangi bir vade için alma \(call\) ya da satma \(put\) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz \(daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](https://turansert.com/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler\).
+Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/sahip olan \(holder\) deniyor. Ne satın alıyorlar? ETH ya da BTC’yi herhangi bir vade için alma \(call\) ya da satma \(put\) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz \(DeFi havuzları ile ilgili dilerseniz üç bölüm önceki 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' ya da  bir önceki 'Synthetix ve DeFi'nin türev piyasaları' bölümlerine göz atabilirsiniz\).
 
 Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu alma ya da satma hakkını satın alıyorlar. [MakerDAO’nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna “mint” yani para basmak da deniyor. 
 
