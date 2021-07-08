@@ -1,6 +1,6 @@
 # DeFi'nin çıkışı nasıl oldu?
 
-Kriptoparalar daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana” oluyor. Haklılar - ancak sadece şu an için.
+Kriptoparalar daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana” oluyor. Haklılar, ancak sadece şu an için.
 
 ### “Bir sonraki büyük ‘şey’ başlangıçta bir oyuncak gibi görünecek”
 
@@ -12,7 +12,7 @@ _“Bir teknoloji genelde ilk çıktığında kullanıcıların ihtiyaçlarını
 
 _Ancak mevcut piyasa oyuncularının kaçırdığı nokta, başlangıçta oyuncak olarak adlandırılan bu teknolojilerin, hızlı yenilikler ve altyapıların oluşması sonucu bir noktada müşterilerin ihtiyaçlarını karşılamakla kalmayıp, onlara hayallerinin de ötesinde yeni imkanlar açıyor olması.”_
 
-Chris Dixon yukarıdaki satırları ne zaman yazmış, biliyor musunuz? 2010 yılında. Şimdi yıllar sonra bakınca, gerçekten de başlangıçta oyun olarak adlandırılan pek çok yeni teknolojinin hayatımıza nasıl hızla girip ne kadar geniş yer aldığını görüyoruz. Örneğin, ilk açtığımda “ne işe yarayacak bu?” diyerek anlamlandıramadığım ve bir süre hiç kullanmayıp şifremi dahi unuttuğum Twitter hesabımdan, insanlar alışsın diye herkese bedava verilen Bitcoin’e kadar \(evet gerçek - Chris Dixon yukarıdaki satırları yazdığı yıllarda [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen), [Bitcoin Faucet](https://en.wikipedia.org/wiki/Bitcoin_faucet) adını verdiği siteye giren her kişiye bedava 5 BTC veriyordu\). 
+Chris Dixon yukarıdaki satırları ne zaman yazmış, biliyor musunuz? 2010 yılında. Şimdi yıllar sonra bakınca, gerçekten de başlangıçta oyun olarak adlandırılan pek çok yeni teknolojinin hayatımıza nasıl hızla girip ne kadar geniş yer aldığını görüyoruz. Örneğin, ilk açtığımda “ne işe yarayacak bu?” diyerek anlamlandıramadığım ve bir süre hiç kullanmayıp şifremi dahi unuttuğum Twitter hesabımdan, insanlar alışsın diye herkese bedava verilen Bitcoin’e kadar \(evet gerçek; Chris Dixon yukarıdaki satırları yazdığı yıllarda [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen), [Bitcoin Faucet](https://en.wikipedia.org/wiki/Bitcoin_faucet) adını verdiği siteye giren her kişiye bedava 5 BTC veriyordu\). 
 
 ### Finans dünyasının oyuncakları
 
@@ -52,15 +52,15 @@ Bugün DeFi kullanarak kredi alabiliyor, mevduat yatırabiliyor, sigorta yaptır
 
 Ancak yapabildikleriniz bunlarla sınırlı değil. Gerçek dünyada kurduğunuz kanuni yapıların \(anonim şirket, kooperatif gibi\) benzerlerini ama bu sefer arada sınırlar olmadan yüzlerce kişi ile birlikte kurabiliyorsunuz. Üstelik bunu oldukça düşük bir ücret ile gerçekleştirebiliyorsunuz. Bu yapıları nasıl yönetebileceğiniz konusunda alternatifler sınırsız. Aradaki anlaşmazlıkların nasıl çözüleceği konusunda 'kod kanundur' düsturundan gelen akıllı kontratları kullanabileceğiniz gibi, arada uyuşmazlık olduğunda size arabulucu ya da mahkeme hizmeti veren \(tamamen merkeziyetsiz\) hizmetler bile mümkün bu yapılarda.
 
-### Nasıl bir anda büyüdü DeFi?
+### Defi bir anda nasıl büyüdü?
 
-DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
+DeFi alanındaki projelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
 
 ![](../.gitbook/assets/ana-defi-protokolleri-kurulus-yillari_v2.jpg)
 
 _Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl \(Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder\). Kaynaklar:_ [_DeFi Pulse_](https://defipulse.com/)_,_ [_Messari_](https://messari.io/) _ve platform web siteleri_
 
-Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar; zira giriş-çıkışlar nedeniyle en büyük likidite onlardaydı. Merkeziyetsiz borsalar ise kasabın kapısında aç biilaç bekleyen kedilere döndüler. Bu anlamda yatırımcının ilgisini üzerlerine çekmeyi bir türlü başaramadılar.
+Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunuydu. Geleneksel itibari \(fiat\) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya gelen yeni yatırımcıları ellerinde tutmayı başardılar; zira giriş-çıkışlar nedeniyle en büyük likidite onlardaydı. Merkeziyetsiz borsalar ise kasabın kapısında aç biilaç bekleyen kedilere döndüler. Bu anlamda yatırımcının ilgisini üzerlerine çekmeyi bir türlü başaramadılar.
 
 Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Yapılan pek çok farklı deneyim içinde, likidite karşılığı ödüllendirme metodu işe yaradı. Bu işi ilk yapanlardan biri, bir sonraki kısımda detaylı olarak bahsedeceğimiz  [Synthetix](https://synthetix.io/) olsa da, asıl büyük patlama [Compound](https://compound.finance/) ile gerçekleşti. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı.
 
