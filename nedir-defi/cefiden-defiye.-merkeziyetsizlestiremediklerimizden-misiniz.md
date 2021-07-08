@@ -34,9 +34,9 @@ Yukarıdaki tanımlardan “merkeziyetsiz yapı daha iyidir” gibi bir sonuç �
 
 CeFi benzeri merkezi yapılar, özellikle bir süredir aramızda olup finansal olarak kuvvetli hale gelenler, göreceli olarak kullanıcıya kafa rahatlığı veriyorlar. Bunun temel nedeni, özellikle finansal dünyanın kırılgan ya da kaygan yapısı içinde dijital varlıklara sahip olmamız nedeniyle başımıza gelebilecek her tür sorunda arkada hesap sorulabilecek bir yapının olması.
 
-Bunu biraz daha açmakta fayda var. Teknik, kodlama, kullanım açısından merkeziyetsiz yapıların, dış denetime daha açık olmaları nedeniyle merkezi yapılara göre daha güvenli olduğu söylenebilir. Ancak “daha güvenli” demek %100 güvenli anlamına gelmiyor. Sorun da zaten o %0.01 ihtimalin gerçekleştiğinde ne olacağı. Merkezi yapılarda sorun olma ihtimali \(hadi diyelim ki bunun yüz katı\) %1 olsun. Sorun olduğunda bu yapılardan hangisinde varlığınızı geri alma ihtimaliniz daha yüksek? Merkezi yapılarda. İşte bu nedenle, henüz yeterli olgunlukta olmadıkları için DeFi yapılarda sizi rahatsız edecek miktarlar ile yatırım/işlem yapmanız asla tavsiye edilmiyor \(Bu arada, [DeFi ürünleri kullananlara belli riskler için sigorta hizmeti sunanlar da olduğunu](https://nexusmutual.io/) belirtelim. Ama henüz yolun başındalar - onlar da kullanım arttıkça zaman geçtikçe olgunlaşacaklar\).
+Bunu biraz daha açmakta fayda var. Teknik, kodlama, kullanım açısından merkeziyetsiz yapıların, dış denetime daha açık olmaları nedeniyle merkezi yapılara göre daha güvenli olduğu söylenebilir. Ancak “daha güvenli” demek %100 güvenli anlamına gelmiyor. Sorun da zaten o %0.01 ihtimalin gerçekleştiğinde ne olacağı. Merkezi yapılarda sorun olma ihtimali \(hadi diyelim ki bunun yüz katı\) %1 olsun. Sorun olduğunda bu yapılardan hangisinde varlığınızı geri alma ihtimaliniz daha yüksek? Merkezi yapılarda. İşte bu nedenle, henüz yeterli olgunlukta olmadıkları için DeFi yapılarda sizi rahatsız edecek miktarlar ile yatırım/işlem yapmanız asla tavsiye edilmiyor \(Bu arada, [DeFi ürünleri kullananlara belli riskler için sigorta hizmeti sunanlar da olduğunu](https://nexusmutual.io/) belirtelim, ama hemen ekleyelim; henüz yolun başındalar, onlar da kullanım arttıkça zaman geçtikçe olgunlaşacaklar\).
 
-### Kaç ölçü merkeziyetsizlik iyi?..
+### Kaç ölçü merkeziyetsizlik iyi?
 
 Öte yandan, DeFi yapıların da ne kadar merkeziyetsiz olduklarının yanında hangi alanlarda merkeziyetsiz oldukları da önemli. 
 
@@ -60,7 +60,7 @@ Buna en güzel örneklerden bir tanesi MakerDAO. Bir sonraki kısımda detaylı 
 
 ### Ya regülasyonlar?
 
-Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup, enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz - merkezi yapılar o anlamda daha şanssız.
+Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup, enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz; merkezi yapılar o anlamda daha şanssız.
 
 Regülasyon konusunda asıl önemli konu aslında kullanıcı tarafı. Kullanıcıların büyük bir kısmı coğrafi olarak içinde bulundukları ülkelerin kanunları ile sınırlılar. Ülke denetleyici kurumlarının getirebileceği her tür kısıtlama merkezi olmayan yapıların geniş kitlelerce benimsenmesinin önündeki en büyük belirsizliklerden biri olmaya aday.
 
