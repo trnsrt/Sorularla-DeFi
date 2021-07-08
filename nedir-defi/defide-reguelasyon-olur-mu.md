@@ -1,6 +1,6 @@
 # DeFi'de regülasyon olur mu?
 
-Merkeziyetsiz Finans alanında en çetrefilli alanlardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğuna bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak regülasyon konusunda temel çerçeve çıkarmaya çalışalım. 
+Merkeziyetsiz Finans alanında en çetrefilli alanlardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğuna bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak, regülasyon konusunda temel çerçeve çıkarmaya çalışalım. 
 
 ### Regülasyon ve denetim açısından DeFi'nin klasik finansa göre farklılıkları
 
@@ -16,15 +16,15 @@ Kimi durumlarda, örneğin bir merkeziyetsiz borsanın havuzuna yatırım yaptı
 
 #### Coğrafi sınırlar 
 
-Klasik finansın bir başka özelliği de, fiziki dünyamızın coğrafi sınırları içinde hareket etmesi. Dolayısıyla, klasik finans kurumlar hangi coğrafyada iş yapıyorlar ise, o coğrafyanın kanun koyucusunun koyduğu kurallara uymak zorundadırlar. 
+Klasik finansın bir başka özelliği de, fiziki dünyamızın coğrafi sınırları içinde hareket etmesi. Dolayısıyla, klasik finans kurumları, hangi coğrafyada iş yapıyorlarsa, o coğrafyanın kanun koyucusunun koyduğu kurallara uymak zorundadırlar. 
 
 Merkeziyetsiz finans, bu alanda da klasik kardeşinden ayrışıyor. Zira, dijital dünyada fiziki sınırlar yok. Kripto dünyasında ise şifreleme sayesinde varlıkları transparan olarak görsek de, sahipleri konusunda bir mahremiyet söz konusu. Varlık sahibinin kim olduğunu anlayamadığımız gibi hangi ülke içinde bulunduğunu da bilemiyoruz. İşte bu nedenle, merkeziyetsiz finansın bir ülke tarafından regüle edilmesi zor görünüyor. 
 
 ### DeFi nasıl regüle edilecek? Edilmeli mi?
 
-Yukarıdaki iki temel kritere bakarak 'Merkeziyetsiz finans kullanırken güç kullanıcının elinde dolayısıyla sorumluluk da onda, zaten DeFi ürünleri herkese açık olma prensibinden hareket eden kripto dünyasında yaşayan servisler, o nedenle bu alanda regülasyon olmamalı' şeklinde bir argüman getirilebilir. Kişisel kanım, bu argümanın büyük resmi kaçırma ve DeFi'nin geniş kesimlere yaygınlaşmasını engelleme gibi risklere yol açabileceği şeklinde. 
+Yukarıdaki iki temel kritere bakarak "Merkeziyetsiz finans kullanırken güç kullanıcının elinde dolayısıyla sorumluluk da onda. Zaten DeFi ürünleri; herkese açık olma prensibinden hareket eden kripto dünyasında yaşayan servisler. Bu nedenle bu alanda regülasyon olmamalı" şeklinde bir argüman getirilebilir. Kişisel kanım, bu argümanın büyük resmi kaçırma ve DeFi'nin geniş kesimlere yaygınlaşmasını engelleme gibi risklere yol açabileceği şeklinde. 
 
-DeFi'nin regüle edilmemesi, onu ancak ileri seviye finansal okur-yazarlığı olan ve yüksek risk almayı seven marjinal bir kesim tarafından kullanılır halde bırakabilir. Hızlı gelişen, henüz olgunlaşmaya başlamamış bu sektöre risk algısı düşük, yeterince okuryazarlığı olmayan kitlenin çevresinden duyduğu 'yüksek kazanç' hikayeleri ile giriş yapması, beraberinde felaket senaryolarını da getirebilir. Bu alanda ortaya çıkacak 'scam' olarak adlandırılabilecek projelerin bu kişilerin paralarını alıp kaçması gibi somut örneklerden, aşırı para girişinin getireceği risk algısının bozulması ve fiyatların geçici olarak şişmesi gibi soyut örneklere uzanan pek çok konu hayatımıza girebilir. 
+DeFi'nin regüle edilmemesi, onu ancak ileri seviye finansal okur-yazarlığı olan ve yüksek risk almayı seven marjinal bir kesim tarafından kullanılır halde bırakabilir. Hızlı gelişen, henüz olgunlaşmaya başlamamış bu sektöre risk algısı düşük, yeterince okuryazarlığı olmayan kitlenin çevresinden duyduğu 'yüksek kazanç' hikayeleri ile giriş yapması; beraberinde felaket senaryolarını da getirebilir. Bu alanda ortaya çıkacak 'scam' olarak adlandırılabilecek projelerin bu kişilerin paralarını alıp kaçması gibi somut örneklerden, aşırı para girişinin getireceği risk algısının bozulması ve fiyatların geçici olarak şişmesi gibi soyut örneklere uzanan pek çok konu hayatımıza girebilir. 
 
 #### Kim regüle edebilir?
 
@@ -46,7 +46,7 @@ DeFi'nin regülasyonu konusu aslında bu kitabın kapsama alanının dışında 
 
 DeFi alanında politika belirlenirken, kanun koyucuların hedefleri ile inovasyon ve pazar gelişimini dengede tutacak, teknolojik olarak tarafsız bir yaklaşım en uygunu olur. 
 
-DeFi aktiviteleri hisse senedi, türev, borsalar, yatırım yönetimi, banka denetimi, finansal suç, tüketici finansmanı, sigorta, risk yönetimi gibi alanları içerdiği için bu konunun tutarlı ve geniş bir strateji belirlenerek, kurumlar arası bir çalışma grubu tarafından ele alınmasında fayda var. 
+DeFi aktiviteleri; hisse senedi, türev, borsalar, yatırım yönetimi, banka denetimi, finansal suç, tüketici finansmanı, sigorta, risk yönetimi gibi alanları içerdiği için; bu konunun tutarlı ve geniş bir strateji belirlenerek, kurumlar arası bir çalışma grubu tarafından ele alınmasında fayda var. 
 
 DeFi'ye yaklaşımda alınabilecek aksiyonlar aşağıda sıralandığı gibi çok farklı şekillerde olabilir: 
 
