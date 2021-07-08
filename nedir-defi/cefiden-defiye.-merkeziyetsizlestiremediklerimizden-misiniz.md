@@ -1,10 +1,10 @@
 # DeFi'de nasıl merkeziyetsiz olunuyor?
 
-Son zamanlarda oldukça ön plana çıkan Merkeziyetsiz Finans projeleri ve bu projelere ait yönetim tokenları uzun süredir süregelen bir tartışmayı da alevlendirmiş oldu. Merkeziyetsiz olmak neden önemli, ne zaman ve ne kadar merkeziyetsizlik iyidir? Gelin hep birlikte bakalım
+Son zamanlarda oldukça ön plana çıkan Merkeziyetsiz Finans projeleri ve bu projelere ait yönetim tokenları uzun süredir süregelen bir tartışmayı da alevlendirmiş oldu. Merkeziyetsiz olmak neden önemli, ne zaman ve ne kadar merkeziyetsizlik iyidir? Gelin hep birlikte bakalım. 
 
 ### “Ya hep ya hiç” mi bu merkeziyetsizlik?
 
-Sık sorulan sorulardan biri de şu: DeFi \(Merkeziyetsiz Finans\) gerçekten merkeziyetsiz mi? Merkeziyetsiz olmasının avantajı ne, dezavantajı ne? Aslında bu konu 1-0 gibi iki sonuçlu bir işlem değil. Merkezi bir yapıdan tam merkeziyetsiz bir yapıya doğru genişçe bir yelpaze var - ve bu yelpazenin değişik kısımlarında bulunan her bir alternatif ürünün kendince belli avantajları var.
+Sık sorulan sorulardan biri de şu: DeFi \(Merkeziyetsiz Finans\) gerçekten merkeziyetsiz mi? Merkeziyetsiz olmasının avantajı ne, dezavantajı ne? Aslında bu konu 1-0 gibi iki sonuçlu bir işlem değil. Merkezi bir yapıdan tam merkeziyetsiz bir yapıya doğru genişçe bir yelpaze var ve bu yelpazenin değişik kısımlarında bulunan her bir alternatif ürünün kendince belli avantajları var.
 
 Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Sistemin kuruluşu açısından mı, işleyişi bakımından mı, kullanıcıya verdiği güç bakımından mı? Bu kriterleri daha da uzatabiliriz haliyle.
 
@@ -22,11 +22,11 @@ Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Siste
 
 Çok genel bakarsak şunu söyleyebiliriz:
 
-Yelpazenin bir ucu **merkezi yapılar** \(CeFi - Centralized Finance olarak da adlandırılıyorlar\) . Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum.
+Yelpazenin bir ucu **merkezi yapılar** \(İngilizce'de 'CeFi' - Centralized Finance\). Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum.
 
 Yelpazenin öbür tarafında ise **tamamen dağıtık yapılar** var ve bu tarafın aslında ucu bucağı yok. Şu ana kadar **deneyimlediğimiz en uç noktası Bitcoin** denebilir: Herhangi bir genel merkezi ya da lideri olmayan, bütün yazılımı açık, sistemin işleyişini sağlayan makinelerin kimseye sormadan girip çıkabildiği, keza kullanıcı olarak kullanmanın hiçbir izin ya da dokümana tâbi olmadığı bir sistem \(ki orada bile yazılımcılar arasındaki gruplaşmalar ve politik savaşlar merkeziyetsizlik konusunda soru işaretleri yaratıyor\).
 
-Finans ve teknoloji dünyası içinde konuştuğumuz her tür uygulama işte yelpazenin bu iki ucunun arasında şimdilik. Örneğin Fintech diye daha önce bahsettiğimiz finans kuruluşlarının teknolojik olarak yenilenmesini sağlamaya çalışan girişimler yelpazenin daha merkeze yakın tarafında yer alırken, DeFi hareketindeki girişimler daha merkeziyetsiz taraftalar.
+Finans ve teknoloji dünyası içinde konuştuğumuz her tür uygulama işte yelpazenin bu iki ucunun arasında şimdilik. Örneğin FinTech diye daha önce bahsettiğimiz finans kuruluşlarının teknolojik olarak yenilenmesini sağlamaya çalışan girişimler yelpazenin daha merkeze yakın tarafında yer alırken, DeFi hareketindeki girişimler daha merkeziyetsiz taraftalar.
 
 Yukarıdaki tanımlardan “merkeziyetsiz yapı daha iyidir” gibi bir sonuç çıkarmayın lütfen. Zira yelpazenin her iki tarafının da kendine göre avantajları var. Gelin birkaç soru ile derinine dalalım bu merkeziyetsizlik meselesinin: 
 
