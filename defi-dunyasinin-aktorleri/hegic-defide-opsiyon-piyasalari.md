@@ -36,7 +36,11 @@ Varsayalım bir ay sonra varlığın değeri 1.200 TL’ye yükseldi. Bu durumda
 
 ‘Put’ opsiyonu da benzer şekilde çalışıyor. 1.000 TL değerinde bir varlığı bir ay sonra 1.000 TL’ye satma hakkını yani ‘put’ opsiyonu 50 TL’ye aldığınızı varsayalım.
 
-Bir ay sonrasında değer 800 TL’ye düşerse opsiyonu kullanarak varlığı 1.000 TL’ye satabilir ve 50 TL opsiyon bedelini ödedikten sonra net 150 TL kâra sahip olabilirsiniz. 
+Bir ay sonrasında değer 700 TL’ye düşerse opsiyonu kullanarak varlığı 1.000 TL’ye satabilir ve 50 TL opsiyon bedelini ödedikten sonra net 250 TL kâra sahip olabilirsiniz.  Tam tersine eğer fiyat 1,300 TL'ye yükselirse o zaman opsiyonu kullanmaz ve 50 TL maliyet ile kurutulursunuz. 
+
+![](../.gitbook/assets/020707-hegic-defide-opsiyon-piyasalari-opsiyonlar.png)
+
+_Call ve put opsiyonlarının örnek üzerinden anlatımı_
 
 Yukarıdaki call ve put opsiyonlarını kullanmanın dört farklı fiyat seviyesinde getirisi \(ya da götürüsünü\) bir tabloda özetlersek: 
 
