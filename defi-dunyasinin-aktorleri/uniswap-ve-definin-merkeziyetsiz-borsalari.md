@@ -53,7 +53,7 @@ _**2. Bir kişi daha gelip 1 ETH daha satmak isterse?**_ Aynı işlem tekrarlan�
 
 _**3. Peki üçüncü bir işlem olarak; biri kullanıcı gelir ve bu sefer satmak yerine, 1 ETH almak isterse?**_ ****Fark etmişsinizdir; sistem sizin hangi token almak istediğinize bakıp diğerinden ne kadar yatırmanız gerektiğini söylüyor. Havuza “1 ETH almak istiyorum” dediğinizde havuz size göndereceğiniz USDC’yi hesaplıyor. Katsayı 3.000.000’u yeni oluşacak ETH havuzundaki adet olan 101’e bölündüğünde USDC havuzu rakamının 29.703 olması gerektiği ortaya çıkıyor. Yani kullanıcının bir ETH alabilmesi için havuza 291 adet USDC koyması gerekiyor. Farkı görüyorsunuz değil mi? Kullanıcı, dışarıda 300 USDC’ye alabileceği 1 ETH'yi, havuzda ETH fazlalığı olduğu için 291 USDC’ye alabiliyor.
 
-![](../.gitbook/assets/placeholder.png)
+![](../.gitbook/assets/020403-03_uniswap_ve_definin_merkeziyetsiz_borsalari_havuz_ucuncu.png)
 
 Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak:
 
