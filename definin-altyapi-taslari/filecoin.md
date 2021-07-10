@@ -60,7 +60,7 @@ Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkezi
 
 Aşağıda da Filecoin’in rakipleri ile Ekim 2020 tarihindeki karşılaştırmalı fiyatları bulunmakta:
 
-![](../.gitbook/assets/030509-filecoin-definin-merkeziyetsiz-saklama-deposu-filstats_siastats_storj.png)
+![](../.gitbook/assets/030509-filecoin-definin-merkeziyetsiz-saklama-deposu-filecoin_maliyet_karsilastirma_v2.png)
 
 _Veri depolama ücretleri - Ekim 2020. Kaynak:_ [_Messari_](https://messari.io/asset/filecoin/news)\_\_
 
