@@ -227,7 +227,7 @@ _ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021._ [_Kaynak
 
 Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyorlar. Genel olarak tercih edilen tüm işlemlerin tek tek Ethereum blokzincirine işlenmesi yerine, bu işlemlerin bir araya getirilip, emek yoğun kısmın zincir dışında tamamlandıktan sonra sadece sonuçların blokzincire yazılması. Roll-up çözümleri de denen bu işlem sonucu işlem maliyetleri düşüyor; ancak işlem sonuçlarının blokzincirde yazılması zaman alabiliyor.
 
-Uniswap yeni sürümde 'Optimistic Roll-up’ kullanacağını açıkladı. Maliyetlerin düşmesi açısından güzel bir gelişme olacak gibi görünüyor. Bir diğer DeFi devi olan sentetik türev piyasası Synthetix de Optimistic roll-up kullanacağını açıklamıştı. v3 ilanının hemen ertesi günü [Optimistic’in genel kullanıma açılma tarihinin Nisan’dan Temmuz’a ertelenmesi](https://optimismpbc.medium.com/optimistically-cautious-767a898f90c8) Uniswap’ı nasıl etkileyecek, onu hep birlikte göreceğiz.
+Uniswap yeni sürümde '[Optimistic Roll-up](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/#:~:text=Optimistic%20rollups%20sit%20in%20parallel,do%20any%20computation%20by%20default.&text=With%20Optimistic%20rollups%2C%20transactions%20are,by%20reducing%20the%20gas%20cost.)’ kullanacağını açıkladı. Maliyetlerin düşmesi açısından güzel bir gelişme olacak gibi görünüyor. Bir diğer DeFi devi olan sentetik türev piyasası Synthetix de Optimistic roll-up kullanacağını açıklamıştı. v3 ilanının hemen ertesi günü [Optimistic’in genel kullanıma açılma tarihinin Nisan’dan Temmuz’a ertelenmesi](https://optimismpbc.medium.com/optimistically-cautious-767a898f90c8) Uniswap’ı nasıl etkileyecek, onu hep birlikte göreceğiz.
 
 #### Beni kopyalama!
 
