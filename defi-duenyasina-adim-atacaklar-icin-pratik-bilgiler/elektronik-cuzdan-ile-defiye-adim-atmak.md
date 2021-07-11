@@ -38,7 +38,7 @@ Bu sözcük grubu elinizin altında olduğu sürece, istediğiniz elektronik cü
 
 Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki bölümümüzde, farklı cüzdanları incelerken, hangilerinin daha güvenli olduğuna da bakacağız. Bir yandan da güvenlik ile kullanım rahatlığı arasında bazen bir taraf öbürüne göre daha ağır basabiliyor, bunu da hesaba katmakta fayda var.
 
-Kripto dünyası, yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Şu anda, hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça fazla kişisel tercih  içerdiği için \(güvenlik ya da pratikliğin seçilmesi anlamında\), buradan bir tavsiye vermeyeceğiz. İlerleyen bölümlerimizde sık kullanılan birkaç cüzdan örneği olacak, bunları daha bir gönül rahatlığı içinde kullanabilirsiniz.
+Kripto dünyası, yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Şu anda, hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça fazla kişisel tercih  içerdiği için \(güvenlik ya da pratikliğin seçilmesi anlamında\), buradan bir tavsiye vermeyeceğiz.
 
 Genel olarak, güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış; örneğin, mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz.
 
