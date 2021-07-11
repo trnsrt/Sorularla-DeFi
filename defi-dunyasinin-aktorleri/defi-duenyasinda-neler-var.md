@@ -46,21 +46,21 @@ Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi
 
 Öte yandan 2021 yılının ilk aylarında, DeFi'nin patlaması ile birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik. 
 
-#### Bilgi Sağlayıcılar:
+#### Bilgi Sağlayıcılar\(Oracles\) :
 
 DeFi dünyasının temel taşı olan akıllı kontratlar, işlemleri gerçekleştirmek için dış dünyadan bilgi alma ihtiyacı duyarlar ancak doğaları gereği dış dünya ile bağlantıları bulunmaz. Bilgi sağlayıcılar \(İngilizce'de 'oracle'\);  blokzincir ile dış dünya arasında bilgi taşımada bir köprü vazifesi gören, önemli  altyapı parçalarında biri. Bilgi sağlayıcılar ve bu alanın en büyüğü olan Chainlink ile ilgili detaylı bilgiyi ilerleyen sayfalarımızda bulabilirsiniz. 
 
-#### Temel DeFi ürünleri
+#### Temel DeFi ürünleri \(DeFi primitives\)
 
 İşte aslında en çok konuşulan ve DeFi dünyasına yeni adım atanların ilk karşılaştıkları DeFi ürünleri bu kategorinin içinde. Başlangıçta klasik finansı taklit eden ürünler ile işe başlayan, şimdilerde yavaş yavaş DeFi'nin temel avantajlarını kullanarak klasik dünyada hayal bile edilemeyecek yeni ürünler sunan protokoller. Ürün ya da protokol olarak adlandırdığımız bu yapıların her biri, aslına bakarsınız, özünde akıllı kontrat da denen bir yazılım parçası. 
 
 İncelememize bu alandaki en eski protokollerden MakerDAO ile başlayacak ve yedi temel ürüne detaylıca göz atacağız. 
 
-#### Kaynak Sağlayıcılar/Toplayıcılar
+#### Kaynak Sağlayıcılar/Toplayıcılar \(Aggregators\)
 
 DeFi dünyasında binlerce farklı hizmet olması, kullanıcıya alternatif sunma açısından fayda sağlasa da, bir noktadan sonra onun aklını da karıştırabiliyor. DeFi ürünlerinin 'birlikte çalışabilirlik' temel prensibine göre oluşturulması sayesinde, artık farklı hizmetleri karşılaştırmak ve en optimum  hizmet kombinasyonunu bulmak mümkün \(ki bu optimum nokta; risk algısı, kazanç beklentisi,  işlemleri en hızlı/ucuz yapma gibi farklı parametrelere göre kişiden kişiye değişir\).
 
-#### Cüzdanlar/Önyüzler
+#### Cüzdanlar/Önyüzler \(Wallets/Front Ends\)
 
 DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzdanlar olduğunu söyleyebiliriz. Cüzdanlar, aynı zamanda; bu dünyaya ilk adımını atan bir kullanıcının elinde olması gereken temel araçlardan. Perakendede bir söz vardır: 'Müşteriye kim dokunuyorsa en güçlü odur' denir. Cüzdanlar için de DeFi'nin kullanıcıya dokunma noktaları diyebiliriz. \(Bu alana ilk kez adım atacaklara yönelik cüzdan ve kaynak sağlayıcıları ile ilgili detaylı bilgiler son kısmımızda yer alıyor\). 
 
