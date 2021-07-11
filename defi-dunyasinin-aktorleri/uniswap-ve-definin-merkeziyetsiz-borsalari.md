@@ -151,7 +151,7 @@ Bitti mi? Hayır. Zaman içinde bu likidite oyununu giderek artırdı Curve. Com
 
 #### Balancer
 
- [Balancer](https://balancer.exchange/), Uniswap’a kullanıcı arayüzü olarak çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. Neler bunlar hızlıca bakalım:
+[Balancer](https://balancer.exchange/), Uniswap’a kullanıcı arayüzü olarak çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. Neler bunlar hızlıca bakalım:
 
 Öncelikle, ikili değil sekiz tokene kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor. Örneğin; içinde %40 WETH, %35 DAI, %25 USDC olan [bir havuz var](https://pools.balancer.exchange/#/pool/0x9b208194acc0a8ccb2a8dcafeacfbb7dcc093f81/). Ne işe yarar bu? Likidite sağlayıcılar için kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapma imkânı. Adeta kişiye özel bir yatırım fonu! Üstelik klasik bir endeks fonunda fon yöneticisine yönetim payı verirken, burada likidite sağlayıcılar hem yapılan işlem üzerinden komisyon hem de Balancer’ın yönetim tokeni olan BAL’ı almaya hak kazanıyor.
 
