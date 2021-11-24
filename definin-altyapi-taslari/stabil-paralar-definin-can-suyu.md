@@ -30,7 +30,7 @@ Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gi
 
 Kripto dünyasında, özellikle alım satım işlemlerinde kriptopara kullanma olayı, son zamanlarda ciddi bir artış gösterdi. Aşağıdaki grafik bu durumu çok net bir şekilde özetliyor:
 
-![](../.gitbook/assets/030709-stabil\_paralar-exchange\_kullanim\_payi.png)
+![](../.gitbook/assets/030709-Stabil\_paralar-exchange\_kullanim\_payi\_v2.png)
 
 _Dokuz büyük merkezi borsada işlem yaparken kullanılan para cinsi oranları. Kaynak: _[_TheBlock_](https://www.theblockcrypto.com/data/crypto-markets/spot/share-of-trade-volume-by-pair-denomination)__
 
@@ -38,7 +38,7 @@ Mayıs 2017 yılında, dokuz büyük merkezi borsada yapılan alım-satım işle
 
 Peki, stabil paralar arasında en yaygın kullanılanları hangisi? Burada da pazar liderinin tartışmasız Tether olduğunu görüyoruz:&#x20;
 
-![](../.gitbook/assets/030711-stabil\_paralar-stabil\_para\_gelisim\_v2.png)
+![](../.gitbook/assets/030711-Stabil\_paralar-stabil\_para\_gelisim\_v3.png)
 
 _Tedavüle çıkan stabil kriptopara miktarı Kaynak: _[_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins/total-stablecoin-supply-daily)__
 

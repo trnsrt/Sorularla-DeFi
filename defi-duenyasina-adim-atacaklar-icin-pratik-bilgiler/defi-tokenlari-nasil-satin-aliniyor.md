@@ -20,7 +20,7 @@ Merkeziyetsiz borsalar, DeFi felsefesine uygun olarak ‘açık’ bir şekilde 
 
 Merkeziyetsiz borsalar içinde en büyüğü Uniswap (daha detaylı bilgi için 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' bölümüne bakabilirsiniz); diğer büyükleri ise aşağıdaki tabloda görebilirsiniz:
 
-![](../.gitbook/assets/040405-defi\_tokenlari\_nasil\_satin\_aliniyor-dexes.png)
+![](../.gitbook/assets/040305-Defi\_tokenlari\_nasil\_satin\_aliniyor-dexes\_v2.png)
 
 _Merkeziyetsiz borsalar pazar payı değişimleri değişimi. Kaynak: _[_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/share-of-dex-volume-monthly)
 
