@@ -46,7 +46,7 @@ Bunun yerine, toplayıcıya parasını kullanma konusunda izin verdiğinde, sonr
 
 2020 yılının Nisan ayı itibariyle, piyasada üç büyük toplayıcı bulunuyor. Bunlar; [1inch](https://1inch.exchange/#/), [Matcha](https://matcha.xyz) ve [ParaSwap](https://paraswap.io) olarak sıralanıyor.&#x20;
 
-![](../.gitbook/assets/040507-farkli-merkeziyetsiz-borsalar-dex\_islem\_hacimleri.jpg)
+![](../.gitbook/assets/040507-Farkli-merkeziyetsiz-borsalar-Dex\_islem\_hacimleri\_v3.png)
 
 _Merkeziyetsiz işlem toplayıcı hacimleri Kaynak: _[_TheBlock_](https://www.theblockcrypto.com/data/decentralized-finance/dex-non-custodial/dex-aggregator-trade-volume)
 
