@@ -132,8 +132,6 @@ Ezberlerimizi yeterince bozduk mu? :)
 
 Sistemin nasıl çalışacağını gelin bir de örnek üzerinden anlatalım:
 
-![](../.gitbook/assets/placeholder.png)
-
 _**AMPL token fiyatı yükselirse ne oluyor?**_
 
 Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL’si var, yani 100 ABD Dolarına eş bir yatırımı. Bir anda piyasalarda AMPL’ye talep oldu ve AMPL fiyatı 1.5 ABD Dolarına çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor (mevcut fiyat ile hedef arasında artı/eksi %5’den fazla fark olursa algoritma çalışıyor) ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL’si var!
@@ -161,8 +159,6 @@ _**Fiyat konusundaki bu ısrar neden?**_
 Hisse (ya da token) fiyatını sabit tutmak neden önemli? Bir paranın, alım-satım ve ticaret için kullanımı ancak değerinin “gerçek” anlamda sabit olması durumunda gerçekleşebilir. Öte yandan, yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. İşte Ampleforth, sabit değerli ve alışverişlerde güvenle kullanılabilecek bir para yarattıktan sonra, bu paranın rağbet görmesi durumunda yatırımcısına da değer kazandıracak bir enstrümana dönüşmesini sağlıyor. Sabit paralardan en büyük farkı bu: Kullanan için sabit para, yatırımcısı için eğer kabul görüp yaygınlaşır ise değer kazandırıcı bir enstrüman.
 
 Yani tekrar edecek olursak: **Yatırımcılar, AMPL’nin sabit değerli bir para olarak kullanımının yaygınlaşmasını, bu sayede AMPL tokenine yönelik talebin artmasını; artan talebi karşılamak amacıyla ekstra AMPL token çıkarılmasını, dolayısıyla Ampleforth sisteminin toplam ağ değerinin artmasını bekliyorlar**. Artan Ampleforth sistem değeri sonucu ortaya çıkan ekstra AMPL’ler de yatırımcılara dağıtılacağı için AMPL değeri sabit kalsa bile toplam yatırımlarından kâr sağlama beklentisi içindeler.
-
-![](../.gitbook/assets/placeholder.png)
 
 #### Ampleforth’un vizyonu
 

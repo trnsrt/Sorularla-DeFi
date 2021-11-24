@@ -173,7 +173,7 @@ Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Baş
 
 Bununla bağlantılı ikinci temel risk ise şu; yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
 
-![](../.gitbook/assets/020607-synthetix\_ve\_turev\_piyasalari-synthetix\_distribution\_v3.png)
+![](../.gitbook/assets/020607-Synthetix\_ve\_turev\_piyasalari-synthetix\_distribution\_v5.png)
 
 _SNX ürünlerinin Mayıs 2021 itibariyle dağılımı _[_Kaynak_](https://dashboard.synthetix.io)__
 
