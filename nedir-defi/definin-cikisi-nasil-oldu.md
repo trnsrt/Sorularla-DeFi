@@ -68,7 +68,7 @@ Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünya
 
 Yukarıda bahsettiğimiz iki yenilik, yani havuz sistemi ile protokollere likidite sağlama, ayrıca yönetim tokenleri aracılığıyla platformlara bir değer kazandırma taktikleri, ciddi miktarda paranın bu alana akmasını sağladılar:&#x20;
 
-![](../.gitbook/assets/defi\_pulse\_210530.png)
+![](../.gitbook/assets/010407-Definin\_cikisi-defi\_pulse\_211123.png)
 
 _DeFi'ye kilitli olan para miktarının bir yıl içindeki artışı göz kamaştırıcı. Kaynak: _[_DeFi Pulse_](https://defipulse.com)__
 

@@ -34,9 +34,9 @@ Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen se
 
 Türev piyasalarının yükselen yıldızı Synthetix; Avustralya çıkışlı bir ekibin ürünü (Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye’den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz). Ekip, kriptoparaların halka açılması olarak da adlandırdığımız ICO (Initial Coin Offering) piyasasının en sıcak olduğu 2018 yılının başlarında, yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.
 
-![](../.gitbook/assets/020607-synthetix\_ve\_turev\_piyasalari-synthetix\_locked\_value\_v2.png)
+![](../.gitbook/assets/020609-Synthetix\_ve\_turev\_piyasalari-Synthetix\_locked\_value\_v4.png)
 
-_2020-2021 yılları Synthetix’de kilitlenen para miktarı. Kaynak: _[_DefiPulse_](https://defipulse.com/synthetix)__
+_2020-2021 yılları Synthetix’de kilitlenen para miktarı. Kaynak: _[_DefiLlama_](https://defillama.com/protocol/synthetix/all/USD)__
 
 ### Nasıl çalışıyor sistem?
 
@@ -175,7 +175,7 @@ Bununla bağlantılı ikinci temel risk ise şu; yapılan işlemlerin ağırlık
 
 ![](../.gitbook/assets/020607-Synthetix\_ve\_turev\_piyasalari-synthetix\_distribution\_v5.png)
 
-_SNX ürünlerinin Mayıs 2021 itibariyle dağılımı _[_Kaynak_](https://dashboard.synthetix.io)__
+_SNX ürünlerinin Kasım 2021 itibariyle dağılımı _[_Kaynak_](https://dashboard.synthetix.io)__
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. (Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Yine de bu durum, ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor).
 

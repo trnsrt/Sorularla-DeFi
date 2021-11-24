@@ -221,9 +221,9 @@ Uniswap işlemlerden aldığı binde 3 komisyonun şu anda tamamını likidite s
 
 Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücretleri. Eskiden 5-10 dolar verilen basit işlemler için şimdi kapı en az 30-40 ABD Dolarından açılıyor. Uniswap için bu durum ciddi bir sıkıntı. Zira normal bir günde Ethereum blokzinciri üzerindeki en fazla işlem yapan DeFi ürünü genelde Uniswap oluyor.
 
-![](../.gitbook/assets/020411-uniswap\_ve\_definin\_merkeziyetsiz\_borsalari-eth\_fees.png)
+![](../.gitbook/assets/020411-Uniswap\_ve\_DeFinin\_merkeziyetsiz\_borsalari-eth\_fees\_v2.png)
 
-_ETH sistemi üzerindeki en büyük yük sahipleri – 24 Mayıs 2021. _[_Kaynak_](https://etherscan.io/gastracker)__
+_ETH sistemi üzerindeki en büyük yük sahipleri – 24 Kasım 2021. _[_Kaynak_](https://etherscan.io/gastracker)__
 
 Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyorlar. Genel olarak tercih edilen tüm işlemlerin tek tek Ethereum blokzincirine işlenmesi yerine, bu işlemlerin bir araya getirilip, emek yoğun kısmın zincir dışında tamamlandıktan sonra sadece sonuçların blokzincire yazılması. Roll-up çözümleri de denen bu işlem sonucu işlem maliyetleri düşüyor; ancak işlem sonuçlarının blokzincirde yazılması zaman alabiliyor.
 

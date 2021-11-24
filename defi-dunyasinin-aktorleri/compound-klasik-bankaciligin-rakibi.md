@@ -36,7 +36,7 @@ Sistem temel olarak denge sistemi ile çalışıyor: Örneğin, faizlerin düşm
 
 Peki bankacılığın meşhur olayı “alacak riski (counter-party risk)” nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin, MakerDAO) benzer şekilde, Compound sisteminde de kredi alanın belli bir kriptoparayı teminat olarak yatırması gerekiyor. Her kriptoparanın teminat oranı farklı. En likit olan, örneğin ETH, en düşük teminat oranına sahip.
 
-![](../.gitbook/assets/020307-compound-collateral-\_ratio.png)
+![](<../.gitbook/assets/020307-Compound-collateral \_ratio\_v3.png>)
 
 _Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Haziran 2021 Kaynak: _[_Compound_](https://compound.finance/markets/ETH)__
 
@@ -44,7 +44,7 @@ _Compound en büyük üç para cinsinde kredi/teminat oranı aynı: %75 - Hazira
 
 Şu aşamada ETH, WBTC (Bitcoin’in değerine eşit ETH bazlı bir sentetik para), Augur gibi Ethereum bazlı kriptoparalar ile USDC, Tether, DAI gibi stabil paralar ile sistemden [mevduat yapabilir ya da kredi alabilirsiniz](https://compound.finance/markets).
 
-![](../.gitbook/assets/020309-compound-money-compound\_currencies.png)
+![](../.gitbook/assets/020309-Compound-money-compound\_currencies\_v2.png)
 
 _Compound en çok kredi verilen üç kriptopara - Haziran 2021. Kaynak: _[_Compound_](https://compound.finance/markets)__
 

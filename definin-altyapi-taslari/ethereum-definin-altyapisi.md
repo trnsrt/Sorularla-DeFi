@@ -102,7 +102,7 @@ Son zamanlarda, özellikle Ethereum üzerine kurulan DeFi uygulamalarının yoğ
 
 [EIP 1559 olarak da adlandırılan bu öneri](https://eips.ethereum.org/EIPS/eip-1559) ile, yapılan işlemlerden alınacak olan komisyon madencilere verilmek yerine “yakılacak”. Vitalik, yakılacak rakamın şu anki DeFi sonrası oluşan yoğun işlem rakamlarının devam etmesi durumunda, yıllık yaklaşık bir milyon ETH’yi bulmasını bekliyor. 2020 yılında Ethereum üzerinde [toplam 600 milyon USD işlem ücreti](https://formula-builder.coinmetrics.io/#369) ödendiğini düşünürsek; bu tahmin tutacak gibi görünüyor. (Bu arada [2019 yılında işlemlere ödenen toplam ücretin 35 milyon ABD Doları](https://formula-builder.coinmetrics.io/#371) olduğunu da belirtelim).
 
-![](../.gitbook/assets/ethereum\_2021\_islem\_ucretleri\_v2.png)
+![](../.gitbook/assets/030107-Ethereum\_definin\_altyapisi-Ethereum\_2021\_islem\_ucretleri\_v3.png)
 
 _Ethereum 2021 aylık madenci gelirleri (Kaynak: _[_TheBlock_](https://www.theblockcrypto.com/data/on-chain-metrics/ethereum/ethereum-miner-revenue-monthly)_)_
 

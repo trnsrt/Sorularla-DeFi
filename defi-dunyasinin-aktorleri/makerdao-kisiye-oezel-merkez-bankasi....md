@@ -24,9 +24,9 @@ Temel kullanımı bir örnek ile açıklayalım: Kişinin ani olarak paraya ihti
 
 Kredinin maliyetleri, kullanılan teminatın cinsine ve seçilen teminatın yeterlilik oranına göre değişkenlik gösteriyor. Örneğin; Mayıs 2021 itibariyle en çok kullanılan işlem olan 'ETH'yi kilitleyip %150 teminat oranı ile Dai borçlanma' işleminin maliyeti yıllık %5.5 oranında. Faiz oranının değiştirilmesine, sistemin yönetim tokenine sahip olanlar karar veriyor.&#x20;
 
-![](../.gitbook/assets/020203-makerdao-stability\_fees.png)
+![](../.gitbook/assets/020204-MakerDAO-stability\_fees\_v2.jpg)
 
-_MakerDAO kredi maliyetleri - Haziran 2021 itibariyle. Kaynak: _[_MakerDAO_](https://oasis.app/borrow)__
+_MakerDAO kredi maliyetleri - Kasım 2021 itibariyle. Kaynak: _[_MakerDAO_](https://oasis.app/borrow)__
 
 #### Ya ETH çok düşer de teminatımın altına inerse?
 

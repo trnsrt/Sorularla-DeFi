@@ -14,7 +14,7 @@ _Image by _[_Clarence Alford_](https://pixabay.com/users/clarencealford-5516293)
 
 DeFi hareketinin hız kazanmasına paralel, ağırlıklı olarak token alım-satımı ya da DeFi protokollerinin sunduğu finansal hizmetlerin kullanımı nedenleriyle Ethereum üzerindeki işlem hacmi ciddi bir şekilde arttı. Bu durum, bir noktada o kadar yoğunluk kazandı ki, Ethereum üzerinde yapılan işlemler için ödenen ücretler 'ateş pahası' haline geldi.&#x20;
 
-![](../.gitbook/assets/030206-ethereum\_ve\_rakipleri-eth\_median\_fees\_coinmetrics\_1yr\_v3.png)
+![](../.gitbook/assets/030206-Ethereum\_ve\_rakipleri-eth\_median\_fees\_coinmetrics\_1yr\_v4.png)
 
 _Ethereum platformu üzerindeki ortalama (median) işlem ücretleri. Kaynak: _[_Coinmetrics_](https://network-charts.coinmetrics.io)__
 
@@ -28,9 +28,9 @@ Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an en fazla 
 
 [Polkadot](https://polkadot.network), [Cardano](https://cardano.org) ve [Avalanche](https://www.avalabs.org); başlangıçta Ethereum’u kuran ekipte olup sonrasında felsefi fikir ayrılıkları nedeniyle hareketten ayrılmış, saygın isimlerin kurdukları projeler. Polkadot ve Avalanche gerek işlev gerekse yapmak istedikleri açısından Ethereum’a oldukça yakınlar; hatta Avalanche, Ethereum ile bir köprü kurup orada bulunan tokenlerin kendi platformunda da işlem görmesini sağladı. Bu sayede Ethereum ile olan ilişkisini iyice artırdı. Cardano ise daha çok kurumsal alanda kapalı/açık blokzincir taleplerine karşılık olmayı hedefliyor. Keza diğer bir platform sağlayıcısı [Cosmos](https://cosmos.network); Polkadot benzeri farklı blokzincirler arası ortak çalışacak bir altyapı olmayı planlarken, [Stellar](https://www.stellar.org) da ödeme sistemleri konusunda kendisine bir yer kapmaya çalışıyor. Özellikle a16z liderliğindeki bir gruptan yatırım alan [Solana](https://solana.com) da, son zamanlarda adını sıkça duyuranlardan. &#x20;
 
-![](../.gitbook/assets/030207-ethereum\_ve\_rakipleri-ethereum\_ve\_diger\_platformlar\_v2.png)
+![](../.gitbook/assets/030207-Ethereum\_ve\_rakipleri-Ethereum\_ve\_diger\_platformlar\_v3.png)
 
-_Akıllı kontrat platformlarının ucu bucağı yok. Kaynak: _[_CoinGecko_](https://www.coingecko.com/en/categories/smart-contract-platform)__
+_Akıllı kontrat platformlarının ucu bucağı yok. Üstelik siz bunu okurken bu liste oldukça değişmiş olabilir (Not: Binance Smart Chain'de kullanılan BNB, aynı zamanda Binance'in kriptoparası olması nedeniyle dahil edilmedi) Kaynak: _[_CoinGecko_](https://www.coingecko.com/en/categories/smart-contract-platform)__
 
 Bunların hangileri başarılı olacak, şu aşamada kestirmek zor. Peki, yatırım yaparken nelere dikkat etmeli? İlgilenenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı. Örneğin; ağların geliştirici sayıları, üstlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, uygulamalara kilitli değer miktarları (Ingilizce'de ‘total value locked’ kısaca TVL) ve diğer ağlar ile ilişkiler gibi. Yani kısacası ilk kısımda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 

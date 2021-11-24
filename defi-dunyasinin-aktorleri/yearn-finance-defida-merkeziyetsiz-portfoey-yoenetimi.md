@@ -152,7 +152,7 @@ Bunun yanında, özellikle yVault gibi ürünlerde, kriptopara teminat gösterer
 
 Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu, tek başına Yearn üzerinde bir milyar ABD Doları para toplanmasına yeterli değil. Baksanıza bir yılda yaşadıklarına:
 
-![](../.gitbook/assets/020513-yearn\_finance\_defide\_merkeziyetsiz\_portfoy\_yonetimi-defi\_pulse\_yearn\_v3.png)
+![](../.gitbook/assets/020513-Yearn\_finance\_defide\_merkeziyetsiz\_portfoy\_yonetimi-DeFi\_pulse\_yearn\_v6.png)
 
 _2020 yılından 2021 ortasına Yearn protokolüne kilitlenen para miktarı. Kaynak: _[_DeFi Pulse_](https://defipulse.com/yearn.finance)__
 
