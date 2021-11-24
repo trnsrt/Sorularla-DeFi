@@ -6,7 +6,7 @@
 
 * [Blokzincirin çıkış felsefesi ne?](nedir-defi/blokzincirin-cikis-felsefesi-ne.md)
 * [Blokzincir finans dünyasını nasıl etkileyecek?](nedir-defi/blokzincir-finans-dunyasini-nasil-etkileyecek.md)
-* [Merkeziyetsiz finans \(DeFi\) ne demek?](nedir-defi/defi-merkeziyetsiz-finans-ne.md)
+* [Merkeziyetsiz finans (DeFi) ne demek?](nedir-defi/defi-merkeziyetsiz-finans-ne.md)
 * [DeFi'nin çıkışı nasıl oldu?](nedir-defi/definin-cikisi-nasil-oldu.md)
 * [DeFi'nin temel özellikleri neler?](nedir-defi/definin-temel-ozellikleri-neler.md)
 * [DeFi'de yatırım ve girişimcilik](nedir-defi/defide-yatirim-ve-girisimcilik.md)
@@ -14,8 +14,9 @@
 * [DeFi'de nasıl merkeziyetsiz olunuyor?](nedir-defi/cefiden-defiye.-merkeziyetsizlestiremediklerimizden-misiniz.md)
 * [Peki ya DeFi'nin riskleri?](nedir-defi/peki-ya-definin-riskleri.md)
 * [DeFi'de regülasyon olur mu?](nedir-defi/defide-reguelasyon-olur-mu.md)
+* [Dijitalleşme sürecinde gelecekte bizi neler bekliyor?](nedir-defi/dijitallesme-suerecinde-gelecekte-bizi-neler-bekliyor.md)
 
-## DeFi Dünyasının Aktörleri <a id="defi-dunyasinin-aktorleri"></a>
+## DeFi Dünyasının Aktörleri <a href="defi-dunyasinin-aktorleri" id="defi-dunyasinin-aktorleri"></a>
 
 * [DeFi dünyasında neler var?](defi-dunyasinin-aktorleri/defi-duenyasinda-neler-var.md)
 * [MakerDAO: Kişiye özel merkez bankası](defi-dunyasinin-aktorleri/makerdao-kisiye-oezel-merkez-bankasi....md)
@@ -45,4 +46,3 @@
 * [Farklı merkeziyetsiz borsaları aynı anda kullanmak](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/farkli-merkeziyetsiz-borsalari-ayni-anda-kullanmak.md)
 * [DeFi'de portföy nasıl takip edilir?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defide-portfoey-nasil-takip-edilir.md)
 * [DeFi ile bizi neler bekliyor?](defi-duenyasina-adim-atacaklar-icin-pratik-bilgiler/defi-ile-bizi-neler-bekliyor.md)
-

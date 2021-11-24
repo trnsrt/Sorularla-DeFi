@@ -12,13 +12,13 @@ Klasik dünyada karşınızda bir müşteri var. Bu müşteriyi çeşitli promos
 
 Aklı başka tarafa kayan müşterisini tutmak için ona çeşitli ödüller verir. İndirimler yapar. İsteyeceği ücreti askıya alır. En sonunda müşteri hâlâ gitmek istiyor ise, ona zorluk çıkarır. Hepimiz yaşamışızdır; abone olmak istediğimizde kapımıza gelip imzamızı alırlar, ama ayrılmak istediğimizde kısa bir süre öncesine kadar artık kimsede kalmayan fax makinesi ile imzalı dilekçe gönderilmesini istiyorlardı.
 
-Dolayısıyla, klasik dünya yukarıdaki müşteriye sahip olma \(Customer acquisition\), müşteriyi tutma \(Customer retention ya da tam tersi attrition\) ya da müşteriye yapışma \(Customer stickiness\) ölçümlerine çok dikkat eder, çalışanların performanslarında en kritik metrik olarak bunları görür.
+Dolayısıyla, klasik dünya yukarıdaki müşteriye sahip olma (Customer acquisition), müşteriyi tutma (Customer retention ya da tam tersi attrition) ya da müşteriye yapışma (Customer stickiness) ölçümlerine çok dikkat eder, çalışanların performanslarında en kritik metrik olarak bunları görür.
 
 ### Peki ya DeFi dünyasında durum nasıl?
 
 DeFi, klasik dünyanın temel taşlarını yeni baştan tasarlayan, oyunun kurallarının yeniden yazan bir oluşum. Buna paralel olarak, müşteriye bakış açısı klasik dünyaya göre çok daha farklı. Nasıl?
 
-DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek \(İngilizce'de 'permissionless' yani izin gerektirmeyen\). Sadece kullanıcı tarafında değil ürün geliştirici tarafında da 'isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi' demek. Peki bunun doğurduğu sonuçlar neler?
+DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek (İngilizce'de 'permissionless' yani izin gerektirmeyen). Sadece kullanıcı tarafında değil ürün geliştirici tarafında da 'isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi' demek. Peki bunun doğurduğu sonuçlar neler?
 
 Kullanıcı tarafından bakarsak, açık protokol gücü kullanıcıya veriyor. Bu sayede, kullanıcı hiçbir DeFi platformuna bağlı kalmak zorunda değil. Bugün kullanır, yarın gider başkasını kullanır, öbür gün geri gelir. Klasik dünyadan oldukça farklı bir dinamik.
 
@@ -30,9 +30,9 @@ Yukarıda anlattığımız iki durumdan dolayı DeFi ürünleri hep uyanık ve a
 
 Peki bu dünyada kritik olan ne? Verilen hizmete inanmış bir topluluk yaratmak. Böyle bir topluluğunuz varsa, o zaman işiniz nispeten daha kolay.
 
-![](../.gitbook/assets/010705-defide_oyunun_adi_topluluk-gears-5688996_1280.png)
+![](../.gitbook/assets/010705-defide\_oyunun\_adi\_topluluk-gears-5688996\_1280.png)
 
-_Image by_ [_mohamed Hassan_](https://pixabay.com/users/mohamed_hassan-5229782/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
+_Image by _[_mohamed Hassan_](https://pixabay.com/users/mohamed\_hassan-5229782/)_ from _[_Pixabay_](https://pixabay.com)__
 
 DeFi dünyasına girmek isteyen genç bir geliştirici iseniz ya da bu dünyaya yatırım yapmayı düşünen bireysel ya da kurumsal yatırımcı, ya da bu ürünleri kullanmak isteyen müşteri, yapmanız gereken ilk iş ilgilendiğiniz DeFi ürününün nasıl bir topluluğa sahip olduğunu anlamak.
 
@@ -52,11 +52,11 @@ Asıl olarak size fikir verecek yer, topluluğun kendi iç iletişim kanalların
 
 Eğer teknik bir insan iseniz, platformun kodlarının saklandığı github sayfalarını incelemek, ne kadar aktivite var anlamak da faydalı olur. Eğer platformun kullanıcı sayılarını merak ediyorsanız, [şu site](https://www.duneanalytics.com/rchen8/defi-users-over-time) size yardımcı olacaktır
 
-#### Ürünü kullanmaya başlayın \(ama ufak ufak\)
+#### Ürünü kullanmaya başlayın (ama ufak ufak)
 
 Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araştırma sonrası içiniz rahat ediyor ise, ürünü kullanmaya başlayabilirsiniz. Burada da kabaca şöyle bir yol izleyebilirsiniz:
 
-Öncelikle küçük denemeler yapmakta fayda var. Ürünü kullandınız ve beğendiniz, ondan sonrasında platformun merkeziyetsizliğe ne kadar gönül verdiğini anlamakta fayda var. Zira, ‘doğan görünümlü şahin’ benzeri, DeFi alanında olduğunu söyleyen ama merkezi olan yapılar var \(sana bakıyorum Chainlink!\). Bunu yazdığım için bu tip yapılar başarılı olamazlar diye bir sonuç çıkmasın sakın. Meramım şu: Madem merkeziyetsiz bir dünyanın içindeyiz, bu dünyada başarılı olacak olanların bu felsefeyi sadece sözde değil özde de benimsediğini anlamak gerek.
+Öncelikle küçük denemeler yapmakta fayda var. Ürünü kullandınız ve beğendiniz, ondan sonrasında platformun merkeziyetsizliğe ne kadar gönül verdiğini anlamakta fayda var. Zira, ‘doğan görünümlü şahin’ benzeri, DeFi alanında olduğunu söyleyen ama merkezi olan yapılar var (sana bakıyorum Chainlink!). Bunu yazdığım için bu tip yapılar başarılı olamazlar diye bir sonuç çıkmasın sakın. Meramım şu: Madem merkeziyetsiz bir dünyanın içindeyiz, bu dünyada başarılı olacak olanların bu felsefeyi sadece sözde değil özde de benimsediğini anlamak gerek.
 
 Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekmiyor; zaten gerekli de değil. Başlangıç aşaması, ürünü geliştirmek adına merkezi bir şekilde yürüyebilir. Ancak grup belli bir olgunluğa ulaştıkça, ürün geliştirmenin yanında özellikle yönetimi de merkezilikten çıkarmak gerekiyor. Bu nedenle, belli bir büyüklüğe erişmiş girişimlerde demokratikleşme ve kritik yönetim kararlarını topluluğa bırakma ön plana çıkmalı.
 
@@ -69,4 +69,3 @@ Likidite DeFi alanındaki bir platform için can suyu demek. Neden? Çünkü, bu
 İşte 2020 yılının bahar aylarında Compound ile başlayan yönetim tokenını topluluğu dağıtma politikası ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFi platformuna daha gönülden bağlanarak verilen hizmetleri daha geniş kitlelere yaydılar.
 
 DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor?. Bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir.
-

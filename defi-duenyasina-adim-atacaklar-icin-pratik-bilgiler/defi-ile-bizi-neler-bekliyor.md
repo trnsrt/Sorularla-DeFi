@@ -12,9 +12,9 @@ Daha önemlisi, kullanıcıların aşması gereken zihinsel bariyerler var. Bir 
 
 DeFi’nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı; **gücü kullanıcıya vermesi**.
 
-![](../.gitbook/assets/040105-defi_dunyasina_adim_atacaklara-man-1069219_1920.jpg)
+![](../.gitbook/assets/040105-defi\_dunyasina\_adim\_atacaklara-man-1069219\_1920.jpg)
 
-_Image by_ [_Rudy and Peter Skitterians_](https://pixabay.com/users/skitterphoto-324082/) _from_ [_Pixabay_](https://pixabay.com/)\_\_
+_Image by _[_Rudy and Peter Skitterians_](https://pixabay.com/users/skitterphoto-324082/)_ from _[_Pixabay_](https://pixabay.com)__
 
 Bu ne demek? Kullanıcıların, yani bireylerin, dijital varlıklara “tam anlamıyla sahip olması” demek. Biraz daha açarsak; bu, klasik dünyada, iş görebilmek için varlıklarını aracılara emanet etmek zorunda kalan bireylerin, bu aracıların onlara getirdiği kısıtlamalardan tamamen kurtulmaları anlamına geliyor.
 
@@ -23,4 +23,3 @@ Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da iş
 İşte, gücün bireyden çok hizmet veren kurumda olması, mevcut finansal sistemlerin en büyük handikapı. Kullanıcılar, kendilerine DeFi tarafından yavaş yavaş sunulan bu gücün tadına vardıklarında, bir daha arkalarına bakacaklar mı? Muhtemelen hayır.
 
 Peki, bu gücü nasıl kullanıcıya verecek? DeFi'nin iki temel özelliği var: Birincisi, kişi ayırt etmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. İkincisi ise, içindeki her tür ürün ve platformun birbiri ile uyumlu bir şekilde beraberce kullanılabilmesi.
-

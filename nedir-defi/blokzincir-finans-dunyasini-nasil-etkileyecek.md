@@ -1,16 +1,16 @@
 # Blokzincir finans dünyasını nasıl etkileyecek?
 
-Blokzincirin finans dünyasının nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans kurumlarını gelecekte nelerin beklediğinden yola çıkıp, sonrasında blokzincire bakalım: 
+Blokzincirin finans dünyasının nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans kurumlarını gelecekte nelerin beklediğinden yola çıkıp, sonrasında blokzincire bakalım:&#x20;
 
 ### Dijitalleşmenin getirdikleri
 
-**Dijitalleşme olarak da adlandırılan, fiziksel dünyadan dijital dünyaya geçtiğimiz son otuz yılda işlem hacimlerinde ciddi bir patlama yaşandı. Ve bu süreçte aslan payını banka ve benzeri finans kurumları kaptılar.** Eskiden para göndermek için banka şubesine gitmek başlıbaşına bir zulüm iken, şimdi elimizdeki cihazlar ile aynı sürede onlarca işlemi dakikalar içinde yapıyoruz. Benzer şekilde online ürün almak ya da elektrik, su faturası ödemek gibi işlemleri saniyeler içinde oturduğumuz yerden bitiriyoruz. Keza vergi ve trafik cezası gibi devlete yapmamız gereken ödemeleri de. Tabii tüm bunların bankalar aracılığıyla ve bir bedel karşılığı gerçekleştiğini unutmayalım. 
+**Dijitalleşme olarak da adlandırılan, fiziksel dünyadan dijital dünyaya geçtiğimiz son otuz yılda işlem hacimlerinde ciddi bir patlama yaşandı. Ve bu süreçte aslan payını banka ve benzeri finans kurumları kaptılar.** Eskiden para göndermek için banka şubesine gitmek başlıbaşına bir zulüm iken, şimdi elimizdeki cihazlar ile aynı sürede onlarca işlemi dakikalar içinde yapıyoruz. Benzer şekilde online ürün almak ya da elektrik, su faturası ödemek gibi işlemleri saniyeler içinde oturduğumuz yerden bitiriyoruz. Keza vergi ve trafik cezası gibi devlete yapmamız gereken ödemeleri de. Tabii tüm bunların bankalar aracılığıyla ve bir bedel karşılığı gerçekleştiğini unutmayalım.&#x20;
 
-Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu dijital varlığa sahip olma \(elinde tutma, kaydetme\) ve onu transfer edebilme gibi temel gereksinimleri başarı ile karşılayan finans sektörü şimdi üç kulvardan tehdit altında. Nedir bu üç kulvar derseniz, basitleştirilmiş olarak bir bireyin finansal ilişkide bulunduğu üç grup üzerinden bakalım:
+Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu dijital varlığa sahip olma (elinde tutma, kaydetme) ve onu transfer edebilme gibi temel gereksinimleri başarı ile karşılayan finans sektörü şimdi üç kulvardan tehdit altında. Nedir bu üç kulvar derseniz, basitleştirilmiş olarak bir bireyin finansal ilişkide bulunduğu üç grup üzerinden bakalım:
 
-* Birey ile birey arasında \(kişisel para transferi\)
-* Birey ile ticari işletmeler arasında \(hizmet ya da ürün karşılığı ödeme\)
-* Birey ile devlet arasında \(vergi ve ceza\)
+* Birey ile birey arasında (kişisel para transferi)
+* Birey ile ticari işletmeler arasında (hizmet ya da ürün karşılığı ödeme)
+* Birey ile devlet arasında (vergi ve ceza)
 
 ### Finans kurumlarına üç koldan yapılan atak
 
@@ -18,7 +18,7 @@ Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu 
 
 **Bireyden bireye ödemelerde kriptoparalar**
 
-**Blokzincir teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık. Az sonra bu konuya daha detaylı gireceğiz ama önce diğer iki konuya ve finans sektörünün bu tehditlere nasıl karşılık verebileceğine kısaca değinelim. 
+**Blokzincir teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık. Az sonra bu konuya daha detaylı gireceğiz ama önce diğer iki konuya ve finans sektörünün bu tehditlere nasıl karşılık verebileceğine kısaca değinelim.&#x20;
 
 **Alışveriş ödemelerinde teknoloji devleri**
 
@@ -30,9 +30,9 @@ Benzer şekilde Facebook'un kurduğu Libra konsorsiyumunda yer alan dünyanın e
 
 **Ve merkez bankaları**
 
-Tabii, sadece finansal kurumlar değil Facebook'tan çekinen. Merkez Bankaları da bu global devleri kendi ekonomik politikalarına bir tehdit olarak algıladılar. İşte bu nedenle, Libra açıklamasının hemen ertesinde [Fransa Maliye Bakanı çığlığı bastı](https://www.marketwatch.com/story/french-finance-minister-says-libra-should-not-be-allowed-in-eu-2019-10-09#:~:text=BRUSSELS%20%28AP%29%20%E2%80%94%20The%20European,Bruno%20Le%20Maire%20said%20Wednesday.). Amerika Birleşik Devletleri kongresi Mark Zuckerberg ve Libra projesinin başı David Marcus'u neredeyse haftada bir sorgulamaya başladı.
+Tabii, sadece finansal kurumlar değil Facebook'tan çekinen. Merkez Bankaları da bu global devleri kendi ekonomik politikalarına bir tehdit olarak algıladılar. İşte bu nedenle, Libra açıklamasının hemen ertesinde [Fransa Maliye Bakanı çığlığı bastı](https://www.marketwatch.com/story/french-finance-minister-says-libra-should-not-be-allowed-in-eu-2019-10-09#:\~:text=BRUSSELS%20\(AP\)%20%E2%80%94%20The%20European,Bruno%20Le%20Maire%20said%20Wednesday.). Amerika Birleşik Devletleri kongresi Mark Zuckerberg ve Libra projesinin başı David Marcus'u neredeyse haftada bir sorgulamaya başladı.
 
-ABD \(ve kısmen Avrupa Birliği\) global finans sistemin ağırlıklı sahibi olarak egemenliklerinin devamına tehdit olarak gördükleri için Libra benzeri Blokzincir tabanlı merkeziyetsiz insiyatiflere kuşkuyla bakıyorlar \([dünya ticaretinin %80'inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift_bi_currency_evolution_infopaper_57128.pdf) hatırlatalım\). Öte yandan dünyanın diğer tarafında, ekonomik bir güç olmayı hedefleyen Çin ise Libra'ya tepkisini, yıllardır [üzerinde çalışmakta olduğu kendi Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:~:text=What%20is%20DCEP%3F,Bank%20of%20China%20%28PBoC%29.) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi.
+ABD (ve kısmen Avrupa Birliği) global finans sistemin ağırlıklı sahibi olarak egemenliklerinin devamına tehdit olarak gördükleri için Libra benzeri Blokzincir tabanlı merkeziyetsiz insiyatiflere kuşkuyla bakıyorlar ([dünya ticaretinin %80'inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift\_bi\_currency\_evolution\_infopaper\_57128.pdf) hatırlatalım). Öte yandan dünyanın diğer tarafında, ekonomik bir güç olmayı hedefleyen Çin ise Libra'ya tepkisini, yıllardır [üzerinde çalışmakta olduğu kendi Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:\~:text=What%20is%20DCEP%3F,Bank%20of%20China%20\(PBoC\).) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi.
 
 **Merkez Bankası Dijital Paraları, devlet otoritelerine halk ile direkt iletişime geçebilme imkanı vermesinden ötürü üzerinde hassasiyetle durulan bir enstrüman.** Merkez Bankası'nda bir hesap açtırmak suretiyle vatandaşa dokunmanın ne gibi faydası olabilir?
 
@@ -50,17 +50,17 @@ Peki ne olacak? Finans dünyası çalışanları telefonlara sarılıp iş arama
 
 Burada iki yönlü bir değişim olacağını tahmin ediyorum:
 
-Birincisi, **finans kurumları mevcut oyun alanı olan yüksek kâr marjlı bireysel hizmetlerde yukarıda bahsettiğimiz yeni gelişmeler nedeniyle bir daralma yaşayacaklar**. Bu durum, hem işlem hacimlerinde \(ya da pazar paylarında\) bir azalma hem de kar marjlarında bir düşüş olarak kendini gösterecek. Kriptopara girişimleri finansal işlemlerde gücü aracılardan alıp tüketici tarafına kaydırmaya başladılar bile. Facebook benzeri teknoloji şirketleri de kullandıkları ileri teknoloji ve yıllar içinde edindikleri kullanıcı deneyimi sayesinde zaten dokunmakta oldukları kitleleri ufak bir dokunuş ile kendi ekosistemlerine çekmeye çok yakınlar.
+Birincisi, **finans kurumları mevcut oyun alanı olan yüksek kâr marjlı bireysel hizmetlerde yukarıda bahsettiğimiz yeni gelişmeler nedeniyle bir daralma yaşayacaklar**. Bu durum, hem işlem hacimlerinde (ya da pazar paylarında) bir azalma hem de kar marjlarında bir düşüş olarak kendini gösterecek. Kriptopara girişimleri finansal işlemlerde gücü aracılardan alıp tüketici tarafına kaydırmaya başladılar bile. Facebook benzeri teknoloji şirketleri de kullandıkları ileri teknoloji ve yıllar içinde edindikleri kullanıcı deneyimi sayesinde zaten dokunmakta oldukları kitleleri ufak bir dokunuş ile kendi ekosistemlerine çekmeye çok yakınlar.
 
 İkincisi değişim ise, **finansal kurumlar için yeni potansiyel fırsatların ortaya çıkması** şeklinde yaşanacak. Bir yandan bu alana yeni giren teknoloji şirketleri, tüketicinin korunması ve mevcut regülasyonlara uyumlu olma gibi ayrıcalıkları nedeniyle finans kurumlarını kullanmaya devam edecekler. Öte yandan merkez bankaları kullanıcı deneyimindeki engin tecrübelerinden dolayı mevcut finans dünyası aktörlerini vazgeçilmez bir iş ortağı olarak görecekler. Ancak ilişkinin şekli değişecek ve finans kurumları müşteriden uzaklaşacakları için güç kaybına uğrayacaklar. **Böyle bir senaryonun gerçekleşmesi durumunda, finans kurumları tabir-i caizse "fason üretim" yapan işletmelere dönüşecekler.** İşlem hacimleri belki eskisinden de fazla olacak. Ancak hem kâr marjları minimuma inecek, hem de artık müşteriye eskisi gibi dokunamayacaklar.
 
 ### Finans sektörü blokzincir bazlı teknolojilerden nasıl etkilenecek?
 
-Blokzincir bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım: 
+Blokzincir bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım:&#x20;
 
 Blokzincir bazlı sistemlerin ana amacı, iki taraf arasında gerçekleşen işlemlerde ihtiyaç duyulan 'güven' hizmetini merkezi aracıdan alıp binlerce makineye yayarak, bu ihtiyacı ortadan kaldırmak. Bu sistemi yürüten makineler farklı lokasyonlardalar ve birbirinden bağımsız hareket ediyorlar. Bu sayede, tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor.
 
-Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan, bu makineler için yazılmış özel direktifler, bir başka deyişiyle 'akıllı kontratlar'. Akıllı kontratları ilerleyen bölümlerde detaylıca ele alacağız. 
+Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan, bu makineler için yazılmış özel direktifler, bir başka deyişiyle 'akıllı kontratlar'. Akıllı kontratları ilerleyen bölümlerde detaylıca ele alacağız.&#x20;
 
 Finans piyasasındaki aktörlerin ana fonksiyonu, işte ikili ilişkilerde kişiler arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleri idi. Şimdi blokzincirin bu rolü üstlenmesi, bugün olmasa bile yakın bir gelecekte, bu aktörler için varoluşsal bir tehdit oluşturuyor.
 
@@ -70,13 +70,12 @@ Blokzincirin teknolojisinin kullanmaya başlamasıyla, finans piyasasında tehdi
 
 Aslına bakarsanız, para transferi kişiler arası gerçekleştirilen finansal işlemleri içinde en basit olanı. Bir kişi kendine ait bir parasal değeri, bir diğer kişiye koşulsuz olarak transfer eder. İşte bu basit yapısı nedeniyle, merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan, burası oldu.
 
-Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira, eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız, neden kriptopara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kriptopara şimdiden ciddi bir alternatif haline geliyor. 
+Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira, eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız, neden kriptopara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kriptopara şimdiden ciddi bir alternatif haline geliyor.&#x20;
 
-Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yüksek alanlara odaklandılar. Teknoloji geliştikçe ve insanlar alıştıkça daha karmaşık alanlara girmeye başladılar. Aslında **blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar demek daha doğru olabilir. Ancak bu girişimlerden, göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışanların başarı şansı daha yüksek olacak**.
+Benzer mantıkla, blokzincir bazlı yapılar öncelikle basit ve maliyeti yüksek alanlara odaklandılar. Teknoloji geliştikçe ve insanlar alıştıkça daha karmaşık alanlara girmeye başladılar. Aslında** blokzinciri temel alan girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar demek daha doğru olabilir. Ancak bu girişimlerden, göreceli basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışanların başarı şansı daha yüksek olacak**.
 
 ### Sonuç
 
 Dijitalleşme ile birlikte hızlı bir dönüşümden geçerek kârlılıklarını artıran finansal kurumlar, şimdi yeni bir meydan okumanın arifesindeler. Üstelik bu sefer masanın diğer tarafındaki müşteriler hem daha donanımlı hem de daha farklı alternatife sahipler. Açık bankacılık alanında olduğu gibi yeni FinTech girişimlerine adapte olmaları onları oyunda bir süre daha tutacak taktiksel davranışlar olabilir. Ancak uzun soluklu bir maraton için kendilerini yeniden konumlandırmaları şart. Bu da finansal kurumlar için hem daha güçlü ve zor ulaşılabilir bir müşteri kitlesi hem de yüksek işlem hacimli ama düşük marjların olduğu bir dünyayı işaret ediyor.
 
-2009 yılında başlayan Blokzincir bazlı teknolojilerin günümüze gelirken en yaygın kullanıldıkları alan finans oldu. Bu alanda ortaya çıkan teknolojilere genel olarak merkeziyetsiz finans \(DeFi- Decentralized Finance\) denildi. Şimdi gelin, önümüzdeki bölümde DeFi konusuna yavaş yavaş girmeye başlayalım. 
-
+2009 yılında başlayan Blokzincir bazlı teknolojilerin günümüze gelirken en yaygın kullanıldıkları alan finans oldu. Bu alanda ortaya çıkan teknolojilere genel olarak merkeziyetsiz finans (DeFi- Decentralized Finance) denildi. Şimdi gelin, önümüzdeki bölümde DeFi konusuna yavaş yavaş girmeye başlayalım.&#x20;

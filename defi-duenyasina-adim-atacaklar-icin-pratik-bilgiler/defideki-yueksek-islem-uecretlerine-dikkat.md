@@ -30,9 +30,9 @@ DeFi’de daha doğrusu Ethereum blokzinciri üzerinde sabit ücret diye bir öz
 
 Genel olarak işlem ücretini belirlerken, üç farklı dinamik çalışıyor:
 
-1. **İşlemin karmaşıklığı \(ya da büyüklüğü\)**: Yukarıda da yazdığımız gibi, bir işlem ne kadar karmaşık ise blokzincir üzerinde o kadar fazla yer kaplıyor. En basit işlem, bir kişiden diğerine ETH transfer etmek. Daha karmaşıkları işlem için birkaç farklı akıllı kontrat kullanınca ortaya çıkıyor. Her bir akıllı kontratın yaptığı işlem ne kadar fazla ise, zincirde kaplayacağı yer de o kadar artıyor. Kullanıcı olarak bu konuda alabileceğiniz bir önlem yok.
-2. **Yoğunluğa bağlı değişen birim işlem maliyeti:** Ethereum blokzinciri tek. Burada işlem yapmak isteyen binlerce kullanıcı var. Kimi zaman, örneğin, fiyatlarda dalgalanmalar olduğunda işlem yapmak isteyenlerin sayısı bir anda artabiliyor. Sistem bir nevi mezat yöntemi ile çalıştığı için, birim maliyet çok hızlı bir şekilde arşa çıkabiliyor.
-3. **İşlemi gerçekleştirme hızı:** İşlem ücretini belirleyen son kriter, kullanıcının bu işlemi ne kadar hızlı yapmak istediği. Eğer aceleniz varsa, normalden daha yüksek bir ücret ödeyerek o işlemin kuyrukta öne geçmesini sağlayabilirsiniz. "Yok, o kadar yüksek işlem ücreti veremem" diyorsanız o zaman yavaş hız seçip, sabırla bekleyebilirsiniz \(ama ücreti çok düşük seçerseniz, uzun süre beklemeye razı olmalısınız\).
+1. **İşlemin karmaşıklığı (ya da büyüklüğü)**: Yukarıda da yazdığımız gibi, bir işlem ne kadar karmaşık ise blokzincir üzerinde o kadar fazla yer kaplıyor. En basit işlem, bir kişiden diğerine ETH transfer etmek. Daha karmaşıkları işlem için birkaç farklı akıllı kontrat kullanınca ortaya çıkıyor. Her bir akıllı kontratın yaptığı işlem ne kadar fazla ise, zincirde kaplayacağı yer de o kadar artıyor. Kullanıcı olarak bu konuda alabileceğiniz bir önlem yok.
+2. **Yoğunluğa bağlı değişen birim işlem maliyeti: **Ethereum blokzinciri tek. Burada işlem yapmak isteyen binlerce kullanıcı var. Kimi zaman, örneğin, fiyatlarda dalgalanmalar olduğunda işlem yapmak isteyenlerin sayısı bir anda artabiliyor. Sistem bir nevi mezat yöntemi ile çalıştığı için, birim maliyet çok hızlı bir şekilde arşa çıkabiliyor.
+3. **İşlemi gerçekleştirme hızı:** İşlem ücretini belirleyen son kriter, kullanıcının bu işlemi ne kadar hızlı yapmak istediği. Eğer aceleniz varsa, normalden daha yüksek bir ücret ödeyerek o işlemin kuyrukta öne geçmesini sağlayabilirsiniz. "Yok, o kadar yüksek işlem ücreti veremem" diyorsanız o zaman yavaş hız seçip, sabırla bekleyebilirsiniz (ama ücreti çok düşük seçerseniz, uzun süre beklemeye razı olmalısınız).
 
 ### Çok karmaşık görünüyor. Kullanıcı olarak ne yapabilirim?
 
@@ -44,9 +44,8 @@ Peki neler yapabilirsiniz? Öncelikle, işleminizin ne kadar acil olduğunu dü�
 
 Eğer satın almak istediğiniz bir tokenin değerinin ucuzladığını ve bu fırsatı kaçırmamak gerektiğini düşünüyorsanız, hemen işlem yapmak isteyebilirsiniz. O zaman yüksek işlem ücretine razı olabilirsiniz.
 
-Eğer uzun vadeli bir işlem yapıyorsanız \(örneğin, staking yapacaksanız\), o zaman ‘yavaş’ göndermek isteyebilirsiniz ya da ileri sekmesinden daha da düşük bir birim maliyet seçebilirsiniz.
+Eğer uzun vadeli bir işlem yapıyorsanız (örneğin, staking yapacaksanız), o zaman ‘yavaş’ göndermek isteyebilirsiniz ya da ileri sekmesinden daha da düşük bir birim maliyet seçebilirsiniz.
 
-Bir diğer seçenek; işlemi o an için bekletip, maliyetlerin daha düşük olduğu bir başka zaman dilimini seçmek olabilir. Örneğin, blokzinciri çok kullanan ABD piyasaları için gece geç saatler \(Türkiye için sabah 11:00 ile 14:00 saatleri\) ücretler nispeten daha düşük olabiliyor. Birim maliyetleri ethgastation.info adresinden takip edebilirsiniz.
+Bir diğer seçenek; işlemi o an için bekletip, maliyetlerin daha düşük olduğu bir başka zaman dilimini seçmek olabilir. Örneğin, blokzinciri çok kullanan ABD piyasaları için gece geç saatler (Türkiye için sabah 11:00 ile 14:00 saatleri) ücretler nispeten daha düşük olabiliyor. Birim maliyetleri ethgastation.info adresinden takip edebilirsiniz.
 
 Bunun yanında, son zamanlarda sıkça kullanılmaya başlayan ikinci seviye çözümler kullanmak da kimi zaman faydalı olabilir. İkinci seviye çözümler, 'bir işlemin gerçekleşmesi için yapılması gereken işlemlerin büyük bir kısmını blokzincir dışında yapıp, sadece işlem sonuçlarını topluca blokzincire yazmak' şeklinde basitleştirebileceğimiz bir yöntem ile işlem ücretlerini oldukça ucuzlatabiliyorlar.
-
