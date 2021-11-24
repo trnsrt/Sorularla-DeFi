@@ -64,7 +64,9 @@ O zaman kullanıcıya stabil para bulalım ve onu değerlendirelim. Nasıl? Hat�
 
 Delegated Vaults denen bu üründe kullanıcılar [Aave](https://www.coingecko.com/en/coins/aave) ya da [Link](https://www.coingecko.com/en/coins/chainlink) kriptoparası koyup, sonrasında borç verme ve getiri çiftçiliğinden para kazanabiliyor. Nasıl oluyor bu? Sistem, kullanıcının koyduğu parayı teminat göstererek stabil para borç alıyor. Sonra bu stabil parayı yukarıdaki bahsettiğimiz yVault ürünlerine koyarak ekstra stabil para gelir kazanıyor. Kazandığı bu stabil para ile gidip orijinal para ne ise ondan satın alıp tekrar ürünün içine koyuyor. Böylece kullanıcı, sahip olduğu Aave ya da Link’in getirisinden artırma imkanına sahip oluyor.
 
-![ŞEKİL ÇİZİMİ](../.gitbook/assets/placeholder.png)
+![](../.gitbook/assets/020506-Yearn\_finance\_defide\_merkeziyetsiz\_portfoy\_yonetimi-yvault\_calisma\_semasi.jpg)
+
+__
 
 Yalnız bu ürün diğer yVault ürünlerine göre daha riskli. Neden? Mevcut yVault risklerinin üzerinde bir de Delegated Vault ürününün getirisi eğer alınan borç için ödenen faizden az olursa, kullanıcının koyduğu paranın sistemde kilitli kalma riski var. Bu para ancak sistemdeki getiri ödenen faizden fazla olursa tekrar kullanıma açılıyor.
 
@@ -103,10 +105,6 @@ Gerek kurucu ortaklara herhangi bir pay verilmemesi, gerekse yVault ürünlerind
 YFI token sahiplerinin oylamaları sonucu çıkan kararları, 9 kişinin sahip olduğu bir çoklu-imza cüzdanı hayata geçiriyor. Kripto dünyasında bilinen 9 oyuncunun her birinin bir imza yetkisine sahip olduğu bu cüzdanda işlem yapmak için 6 üyenin oyu gerekiyor. Merkeziyetsiz mi? Tam olarak değil, ama hiç yoktan iyidir.
 
 Özet olarak, **YFI tokeni, hem token sahiplerine oylamalara katılma karşılığı gelir sağlıyor, hem de yazılımcılara geliştirdikleri ürünlerin yarattığı komisyonlardan pay veriyor. Bu da bireylerden bağımsız uzun vadeli sürdürülebilir bir protokol yaratılmasında kritik bir önem taşıyor.**
-
-![](../.gitbook/assets/placeholder.png)
-
-**\[ŞEMA]**
 
 #### Riskler neler?
 
